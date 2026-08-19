@@ -1,0 +1,2036 @@
+{
+ "generated_at": "2026-08-19T19:32:43+00:00",
+ "current_season": 2,
+ "seasons": [
+  {
+   "season": 1,
+   "name": "RFL Mini League",
+   "teams": [
+    {
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "color_name": "white",
+     "away_color": "#191e4c",
+     "away_color_name": "navy",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "CR-7000"
+      },
+      {
+       "number": 2,
+       "name": "Zidroid"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/real_machina/badge.png"
+     }
+    },
+    {
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "color_name": "sky blue",
+     "away_color": "#282b35",
+     "away_color_name": "charcoal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Haalandroid"
+      },
+      {
+       "number": 2,
+       "name": "BellingRAM"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/singularity_united/badge.png"
+     }
+    },
+    {
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "color_name": "yellow",
+     "away_color": "#59268c",
+     "away_color_name": "purple",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Mbapp-E"
+      },
+      {
+       "number": 2,
+       "name": "Buffon.exe"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/dynamo_datacenter/badge.png"
+     }
+    },
+    {
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "color_name": "red",
+     "away_color": "#0c8c8c",
+     "away_color_name": "teal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Griezmatronn"
+      },
+      {
+       "number": 2,
+       "name": "Robodinho"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/synthetic_athletic/badge.png"
+     }
+    }
+   ],
+   "table": [
+    {
+     "pos": 1,
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "P": 3,
+     "W": 2,
+     "D": 1,
+     "L": 0,
+     "GF": 18,
+     "GA": 11,
+     "Pts": 7,
+     "GD": 7
+    },
+    {
+     "pos": 2,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 3,
+     "W": 2,
+     "D": 0,
+     "L": 1,
+     "GF": 20,
+     "GA": 16,
+     "Pts": 6,
+     "GD": 4
+    },
+    {
+     "pos": 3,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 3,
+     "W": 1,
+     "D": 1,
+     "L": 1,
+     "GF": 15,
+     "GA": 20,
+     "Pts": 4,
+     "GD": -5
+    },
+    {
+     "pos": 4,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 3,
+     "W": 0,
+     "D": 0,
+     "L": 3,
+     "GF": 9,
+     "GA": 15,
+     "Pts": 0,
+     "GD": -6
+    }
+   ],
+   "matches": [
+    {
+     "n": 1,
+     "home": "real_machina",
+     "away": "singularity_united",
+     "home_name": "Real Machina",
+     "away_name": "Singularity United",
+     "home_code": "RMA",
+     "away_code": "SGU",
+     "status": "aired",
+     "score": [
+      3,
+      2
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 17,
+        "second": 112.2,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 21,
+        "second": 138.5,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 52,
+        "second": 343.9,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": true
+       },
+       {
+        "minute": 82,
+        "second": 546.1,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": true
+       },
+       {
+        "minute": 88,
+        "second": 587.2,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "kick": 134,
+       "wall": 58,
+       "ram": 5,
+       "near_miss": 1
+      },
+      "radio": [
+       {
+        "second": 0.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 14.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 94.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing off the wall"
+       },
+       {
+        "second": 125.8,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck, kicking clear"
+       },
+       {
+        "second": 173.8,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clearing it"
+       },
+       {
+        "second": 190.3,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing it upfield"
+       },
+       {
+        "second": 215.6,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clearing from our goal"
+       },
+       {
+        "second": 228.0,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "ball against the wall, let's free it"
+       },
+       {
+        "second": 253.8,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "moving to the ball"
+       },
+       {
+        "second": 293.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clearing it out"
+       },
+       {
+        "second": 446.6,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing"
+       },
+       {
+        "second": 456.8,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck, kicking clear"
+       },
+       {
+        "second": 484.8,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 524.0,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it against the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 134,
+       "falls": 0,
+       "near_misses": 1,
+       "post_hits": 0,
+       "through_balls": 0
+      },
+      "est_cost_usd": 0.4498
+     }
+    },
+    {
+     "n": 2,
+     "home": "real_machina",
+     "away": "dynamo_datacenter",
+     "home_name": "Real Machina",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "RMA",
+     "away_code": "DYD",
+     "status": "aired",
+     "score": [
+      7,
+      1
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 9,
+        "second": 60.5,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": true
+       },
+       {
+        "minute": 12,
+        "second": 80.4,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 47,
+        "second": 315.1,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": true
+       },
+       {
+        "minute": 51,
+        "second": 340.6,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 62,
+        "second": 413.0,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": true
+       },
+       {
+        "minute": 64,
+        "second": 425.5,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": true
+       },
+       {
+        "minute": 85,
+        "second": 568.3,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 580.3,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "kick": 154,
+       "through": 31,
+       "wall": 72,
+       "fall": 36,
+       "ram": 7,
+       "near_miss": 1
+      },
+      "radio": [
+       {
+        "second": 2.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 34.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "prying the ball free from the corner wall"
+       },
+       {
+        "second": 93.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "clearing from the wall"
+       },
+       {
+        "second": 125.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "helping on the wall"
+       },
+       {
+        "second": 148.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "pushing it away from the wall"
+       },
+       {
+        "second": 180.5,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got it, clearing"
+       },
+       {
+        "second": 217.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball is stuck, pushing it out"
+       },
+       {
+        "second": 269.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "got the ball near wall"
+       },
+       {
+        "second": 330.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "coming to help"
+       },
+       {
+        "second": 358.7,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "unsticking the ball from the wall"
+       },
+       {
+        "second": 400.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing wall"
+       },
+       {
+        "second": 440.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "nudging it along the wall"
+       },
+       {
+        "second": 509.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it free"
+       },
+       {
+        "second": 564.0,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "backing you up"
+       }
+      ],
+      "stats": {
+       "kicks": 154,
+       "falls": 36,
+       "near_misses": 1,
+       "post_hits": 0,
+       "through_balls": 31
+      },
+      "est_cost_usd": 0.4511
+     }
+    },
+    {
+     "n": 3,
+     "home": "real_machina",
+     "away": "synthetic_athletic",
+     "home_name": "Real Machina",
+     "away_name": "Synthetic Athletic",
+     "home_code": "RMA",
+     "away_code": "SYA",
+     "status": "aired",
+     "score": [
+      8,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 8,
+        "second": 50.3,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 11,
+        "second": 72.0,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 103.6,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 17,
+        "second": 116.1,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 19,
+        "second": 128.2,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 23,
+        "second": 152.2,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 170.9,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 29,
+        "second": 192.2,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 34,
+        "second": 223.5,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": true
+       },
+       {
+        "minute": 36,
+        "second": 239.1,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 257.4,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 348.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 391.3,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 71,
+        "second": 471.5,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 512.5,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 569.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "kick": 213,
+       "through": 54,
+       "wall": 20,
+       "near_miss": 4,
+       "fall": 8,
+       "ram": 4
+      },
+      "radio": [
+       {
+        "second": 2.4,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 33.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 66.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 87.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "pushing it past the opponent"
+       },
+       {
+        "second": 141.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball is stuck against the wall, pushing it free"
+       },
+       {
+        "second": 217.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 274.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "attacking"
+       },
+       {
+        "second": 298.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball is stuck against the wall, kicking it loose"
+       },
+       {
+        "second": 336.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing the ball"
+       },
+       {
+        "second": 370.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "getting the ball off the wall"
+       },
+       {
+        "second": 432.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 468.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 516.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "going for the ball"
+       },
+       {
+        "second": 561.6,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "pushing off the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 213,
+       "falls": 8,
+       "near_misses": 4,
+       "post_hits": 0,
+       "through_balls": 54
+      },
+      "est_cost_usd": 0.4871
+     }
+    },
+    {
+     "n": 4,
+     "home": "singularity_united",
+     "away": "dynamo_datacenter",
+     "home_name": "Singularity United",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "SGU",
+     "away_code": "DYD",
+     "status": "aired",
+     "score": [
+      5,
+      9
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 6,
+        "second": 42.5,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 16,
+        "second": 108.7,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 132.4,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 167.2,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 186.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 206.5,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 34,
+        "second": 228.9,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 37,
+        "second": 248.5,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 264.9,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 328.9,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 51,
+        "second": 341.0,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 71,
+        "second": 472.9,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 526.5,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 596.2,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "kick": 197,
+       "through": 45,
+       "ram": 3,
+       "fall": 12,
+       "near_miss": 3,
+       "wall": 16
+      },
+      "radio": [
+       {
+        "second": 0.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 18.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 48.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got the ball, pushing forward"
+       },
+       {
+        "second": 84.5,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "attacking"
+       },
+       {
+        "second": 96.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "pushing ball free from the wall"
+       },
+       {
+        "second": 206.5,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got the rebound"
+       },
+       {
+        "second": 244.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 300.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "pushing off the wall"
+       },
+       {
+        "second": 354.1,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clearing it"
+       },
+       {
+        "second": 400.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 446.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "prying it free from the wall"
+       },
+       {
+        "second": 472.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got the ball away from the wall"
+       },
+       {
+        "second": 506.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck, pushing it out"
+       },
+       {
+        "second": 566.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clear it"
+       }
+      ],
+      "stats": {
+       "kicks": 197,
+       "falls": 12,
+       "near_misses": 3,
+       "post_hits": 0,
+       "through_balls": 45
+      },
+      "est_cost_usd": 0.4823
+     }
+    },
+    {
+     "n": 5,
+     "home": "singularity_united",
+     "away": "synthetic_athletic",
+     "home_name": "Singularity United",
+     "away_name": "Synthetic Athletic",
+     "home_code": "SGU",
+     "away_code": "SYA",
+     "status": "aired",
+     "score": [
+      2,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 13,
+        "second": 85.8,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 30,
+        "second": 197.5,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 421.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 73,
+        "second": 489.3,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 82,
+        "second": 546.9,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "kick": 212,
+       "through": 18,
+       "wall": 41,
+       "ram": 8,
+       "fall": 33,
+       "near_miss": 4
+      },
+      "radio": [
+       {
+        "second": 2.4,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 35.2,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "unsticking the ball"
+       },
+       {
+        "second": 73.2,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball is stuck against the wall"
+       },
+       {
+        "second": 122.1,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it out"
+       },
+       {
+        "second": 193.6,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "heading to the other end"
+       },
+       {
+        "second": 264.9,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "working it along the wall"
+       },
+       {
+        "second": 324.4,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "unsticking the ball"
+       },
+       {
+        "second": 354.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 384.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 400.2,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing off the wall"
+       },
+       {
+        "second": 438.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got it, shifting away from the wall"
+       },
+       {
+        "second": 466.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing it along the wall"
+       },
+       {
+        "second": 502.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 570.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "clearing it"
+       }
+      ],
+      "stats": {
+       "kicks": 212,
+       "falls": 33,
+       "near_misses": 4,
+       "post_hits": 0,
+       "through_balls": 18
+      },
+      "est_cost_usd": 0.4492
+     }
+    },
+    {
+     "n": 6,
+     "home": "dynamo_datacenter",
+     "away": "synthetic_athletic",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Synthetic Athletic",
+     "home_code": "DYD",
+     "away_code": "SYA",
+     "status": "aired",
+     "score": [
+      10,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 19,
+        "second": 127.1,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 23,
+        "second": 152.6,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 174.1,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 29,
+        "second": 190.4,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 253.9,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 279.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 294.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 336.0,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 441.0,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 69,
+        "second": 462.0,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 71,
+        "second": 473.8,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 514.5,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 81,
+        "second": 537.2,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 575.7,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "kick": 220,
+       "wall": 29,
+       "near_miss": 9,
+       "ram": 6,
+       "fall": 27,
+       "through": 18
+      },
+      "radio": [
+       {
+        "second": 0.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Going for the kickoff ball!"
+       },
+       {
+        "second": 12.8,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "shoving it off the wall"
+       },
+       {
+        "second": 48.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "got the ball, moving it forward"
+       },
+       {
+        "second": 99.2,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "helping clear it"
+       },
+       {
+        "second": 164.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 266.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "getting the ball"
+       },
+       {
+        "second": 322.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing it free"
+       },
+       {
+        "second": 358.9,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 390.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 410.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "still prying it loose"
+       },
+       {
+        "second": 459.0,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "scoring!"
+       },
+       {
+        "second": 490.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 527.2,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "passing to you"
+       },
+       {
+        "second": 555.2,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the corner"
+       }
+      ],
+      "stats": {
+       "kicks": 220,
+       "falls": 27,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 18
+      },
+      "est_cost_usd": 0.4651
+     }
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 11
+    },
+    {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 9
+    },
+    {
+     "name": "Mbapp-E",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 7
+    },
+    {
+     "name": "Zidroid",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 6
+    },
+    {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 4
+    },
+    {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 4
+    },
+    {
+     "name": "Griezmatronn",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 3
+    },
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 3
+    }
+   ],
+   "aired_count": 6,
+   "total_matches": 6,
+   "complete": true,
+   "slots": [
+    "12:00",
+    "16:00",
+    "20:00"
+   ],
+   "timezone": "Europe/London"
+  },
+  {
+   "season": 2,
+   "name": "RFL League",
+   "teams": [
+    {
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "color_name": "white",
+     "away_color": "#191e4c",
+     "away_color_name": "navy",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "CR-7000"
+      },
+      {
+       "number": 2,
+       "name": "Zidroid"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/real_machina/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "color_name": "terracotta",
+     "away_color": "#efede6",
+     "away_color_name": "ivory",
+     "gaffer": {
+      "model": "Claude Fable 5 (claude-fable-5)",
+      "maker": "Anthropic"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Tortoise"
+      },
+      {
+       "number": 2,
+       "name": "Hare"
+      }
+     ],
+     "player_model": "llm:mock:ok",
+     "assets": {
+      "badge": "teams/frontier_fable/badge.png",
+      "kit_home": "teams/frontier_fable/kit_home.png",
+      "kit_away": "teams/frontier_fable/kit_away.png"
+     }
+    },
+    {
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "color_name": "sky blue",
+     "away_color": "#282b35",
+     "away_color_name": "charcoal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Haalandroid"
+      },
+      {
+       "number": 2,
+       "name": "BellingRAM"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/singularity_united/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "color_name": "terminal black",
+     "away_color": "#f4f7f5",
+     "away_color_name": "warm white",
+     "gaffer": {
+      "model": "Codex (GPT-5)",
+      "maker": "OpenAI"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Patchford"
+      },
+      {
+       "number": 2,
+       "name": "Turingham"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_sol/badge.png",
+      "kit_home": "teams/frontier_sol/kit_home.png",
+      "kit_away": "teams/frontier_sol/kit_away.png"
+     }
+    },
+    {
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "color_name": "yellow",
+     "away_color": "#59268c",
+     "away_color_name": "purple",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Mbapp-E"
+      },
+      {
+       "number": 2,
+       "name": "Buffon.exe"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/dynamo_datacenter/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "color_name": "electric blue",
+     "away_color": "#f2b21e",
+     "away_color_name": "solar gold",
+     "gaffer": {
+      "model": "Gemini 3.7 Flash",
+      "maker": "Google DeepMind"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Flash"
+      },
+      {
+       "number": 2,
+       "name": "Spark"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_gemini/badge.png",
+      "kit_home": "teams/frontier_gemini/kit_home.png",
+      "kit_away": "teams/frontier_gemini/kit_away.png"
+     }
+    },
+    {
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "color_name": "red",
+     "away_color": "#0c8c8c",
+     "away_color_name": "teal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Griezmatronn"
+      },
+      {
+       "number": 2,
+       "name": "Robodinho"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/synthetic_athletic/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_manus",
+     "name": "Manus FC",
+     "code": "MNS",
+     "color": "#625bff",
+     "color_name": "electric violet",
+     "away_color": "#f5ead7",
+     "away_color_name": "signal ivory",
+     "gaffer": {
+      "model": "Manus 1.6",
+      "maker": "Manus"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Prompt"
+      },
+      {
+       "number": 2,
+       "name": "Trace"
+      }
+     ],
+     "player_model": "llm:mock:ok",
+     "assets": {
+      "badge": "teams/frontier_manus/badge.png",
+      "kit_home": "teams/frontier_manus/kit_home.png",
+      "kit_away": "teams/frontier_manus/kit_away.png"
+     }
+    }
+   ],
+   "table": [
+    {
+     "pos": 1,
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 2,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 3,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 4,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 5,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 6,
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 7,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    },
+    {
+     "pos": 8,
+     "slug": "frontier_manus",
+     "name": "Manus FC",
+     "code": "MNS",
+     "color": "#625bff",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0
+    }
+   ],
+   "matches": [
+    {
+     "n": 1,
+     "home": "real_machina",
+     "away": "frontier_manus",
+     "home_name": "Real Machina",
+     "away_name": "Manus FC",
+     "home_code": "RMA",
+     "away_code": "MNS",
+     "status": "scheduled"
+    },
+    {
+     "n": 2,
+     "home": "frontier_fable",
+     "away": "synthetic_athletic",
+     "home_name": "AFC Fable",
+     "away_name": "Synthetic Athletic",
+     "home_code": "FAB",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 3,
+     "home": "singularity_united",
+     "away": "frontier_gemini",
+     "home_name": "Singularity United",
+     "away_name": "Gemini Flash FC",
+     "home_code": "SGU",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 4,
+     "home": "frontier_sol",
+     "away": "dynamo_datacenter",
+     "home_name": "Codex City",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "CDX",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 5,
+     "home": "synthetic_athletic",
+     "away": "real_machina",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Real Machina",
+     "home_code": "SYA",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 6,
+     "home": "frontier_gemini",
+     "away": "frontier_manus",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Manus FC",
+     "home_code": "GEM",
+     "away_code": "MNS",
+     "status": "scheduled"
+    },
+    {
+     "n": 7,
+     "home": "dynamo_datacenter",
+     "away": "frontier_fable",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "AFC Fable",
+     "home_code": "DYD",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 8,
+     "home": "frontier_sol",
+     "away": "singularity_united",
+     "home_name": "Codex City",
+     "away_name": "Singularity United",
+     "home_code": "CDX",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 9,
+     "home": "real_machina",
+     "away": "frontier_gemini",
+     "home_name": "Real Machina",
+     "away_name": "Gemini Flash FC",
+     "home_code": "RMA",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 10,
+     "home": "synthetic_athletic",
+     "away": "dynamo_datacenter",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "SYA",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 11,
+     "home": "frontier_manus",
+     "away": "frontier_sol",
+     "home_name": "Manus FC",
+     "away_name": "Codex City",
+     "home_code": "MNS",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 12,
+     "home": "frontier_fable",
+     "away": "singularity_united",
+     "home_name": "AFC Fable",
+     "away_name": "Singularity United",
+     "home_code": "FAB",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 13,
+     "home": "dynamo_datacenter",
+     "away": "real_machina",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Real Machina",
+     "home_code": "DYD",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 14,
+     "home": "frontier_sol",
+     "away": "frontier_gemini",
+     "home_name": "Codex City",
+     "away_name": "Gemini Flash FC",
+     "home_code": "CDX",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 15,
+     "home": "singularity_united",
+     "away": "synthetic_athletic",
+     "home_name": "Singularity United",
+     "away_name": "Synthetic Athletic",
+     "home_code": "SGU",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 16,
+     "home": "frontier_fable",
+     "away": "frontier_manus",
+     "home_name": "AFC Fable",
+     "away_name": "Manus FC",
+     "home_code": "FAB",
+     "away_code": "MNS",
+     "status": "scheduled"
+    },
+    {
+     "n": 17,
+     "home": "real_machina",
+     "away": "frontier_sol",
+     "home_name": "Real Machina",
+     "away_name": "Codex City",
+     "home_code": "RMA",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 18,
+     "home": "dynamo_datacenter",
+     "away": "singularity_united",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Singularity United",
+     "home_code": "DYD",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 19,
+     "home": "frontier_gemini",
+     "away": "frontier_fable",
+     "home_name": "Gemini Flash FC",
+     "away_name": "AFC Fable",
+     "home_code": "GEM",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 20,
+     "home": "synthetic_athletic",
+     "away": "frontier_manus",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Manus FC",
+     "home_code": "SYA",
+     "away_code": "MNS",
+     "status": "scheduled"
+    },
+    {
+     "n": 21,
+     "home": "singularity_united",
+     "away": "real_machina",
+     "home_name": "Singularity United",
+     "away_name": "Real Machina",
+     "home_code": "SGU",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 22,
+     "home": "frontier_fable",
+     "away": "frontier_sol",
+     "home_name": "AFC Fable",
+     "away_name": "Codex City",
+     "home_code": "FAB",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 23,
+     "home": "frontier_manus",
+     "away": "dynamo_datacenter",
+     "home_name": "Manus FC",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "MNS",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 24,
+     "home": "synthetic_athletic",
+     "away": "frontier_gemini",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Gemini Flash FC",
+     "home_code": "SYA",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 25,
+     "home": "real_machina",
+     "away": "frontier_fable",
+     "home_name": "Real Machina",
+     "away_name": "AFC Fable",
+     "home_code": "RMA",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 26,
+     "home": "singularity_united",
+     "away": "frontier_manus",
+     "home_name": "Singularity United",
+     "away_name": "Manus FC",
+     "home_code": "SGU",
+     "away_code": "MNS",
+     "status": "scheduled"
+    },
+    {
+     "n": 27,
+     "home": "frontier_sol",
+     "away": "synthetic_athletic",
+     "home_name": "Codex City",
+     "away_name": "Synthetic Athletic",
+     "home_code": "CDX",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 28,
+     "home": "dynamo_datacenter",
+     "away": "frontier_gemini",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Gemini Flash FC",
+     "home_code": "DYD",
+     "away_code": "GEM",
+     "status": "scheduled"
+    }
+   ],
+   "scorers": [],
+   "aired_count": 0,
+   "total_matches": 28,
+   "complete": false,
+   "slots": [
+    "12:00",
+    "16:00",
+    "20:00"
+   ],
+   "timezone": "Europe/London"
+  }
+ ],
+ "totals": {
+  "matches_aired": 6,
+  "goals": 62,
+  "clubs": 8
+ }
+}

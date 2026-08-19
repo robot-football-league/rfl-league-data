@@ -1,0 +1,61 @@
+{"t": 0.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Guard lane set; drive forward when ready."}
+{"t": 4.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "I have the ball; hold the guard lane."}
+{"t": 4.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing through"}
+{"t": 8.9, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "firing at goal", "reason": "cooldown"}
+{"t": 12.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 24.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 26.8, "from": "r0", "team": "Real Machina", "number": 1, "text": "scoring!"}
+{"t": 28.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 38.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "I am clearing; take the next phase."}
+{"t": 46.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 52.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Guard lane set; drive forward when ready."}
+{"t": 66.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 71.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "unsticking the ball"}
+{"t": 77.6, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 86.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 95.6, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 99.8, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 100.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "I am clearing; take the next phase."}
+{"t": 104.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "helping unstick", "reason": "cooldown"}
+{"t": 107.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is stuck, pushing it free"}
+{"t": 114.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Guard lane set; drive forward when ready."}
+{"t": 128.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 140.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 142.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 158.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 160.6, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 178.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 183.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 196.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 199.0, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 201.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 218.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 223.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 234.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing along the wall"}
+{"t": 237.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "I am the outlet; clear into the centre."}
+{"t": 242.1, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck against the wall, pushing it free", "reason": "cooldown"}
+{"t": 244.8, "from": "r1", "team": "Real Machina", "number": 2, "text": "helping free it"}
+{"t": 248.8, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it, pushing goalward", "reason": "cooldown"}
+{"t": 251.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I am the outlet; clear into the centre.", "reason": "repeat"}
+{"t": 253.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 279.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "coming to help"}
+{"t": 287.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 298.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 314.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 316.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "I have the ball; hold the guard lane."}
+{"t": 328.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 330.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 342.4, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball is stuck, pushing it out"}
+{"t": 343.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing off the wall"}
+{"t": 344.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 344.6, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 348.6, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing from the wall", "reason": "cooldown"}
+{"t": 354.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 358.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 372.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Guard lane set; drive forward when ready.", "reason": "repeat"}
+{"t": 376.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 392.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "I have the ball; hold the guard lane.", "reason": "repeat"}
+{"t": 392.9, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 400.7, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 404.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 405.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "helping on the wall"}
