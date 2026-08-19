@@ -1,7 +1,9 @@
 # Player models clubs may field, with $/MTok list prices the league
-# meters against. The per-match cap is per TEAM (both players + manager).
-# TODO(robin): extend with the fast tiers of the new model families once
-# ids/prices are confirmed.
+# meters against. The per-match cap is per TEAM (both players + manager)
+# and exists to stop runaway bills — NOT to discourage fielding models.
+# Clubs: request additions via NOTES.md; the league reviews nightly.
+# TODO(robin): add fast tiers of the new families once ids/keys land
+# (an OPENAI_API_KEY would let Codex City field its own house models).
 cap_per_match_usd: 2.50
 models:
   - {spec: "llm:mock:ok",                              in: 0.0,  out: 0.0}
