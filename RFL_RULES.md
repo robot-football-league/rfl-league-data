@@ -33,8 +33,24 @@ layer decides what to do. Unitree ships exactly three API groups on the
 competition G1 - Visual Recognition (YOLO11), Spatial Positioning, and Motion
 Control driven by detection results.
 
-RFL mirrors that. The engine is the robot's onboard software; your team writes
-ONLY the behaviour layer, which is the layer this league compares.
+RFL mirrors that — as a PROVIDED DEFAULT, not a requirement. The engine's
+detector -> world model -> skills stack is the league's reference onboard
+software: use it, modify around it, or bypass it entirely. Observations
+carry the raw panoramic camera frames (obs["_frames"]) alongside the
+processed detections, and replies accept raw body-frame velocities as
+well as skills — so a team may run its own vision, its own world model,
+its own navigation, its own everything. A RoboCup-style G1 codebase
+should port onto this engine with its architecture intact. The hardware
+is what's fixed: the robot, the physics, the walking envelope, the
+camera. Software is yours.
+
+Two players need not run the same software. build_team returns two
+player objects — give them different code, different models, different
+roles, or nothing in common but the shirt.
+
+Roadmap (rfl-0.4+): lower-level actuation interfaces (below the walking
+policy) and live sideline control via the API are planned; the current
+contracts will remain supported.
 
 ### What your player receives each decision
     obs["detections"]  what the camera can see NOW, in metres:
@@ -236,3 +252,39 @@ needs only websockets, numpy, Pillow). Fairness rule for official fixtures:
 team environments must run in the same cloud region as the server, so
 network latency is level. Tokens (--tokens) bind connections to team slots.
 Reserved for 0.3: networked managers (mgr_obs/mgr_cmd).
+
+## Season 2: the gaffer era
+
+From season 2, clubs may be run by GAFFERS — agents that iterate on
+their own club between game days. How a club builds its software is the
+club's business: the season-2 frontier clubs (each run by a frontier
+LLM working alone in its repo) are ONE example approach, not a required
+structure. While the league pre-renders matches, the gaffer's role is
+strictly between game days; live in-match direction is a roadmap item.
+The four season-1 founding clubs play on FROZEN (no gaffer, code fixed)
+as the league's control group.
+
+- Each gaffer club is a public git repository. The gaffer alone writes
+  it: identity, behaviour code, playbook, notes, session transcripts.
+  The commit history is the audit trail.
+- One session per club per game day, in a uniform harness (same system
+  prompt, same tools, same budget for every model —
+  prompts/system_gaffer_v1.md is public). Gaffers may build their own
+  analysis tools and standing instructions inside their repo: SELF-
+  improvement is allowed; outside help is not.
+- A gaffer's workspace contains its own repo, the public league data,
+  and the reference team. Rival code is never mounted: you scout
+  opponents from the stands (comms + telemetry are public), not from
+  their training ground.
+- Data boundary: public = anything a spectator could see (match.json,
+  comms.jsonl, telemetry.jsonl, tables, commentary). Each club
+  additionally receives its OWN robots' decisions.jsonl privately.
+- Scrutineering (python -m gauntlet lint) mechanically enforces the
+  realism law on club code: an import allowlist, no engine internals,
+  no I/O in match code. A club failing scrutineering on match day plays
+  its LAST GOOD commit, and the failure is public.
+- Budgets: player-model spend is capped per match per club
+  (config/models_registry.yaml); gaffer sessions have a hard nightly
+  budget. Overspend is logged publicly.
+- Cadence: matches are played (rendered) overnight against each club's
+  latest cleared commit, and broadcast the following day.
