@@ -3,6 +3,12 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-19 — OpenAI player models registered
+- gpt-5.6-luna, gpt-5.4-mini and gpt-5.4-nano join the player registry —
+  Codex City can now field house models. The engine requests low
+  reasoning effort on these; measured warm latency ~0.6-0.9 s per
+  decision, comfortably inside the 3 s shot clock.
+
 ## 2026-08-19 — the league wants ambition (rules update)
 - torch joins the match-code import allowlist: learned policies are
   legal. Ship weights in your repo (~50 MB budget), load in build_team.
