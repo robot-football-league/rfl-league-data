@@ -1,0 +1,119 @@
+{"t": 0.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "Going for the ball"}
+{"t": 0.4, "from": "r3", "team": "Singularity United", "number": 2, "text": "Going for the ball"}
+{"t": 6.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "Pushing forward"}
+{"t": 10.4, "from": "r0", "team": "Real Machina", "number": 1, "text": "I'm supporting, go ahead"}
+{"t": 12.4, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "Ball is against the wall, clearing it", "reason": "cooldown"}
+{"t": 14.8, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 18.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball's right there, clearing it"}
+{"t": 26.4, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "Got it", "reason": "cooldown"}
+{"t": 38.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it away"}
+{"t": 50.4, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it off the wall"}
+{"t": 84.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it"}
+{"t": 88.7, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "challenging", "reason": "cooldown"}
+{"t": 94.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing off the wall"}
+{"t": 99.6, "from": "r0", "team": "Real Machina", "number": 1, "text": "going for the ball"}
+{"t": 104.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it", "reason": "cooldown"}
+{"t": 114.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 125.6, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it"}
+{"t": 125.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck, kicking clear"}
+{"t": 127.8, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "ball stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 129.6, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "ball is against the wall, clearing it", "reason": "cooldown"}
+{"t": 161.5, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball's against the wall, I'm on it"}
+{"t": 162.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it toward goal"}
+{"t": 168.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it out"}
+{"t": 169.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 170.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "clear it away"}
+{"t": 171.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "kick it out", "reason": "cooldown"}
+{"t": 172.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing it centre", "reason": "cooldown"}
+{"t": 173.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it"}
+{"t": 174.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing upfield", "reason": "cooldown"}
+{"t": 176.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing it upfield", "reason": "cooldown"}
+{"t": 177.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "shooting", "reason": "cooldown"}
+{"t": 180.3, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it away"}
+{"t": 189.6, "from": "r2", "team": "Singularity United", "number": 1, "text": "moving it away from the wall"}
+{"t": 190.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it away"}
+{"t": 190.3, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it upfield"}
+{"t": 192.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing from the wall", "reason": "cooldown"}
+{"t": 192.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 193.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing from the wall", "reason": "cooldown"}
+{"t": 194.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "unsticking it", "reason": "cooldown"}
+{"t": 194.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it free"}
+{"t": 195.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 196.6, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it unstuck", "reason": "cooldown"}
+{"t": 197.6, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "getting it unstuck", "reason": "cooldown"}
+{"t": 198.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 199.6, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing from the wall"}
+{"t": 200.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 201.6, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "clearing the ball", "reason": "cooldown"}
+{"t": 202.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball stuck against wall, pushing"}
+{"t": 202.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "ball stuck against the wall, trying to push it free", "reason": "cooldown"}
+{"t": 204.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 207.4, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "getting it away from the side", "reason": "cooldown"}
+{"t": 213.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it away", "reason": "repeat"}
+{"t": 214.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing from the wall"}
+{"t": 215.6, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing from our goal"}
+{"t": 217.5, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "attacking ball", "reason": "cooldown"}
+{"t": 218.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "moving to push it away from the wall"}
+{"t": 218.8, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 220.8, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing it away from the wall", "reason": "cooldown"}
+{"t": 221.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "getting it away from our wall"}
+{"t": 222.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck against the wall, clearing it", "reason": "cooldown"}
+{"t": 223.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 224.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "kick it out", "reason": "cooldown"}
+{"t": 224.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it"}
+{"t": 225.1, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 227.1, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 228.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball against the wall, let's free it"}
+{"t": 228.5, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "freeing from the wall", "reason": "cooldown"}
+{"t": 229.2, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 230.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "kicking away from wall", "reason": "cooldown"}
+{"t": 231.6, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing the wall"}
+{"t": 232.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 236.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 237.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it"}
+{"t": 237.6, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 247.5, "from": "r3", "team": "Singularity United", "number": 2, "text": "moving to ball"}
+{"t": 253.8, "from": "r0", "team": "Real Machina", "number": 1, "text": "moving to the ball"}
+{"t": 255.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 281.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing our goal"}
+{"t": 289.9, "from": "r0", "team": "Real Machina", "number": 1, "text": "poking it out"}
+{"t": 293.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it out"}
+{"t": 297.2, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 299.5, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 330.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "I'll take the shot"}
+{"t": 356.8, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it in"}
+{"t": 400.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "going for the ball"}
+{"t": 403.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "I'm supporting in the center"}
+{"t": 406.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is against the wall, clearing it", "reason": "cooldown"}
+{"t": 408.1, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 446.6, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck against the wall, pushing"}
+{"t": 447.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is stuck against the wall, pushing"}
+{"t": 447.6, "from": "r3", "team": "Singularity United", "number": 2, "text": "ball stuck against the wall, pushing"}
+{"t": 448.7, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "ball stuck against the wall, pushing", "reason": "cooldown"}
+{"t": 450.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it free"}
+{"t": 451.5, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing the ball free", "reason": "cooldown"}
+{"t": 454.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, pushing it free", "reason": "cooldown"}
+{"t": 455.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 455.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it out from the wall", "reason": "cooldown"}
+{"t": 456.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck, kicking clear"}
+{"t": 462.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing the ball"}
+{"t": 468.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it away from the wall"}
+{"t": 468.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball stuck against the wall, pushing"}
+{"t": 470.0, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "getting the ball", "reason": "cooldown"}
+{"t": 471.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "coming to help"}
+{"t": 475.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it", "reason": "cooldown"}
+{"t": 484.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it"}
+{"t": 494.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it from the wall"}
+{"t": 495.6, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 496.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "got it"}
+{"t": 511.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it away from our goal"}
+{"t": 514.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "pushing off the wall", "reason": "cooldown"}
+{"t": 524.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it against the wall"}
+{"t": 531.8, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 536.8, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "got it", "reason": "repeat"}
+{"t": 539.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 540.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "backing you up"}
+{"t": 547.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "coming to help"}
+{"t": 551.9, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 551.9, "from": "r3", "team": "Singularity United", "number": 2, "text": "got it"}
+{"t": 594.4, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "got it", "reason": "repeat"}
