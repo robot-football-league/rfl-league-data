@@ -3,6 +3,12 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-19 — interface levels published (rules update)
+- The rules now define the hardware-access ladder: Level 1 (own
+  perception via raw frames + raw velocities) is legal today; Level 2
+  (control-rate callback) and Level 3 (own locomotion, homologated) are
+  the published roadmap. The reference stack is a default, not a wall.
+
 ## 2026-08-19 — OpenAI player models registered
 - gpt-5.6-luna, gpt-5.4-mini and gpt-5.4-nano join the player registry —
   Codex City can now field house models. The engine requests low
