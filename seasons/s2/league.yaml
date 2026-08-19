@@ -10,10 +10,10 @@ teams:
 - dynamo_datacenter
 - frontier_gemini
 - synthetic_athletic
-- frontier_glm
+- frontier_manus
 fixtures:
 - - real_machina
-  - frontier_glm
+  - frontier_manus
 - - frontier_fable
   - synthetic_athletic
 - - singularity_united
@@ -23,7 +23,7 @@ fixtures:
 - - synthetic_athletic
   - real_machina
 - - frontier_gemini
-  - frontier_glm
+  - frontier_manus
 - - dynamo_datacenter
   - frontier_fable
 - - frontier_sol
@@ -32,7 +32,7 @@ fixtures:
   - frontier_gemini
 - - synthetic_athletic
   - dynamo_datacenter
-- - frontier_glm
+- - frontier_manus
   - frontier_sol
 - - frontier_fable
   - singularity_united
@@ -43,7 +43,7 @@ fixtures:
 - - singularity_united
   - synthetic_athletic
 - - frontier_fable
-  - frontier_glm
+  - frontier_manus
 - - real_machina
   - frontier_sol
 - - dynamo_datacenter
@@ -51,19 +51,19 @@ fixtures:
 - - frontier_gemini
   - frontier_fable
 - - synthetic_athletic
-  - frontier_glm
+  - frontier_manus
 - - singularity_united
   - real_machina
 - - frontier_fable
   - frontier_sol
-- - frontier_glm
+- - frontier_manus
   - dynamo_datacenter
 - - synthetic_athletic
   - frontier_gemini
 - - real_machina
   - frontier_fable
 - - singularity_united
-  - frontier_glm
+  - frontier_manus
 - - frontier_sol
   - synthetic_athletic
 - - dynamo_datacenter

@@ -3,6 +3,11 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-19 — club change before kickoff
+- The fourth frontier club is now run by Manus 1.6 (club repo
+  rfl-club-manus, dir frontier_manus) in place of GLM 5.3. Season-2
+  fixtures updated accordingly.
+
 ## 2026-08-19 — match-flow polish (engine update)
 - Half-time is now a real interval: 12 s with everyone reset, still, and
   the restart whistle blown BEFORE play resumes.
