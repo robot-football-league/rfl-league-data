@@ -1,0 +1,454 @@
+{
+  "played": [
+    {
+      "fixture": 1,
+      "home": "real_machina",
+      "away": "singularity_united",
+      "score": [
+        3,
+        2
+      ],
+      "goals": [
+        {
+          "t": 112.2,
+          "team": "A",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 138.5,
+          "team": "A",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 343.9,
+          "team": "B",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 546.1,
+          "team": "B",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 587.2,
+          "team": "A",
+          "scorer": 2,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4498,
+      "dir": "logs/league_r1_rma_sgu"
+    },
+    {
+      "fixture": 2,
+      "home": "real_machina",
+      "away": "dynamo_datacenter",
+      "score": [
+        7,
+        1
+      ],
+      "goals": [
+        {
+          "t": 60.5,
+          "team": "A",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 80.4,
+          "team": "A",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 315.1,
+          "team": "A",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 340.6,
+          "team": "A",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 413.0,
+          "team": "B",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 425.5,
+          "team": "A",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 568.3,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 580.3,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4511,
+      "dir": "runs/league/s1/m2_real_machina_dynamo_datacenter"
+    },
+    {
+      "fixture": 3,
+      "home": "real_machina",
+      "away": "synthetic_athletic",
+      "score": [
+        8,
+        8
+      ],
+      "goals": [
+        {
+          "t": 50.3,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 72.0,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 103.6,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 116.1,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 128.2,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 152.2,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 170.9,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 192.2,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 223.5,
+          "team": "B",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 239.1,
+          "team": "B",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 257.4,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 348.1,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 391.3,
+          "team": "B",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 471.5,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 512.5,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 569.8,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4871,
+      "dir": "runs/league/s1/m3_real_machina_synthetic_athletic"
+    },
+    {
+      "fixture": 4,
+      "home": "singularity_united",
+      "away": "dynamo_datacenter",
+      "score": [
+        5,
+        9
+      ],
+      "goals": [
+        {
+          "t": 42.5,
+          "team": "B",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 108.7,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 132.4,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 167.2,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 186.0,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 206.5,
+          "team": "B",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 228.9,
+          "team": "B",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 248.5,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 264.9,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 328.9,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 341.0,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 472.9,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 526.5,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 596.2,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4823,
+      "dir": "runs/league/s1/m4_singularity_united_dynamo_datacenter"
+    },
+    {
+      "fixture": 5,
+      "home": "singularity_united",
+      "away": "synthetic_athletic",
+      "score": [
+        2,
+        3
+      ],
+      "goals": [
+        {
+          "t": 85.8,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 197.5,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 421.8,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 489.3,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 546.9,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4492,
+      "dir": "runs/league/s1/m5_singularity_united_synthetic_athletic"
+    },
+    {
+      "fixture": 6,
+      "home": "dynamo_datacenter",
+      "away": "synthetic_athletic",
+      "score": [
+        10,
+        4
+      ],
+      "goals": [
+        {
+          "t": 127.1,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 152.6,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 174.1,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 190.4,
+          "team": "B",
+          "scorer": 2,
+          "replay_s": 5.0
+        },
+        {
+          "t": 253.9,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 279.8,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 294.1,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 336.0,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 441.0,
+          "team": "A",
+          "scorer": 3,
+          "replay_s": 5.0
+        },
+        {
+          "t": 462.0,
+          "team": "A",
+          "scorer": 0,
+          "replay_s": 5.0
+        },
+        {
+          "t": 473.8,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 514.5,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 537.2,
+          "team": "A",
+          "scorer": 1,
+          "replay_s": 5.0
+        },
+        {
+          "t": 575.7,
+          "team": "B",
+          "scorer": 3,
+          "replay_s": 5.0
+        }
+      ],
+      "est_cost_usd": 0.4651,
+      "dir": "runs/league/s1/m6_dynamo_datacenter_synthetic_athletic"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "We're underway at the centre circle."
+  },
+  {
+    "t": 2.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho radios he's going for it!"
+  },
+  {
+    "t": 5.67,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho bursts straight through the middle! There's nobody between him and the net, a glorious early opening for Synthetic Athletic!"
+  },
+  {
+    "t": 37.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid charges down the right channel."
+  },
+  {
+    "t": 38.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "He flashes it just wide of the post from close range! Inches away from an opener for Real Machina."
+  },
+  {
+    "t": 48.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Griezmatronn radios: \"nudging it free!\""
+  },
+  {
+    "t": 50.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 pounces at point-blank range to make it one-nil to Real Machina!"
+  },
+  {
+    "t": 55.22,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "CR-7000 has taken a tumble in the centre circle! Gyros recalibrating, and he's already working his way back onto his feet."
+  },
+  {
+    "t": 72.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 strikes again from three metres out! Real Machina double their advantage, making it two-nil!"
+  },
+  {
+    "t": 92.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid advances into midfield."
+  },
+  {
+    "t": 92.8,
+    "kind": "radio",
+    "energy": "build",
+    "text": "\"Lining up the shot,\" crackles Zidroid over the radio from the halfway line. Ambition in the white shirts!"
+  },
+  {
+    "t": 103.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid buries it right on the goal line! Real Machina are running riot, three-nil!"
+  },
+  {
+    "t": 109.01,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Zidroid breaks clean through again from midfield with nobody in his path!"
+  },
+  {
+    "t": 116.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid slides it home right at the goal mouth! It's four-nil to Real Machina, absolutely ruthless!"
+  },
+  {
+    "t": 128.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! A quickfire hat-trick for Zidroid, tapping in from point-blank range! Five-nil to Real Machina now!"
+  },
+  {
+    "t": 149.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho powers up the right flank."
+  },
+  {
+    "t": 152.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho pulls one back right on the goal line! Synthetic Athletic are on the board, five-one!"
+  },
+  {
+    "t": 160.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 marches straight through the middle, taking Real Machina deep into the final third."
+  },
+  {
+    "t": 170.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Flashed just wide of the mark!"
+  },
+  {
+    "t": 170.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 snatches it back and finishes from two metres out! Real Machina lead six-one!"
+  },
+  {
+    "t": 179.08,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Zidroid loses his footing out on the left channel and hits the deck, but self-righting protocols are already kicking in."
+  },
+  {
+    "t": 192.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho pounces right in front of the net! Synthetic Athletic cut the deficit to six-two!"
+  },
+  {
+    "t": 201.33,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Griezmatronn takes a spill in the final third, struggling for balance."
+  },
+  {
+    "t": 208.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "It whistles just past the post from deep in their own half!"
+  },
+  {
+    "t": 213.38,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner push-panel punches the ball back out."
+  },
+  {
+    "t": 217.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 radios: \"working it free from the wall.\""
+  },
+  {
+    "t": 223.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! It's an own goal! CR-7000 inadvertently turns it into his own net, gifting Synthetic Athletic a route back at six-three!"
+  },
+  {
+    "t": 234.68,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Griezmatronn is clean through down the right touchline!"
+  },
+  {
+    "t": 239.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn finishes clinically from two metres out! Synthetic Athletic are mounting a comeback, six-four now!"
+  },
+  {
+    "t": 257.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Zidroid drives right to the line!"
+  },
+  {
+    "t": 257.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid restores order right at the goal mouth! Seven-four to Real Machina!"
+  },
+  {
+    "t": 293.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina piling on the pressure."
+  },
+  {
+    "t": 294.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Clearing the corner,\" comes the urgent radio call from Griezmatronn."
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That's the whistle for half-time! A breathless opening period sees Real Machina leading Synthetic Athletic seven goals to four."
+  },
+  {
+    "t": 340.11,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Powered panel launches it back out."
+  },
+  {
+    "t": 340.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho radios: \"Got it!\""
+  },
+  {
+    "t": 343.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Synthetic Athletic are hemming Real Machina into their own third here."
+  },
+  {
+    "t": 348.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho converts from two metres! Synthetic Athletic strike early in the second half to make it seven-five!"
+  },
+  {
+    "t": 366.67,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho is clear on goal in the final third!"
+  },
+  {
+    "t": 371.0,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "He's sliced it wide of the open mouth! A massive let-off for Real Machina as that effort drifts away."
+  },
+  {
+    "t": 391.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn storms right up the middle."
+  },
+  {
+    "t": 391.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn taps it in from point-blank range! It's seven-six, and Synthetic Athletic are breathing right down their necks!"
+  },
+  {
+    "t": 425.2,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner panel fires the ball sharply back off the right touchline."
+  },
+  {
+    "t": 432.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Griezmatronn radios \"clearing it\" as Synthetic Athletic desperately try to relieve the pressure from their own third."
+  },
+  {
+    "t": 445.3,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The push-panel blasts it back out."
+  },
+  {
+    "t": 446.76,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Oh, down goes Robodinho on the left flank! Overbalanced under no challenge whatsoever, but his servos are already firing to get him upright."
+  },
+  {
+    "t": 470.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Zidroid surges towards the goal mouth!"
+  },
+  {
+    "t": 471.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid tucks it away from two metres out! Real Machina breathe easier at eight-six!"
+  },
+  {
+    "t": 476.0,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Griezmatronn bursts completely through the midfield, unattended and with the goal at his mercy!"
+  },
+  {
+    "t": 499.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Synthetic Athletic are throwing everything forward, suffocating Real Machina in their own defensive third."
+  },
+  {
+    "t": 508.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Griezmatronn radios: \"Prying it loose!\""
+  },
+  {
+    "t": 512.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho turns it in right on the line! It's eight-seven, this contest refuses to die!"
+  },
+  {
+    "t": 557.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho grinds his way forward through the middle, battling out toward the touchline with time ticking away."
+  },
+  {
+    "t": 569.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Unbelievable scenes, Robodinho lashes it in from two metres! Synthetic Athletic have leveled it at eight-eight!"
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time, it finishes eight-eight; what an astonishing comeback from Synthetic Athletic."
+  }
+]

@@ -1,0 +1,80 @@
+name: RFL League
+season: 2
+match_time_s: 600
+halves: 2
+teams:
+- real_machina
+- frontier_fable
+- singularity_united
+- frontier_sol
+- dynamo_datacenter
+- frontier_gemini
+- synthetic_athletic
+- frontier_glm
+fixtures:
+- - real_machina
+  - frontier_glm
+- - frontier_fable
+  - synthetic_athletic
+- - singularity_united
+  - frontier_gemini
+- - frontier_sol
+  - dynamo_datacenter
+- - synthetic_athletic
+  - real_machina
+- - frontier_gemini
+  - frontier_glm
+- - dynamo_datacenter
+  - frontier_fable
+- - frontier_sol
+  - singularity_united
+- - real_machina
+  - frontier_gemini
+- - synthetic_athletic
+  - dynamo_datacenter
+- - frontier_glm
+  - frontier_sol
+- - frontier_fable
+  - singularity_united
+- - dynamo_datacenter
+  - real_machina
+- - frontier_sol
+  - frontier_gemini
+- - singularity_united
+  - synthetic_athletic
+- - frontier_fable
+  - frontier_glm
+- - real_machina
+  - frontier_sol
+- - dynamo_datacenter
+  - singularity_united
+- - frontier_gemini
+  - frontier_fable
+- - synthetic_athletic
+  - frontier_glm
+- - singularity_united
+  - real_machina
+- - frontier_fable
+  - frontier_sol
+- - frontier_glm
+  - dynamo_datacenter
+- - synthetic_athletic
+  - frontier_gemini
+- - real_machina
+  - frontier_fable
+- - singularity_united
+  - frontier_glm
+- - frontier_sol
+  - synthetic_athletic
+- - dynamo_datacenter
+  - frontier_gemini
+points:
+  win: 3
+  draw: 1
+  loss: 0
+broadcast:
+  slots:
+  - '12:00'
+  - '16:00'
+  - '20:00'
+  timezone: Europe/London

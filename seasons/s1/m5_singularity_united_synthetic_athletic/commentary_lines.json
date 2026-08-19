@@ -1,0 +1,482 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway here in the Mini League!",
+    "wav": "line_aae189b7f9e70374.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 2.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho crackles over the radio: 'attacking the ball' as he steps into midfield.",
+    "wav": "line_80d97c6dab4aed9a.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 9.32,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Griezmatronn breaks clean through the middle on goal!",
+    "wav": "line_f71dd3588c14a375.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 13.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "He surges forward through the centre, four metres eaten up, bearing right down on goal!",
+    "wav": "line_0e0279f34976ccd3.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 25.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Synthetic Athletic are pinning Singularity deep in their own half here, relentless pressure from the reds.",
+    "wav": "line_72b54ea00daee0b0.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 48.9,
+    "kind": "color",
+    "energy": "calm",
+    "text": "BellingRAM waits on the right flank as the tempo settles. Singularity desperately need points today after two straight defeats, but they're struggling to find their rhythm.",
+    "wav": "line_fac169db049f1d40.wav",
+    "dur_s": 9.82
+  },
+  {
+    "t": 72.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Clearing the ball,' announces Robodinho.",
+    "wav": "line_3f28564c07313414.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 72.9,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel punches it back out!",
+    "wav": "line_e49ae9433900a5c7.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 74.73,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Oh, Robodinho's gyroscopes let him down completely there\u2014he's sprawled on the deck in his own third.",
+    "wav": "line_5394b1e8bc3151ac.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 84.68,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "BellingRAM clatters Robodinho straight over!",
+    "wav": "line_6fee4f9833f1236d.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 85.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Haalandroid pounces from point-blank range to put Singularity United ahead! It's one-nil to the sky blues!",
+    "wav": "line_1077f7de59710725.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 99.87,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "A dreadful mix-up in red shirts! Griezmatronn and Robodinho collide in midfield, sending Griezmatronn crashing to the turf.",
+    "wav": "line_951f56a0fd4d7b54.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 114.55,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM is clean through on goal!",
+    "wav": "line_287fa06c8bdf9443.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 117.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM powers down the left touchline!",
+    "wav": "line_ac0d1003b4c750b2.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 118.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity United are completely dominating the final third now, hemming Synthetic Athletic against their own back line.",
+    "wav": "line_32f320887b2e952d.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 126.67,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "They've done it again! The two red humanoids crash into each other along the left wall\u2014pure comedy from Synthetic Athletic.",
+    "wav": "line_3700f5fc1a04301e.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 139.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Haalandroid drives with purpose up the right channel, stepping menacingly towards the goal.",
+    "wav": "line_63986d92e18d9782.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 146.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Freeing the ball from the wall,' crackles Haalandroid, working diligently along the left touchline.",
+    "wav": "line_001d505e57f0080c.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 179.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho regains his footing and advances two metres along the left channel, trying to spark something for the reds.",
+    "wav": "line_f61f848c45fa025b.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 197.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho delivers from point-blank range, smashing it home to level the match! Singularity United one, Synthetic Athletic one!",
+    "wav": "line_90849465d9848550.wav",
+    "dur_s": 9.72
+  },
+  {
+    "t": 212.36,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Robodinho takes an awkward tumble on the touchline.",
+    "wav": "line_80e2626956f10160.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 216.3,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM breaks clear with open pitch ahead!",
+    "wav": "line_4c1c2a3f51d16116.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 220.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM strides purposefully down the left wing, marching straight into the final third.",
+    "wav": "line_4db8ffff55b3990c.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 235.05,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel thumps the magenta ball back into play!",
+    "wav": "line_4cbf8856e1315931.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 240.33,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Haalandroid bulldozes Griezmatronn down on the left!",
+    "wav": "line_ad5473ac339da095.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 244.03,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel launches it clear!",
+    "wav": "line_63a3bef59d90d4e0.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 246.25,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Another clash of team-mates in red!",
+    "wav": "line_ecb1c20e8976eaf6.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 246.84,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Griezmatronn clatters straight into BellingRAM, sending the sky blue midfielder crashing to the deck.",
+    "wav": "line_a442f4e73657a243.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 256.9,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Robodinho leaves BellingRAM flat on his back once more!",
+    "wav": "line_34c8e824f2f16f90.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 262.56,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner panel spits the ball back out sharply.",
+    "wav": "line_4ad2b76e97f368b4.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 266.52,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Robodinho crunches BellingRAM again!",
+    "wav": "line_7d424fb2f559adda.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 267.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A fierce effort flashed just a metre wide of the open net!",
+    "wav": "line_eae9aa6a9c2d8bcd.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 274.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Nudging it off the wall,' radios",
+    "wav": "line_43d22c90c13fddd1.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 277.15,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "BellingRAM gets his revenge, flooring Griezmatronn with a heavy challenge!",
+    "wav": "line_da5e204dc8d46c4a.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 283.64,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The powered push-panel in the corner fires the ball violently back into the channel.",
+    "wav": "line_88d2a017750c36f1.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 296.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity are turning the screw in the final third!",
+    "wav": "line_58e222b36afef8ef.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That's the interval. A bruising, chaotic half of robotic football sees Singularity United and Synthetic Athletic locked level at one goal apiece.",
+    "wav": "line_7e6b8f9bace3c626.wav",
+    "dur_s": 9.82
+  },
+  {
+    "t": 319.76,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide! A heart-stopping miss!",
+    "wav": "line_660fcf612ecc6dce.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 320.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho charges six metres straight through the middle of the park, carving open the sky blue defence and bearing down on goal.",
+    "wav": "line_f7b3d4aaef49069a.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 336.93,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid is clean through on goal!",
+    "wav": "line_0b4517c609cb85c8.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 339.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Haalandroid drives three metres down the right wing, positioning himself dangerously close to the goal.",
+    "wav": "line_460d9fa82c6d57bc.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 353.99,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel repels it instantly!",
+    "wav": "line_9d8065b9db5ab52e.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 354.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Ball is stuck against the wall, pushing it,' says BellingRAM, wrestling with the magenta ball in the corner.",
+    "wav": "line_452a1a18e4f470dc.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 381.68,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A whisper away! The ball skims less than half a metre wide of the target.",
+    "wav": "line_491dd30df4d00722.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 392.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Clearing it,' announces Robodinho.",
+    "wav": "line_818421cd6e03fda2.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 394.62,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Haalandroid loses his footing entirely in his own third, sprawling across the turf with limbs flailing as his self-righting routine kicks in.",
+    "wav": "line_535109aea3b0b28f.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 417.49,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner ram fires the ball back into play!",
+    "wav": "line_d2a92b5833e092c0.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 421.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho strikes from close range to put Synthetic Athletic in front! It's Singularity United one, Synthetic Athletic two!",
+    "wav": "line_a7061997d63da63d.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 438.4,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid breaks clean through the defence and has the entire goal gaping before him!",
+    "wav": "line_9d5182f4425bccd3.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 449.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Clearing it along the wall,' confirms Robodinho over the team frequency as he scrambles in defence.",
+    "wav": "line_b83ae0ed2d40ba8c.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 466.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Haalandroid marches up the wing!",
+    "wav": "line_d4ec379cb590ec9d.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 467.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity laying on heavy pressure!",
+    "wav": "line_5cef890ca6e6dc00.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 467.67,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel triggers and blasts the ball back into the channel, catching everyone by surprise.",
+    "wav": "line_7d5fc8fa21396393.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 489.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Haalandroid bundles it in right on the line! Singularity United are level, it is two-two!",
+    "wav": "line_91be3d1450bd19f1.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 502.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Clearing it,' reports Robodinho.",
+    "wav": "line_800037a78dcfbbbd.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 502.45,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Haalandroid takes another unprompted tumble on the right flank, actuators whirring as he begins the slow push back up.",
+    "wav": "line_b120f907dadcead7.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 543.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A golden chance flashes just wide!",
+    "wav": "line_eac90361f069cedd.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 546.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho completes his hat-trick right on the goal mouth! Synthetic Athletic lead three-two!",
+    "wav": "line_d01972e105cbd9b4.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 573.5,
+    "kind": "color",
+    "energy": "calm",
+    "text": "Griezmatronn hovers near the ball as time ticks away. Synthetic Athletic are on the brink of their first win of the campaign, leaving Singularity stranded at the bottom.",
+    "wav": "line_3ed194750980a9e9.wav",
+    "dur_s": 9.61
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "excited",
+    "text": "Full time: Singularity United two, Synthetic Athletic three, and that's curtains on a chaotic contest.",
+    "wav": "line_561e770c16acefbb.wav",
+    "dur_s": 7.34
+  }
+]

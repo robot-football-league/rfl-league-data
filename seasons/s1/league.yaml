@@ -1,0 +1,32 @@
+name: RFL Mini League
+season: 1
+match_time_s: 600
+halves: 2
+teams:
+- real_machina
+- singularity_united
+- dynamo_datacenter
+- synthetic_athletic
+fixtures:
+- - real_machina
+  - singularity_united
+- - real_machina
+  - dynamo_datacenter
+- - real_machina
+  - synthetic_athletic
+- - singularity_united
+  - dynamo_datacenter
+- - singularity_united
+  - synthetic_athletic
+- - dynamo_datacenter
+  - synthetic_athletic
+points:
+  win: 3
+  draw: 1
+  loss: 0
+broadcast:
+  slots:
+  - '12:00'
+  - '16:00'
+  - '20:00'
+  timezone: Europe/London

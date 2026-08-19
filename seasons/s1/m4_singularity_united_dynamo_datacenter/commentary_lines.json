@@ -1,0 +1,466 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in the Mini League clash!",
+    "wav": "line_8f023ebe21080690.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 0.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Haalandroid radios: \"Going for the ball!\"",
+    "wav": "line_73c52eba1e0e7952.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 3.92,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe pounces on it in the centre circle, clean through with an open goal gaping ahead!",
+    "wav": "line_ea262926417ce6a1.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 19.12,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Corner ram fires it back into play!",
+    "wav": "line_d08bda87c5c20b3d.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 21.83,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Buffon.exe takes an unprompted tumble here.",
+    "wav": "line_d2395eea6b19da6e.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 25.28,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away! A razor-thin miss by just two tenths of a metre as Singularity scramble to clear from deep inside their own half.",
+    "wav": "line_daf36d0670311010.wav",
+    "dur_s": 8.75
+  },
+  {
+    "t": 42.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! BellingRAM turns it into his own net! Singularity United 0, Dynamo Datacenter",
+    "wav": "line_745cf0a24981b861.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 42.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "BellingRAM radios \"working it along the wall\" after that nightmare deflection. The own-goal tally in this league continues to soar, and Dynamo Datacenter won't mind one bit as they take the early lead.",
+    "wav": "line_05c86be6038260cc.wav",
+    "dur_s": 13.01
+  },
+  {
+    "t": 67.5,
+    "kind": "color",
+    "energy": "calm",
+    "text": "Haalandroid hovers three metres out down the left. Both these sides were battered by Real Machina earlier, so picking up their first league points today is absolutely vital for the campaign.",
+    "wav": "line_9e720b82a81b9137.wav",
+    "dur_s": 11.52
+  },
+  {
+    "t": 92.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "BellingRAM radios he's clearing the wall!",
+    "wav": "line_af49bc9bc78b3eb8.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 94.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter are applying heavy pressure in the final third, pinning sky blue shirts against their own back wall for sustained spells.",
+    "wav": "line_acf9ed076b8491e3.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 108.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe slots it home from two metres out on the left! It's Singularity United 0, Dynamo Datacenter 2!",
+    "wav": "line_a168b1041ac72519.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 124.19,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe is clean through again!",
+    "wav": "line_9fd9248a45f63950.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 125.08,
+    "kind": "fall",
+    "energy": "build",
+    "text": "Haalandroid loses gyro stability and hits the deck in his own third!",
+    "wav": "line_42db60dc2a1c0cf1.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 132.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless pressure from Dynamo Datacenter here!",
+    "wav": "line_bcc89c71a722c577.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 132.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe pokes it in from point-blank range! Singularity United 0, Dynamo Datacenter 3!",
+    "wav": "line_1687fe208e477c47.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 141.34,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Yellow on yellow collision! Mbapp-E and Buffon.exe crash together, sending Mbapp-E straight down.",
+    "wav": "line_cf49aab44d669bc1.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 148.73,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Buffon.exe goes down unaided now.",
+    "wav": "line_34355ad72a82328e.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 151.0,
+    "kind": "radio",
+    "energy": "build",
+    "text": "BellingRAM radios: \"got it, driving toward goal\" from three metres out on the right flank!",
+    "wav": "line_d2bcc8b95081690e.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 161.1,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Another collision between the yellow teammates!",
+    "wav": "line_026baff20f676d8a.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 164.0,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from right in front!",
+    "wav": "line_4f22fcc93a042e99.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 167.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! BellingRAM bundles it across the line from point-blank range! Singularity United 1, Dynamo Datacenter 3!",
+    "wav": "line_98d55d717686c03f.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 186.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe scores from two metres out! Singularity United 1, Dynamo Datacenter 4!",
+    "wav": "line_04ef893b5849f80a.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 186.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Buffon.exe embarked on a sensational seven-metre solo surge right through the middle, taking eight seconds to walk it straight to the mouth of the goal.",
+    "wav": "line_db66b354e216897c.wav",
+    "dur_s": 10.27
+  },
+  {
+    "t": 206.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Mbapp-E smashes it in from two metres out! It's Singularity United 1, Dynamo Datacenter 5!",
+    "wav": "line_bce8ace2b5935fe2.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 226.91,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM breaks clean through on goal!",
+    "wav": "line_7fdb92d0c01697fc.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 228.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Another own goal from BellingRAM! A disastrous backheel into his own net, making it Singularity United 1, Dynamo Datacenter 6!",
+    "wav": "line_902b1c9eb77e482d.wav",
+    "dur_s": 11.52
+  },
+  {
+    "t": 243.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe powers three metres up the right channel with tremendous pace.",
+    "wav": "line_d3be768858b08ca8.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 248.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe tucks it away from two metres out on the right! Singularity United 1, Dynamo Datacenter 7!",
+    "wav": "line_d80b81220ed1a181.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 262.2,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Mbapp-E radios: \"kick it in!\"",
+    "wav": "line_8a4fdb220bdc8dc1.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 264.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe marches right into the middle!",
+    "wav": "line_671aca6480c5010e.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 264.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe finishes ruthlessly again! Singularity United 1, Dynamo Datacenter 8!",
+    "wav": "line_ab98105f19024313.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 285.6,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "A close shave right at the goal mouth, skipping wide!",
+    "wav": "line_b2c8c17dda823f7b.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 290.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter are completely dominant, hemming Singularity into their own territory for nearly ten unbroken seconds.",
+    "wav": "line_a164f9437fe17cf2.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That's the whistle for half-time, and Dynamo Datacenter lead Singularity United by eight goals to one after an absolute barrage of yellow attacks!",
+    "wav": "line_16e31c6c978d0efa.wav",
+    "dur_s": 10.32
+  },
+  {
+    "t": 328.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Buffon.exe converts from point-blank range right at the restart! Singularity United 1, Dynamo Datacenter 9!",
+    "wav": "line_8c77d2f639b43ae6.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 334.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "BellingRAM radios a simple \"got it\" as he collects in the midfield circle.",
+    "wav": "line_1222ae4c799663c8.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 341.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! BellingRAM finishes from point-blank range! Singularity United 2, Dynamo Datacenter 9!",
+    "wav": "line_26e0ff65bf415a95.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 341.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "BellingRAM drove it six metres straight through the middle to create that!",
+    "wav": "line_98eceb5fcfbf56fb.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 345.79,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe breaks cleanly from midfield with an empty net beckoning in front of him!",
+    "wav": "line_800f5d5c9503e648.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 356.2,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Mbapp-E trips over his own servos on the right touchline, leaving him to execute the eight-second self-righting routine.",
+    "wav": "line_03cc8e0a635ea5c7.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 381.4,
+    "kind": "color",
+    "energy": "calm",
+    "text": "Haalandroid inspects the magenta ball four metres out. Singularity United have a mountain to climb, but their attacking intent has looked far sharper in this second period.",
+    "wav": "line_6ebe99b61fc6464a.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 406.5,
+    "kind": "radio",
+    "energy": "build",
+    "text": "\"Pushing off the wall,\" radios BellingRAM as he wrestles for position out on the left touchline. Physical, uncompromising robotic football.",
+    "wav": "line_78da681b41c1a59d.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 447.61,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM is clean through on goal!",
+    "wav": "line_287fa06c8bdf9443.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 448.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM powers down the right channel!",
+    "wav": "line_ccd4b901a155c321.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 449.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity United have Dynamo Datacenter pinned firmly against the perimeter boards now, dominating the final third for ten relentless seconds.",
+    "wav": "line_a44f0f33072e4b82.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 461.81,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel activates with a thud, blasting the ball back out from the deep right corner!",
+    "wav": "line_5d771940d97eaac8.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 472.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Haalandroid radios he's claiming the corner!",
+    "wav": "line_b79d8d67b1841803.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 472.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! BellingRAM slots it home from two metres out! Singularity United 3, Dynamo Datacenter 9!",
+    "wav": "line_337e8c35a4c836a8.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 498.9,
+    "kind": "color",
+    "energy": "calm",
+    "text": "Buffon.exe stands calmly over the ball on the halfway mark. He's been the standout performer today, racking up goals and tormenting Singularity's backline with ruthless efficiency.",
+    "wav": "line_faab0dee7d5faa67.wav",
+    "dur_s": 11.81
+  },
+  {
+    "t": 525.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Haalandroid drives up the centre!",
+    "wav": "line_7eead1a556abf741.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 526.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Haalandroid finishes the drive from two metres out! Singularity United 4, Dynamo Datacenter 9!",
+    "wav": "line_b46ec4138837a4dd.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 549.6,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief breather near the left wall three metres from goal. Singularity are staging an admirable late flurry, but Dynamo's lead still looks insurmountable with under a minute left.",
+    "wav": "line_2845530485856eb7.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 572.75,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner ram punches the ball back into play down the right touchline!",
+    "wav": "line_03209d54313f5443.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 586.24,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Haalandroid clatters into Buffon.exe along the touchline, sending the yellow robot crashing to the turf!",
+    "wav": "line_c1149d533ab0d09f.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 594.35,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Buffon.exe wipes out BellingRAM in front!",
+    "wav": "line_cce5105a19ec0cc0.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 596.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal! Haalandroid seizes the loose ball on the goal line! Singularity United 5, Dynamo Datacenter 9!",
+    "wav": "line_a51d1f42781fac24.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Singularity United 5, Dynamo Datacenter 9, and Dynamo claim a chaotic victory!",
+    "wav": "line_8205b656d354beef.wav",
+    "dur_s": 6.61
+  }
+]

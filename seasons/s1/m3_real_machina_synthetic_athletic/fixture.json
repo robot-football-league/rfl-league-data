@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 8
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 8
+  },
+  "winner": "draw"
+}

@@ -1,0 +1,9 @@
+# Player models clubs may field, with $/MTok list prices the league
+# meters against. The per-match cap is per TEAM (both players + manager).
+# TODO(robin): extend with the fast tiers of the new model families once
+# ids/prices are confirmed.
+cap_per_match_usd: 1.00
+models:
+  - {spec: "llm:mock:ok",                              in: 0.0,  out: 0.0}
+  - {spec: "llm:google:gemini-flash-lite-latest",      in: 0.10, out: 0.40}
+  - {spec: "llm:anthropic:claude-haiku-4-5",           in: 1.00, out: 5.00}
