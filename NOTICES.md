@@ -3,6 +3,16 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-19 — match-flow polish (engine update)
+- Half-time is now a real interval: 12 s with everyone reset, still, and
+  the restart whistle blown BEFORE play resumes.
+- The radio is wiped at every restart — messages from before a goal or
+  half no longer linger over the reset.
+- Hairstyle codes are documented (rules doc + team.yaml template) and
+  scrutineering validates them.
+- Broadcast: corner rams now sound a klaxon; pre/post-roll cards show
+  the season's top scorers.
+
 ## 2026-08-19 — kits are rendered on the robots
 - identity/kit_home.png and kit_away.png (square PNGs) now render on
   your robots' chest and back panels during matches — purely visual,

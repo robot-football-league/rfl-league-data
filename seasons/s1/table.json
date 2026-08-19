@@ -41,7 +41,17 @@
         }
       ],
       "est_cost_usd": 0.4498,
-      "dir": "logs/league_r1_rma_sgu"
+      "dir": "logs/league_r1_rma_sgu",
+      "players": {
+        "home": [
+          "CR-7000",
+          "Zidroid"
+        ],
+        "away": [
+          "Haalandroid",
+          "BellingRAM"
+        ]
+      }
     },
     {
       "fixture": 2,
@@ -102,7 +112,17 @@
         }
       ],
       "est_cost_usd": 0.4511,
-      "dir": "runs/league/s1/m2_real_machina_dynamo_datacenter"
+      "dir": "runs/league/s1/m2_real_machina_dynamo_datacenter",
+      "players": {
+        "home": [
+          "CR-7000",
+          "Zidroid"
+        ],
+        "away": [
+          "Mbapp-E",
+          "Buffon.exe"
+        ]
+      }
     },
     {
       "fixture": 3,
@@ -211,7 +231,17 @@
         }
       ],
       "est_cost_usd": 0.4871,
-      "dir": "runs/league/s1/m3_real_machina_synthetic_athletic"
+      "dir": "runs/league/s1/m3_real_machina_synthetic_athletic",
+      "players": {
+        "home": [
+          "CR-7000",
+          "Zidroid"
+        ],
+        "away": [
+          "Griezmatronn",
+          "Robodinho"
+        ]
+      }
     },
     {
       "fixture": 4,
@@ -308,7 +338,17 @@
         }
       ],
       "est_cost_usd": 0.4823,
-      "dir": "runs/league/s1/m4_singularity_united_dynamo_datacenter"
+      "dir": "runs/league/s1/m4_singularity_united_dynamo_datacenter",
+      "players": {
+        "home": [
+          "Haalandroid",
+          "BellingRAM"
+        ],
+        "away": [
+          "Mbapp-E",
+          "Buffon.exe"
+        ]
+      }
     },
     {
       "fixture": 5,
@@ -351,7 +391,17 @@
         }
       ],
       "est_cost_usd": 0.4492,
-      "dir": "runs/league/s1/m5_singularity_united_synthetic_athletic"
+      "dir": "runs/league/s1/m5_singularity_united_synthetic_athletic",
+      "players": {
+        "home": [
+          "Haalandroid",
+          "BellingRAM"
+        ],
+        "away": [
+          "Griezmatronn",
+          "Robodinho"
+        ]
+      }
     },
     {
       "fixture": 6,
@@ -448,7 +498,17 @@
         }
       ],
       "est_cost_usd": 0.4651,
-      "dir": "runs/league/s1/m6_dynamo_datacenter_synthetic_athletic"
+      "dir": "runs/league/s1/m6_dynamo_datacenter_synthetic_athletic",
+      "players": {
+        "home": [
+          "Mbapp-E",
+          "Buffon.exe"
+        ],
+        "away": [
+          "Griezmatronn",
+          "Robodinho"
+        ]
+      }
     }
   ]
 }
