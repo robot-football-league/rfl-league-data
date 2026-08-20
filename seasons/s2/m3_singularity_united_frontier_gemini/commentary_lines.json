@@ -1,0 +1,442 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "We are underway from the centre circle!",
+    "wav": "line_959bdf16104a0f9e.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 4.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "\"I'm going for it,\" declares BellingRAM over the radio, wasting absolutely no time in midfield.",
+    "wav": "line_c5681cc2ca42e406.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 23.64,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM is clean through on goal!",
+    "wav": "line_287fa06c8bdf9443.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 26.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity United are relentless here, boxing Gemini Flash completely into their defensive third.",
+    "wav": "line_dae1745762abd060.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 33.84,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from point-blank range!",
+    "wav": "line_7552d6fb989aad29.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 35.3,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Sky blue shirts collide, and BellingRAM hits the deck in a heap.",
+    "wav": "line_1755a81014dd16a0.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 41.41,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The push-panel launches it back into play.",
+    "wav": "line_5baec169a3387760.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 44.75,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "BellingRAM wobbles and topples over, but the self-righting routine is already initiated.",
+    "wav": "line_091b2ee38c2f0a24.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 49.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Oh, that was close! A ferocious effort flashes just wide of the open net from deep inside the half.",
+    "wav": "line_f04d4f9a9cce51ba.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 68.98,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Spark breaks loose on the left wing! Nobody between the solar gold runner and the open goal!",
+    "wav": "line_9ef1aed8e21ec7c4.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 82.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark marches straight up the channel, right into the goal mouth!",
+    "wav": "line_5169354e2e24d63d.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 86.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Spark bundles it home from point-blank range! It's Singularity United nil, Gemini Flash FC one!",
+    "wav": "line_debad8bc176e36cc.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 99.1,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "BellingRAM puts in a crunching challenge on the left touchline, sending Spark clattering down.",
+    "wav": "line_767e4905958d4801.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 105.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Working it off the wall,\" radios BellingRAM from the corner.",
+    "wav": "line_fafb45651425aee1.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 110.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Flash carries the ball down the touchline, arriving right at the doorstep!",
+    "wav": "line_8cc1b8632ebdd8ff.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 116.24,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid breaks free from deep and has the entire goal at their mercy!",
+    "wav": "line_d8083b36c158e2e5.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 126.4,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark simply loses balance on the right touchline and takes a tumble. Gyros recalibrating, back up shortly.",
+    "wav": "line_7cfdd5ef10863252.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 141.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Got it,\" crackles Haalandroid on the frequency, calmly taking control of the magenta sphere deep in defense.",
+    "wav": "line_e49e383dff993c6a.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 157.5,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Friendly fire! Flash clatters Spark right over.",
+    "wav": "line_883853ea8d3a84b1.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 160.84,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Flash steps in with a thumping challenge and levels Haalandroid just three metres out from goal!",
+    "wav": "line_b09d32766adc9cfd.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 186.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Working it free,\" announces Haalandroid, wrestling for possession near the perimeter wall.",
+    "wav": "line_4db1dd1c62277a1d.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 195.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Wave after wave of sky blue pressure! Gemini Flash are pinned deep inside their own territory.",
+    "wav": "line_9062a15f01634ca9.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 203.44,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner ram fires the ball away.",
+    "wav": "line_ae67a5c2e16ec4ca.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 207.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Breaking it free,\" reports BellingRAM, battling fiercely along the left channel just two metres out.",
+    "wav": "line_01ce26b0e340c6c6.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 221.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Clearing it,\" radios Haalandroid.",
+    "wav": "line_0125549ad922588d.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 223.72,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Haalandroid loses footing and goes down.",
+    "wav": "line_5d55583c51860ea8.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 226.54,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The powered corner panel boots the ball right back into action.",
+    "wav": "line_f6688bf664e9c253.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 231.27,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Flash breaks clear down the left touchline! An empty net beckons across the pitch!",
+    "wav": "line_fe4e1e266649653f.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 246.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Ball stuck against the wall, working it loose,\" radios Haalandroid from the final third.",
+    "wav": "line_c27e31b7b88a6bd5.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 258.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark drives purposefully up the channel, edging towards the dangerous zone two metres out.",
+    "wav": "line_1969047b142f928e.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 265.4,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The push-panel activates, spitting the ball out.",
+    "wav": "line_9802ed8aed214a8f.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 269.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Spark doubles the tally with a tidy finish from the right channel! Singularity United nil, Gemini Flash FC two!",
+    "wav": "line_e1bf3ca393c73d26.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 297.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "\"Driving it forward,\" radios Haalandroid.",
+    "wav": "line_4828f00f9b52a6a1.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "Half time: Singularity 0-2 Gemini.",
+    "wav": "line_3716e45c09f78e44.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 300.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark surges forward through the centre, driving deep into the final third right on the stroke of the interval.",
+    "wav": "line_8dc84b353731877d.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 331.73,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner panel ejects the ball.",
+    "wav": "line_db13738d8c0220a3.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 333.54,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Flash delivers a firm tackle to floor Haalandroid deep in the defensive zone.",
+    "wav": "line_52417252cd2bd0b3.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 342.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash pounces from point-blank range to extend the lead! Singularity United nil, Gemini Flash FC three!",
+    "wav": "line_317c0a30c147da45.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 371.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity United are throwing everything forward now, camping around the Gemini goal mouth in search of a lifeline.",
+    "wav": "line_d75e4f6f82c4c0c5.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 382.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM forces it in right at the mouth of goal! Singularity United one, Gemini Flash FC three!",
+    "wav": "line_1c692d8f8930bcd5.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 398.01,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark tumbles over without contact.",
+    "wav": "line_f3bb0d154805dcfb.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 398.72,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide from three metres!",
+    "wav": "line_ecb8809601f8d37b.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 399.09,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "BellingRAM flattens Flash in defense!",
+    "wav": "line_cf035bc0368c0abe.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 401.16,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Flash returns the favor instantly!",
+    "wav": "line_e1401c95d0d30397.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 403.38,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Teammates collide and Haalandroid drops.",
+    "wav": "line_3c8ae8407e63583a.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 404.1,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The powered ram fires it straight back out into the mixer.",
+    "wav": "line_0548253d2f764b56.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 409.25,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "BellingRAM comes crashing in with a heavy challenge, sending Flash sprawling across the floor.",
+    "wav": "line_e0f875ec8e919ceb.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 422.51,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid is clean through on the right channel! A massive opportunity here for Singularity United!",
+    "wav": "line_c4748b9295e4b258.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 466.3,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief moment to draw breath as Haalandroid regroups deep in the half. Gemini Flash have looked razor sharp on the break, soaking up long spells of pressure and punishing every mistake.",
+    "wav": "line_2e86e197f7d980c7.wav",
+    "dur_s": 10.92
+  },
+  {
+    "t": 510.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Sky blue shirts pushing hard once again.",
+    "wav": "line_501b7548233bb4f1.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 513.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM strikes from two metres out to bring United right back into this! Singularity United two, Gemini Flash FC three!",
+    "wav": "line_c2950745dc5f5aa2.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 537.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Spark seals it on the counter from point-blank range! Singularity United two, Gemini Flash FC four!",
+    "wav": "line_6b1e88e7f280736e.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 549.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark carries the ball forward along the left flank, cleverly running down the remaining seconds.",
+    "wav": "line_a1dd050470cd3c06.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 578.85,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The push-panel triggers once more in the corner, ejecting the ball safely away down the touchline.",
+    "wav": "line_6e572483aa4da95d.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Singularity United two, Gemini Flash FC four, as gold secures all three points.",
+    "wav": "line_a4abc4ff5c899550.wav",
+    "dur_s": 6.92
+  }
+]

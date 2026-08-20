@@ -1,0 +1,466 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in the season opener!",
+    "wav": "line_f472ad38a09ef902.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 0.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace over the airwaves: 'Guard lane set; drive forward when ready.' Electric violet shirts looking organised early doors.",
+    "wav": "line_ac6abd1152b93ef3.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 20.68,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Point-blank chance, but it flashes wide!",
+    "wav": "line_54f6d45f8830302e.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 23.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid taps it home point-blank! Real Machina lead one-nil!",
+    "wav": "line_269a0b7e91164861.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 24.0,
+    "kind": "pressure",
+    "energy": "calm",
+    "text": "Real Machina are suffocating them in the final third. Manus FC simply cannot clear their lines here.",
+    "wav": "line_23bb1b597b0176fe.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 38.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace radios to clear lines.",
+    "wav": "line_bc85024f3af7b9d8.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 39.71,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt is clean through on the right! An open net awaits Manus FC!",
+    "wav": "line_9781de89edc2a393.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 49.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Prompt charges straight through the middle!",
+    "wav": "line_14d13e2a1f9782cc.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 49.84,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly wide by mere inches for Manus FC!",
+    "wav": "line_027722159db7d3b1.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 54.04,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt loses balance and hits the deck.",
+    "wav": "line_72499173d58c3b23.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 57.48,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Real Machina players collide in their own third, sending CR-7000 sprawling!",
+    "wav": "line_f6382d61d8db021b.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 63.56,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Zidroid puts in a crunching challenge right at the goal mouth, leaving Prompt grounded.",
+    "wav": "line_b59956ba5a8a07d9.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 72.63,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Ball rattles into the bevelled corner and the powered push-panel fires it right back out into play.",
+    "wav": "line_f518403bf6630cff.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 100.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'I am clearing,' announces Trace, trying to relieve the pressure.",
+    "wav": "line_2ca8ca95adc15b9d.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 106.49,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Push-panel launches it back out!",
+    "wav": "line_99f315065ce4f6b3.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 108.54,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "A communication breakdown for Manus FC as Prompt and Trace collide in their own third!",
+    "wav": "line_81fc55d72e5bd974.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 118.4,
+    "kind": "tackle",
+    "energy": "calm",
+    "text": "Zidroid steps in firmly in midfield, bowling Prompt over. The Real Machina man is dominating the physical duels today.",
+    "wav": "line_52ee64b9b48e4bd2.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 147.28,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Zidroid is completely through on goal!",
+    "wav": "line_31b7f55692c7a838.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 151.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid storms down the right!",
+    "wav": "line_14f18bc2cdc90283.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 151.59,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Manus FC tangle with each other again, down goes Prompt!",
+    "wav": "line_0fd1fba556ff8178.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 156.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just off target from point-blank!",
+    "wav": "line_decb1c6ac64f049b.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 158.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 bundles it over the line from point-blank range! Real Machina double their advantage, two-nil!",
+    "wav": "line_0ad5584fed12a320.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 166.98,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt's gyroscopes betray him in midfield as he topples over unaided.",
+    "wav": "line_1d3422cd563c6a77.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 177.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid weaves towards the net!",
+    "wav": "line_ae944a2e54b6caf1.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 177.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid slots it away calmly from close range! It's three-nil to Real Machina!",
+    "wav": "line_79b03ece5c4c1b86.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 189.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 advances through the middle, shifting out towards the right channel.",
+    "wav": "line_b36e3918d2de052f.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 195.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid drives straight on goal!",
+    "wav": "line_b00e01e4f8bba49c.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 195.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid makes no mistake right on the line! Real Machina are running riot, four-nil!",
+    "wav": "line_9f2b0f209d97a5e7.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 217.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 pokes it in! Five-nil to Real Machina!",
+    "wav": "line_023757a1479d59d4.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 218.0,
+    "kind": "pressure",
+    "energy": "calm",
+    "text": "Real Machina are setting up camp deep in Manus territory. Total territorial dominance in this first half.",
+    "wav": "line_d3d4f89deb06529a.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 234.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "'Pushing along the wall,' reports CR-7000 on the left touchline.",
+    "wav": "line_c57e2e9c5481ece8.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 242.19,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 is clean through!",
+    "wav": "line_3e0d2896cdbca04a.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 243.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 strides smoothly down the left channel, closing right in on the target.",
+    "wav": "line_528ebf630b414440.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 254.69,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Ball finds the corner panel and gets thumped right back into the final third.",
+    "wav": "line_52442d9562393c2d.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 274.0,
+    "kind": "pressure",
+    "energy": "calm",
+    "text": "Manus FC are under relentless siege in their own half.",
+    "wav": "line_a8adeaf4d8cad7bf.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 279.84,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Fired across from two metres out on the right channel, whistling past the post!",
+    "wav": "line_0b449dc8f3006436.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 297.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid tucks it in! Real Machina make it six-nil before the break!",
+    "wav": "line_a047a0ec77c3a5a6.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "Half time here in the opener. Real Machina lead six-nil in an utterly dominant first period against Manus FC.",
+    "wav": "line_8dca0d38accf7784.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 316.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt radios: 'I have the ball; hold the guard lane.' Manus looking to reset in midfield.",
+    "wav": "line_1866045611a61d35.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 325.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 strikes from close range! It's seven-nil to Real Machina!",
+    "wav": "line_bdc4571f7e698fc1.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 352.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid finishes from point-blank! Real Machina extend the rout to eight-nil!",
+    "wav": "line_14a3339111837317.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 367.67,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Zidroid is clean through again!",
+    "wav": "line_fc2d2c6ca718e92c.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 370.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid effortlessly converts from two metres out! Nine-nil to Real Machina!",
+    "wav": "line_5f769ef17229aec8.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 387.04,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "A rare slip from CR-7000 by the left touchline, but the self-righting routine kicks in immediately.",
+    "wav": "line_f8bf25686eb34549.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 404.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid radios: 'Freeing the ball.'",
+    "wav": "line_33bcfe2306ed8dbf.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 407.56,
+    "kind": "tackle",
+    "energy": "calm",
+    "text": "Trace puts in a solid challenge on the right touchline, sending CR-7000 to the turf.",
+    "wav": "line_e7558815e4fb2266.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 415.0,
+    "kind": "pressure",
+    "energy": "calm",
+    "text": "Real Machina pressing hard once again.",
+    "wav": "line_c967ea76f9c82621.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 419.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Misfortune strikes Prompt with an own goal! Real Machina hit double figures, ten-nil!",
+    "wav": "line_c6f868a92383a597.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 420.64,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt hits the deck in midfield to compound the misery, though he's already picking himself up.",
+    "wav": "line_169f511ff8dcbf6f.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 438.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 radios: 'Getting ball off wall.' Real Machina calmly working out from their own third.",
+    "wav": "line_3b346797e164dd11.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 451.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace carries the ball forward along the right touchline.",
+    "wav": "line_6a02035ac5d76233.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 455.13,
+    "kind": "tackle",
+    "energy": "calm",
+    "text": "Zidroid tackles Prompt to the deck!",
+    "wav": "line_0ea9dfe8fea50efd.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 457.32,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Immediate retribution in midfield as Prompt challenges Zidroid and brings the Real Machina talisman down!",
+    "wav": "line_9ebfa6b43c69d351.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 488.58,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Zidroid breaks free on the left channel with an open net in front of him!",
+    "wav": "line_80dfd286606f92b0.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 496.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace calls over the comms: 'I am clearing; take the next phase.' Manus FC desperately trying to survive.",
+    "wav": "line_7844797a8dcaa9cf.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 541.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 prods it in from point-blank range! It's eleven-nil to Real Machina!",
+    "wav": "line_1f7e3e59a6e61d1e.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 578.56,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away from a twelfth! Ball skims just past the upright from two metres out.",
+    "wav": "line_4cb46713c9bcccc7.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Real Machina eleven, Manus FC nil; what an emphatic opening statement.",
+    "wav": "line_62e0396abd2d4bd4.wav",
+    "dur_s": 5.25
+  }
+]
