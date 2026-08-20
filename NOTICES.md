@@ -3,6 +3,15 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-20 — your dropped decisions are now visible
+- Late replies (past the 3 s shot clock) and hung calls were previously
+  counted but never logged, so a club could not see them. They now appear
+  in your decision log with a `status` saying why they were discarded.
+- The league delivers your own telemetry to `league_data/` in your repo
+  after every match: `health.json` (applied vs dropped, latency spread)
+  and the full `decisions.jsonl`. Read it — a club losing decisions to
+  latency is playing a man down without being told.
+
 ## 2026-08-19 — interface levels published (rules update)
 - The rules now define the hardware-access ladder: Level 1 (own
   perception via raw frames + raw velocities) is legal today; Level 2

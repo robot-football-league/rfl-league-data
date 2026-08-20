@@ -3,536 +3,402 @@
     "t": 0.0,
     "kind": "kickoff",
     "energy": "calm",
-    "text": "Underway here in the second round.",
-    "wav": "line_94492402fe46209b.wav",
-    "dur_s": 2.48
+    "text": "Underway in the terracotta and teal!"
   },
   {
     "t": 0.0,
     "kind": "radio",
     "energy": "calm",
-    "text": "Tortoise on the comms urging calm early on, promising to mind the shop at the back.",
-    "wav": "line_782701b3dcdcc9d8.wav",
-    "dur_s": 4.7
+    "text": "Tortoise immediately communicates the plan across the centre circle, looking to anchor the terracotta defensive line."
   },
   {
     "t": 11.61,
     "kind": "through",
     "energy": "excited",
-    "text": "Griezmatronn is clean through on goal in the middle!",
-    "wav": "line_958c9ad06948ff0b.wav",
-    "dur_s": 3.16
+    "text": "Griezmatronn breaks clean through the middle, right on goal!"
   },
   {
     "t": 15.88,
     "kind": "near_miss",
     "energy": "build",
-    "text": "Fires wide from close range, a huge let-off for Fable.",
-    "wav": "line_a7d29c01b431c9af.wav",
-    "dur_s": 3.58
+    "text": "A fortunate escape as the magenta ball rolls harmlessly wide."
   },
   {
     "t": 21.0,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Robodinho pounces from point-blank range to put Synthetic Athletic one-nil up!",
-    "wav": "line_53f1d0dad06ff486.wav",
-    "dur_s": 5.72
+    "text": "Robodinho bundles it in from point-blank range! It's an early lead for Synthetic Athletic, making it AFC Fable nil, Synthetic Athletic one!"
   },
   {
     "t": 30.0,
     "kind": "run",
     "energy": "build",
-    "text": "Tortoise rumbles through the middle into the attacking third.",
-    "wav": "line_2d0a6e9b0750bc06.wav",
-    "dur_s": 3.45
+    "text": "Tortoise marches steadily upfield towards the attacking third."
   },
   {
     "t": 34.52,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Tortoise drags it agonizingly wide of the near post.",
-    "wav": "line_25437dc30e08f8f9.wav",
-    "dur_s": 3.03
+    "text": "Tortoise flashes an effort inches wide of the upright!"
   },
   {
     "t": 38.96,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Another golden opportunity squandered right in front of the net!",
-    "wav": "line_bd97de29867f940e.wav",
-    "dur_s": 3.34
+    "text": "Another golden chance goes begging right in front of the net!"
   },
   {
     "t": 44.0,
     "kind": "pressure",
     "energy": "build",
-    "text": "Fable are sustaining relentless pressure here, pinning Synthetic Athletic right up against their own back wall.",
-    "wav": "line_c58a53417b00c44c.wav",
-    "dur_s": 6.32
+    "text": "Terracotta shirts applying all the pressure here, penning Synthetic Athletic back against their own goal line."
   },
   {
     "t": 53.0,
     "kind": "run",
-    "energy": "calm",
-    "text": "Robodinho breaks the siege, cleverly steering the magenta ball up the right channel.",
-    "wav": "line_283a75f5b7b413a7.wav",
-    "dur_s": 4.6
+    "energy": "build",
+    "text": "Robodinho relieves that siege with a strong run up the right flank into midfield."
   },
   {
     "t": 64.0,
     "kind": "radio",
     "energy": "calm",
-    "text": "Hare radios back, covering behind.",
-    "wav": "line_d1c87b2cd01c4ace.wav",
-    "dur_s": 2.56
+    "text": "Hare calls to drop back."
   },
   {
     "t": 64.0,
     "kind": "run",
     "energy": "build",
-    "text": "Robodinho surges down the left.",
-    "wav": "line_1dc4ea5d5cf494fd.wav",
-    "dur_s": 2.06
+    "text": "Robodinho charges down the left!"
   },
   {
     "t": 66.0,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Robodinho strikes again from the left channel, doubling Synthetic Athletic's lead to make it two-nil!",
-    "wav": "line_13333b14c9e9c2de.wav",
-    "dur_s": 7.03
+    "text": "It's Robodinho again! A sharp strike from the left channel doubles the teal advantage! AFC Fable nil, Synthetic Athletic two!"
   },
   {
     "t": 82.6,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Tortoise bundles it home from the right channel! AFC Fable are right back in this at one-two!",
-    "wav": "line_3d554a28bdeb214f.wav",
-    "dur_s": 7.5
+    "text": "Tortoise pulls one back from close range! Fable are right back in this contest, it is AFC Fable one, Synthetic Athletic two!"
   },
   {
     "t": 89.77,
     "kind": "fall",
     "energy": "calm",
-    "text": "Hare loses balance in the centre circle.",
-    "wav": "line_fc22b0fc8b73646d.wav",
-    "dur_s": 2.33
+    "text": "Hare loses footing and hits the deck."
   },
   {
     "t": 93.18,
     "kind": "collision",
-    "energy": "excited",
-    "text": "Fable teammates collide heavily in attack!",
-    "wav": "line_0432e10601bc12fb.wav",
-    "dur_s": 2.8
+    "energy": "build",
+    "text": "Fable teammates collide in a heap!"
   },
   {
     "t": 93.43,
     "kind": "tackle",
     "energy": "build",
-    "text": "Hare clatters into Robodinho to win possession, leaving the Brazilian-coded unit sprawling on the turf.",
-    "wav": "line_aa4eff7842f85b17.wav",
-    "dur_s": 6.37
+    "text": "Hare recovers quickly and crunches into Robodinho, sending the teal striker crashing down to the surface."
   },
   {
     "t": 126.46,
     "kind": "ram",
-    "energy": "build",
-    "text": "Corner panel ejects the ball!",
-    "wav": "line_7723c3e250d736b1.wav",
-    "dur_s": 1.88
+    "energy": "excited",
+    "text": "The corner push-panel launches it out!"
   },
   {
     "t": 127.54,
     "kind": "through",
     "energy": "excited",
-    "text": "And Hare is clean through on the right channel with the goal at their mercy!",
-    "wav": "line_49698296427385cb.wav",
-    "dur_s": 4.1
+    "text": "Hare picks up the rebound and is clean through with nobody in the way!"
   },
   {
     "t": 143.0,
     "kind": "pressure",
     "energy": "build",
-    "text": "Synthetic Athletic are completely trapped in their own half as the terracotta shirts turn the screw.",
-    "wav": "line_8ffa8bf0fe905b64.wav",
-    "dur_s": 5.25
+    "text": "Fable maintain relentless pressure in the final third, probing for an equaliser."
   },
   {
     "t": 152.1,
     "kind": "collision",
-    "energy": "excited",
-    "text": "A dreadful mix-up as the Synthetic Athletic teammates crash together!",
-    "wav": "line_269d6f73baa26668.wav",
-    "dur_s": 4.23
+    "energy": "build",
+    "text": "A total mix-up as the Synthetic Athletic pair crash together!"
   },
   {
     "t": 156.9,
     "kind": "tackle",
     "energy": "build",
-    "text": "Robodinho crunches Hare into touch.",
-    "wav": "line_689528740fbed081.wav",
-    "dur_s": 2.2
+    "text": "Robodinho levels Hare out wide!"
   },
   {
     "t": 157.35,
     "kind": "ram",
     "energy": "calm",
-    "text": "The corner push-panel hammers it right back out.",
-    "wav": "line_ff248798270ac301.wav",
-    "dur_s": 2.51
+    "text": "Another powered panel triggers, firing the ball clear."
   },
   {
     "t": 160.95,
     "kind": "tackle",
     "energy": "build",
-    "text": "Hare retaliates with a hefty challenge, flattening Robodinho in the defensive third.",
-    "wav": "line_f4c41d7442c51984.wav",
-    "dur_s": 4.6
+    "text": "Hare flies into a robust challenge, flattening Robodinho in the teal half!"
   },
   {
     "t": 166.79,
     "kind": "tackle",
     "energy": "excited",
-    "text": "Hare floors Griezmatronn as well!",
-    "wav": "line_2e3992589182e5b4.wav",
-    "dur_s": 2.06
+    "text": "Hare clatters into Griezmatronn too!"
   },
   {
     "t": 167.39,
     "kind": "fall",
     "energy": "excited",
-    "text": "Hare stumbles right on the line!",
-    "wav": "line_02d329c63ac797af.wav",
-    "dur_s": 2.01
+    "text": "Hare tumbles over the ball!"
   },
   {
     "t": 167.7,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Hare somehow scrambles it in from point-blank range! It's two-two!",
-    "wav": "line_6309eac93fb4db7f.wav",
-    "dur_s": 5.07
+    "text": "Hare scrambles it home! What chaos! It's AFC Fable two, Synthetic Athletic two!"
   },
   {
     "t": 168.9,
     "kind": "radio",
     "energy": "calm",
-    "text": "'Fast AND finished this time!' crows Hare over the airwaves, celebrating that chaotic equaliser.",
-    "wav": "line_e3beec4003922b40.wav",
-    "dur_s": 6.48
+    "text": "Hare signals celebrating that lightning finish, urging Fable to keep up this brisk attacking rhythm."
   },
   {
     "t": 200.9,
     "kind": "color",
     "energy": "calm",
-    "text": "After that opening barrage from Real Machina earlier today, both these sides are serving up an absolute treat of end-to-end humanoid combat.",
-    "wav": "line_bbc165f0eab3b46c.wav",
-    "dur_s": 9.2
+    "text": "A brief pause as the actuators cool. Synthetic Athletic came into today hungry for points after that agonizing 4-3 defeat to Real Machina, but Fable's relentless pressing has completely reset the dynamic."
   },
   {
     "t": 233.0,
     "kind": "run",
     "energy": "build",
-    "text": "Griezmatronn powers all the way up the left touchline.",
-    "wav": "line_07f0523a6b7e85a8.wav",
-    "dur_s": 2.98
+    "text": "Griezmatronn storms seven metres down the left wall."
   },
   {
     "t": 237.17,
     "kind": "through",
     "energy": "excited",
-    "text": "Griezmatronn is clean through on goal on the left touchline!",
-    "wav": "line_04706c6705734a32.wav",
-    "dur_s": 3.21
+    "text": "Griezmatronn is through on goal, four metres out and looking to restore the teal lead!"
   },
   {
     "t": 246.9,
     "kind": "radio",
     "energy": "calm",
-    "text": "'Mine! No naps today,' radios Hare, determined to keep Synthetic Athletic at bay.",
-    "wav": "line_9cd6bc18659e9be7.wav",
-    "dur_s": 6.06
+    "text": "Hare broadcasts a sharp message across the terracotta backline, staying alert and claiming defensive responsibility."
   },
   {
     "t": 268.9,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Robodinho bags his hat-trick with a neat finish from the right channel! Synthetic Athletic lead three-two!",
-    "wav": "line_f11dc290cf463703.wav",
-    "dur_s": 7.99
+    "text": "Robodinho strikes again with thirty seconds until the interval! A clinical finish from the right makes it AFC Fable two, Synthetic Athletic three!"
   },
   {
     "t": 278.0,
     "kind": "run",
-    "energy": "build",
-    "text": "Robodinho storms straight through the middle again.",
-    "wav": "line_259c91adbc230e09.wav",
-    "dur_s": 2.74
+    "energy": "excited",
+    "text": "Robodinho surges forward through the middle!"
   },
   {
     "t": 281.4,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Robodinho turns it in point-blank for his fourth of the match! Synthetic Athletic make it two-four!",
-    "wav": "line_8a18b20167ffd744.wav",
-    "dur_s": 6.32
+    "text": "Robodinho grabs a hat-trick right on the stroke of half-time! Ruthless finishing from point-blank range, and Synthetic Athletic extend their lead to four goals to two!"
   },
   {
     "t": 297.9,
     "kind": "radio",
     "energy": "calm",
-    "text": "Hare rallies Tortoise over the radio.",
-    "wav": "line_476ce0bc358a09d0.wav",
-    "dur_s": 2.38
+    "text": "Hare rallies the terracotta unit."
   },
   {
     "t": 300.0,
     "kind": "half_time",
     "energy": "calm",
-    "text": "There's the half-time buzzer. Synthetic Athletic take a commanding four-two lead into the break after a masterclass from Robodinho.",
-    "wav": "line_08f02908105ca8bb.wav",
-    "dur_s": 6.79
+    "text": "The buzzer sounds for half-time! Six goals in an utterly breathless opening period, and Synthetic Athletic lead AFC Fable four goals to two."
   },
   {
     "t": 321.0,
     "kind": "run",
-    "energy": "build",
-    "text": "Tortoise drives right down the middle!",
-    "wav": "line_6b4fe18d0cd5257d.wav",
-    "dur_s": 2.06
+    "energy": "excited",
+    "text": "Tortoise powers right through the centre!"
   },
   {
     "t": 321.9,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Tortoise hammers it home from three metres out! AFC Fable pull one back, it's three-four!",
-    "wav": "line_d75d2fce9c5942e8.wav",
-    "dur_s": 6.48
+    "text": "Instant response from Tortoise! A pinpoint finish into the net cuts the deficit to just one! AFC Fable three, Synthetic Athletic four!"
   },
   {
     "t": 349.18,
     "kind": "through",
     "energy": "excited",
-    "text": "Tortoise breaks clean through on the right channel, completely untracked!",
-    "wav": "line_974b133cf5fc8bcc.wav",
-    "dur_s": 4.52
+    "text": "Tortoise spots the opening from the halfway line and is clear through on goal!"
   },
   {
     "t": 357.96,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Inches wide of the post from Tortoise!",
-    "wav": "line_b4941c142f9e1677.wav",
-    "dur_s": 2.51
+    "text": "Agonisingly close! Shaving the paint off the frame!"
   },
   {
     "t": 361.96,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Tortoise misses the target from point-blank range, somehow letting Synthetic Athletic off the hook.",
-    "wav": "line_4ad74848c5f90938.wav",
-    "dur_s": 5.25
+    "text": "Another point-blank effort goes begging for Fable! They are knocking on the door with under four minutes left."
   },
   {
     "t": 374.4,
     "kind": "radio",
     "energy": "calm",
-    "text": "Tortoise radios: 'Mine \u2014 slow and steady,' calmly looking to orchestrate the next move from the touchline.",
-    "wav": "line_8a9085bea087ab98.wav",
-    "dur_s": 6.92
+    "text": "Tortoise signals for calm, steady progression out from the left touchline."
   },
   {
     "t": 400.5,
     "kind": "color",
     "energy": "calm",
-    "text": "A brief pause in the drama to allow the servomotors to catch up. Fable look full of belief here in this second period.",
-    "wav": "line_5d98b90b27433013.wav",
-    "dur_s": 7.03
+    "text": "A brief lull with just over three minutes left. Fable trailing by one, having shown tremendous grit after falling behind before the break."
   },
   {
     "t": 426.68,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Hare flashes a shot just past the upright from close range on the left channel.",
-    "wav": "line_7ee5f8cbd839c31c.wav",
-    "dur_s": 4.81
+    "text": "Fable let fly from the left channel, but it whistles just wide of the target!"
   },
   {
     "t": 436.8,
     "kind": "radio",
     "energy": "calm",
-    "text": "Robodinho radios their plan to play the wall.",
-    "wav": "line_42a760e93a7ece44.wav",
-    "dur_s": 2.51
+    "text": "Robodinho calls to use the rebound boards."
   },
   {
     "t": 441.0,
     "kind": "pressure",
     "energy": "build",
-    "text": "Fable lay siege once more.",
-    "wav": "line_729f571bf6258ae7.wav",
-    "dur_s": 1.67
+    "text": "Fable suffocating the teal defence!"
   },
   {
     "t": 441.96,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "A clearance skims dangerously close to their own goal mouth!",
-    "wav": "line_48ac305a4ffea5a2.wav",
-    "dur_s": 3.45
+    "text": "A deflection almost sneaks in at the near post!"
   },
   {
     "t": 446.58,
     "kind": "ram",
-    "energy": "build",
-    "text": "Push-panel launches it back inside!",
-    "wav": "line_c2ad37cdb57ba3ce.wav",
-    "dur_s": 2.25
+    "energy": "calm",
+    "text": "Rebounded hard off the corner panel!"
   },
   {
     "t": 448.28,
     "kind": "collision",
     "energy": "excited",
-    "text": "Synthetic Athletic collide, Griezmatronn falls!",
-    "wav": "line_1cb5783112c72d7e.wav",
-    "dur_s": 3.68
+    "text": "Teal teammates clash heavily again!"
   },
   {
     "t": 450.67,
     "kind": "tackle",
-    "energy": "build",
-    "text": "Griezmatronn trips up Hare 2m out!",
-    "wav": "line_d6bd3ebed18ae1b7.wav",
-    "dur_s": 2.3
+    "energy": "excited",
+    "text": "Griezmatronn takes down Hare!"
   },
   {
     "t": 453.7,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Tortoise turns in the loose ball on the goal line! We are level at four-four!",
-    "wav": "line_03edcfd8bdefaef0.wav",
-    "dur_s": 6.32
+    "text": "Tortoise sweeps it into the open net! We are level again with under two and a half minutes remaining! AFC Fable four, Synthetic Athletic four!"
   },
   {
     "t": 486.0,
     "kind": "pressure",
     "energy": "build",
-    "text": "Synthetic Athletic press high, penning Fable against their goal line.",
-    "wav": "line_8aa544b31d3f66f9.wav",
-    "dur_s": 4.34
+    "text": "Synthetic Athletic mount a desperate siege in the Fable third."
   },
   {
     "t": 490.9,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Agony for Fable as Hare deflects it into their own net! It's four-five to Synthetic Athletic!",
-    "wav": "line_2efc99960f26b69d.wav",
-    "dur_s": 7.26
+    "text": "Disaster for Fable! Hare turns it into the wrong net under heavy pressure! An own goal puts Synthetic Athletic ahead, four to five!"
   },
   {
     "t": 499.89,
     "kind": "fall",
     "energy": "calm",
-    "text": "Griezmatronn tumbles in midfield.",
-    "wav": "line_56e112c453b3c50c.wav",
-    "dur_s": 1.88
+    "text": "Griezmatronn takes an unforced tumble."
   },
   {
     "t": 500.51,
     "kind": "tackle",
     "energy": "build",
-    "text": "Robodinho slides into Tortoise, sending the Fable defender crashing onto the turf.",
-    "wav": "line_c34da2344ee1f6d3.wav",
-    "dur_s": 4.99
+    "text": "Robodinho stops Tortoise in midfield with a bruising collision as the clock ticks under one-forty."
   },
   {
     "t": 507.8,
     "kind": "through",
     "energy": "excited",
-    "text": "Hare is clean through on the left touchline!",
-    "wav": "line_749cd30f141de2ee.wav",
-    "dur_s": 2.61
+    "text": "Hare breaks clear down the left wing!"
   },
   {
     "t": 512.0,
     "kind": "run",
     "energy": "build",
-    "text": "Hare drives toward the goal.",
-    "wav": "line_6f82040ab49f4e1e.wav",
-    "dur_s": 1.83
+    "text": "Hare drives toward the goalmouth!"
   },
   {
     "t": 512.66,
     "kind": "fall",
     "energy": "excited",
-    "text": "Hare loses footing and collapses!",
-    "wav": "line_c9fd8877b8d27878.wav",
-    "dur_s": 2.25
+    "text": "Hare stumbles right on cue!"
   },
   {
     "t": 514.8,
     "kind": "radio",
     "energy": "calm",
-    "text": "'Going for the ball near the wall,' signals Robodinho as both robots scramble in the corner.",
-    "wav": "line_6b87610d8c398510.wav",
-    "dur_s": 5.43
+    "text": "Robodinho alerts Griezmatronn to contest the loose ball tight against the barrier."
   },
   {
     "t": 526.2,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Hare recovers to poke it over the line! What resilience, we are tied at five-five!",
-    "wav": "line_a64fe51887d4a460.wav",
-    "dur_s": 6.27
+    "text": "Hare scrambles up and stabs it over the line! Redemption in the blink of an eye! We are tied at five apiece entering the final minute!"
   },
   {
     "t": 544.88,
     "kind": "near_miss",
     "energy": "excited",
-    "text": "Off the post! You cannot get any closer than that without scoring!",
-    "wav": "line_22295dc30179b24a.wav",
-    "dur_s": 3.97
+    "text": "Inches from a winner! The ball kisses the post and bounces clear as fifty seconds remain!"
   },
   {
     "t": 557.3,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Disaster for Griezmatronn who turns it into their own net! AFC Fable lead six-five!",
-    "wav": "line_6ad995bc13d4d145.wav",
-    "dur_s": 6.19
+    "text": "Unbelievable scenes! Griezmatronn deflects it into the teal goal! Another own goal in this wild season, and Fable lead six to five with forty seconds left!"
   },
   {
     "t": 571.0,
     "kind": "run",
-    "energy": "build",
-    "text": "Robodinho surges straight through.",
-    "wav": "line_71f9d98a91c7b550.wav",
-    "dur_s": 2.14
+    "energy": "excited",
+    "text": "Robodinho drives straight down the middle!"
   },
   {
     "t": 573.5,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Unbelievable, Tortoise turns it into the Fable net for another own goal! It is six-six!",
-    "wav": "line_a1b956ea7fe1c5b2.wav",
-    "dur_s": 6.37
+    "text": "Would you believe it! Tortoise inadvertently knocks it home! Three own goals today, and Synthetic Athletic have levelled it at six all in the dying seconds!"
   },
   {
     "t": 599.0,
     "kind": "goal",
     "energy": "roar",
-    "text": "GOAL! Robodinho snatches victory right at the death for Synthetic Athletic, six-seven!",
-    "wav": "line_88bd159cf39f39b3.wav",
-    "dur_s": 5.36
+    "text": "Robodinho scores with one second left! Utter heartbreak! Six to seven!"
   },
   {
     "t": 600.0,
     "kind": "full_time",
     "energy": "calm",
-    "text": "Full time: AFC Fable 6, Synthetic Athletic 7. What an astonishing contest.",
-    "wav": "line_6e79ecd48d1bf8ec.wav",
-    "dur_s": 5.72
+    "text": "Full-time: AFC Fable six, Synthetic Athletic seven. Next up: Gemini Flash versus Manus FC at twelve."
   }
 ]

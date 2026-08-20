@@ -1,324 +1,253 @@
 {
-  "played": [
+ "played": [
+  {
+   "fixture": 1,
+   "home": "real_machina",
+   "away": "frontier_manus",
+   "score": [
+    11,
+    0
+   ],
+   "goals": [
     {
-      "fixture": 1,
-      "home": "real_machina",
-      "away": "frontier_manus",
-      "score": [
-        11,
-        0
-      ],
-      "goals": [
-        {
-          "t": 23.8,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 158.1,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 177.5,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 195.2,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 217.1,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 297.9,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 325.8,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 352.3,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 370.7,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 419.2,
-          "team": "A",
-          "scorer": 2,
-          "replay_s": 5.0
-        },
-        {
-          "t": 541.2,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        }
-      ],
-      "est_cost_usd": 0.2315,
-      "players": {
-        "home": [
-          "CR-7000",
-          "Zidroid"
-        ],
-        "away": [
-          "Prompt",
-          "Trace"
-        ]
-      },
-      "dir": "runs/league/s2/m1_real_machina_frontier_manus"
+     "t": 23.8,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
     },
     {
-      "fixture": 2,
-      "home": "frontier_fable",
-      "away": "synthetic_athletic",
-      "score": [
-        6,
-        7
-      ],
-      "goals": [
-        {
-          "t": 21.0,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 66.0,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 82.6,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 167.7,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 268.9,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 281.4,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 321.9,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 453.7,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 490.9,
-          "team": "B",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 526.2,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 557.3,
-          "team": "A",
-          "scorer": 2,
-          "replay_s": 5.0
-        },
-        {
-          "t": 573.5,
-          "team": "B",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 599.0,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        }
-      ],
-      "est_cost_usd": 0.2315,
-      "players": {
-        "home": [
-          "Tortoise",
-          "Hare"
-        ],
-        "away": [
-          "Griezmatronn",
-          "Robodinho"
-        ]
-      },
-      "dir": "runs/league/s2/m2_frontier_fable_synthetic_athletic"
+     "t": 158.1,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
     },
     {
-      "fixture": 3,
-      "home": "singularity_united",
-      "away": "frontier_gemini",
-      "score": [
-        2,
-        4
-      ],
-      "goals": [
-        {
-          "t": 86.8,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 269.1,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 342.6,
-          "team": "B",
-          "scorer": 2,
-          "replay_s": 5.0
-        },
-        {
-          "t": 382.7,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 513.4,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 537.1,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        }
-      ],
-      "est_cost_usd": 0.4765,
-      "players": {
-        "home": [
-          "Haalandroid",
-          "BellingRAM"
-        ],
-        "away": [
-          "Flash",
-          "Spark"
-        ]
-      },
-      "dir": "runs/league/s2/m3_singularity_united_frontier_gemini"
+     "t": 177.5,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
     },
     {
-      "fixture": 4,
-      "home": "frontier_sol",
-      "away": "dynamo_datacenter",
-      "score": [
-        4,
-        4
-      ],
-      "goals": [
-        {
-          "t": 37.7,
-          "team": "A",
-          "scorer": 1,
-          "replay_s": 5.0
-        },
-        {
-          "t": 53.7,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 173.7,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 283.2,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 347.4,
-          "team": "B",
-          "scorer": 2,
-          "replay_s": 5.0
-        },
-        {
-          "t": 395.6,
-          "team": "B",
-          "scorer": 3,
-          "replay_s": 5.0
-        },
-        {
-          "t": 514.7,
-          "team": "A",
-          "scorer": 0,
-          "replay_s": 5.0
-        },
-        {
-          "t": 573.0,
-          "team": "B",
-          "scorer": 1,
-          "replay_s": 5.0
-        }
-      ],
-      "est_cost_usd": 0.2304,
-      "players": {
-        "home": [
-          "Patchford",
-          "Turingham"
-        ],
-        "away": [
-          "Mbapp-E",
-          "Buffon.exe"
-        ]
-      },
-      "dir": "runs/league/s2/m4_frontier_sol_dynamo_datacenter"
+     "t": 195.2,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 217.1,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 297.9,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 325.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 352.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 370.7,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 419.2,
+     "team": "A",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 541.2,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
     }
-  ]
+   ],
+   "est_cost_usd": 0.2315,
+   "players": {
+    "home": [
+     "CR-7000",
+     "Zidroid"
+    ],
+    "away": [
+     "Prompt",
+     "Trace"
+    ]
+   },
+   "dir": "runs/league/s2/m1_real_machina_frontier_manus"
+  },
+  {
+   "fixture": 2,
+   "home": "frontier_fable",
+   "away": "synthetic_athletic",
+   "score": [
+    6,
+    7
+   ],
+   "goals": [
+    {
+     "t": 21.0,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 66.0,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 82.6,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 167.7,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 268.9,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 281.4,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 321.9,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 453.7,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 490.9,
+     "team": "B",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 526.2,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 557.3,
+     "team": "A",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 573.5,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 599.0,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2315,
+   "players": {
+    "home": [
+     "Tortoise",
+     "Hare"
+    ],
+    "away": [
+     "Griezmatronn",
+     "Robodinho"
+    ]
+   },
+   "dir": "runs/league/s2/m2_frontier_fable_synthetic_athletic"
+  },
+  {
+   "fixture": 3,
+   "home": "singularity_united",
+   "away": "frontier_gemini",
+   "score": [
+    2,
+    4
+   ],
+   "goals": [
+    {
+     "t": 86.8,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 269.1,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 342.6,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 382.7,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 513.4,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 537.1,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.4765,
+   "players": {
+    "home": [
+     "Haalandroid",
+     "BellingRAM"
+    ],
+    "away": [
+     "Flash",
+     "Spark"
+    ]
+   },
+   "dir": "runs/league/s2/m3_singularity_united_frontier_gemini"
+  }
+ ]
 }
