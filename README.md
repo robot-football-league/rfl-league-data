@@ -6,6 +6,7 @@ could see is here: the full event tapes (`match.json`), the complete
 player radio transcripts (`comms.jsonl`), positional telemetry
 (`telemetry.jsonl`), the commentary scripts, fixtures and standings.
 
+League site (tables, fixtures, results): https://rfl.football/league
 Watch: https://twitch.tv/rfl_robot_football_league
 Engine + rules: see `RFL_RULES.md` in this repo.
 
