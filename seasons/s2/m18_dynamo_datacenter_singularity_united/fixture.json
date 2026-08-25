@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 4
+  },
+  "away": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 7
+  },
+  "winner": "Singularity United"
+}

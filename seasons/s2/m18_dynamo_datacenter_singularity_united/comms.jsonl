@@ -1,0 +1,150 @@
+{"t": 0.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "Going for the ball"}
+{"t": 0.5, "from": "r3", "team": "Singularity United", "number": 2, "text": "Going for the ball"}
+{"t": 2.1, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "Going for the ball", "reason": "repeat"}
+{"t": 4.2, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "Pushing through!", "reason": "cooldown"}
+{"t": 14.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying it loose from the wall"}
+{"t": 14.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "Clear it from the wall"}
+{"t": 16.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "Unsticking from the wall"}
+{"t": 18.2, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "Unsticking the ball", "reason": "cooldown"}
+{"t": 20.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 20.4, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "Prying it off the wall now", "reason": "cooldown"}
+{"t": 24.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck against the wall, pushing it out"}
+{"t": 24.5, "from": "r3", "team": "Singularity United", "number": 2, "text": "Digging it out"}
+{"t": 26.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "continuing to push the ball along the wall", "reason": "cooldown"}
+{"t": 30.2, "from": "r2", "team": "Singularity United", "number": 1, "text": "moving the ball along the wall"}
+{"t": 32.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "got it, clearing"}
+{"t": 34.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it now", "reason": "cooldown"}
+{"t": 36.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "helping push it free", "reason": "cooldown"}
+{"t": 38.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it loose from the wall", "reason": "cooldown"}
+{"t": 38.2, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "Still working the ball against the wall", "reason": "cooldown"}
+{"t": 62.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "pushing it free"}
+{"t": 62.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying it from the wall"}
+{"t": 66.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "attacking"}
+{"t": 96.2, "from": "r2", "team": "Singularity United", "number": 1, "text": "got it"}
+{"t": 98.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing the ball from our wall"}
+{"t": 100.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it free", "reason": "repeat"}
+{"t": 100.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "breaking it loose", "reason": "cooldown"}
+{"t": 100.3, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "freeing the ball", "reason": "cooldown"}
+{"t": 104.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "helping clear it from the wall", "reason": "cooldown"}
+{"t": 112.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it off the wall"}
+{"t": 116.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "scoring!"}
+{"t": 132.4, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing the ball"}
+{"t": 154.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing the scrum"}
+{"t": 162.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "going for goal"}
+{"t": 174.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "Going for the ball"}
+{"t": 214.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying the ball off the wall"}
+{"t": 248.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "Going for the ball", "reason": "repeat"}
+{"t": 276.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "ball's stuck against the wall, going to free it"}
+{"t": 328.7, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck against the wall, freeing it"}
+{"t": 330.7, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball's stuck against the wall, clearing it"}
+{"t": 332.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "pushing along the wall"}
+{"t": 340.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "helping clear it"}
+{"t": 346.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "working it along the wall"}
+{"t": 346.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 366.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "pushing off the wall"}
+{"t": 370.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 374.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "working the ball along the wall", "reason": "cooldown"}
+{"t": 376.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 380.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it from the wall"}
+{"t": 383.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 383.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "helping clear the stuck ball"}
+{"t": 385.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it free from the wall", "reason": "cooldown"}
+{"t": 385.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "helping you push it out", "reason": "cooldown"}
+{"t": 386.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "getting the ball", "reason": "cooldown"}
+{"t": 404.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "got it"}
+{"t": 432.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "firing for goal"}
+{"t": 439.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "scoring!"}
+{"t": 458.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "got it", "reason": "repeat"}
+{"t": 461.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "got it"}
+{"t": 467.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 469.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 470.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck, freeing it"}
+{"t": 473.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "freeing it from the corner wall"}
+{"t": 475.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 484.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 487.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "going for the ball"}
+{"t": 502.9, "from": "r3", "team": "Singularity United", "number": 2, "text": "pushing it free along the wall"}
+{"t": 509.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 509.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball's stuck against the wall, clearing it"}
+{"t": 511.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it free from the wall", "reason": "cooldown"}
+{"t": 513.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 514.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying it loose from the wall"}
+{"t": 514.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "working it free"}
+{"t": 532.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it"}
+{"t": 533.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 535.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "freeing the ball", "reason": "cooldown"}
+{"t": 536.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "freeing from wall", "reason": "cooldown"}
+{"t": 537.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 539.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it out", "reason": "cooldown"}
+{"t": 540.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "freeing ball from wall", "reason": "cooldown"}
+{"t": 541.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 542.3, "from": "r2", "team": "Singularity United", "number": 1, "text": "pushing it free"}
+{"t": 542.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "freeing from wall"}
+{"t": 543.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the stuck ball", "reason": "cooldown"}
+{"t": 544.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 545.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck, kicking it free"}
+{"t": 546.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "kick it free"}
+{"t": 546.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 547.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "kicking it off the wall", "reason": "cooldown"}
+{"t": 548.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 550.1, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "still pushing against wall", "reason": "cooldown"}
+{"t": 550.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 552.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 552.1, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 552.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing wall", "reason": "cooldown"}
+{"t": 554.1, "from": "r2", "team": "Singularity United", "number": 1, "text": "pushing it along the wall"}
+{"t": 554.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "driving it off the wall", "reason": "cooldown"}
+{"t": 555.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "freeing it"}
+{"t": 557.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 558.0, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "got it, pushing away from the wall", "reason": "cooldown"}
+{"t": 558.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying it off the wall"}
+{"t": 558.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing wall"}
+{"t": 559.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting it away from the wall", "reason": "cooldown"}
+{"t": 560.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "passing away from wall", "reason": "cooldown"}
+{"t": 560.1, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "pushing along the wall", "reason": "cooldown"}
+{"t": 561.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 562.2, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "getting the ball", "reason": "cooldown"}
+{"t": 564.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "kicking it clear of the wall", "reason": "cooldown"}
+{"t": 564.7, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "getting the ball from the wall", "reason": "cooldown"}
+{"t": 565.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting the ball from the wall", "reason": "cooldown"}
+{"t": 566.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "kicking it away from the wall", "reason": "cooldown"}
+{"t": 566.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing from wall", "reason": "cooldown"}
+{"t": 567.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it away from the corner"}
+{"t": 568.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "nudging it out from the corner", "reason": "cooldown"}
+{"t": 568.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 570.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "getting it out of the corner"}
+{"t": 570.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing the wall"}
+{"t": 571.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 572.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 572.9, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing wall", "reason": "cooldown"}
+{"t": 573.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 574.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing off the wall", "reason": "cooldown"}
+{"t": 574.1, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing the stuck ball"}
+{"t": 574.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 575.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "freeing it from the corner", "reason": "cooldown"}
+{"t": 576.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "unsticking from wall", "reason": "cooldown"}
+{"t": 577.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the corner wall", "reason": "cooldown"}
+{"t": 578.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "nudging off the wall", "reason": "cooldown"}
+{"t": 578.1, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 579.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing the stuck ball", "reason": "cooldown"}
+{"t": 580.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing from the wall"}
+{"t": 585.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it away from the wall"}
+{"t": 587.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 588.1, "from": "r2", "team": "Singularity United", "number": 1, "text": "got it, helping push"}
+{"t": 588.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "unsticking from wall"}
+{"t": 590.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "getting it away from the wall", "reason": "cooldown"}
+{"t": 590.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing along the wall", "reason": "cooldown"}
+{"t": 591.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 592.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "nudging off the wall"}
+{"t": 592.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 593.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "nudging it away from the wall", "reason": "cooldown"}
+{"t": 594.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "unsticking from wall", "reason": "cooldown"}
+{"t": 594.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 595.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the corner wall", "reason": "cooldown"}
+{"t": 596.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "helping unstick the ball", "reason": "cooldown"}
+{"t": 596.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 597.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "kick it away from wall"}
+{"t": 598.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "nudging off the wall", "reason": "repeat"}
+{"t": 598.4, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it from the wall"}
+{"t": 598.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "pushing along the wall", "reason": "cooldown"}
+{"t": 599.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}

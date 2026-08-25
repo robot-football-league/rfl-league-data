@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T16:46:21+00:00",
+ "generated_at": "2026-08-25T22:13:57+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -1634,14 +1634,14 @@
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 4,
-     "W": 3,
+     "P": 5,
+     "W": 4,
      "D": 0,
      "L": 1,
-     "GF": 26,
-     "GA": 12,
-     "Pts": 9,
-     "GD": 14
+     "GF": 33,
+     "GA": 16,
+     "Pts": 12,
+     "GD": 17
     },
     {
      "pos": 3,
@@ -1649,14 +1649,14 @@
      "name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "P": 4,
+     "P": 5,
      "W": 2,
      "D": 1,
-     "L": 1,
-     "GF": 17,
-     "GA": 17,
+     "L": 2,
+     "GF": 21,
+     "GA": 24,
      "Pts": 7,
-     "GD": 0
+     "GD": -3
     },
     {
      "pos": 4,
@@ -5041,8 +5041,200 @@
      "away_name": "Singularity United",
      "home_code": "DYD",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-08-25T19:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      7
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 9,
+        "second": 62.2,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 12,
+        "second": 81.7,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 17,
+        "second": 116.5,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 140.0,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 171.5,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 29,
+        "second": 191.5,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 287.8,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 400.5,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 428.4,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 73,
+        "second": 486.5,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 515.1,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 219,
+       "kick": 197,
+       "through": 16,
+       "near_miss": 2,
+       "fall": 16,
+       "wall": 22,
+       "ram": 3
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 16.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "Unsticking from the wall"
+       },
+       {
+        "second": 62.0,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing it free"
+       },
+       {
+        "second": 98.4,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing the ball from our wall"
+       },
+       {
+        "second": 162.2,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "going for goal"
+       },
+       {
+        "second": 328.7,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck against the wall, freeing it"
+       },
+       {
+        "second": 366.8,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing off the wall"
+       },
+       {
+        "second": 432.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "firing for goal"
+       },
+       {
+        "second": 484.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball is stuck against the wall, pushing it free"
+       },
+       {
+        "second": 514.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "prying it loose from the wall"
+       },
+       {
+        "second": 542.8,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "freeing from wall"
+       },
+       {
+        "second": 555.3,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "freeing it"
+       },
+       {
+        "second": 570.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 588.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "got it, helping push"
+       }
+      ],
+      "stats": {
+       "kicks": 197,
+       "falls": 16,
+       "near_misses": 2,
+       "post_hits": 0,
+       "through_balls": 16
+      },
+      "est_cost_usd": 0.4748
+     },
+     "watch": {
+      "id": "s2-m18_dynamo_datacenter_singularity_united",
+      "url": "https://4dgsx.com/watch/s2-m18_dynamo_datacenter_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s2-m18_dynamo_datacenter_singularity_united"
+     }
     },
     {
      "n": 19,
@@ -5165,6 +5357,22 @@
      "goals": 23
     },
     {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 17
+    },
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 14
+    },
+    {
      "name": "CR-7000",
      "team": "real_machina",
      "team_name": "Real Machina",
@@ -5179,22 +5387,6 @@
      "code": "CDX",
      "color": "#0a0d0b",
      "goals": 13
-    },
-    {
-     "name": "BellingRAM",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 12
-    },
-    {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 12
     },
     {
      "name": "Robodinho",
@@ -5218,7 +5410,7 @@
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "goals": 10
+     "goals": 11
     },
     {
      "name": "Prompt",
@@ -5229,15 +5421,15 @@
      "goals": 9
     },
     {
-     "name": "Trace",
-     "team": "frontier_manus",
-     "team_name": "Manus FC",
-     "code": "MNS",
-     "color": "#625bff",
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
      "goals": 8
     }
    ],
-   "aired_count": 17,
+   "aired_count": 18,
    "total_matches": 28,
    "complete": false,
    "slots": [
@@ -5249,8 +5441,8 @@
   }
  ],
  "totals": {
-  "matches_aired": 23,
-  "goals": 228,
+  "matches_aired": 24,
+  "goals": 239,
   "clubs": 8
  }
 }

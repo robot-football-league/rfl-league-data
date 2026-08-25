@@ -1386,6 +1386,95 @@
     ]
    },
    "dir": "runs/league/s2/m17_real_machina_frontier_sol"
+  },
+  {
+   "fixture": 18,
+   "home": "dynamo_datacenter",
+   "away": "singularity_united",
+   "score": [
+    4,
+    7
+   ],
+   "goals": [
+    {
+     "t": 62.2,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 81.7,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 116.5,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 140.0,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 171.5,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 191.5,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 287.8,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 400.5,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 428.4,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 486.5,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 515.1,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.4748,
+   "players": {
+    "home": [
+     "Mbapp-E",
+     "Buffon.exe"
+    ],
+    "away": [
+     "Haalandroid",
+     "BellingRAM"
+    ]
+   },
+   "dir": "runs/league/s2/m18_dynamo_datacenter_singularity_united"
   }
  ]
 }
