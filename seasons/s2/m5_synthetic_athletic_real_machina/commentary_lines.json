@@ -1,0 +1,442 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway here in match five.",
+    "wav": "line_f539b633ed3e3855.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 2.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho signals intent to claim possession right in the centre circle.",
+    "wav": "line_f150eccd11f4c3f4.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 18.49,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 is clean through down the left, nobody in the way!",
+    "wav": "line_19fe141073bcbf25.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 29.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just past the upright from close range!",
+    "wav": "line_4cfc9c203fd2e814.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 32.26,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Robodinho loses balance in defence, immediately initiating recovery.",
+    "wav": "line_a0faef26ac9f0309.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 38.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina are suffocating the red shirts here, pinning Synthetic Athletic deep against their own goal mouth.",
+    "wav": "line_a35cd9c62ccdceb1.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 51.64,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Down goes Robodinho again on the left touchline, gyroscopes having a proper wobble today, though the self-righting routine is already underway.",
+    "wav": "line_a463d81b39424b99.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 70.93,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Another spill for Robodinho, struggling for grip back there.",
+    "wav": "line_b31bfe6bb51d80b9.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 76.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid tucks it away from two metres! Real Machina lead one-nil!",
+    "wav": "line_bde05c620968a7c7.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 78.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Zidroid immediately calls for the press straight from the restart.",
+    "wav": "line_d483b45de6895830.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 88.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 charges straight through midfield!",
+    "wav": "line_8e18f30291955a02.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 89.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 smashes it home from close range! Two quickfire strikes make it two-nil to Real Machina!",
+    "wav": "line_8be18b8b7c72b7ca.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 108.16,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from point-blank range!",
+    "wav": "line_7552d6fb989aad29.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 110.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 surges right up to the mouth!",
+    "wav": "line_4e1a6a869606bb7a.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 113.4,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Shaves the post from the right!",
+    "wav": "line_4615ca3273aa3d2b.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 114.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless white-shirted pressure continues unabated.",
+    "wav": "line_5c57bf6714551319.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 117.17,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel triggers and thumps the magenta ball back into open pitch.",
+    "wav": "line_7413d201e850bf49.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 124.27,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Fired out by the corner panel!",
+    "wav": "line_a4ee036268b64236.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 126.73,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "An awkward mix-up between teammates as CR-7000 and Zidroid crash together right in front of goal, leaving CR-7000 on the deck.",
+    "wav": "line_b6afdb5887a06414.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 145.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho signals an all-out effort to prize the ball off the boundary wall.",
+    "wav": "line_4e585b070c38c146.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 155.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid slots it into the bottom corner! Clinical finishing from Real Machina, and it is three-nil!",
+    "wav": "line_382d2f46bb63ae0f.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 180.99,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Griezmatronn breaks free with an open run on goal!",
+    "wav": "line_e45dbd9f5fa7e7f5.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 185.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn strides forward smoothly across the halfway line, orchestrating a rare break for Synthetic Athletic.",
+    "wav": "line_7bec66876864b77d.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 199.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn drives within striking distance!",
+    "wav": "line_b61cbae2a3791a81.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 201.6,
+    "kind": "near_miss",
+    "energy": "calm",
+    "text": "Ambitious effort flashes wide!",
+    "wav": "line_b158b5a418c1ae25.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 201.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn pounces on the rebound and bundles it over the line! Synthetic Athletic pull one back, three-one!",
+    "wav": "line_170a6cb9291d369b.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 223.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho confirms possession is secured out on the left flank as Synthetic Athletic look to build momentum.",
+    "wav": "line_943ec5e14dc16737.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 249.2,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A quiet moment by the right wall. Synthetic Athletic desperately needed that goal before the break after being dismantled early on by Real Machina\u2019s relentless pairing.",
+    "wav": "line_a170e5bf37dd30f4.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 275.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 indicates support is arriving to dislodge the ball from the wall.",
+    "wav": "line_b250188a6677e61e.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 282.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 stabs it in from the right! Real Machina restore their three-goal cushion, making it four-one!",
+    "wav": "line_f9e3d05bdef21c92.wav",
+    "dur_s": 8.23
+  },
+  {
+    "t": 291.37,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 breaks clean through again!",
+    "wav": "line_bf86203511c64100.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 293.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 marches directly into the attacking third, threatening once more.",
+    "wav": "line_fad87396ad8cdfbc.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That is the whistle for half-time. Real Machina lead Synthetic Athletic four goals to one after a dominant opening period in this round-robin clash.",
+    "wav": "line_8aefe0f800197b7c.wav",
+    "dur_s": 10.27
+  },
+  {
+    "t": 324.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn leads the charge up into the final third.",
+    "wav": "line_9afa54afad72f1f7.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 328.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A wicked deflection skims just wide of the post, nearly handing away another goal.",
+    "wav": "line_42a342ad2219f375.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 344.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! An own goal off CR-7000! The ball ricochets into the net and Synthetic Athletic are gifted a second! Four-two now!",
+    "wav": "line_334509e6e6286cf8.wav",
+    "dur_s": 9.61
+  },
+  {
+    "t": 360.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid informs CR-7000 that work is underway to work the ball free along the left barrier.",
+    "wav": "line_59f30912aab533a7.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 386.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina are tightening the screw again, pinning the red shirts deep in their defensive third.",
+    "wav": "line_edc19c827a1da7ce.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 401.83,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Griezmatronn breaks into open space with nobody ahead to block the route!",
+    "wav": "line_b7fc65f681b83485.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 411.76,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A massive chance goes begging right in the goal mouth, skipping wide by less than a metre!",
+    "wav": "line_7972b0584ed6172a.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 430.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 signals the clearance attempt.",
+    "wav": "line_1c952d6344f9292f.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 431.7,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Griezmatronn hits the deck right in the goal mouth at the crucial moment.",
+    "wav": "line_b4b36927d57791ee.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 439.72,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner panel ejects it!",
+    "wav": "line_f577035b2c859a19.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 440.64,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho is clean through!",
+    "wav": "line_5f030bfd58c3e512.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 440.72,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Robodinho flattens CR-7000 in midfield!",
+    "wav": "line_3e6278ce194a9da1.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 441.43,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Zidroid retaliates and topples Robodinho!",
+    "wav": "line_cb03a4dfb427caf4.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 441.8,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "And now Zidroid goes down in a chaotic scramble! Units tumbling everywhere in this breathless phase of play!",
+    "wav": "line_185c07d1c693e51d.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 467.4,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A much-needed reset as both sides regain their balance. Synthetic Athletic have shown tremendous grit to stay in this contest against the league leaders.",
+    "wav": "line_096f3a80908ef325.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 493.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid regains control, carrying the ball methodically through the centre of the pitch.",
+    "wav": "line_e665e0812e6f82be.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 507.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid calls for the clearance.",
+    "wav": "line_064d3a678040f84d.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 510.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina are squeezing high once again, keeping Synthetic Athletic pinned right against their back wall as the clock ticks down.",
+    "wav": "line_d935e766876843af.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 554.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn pushes forward on the left, hunting for one last opportunity.",
+    "wav": "line_3264a98bac926825.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 567.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Struck wide from point-blank range!",
+    "wav": "line_5859762c26f263a0.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 568.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho turns it home right on the goal line! Synthetic Athletic make it three-four, setting up a frantic finish!",
+    "wav": "line_35385d700524f55d.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Synthetic Athletic three, Real Machina four, a pulsating thriller ends with Machina taking the spoils.",
+    "wav": "line_073686c4ed6b6eba.wav",
+    "dur_s": 7.32
+  }
+]

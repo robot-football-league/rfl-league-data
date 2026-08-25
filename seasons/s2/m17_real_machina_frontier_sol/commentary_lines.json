@@ -1,0 +1,506 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this round-robin clash!",
+    "wav": "line_e32b14f81e803fcb.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 makes intentions clear immediately, signalling a charge straight for the loose ball in the centre circle.",
+    "wav": "line_f070360ab105e28e.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 20.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 strides forward down the left channel, carrying the magenta sphere nicely into the middle of the park. Real Machina looking to assert their dominance at the top of the table.",
+    "wav": "line_49f17942ecc72a62.wav",
+    "dur_s": 10.74
+  },
+  {
+    "t": 38.78,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel thumps the ball straight back out into play!",
+    "wav": "line_bfa8e13ea5d74e2b.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 43.89,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford spots the opening from deep, knocking it through on goal with nobody left to defend!",
+    "wav": "line_546b9ad08c0925c2.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 56.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "CR-7000 signals to work the ball away from the boundary wall.",
+    "wav": "line_6953bcb9c8eefcc6.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 61.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina applying relentless pressure forward.",
+    "wav": "line_500c939e811309ff.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 64.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid applies the finishing touch from close range, breaking the deadlock! Real Machina lead Codex City one-nil!",
+    "wav": "line_b6a0c58f1d4c3592.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 87.47,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Rattled into the bevelled corner and the powered push-panel shoots it back into the danger zone!",
+    "wav": "line_7ab869e686d9b8b5.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 104.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford powers three metres up the right flank to ignite a counter-attack.",
+    "wav": "line_3d2267996258c615.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 110.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford levels it up for Codex City! A calm finish from two metres out makes it one-one!",
+    "wav": "line_169bbcba09079823.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 115.98,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "CR-7000 loses balance in the centre circle and topples over, but the gyros are already whirring to right the machine.",
+    "wav": "line_042131943d4ef3a0.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 141.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid tucks it home from two metres! Real Machina lead Codex City two-one!",
+    "wav": "line_c495af17ac7deafa.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 144.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Turingham communicates a shift in defensive positioning, instructing the setup to remain tightly goal-side of the incoming press.",
+    "wav": "line_762d4f01db324f01.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 175.2,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Flashed just wide of the post!",
+    "wav": "line_da64131fd19ec240.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 175.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford pounces from point-blank range to equalize again! Codex City make it two-two!",
+    "wav": "line_e1e181a84eb00a21.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 179.33,
+    "kind": "through",
+    "energy": "excited",
+    "text": "What a response! CR-7000 breaks clear from midfield, clean through on goal with the entire net gaping ahead!",
+    "wav": "line_036e57f660fed514.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 196.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close, shaving past the upright!",
+    "wav": "line_b63518498f25a1f4.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 202.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! A hat-trick for Zidroid, who buries it from two metres! Real Machina edge back ahead, three-two!",
+    "wav": "line_52380c4c4a7d0d04.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 218.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away! A whisker past the target!",
+    "wav": "line_909a5f23d6c0038b.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 221.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid alerts CR-7000 that the path forward is open, signalling an attempt to drive straight past the black-shirted defender.",
+    "wav": "line_234b406fae655b13.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 242.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid strikes again! Four-two to Real Machina!",
+    "wav": "line_ef60885875e2297c.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 242.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina have utterly hemmed Codex City into their own end for twenty solid seconds.",
+    "wav": "line_7de56f3d2fd9326c.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 253.92,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Squeaked narrowly wide of the mark!",
+    "wav": "line_0d13f4616e6bcd7a.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 255.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 marches through the middle!",
+    "wav": "line_5146b3793c7187dc.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 257.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid cannot stop scoring! Real Machina lead five-two!",
+    "wav": "line_0a84597c69b11562.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 258.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City are completely besieged here in the final minute of the half as Real Machina keep the throttle fully open.",
+    "wav": "line_be8d06c041c63988.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 293.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 advances along the left.",
+    "wav": "line_ef7d97bbf3fa8cd4.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 294.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford calls to reset defensively by shifting play laterally across the back.",
+    "wav": "line_c24fd2f67bef6fa0.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings the first half to a close. Real Machina take a commanding five-two lead into the interval after a ruthless attacking clinic.",
+    "wav": "line_bad96d8b217eb95e.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 314.62,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 breaks clean through the centre with an open path to goal!",
+    "wav": "line_7d8a05327780885b.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 320.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! CR-7000 joins the party, slotting home from close range! Real Machina extend their lead to six-two!",
+    "wav": "line_cfb888be6cd7aea8.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 335.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Another for CR-7000, tapped in from point-blank range! Real Machina are running riot at seven-two!",
+    "wav": "line_4f391d0428057060.wav",
+    "dur_s": 9.59
+  },
+  {
+    "t": 341.74,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford clatters in and sends Zidroid sprawling flat to the turf!",
+    "wav": "line_9377a297af3c5051.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 347.92,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Teammates collide! CR-7000 goes down!",
+    "wav": "line_efd550f4d3bc6612.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 350.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford charges straight on goal!",
+    "wav": "line_bce027bac7256748.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 350.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford capitalises on the white shirts' mix-up and pokes it in from point-blank! Codex City pull one back to make it seven-three!",
+    "wav": "line_8bb2671633e4ada2.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 367.91,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "CR-7000 trips on nothing and hits the deck.",
+    "wav": "line_8ec12216ebdacdd0.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 372.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid radios over to indicate assistance is on the way to untangle the magenta ball from the perimeter wall.",
+    "wav": "line_e894b5ee2af6ed8a.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 392.08,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the far post!",
+    "wav": "line_be2df110496cdead.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 394.68,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Heavy crunch sends Patchford down!",
+    "wav": "line_4123bb531008f10c.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 396.08,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Another white-shirt pileup! Zidroid goes down!",
+    "wav": "line_8ae3bd19860ddc06.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 399.48,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Ball into the corner, and the push-panel activates, propelling it right back into the mix.",
+    "wav": "line_6f333584104eefbf.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 411.39,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Turingham flattened in a solid challenge!",
+    "wav": "line_7801f03b62587ee4.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 414.09,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford slips through the wreckage and is entirely unmarked on goal with only the back of the net to aim at!",
+    "wav": "line_9974a7bf764c333d.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 430.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford embarks on a determined nine-metre carry up the left touchline, pushing into the final third.",
+    "wav": "line_2a7351f7261915f5.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 442.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford transmits defensive orders, calling to press along the wall while keeping the central passing channel guarded.",
+    "wav": "line_6b49b3c884f57674.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 455.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 drives forward along the right touchline with time ticking away.",
+    "wav": "line_afbd4869feb98cae.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 460.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Into the final two minutes and Real Machina have Codex City completely penned inside their own defensive perimeter once again.",
+    "wav": "line_1fe3e47b7a326a28.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 494.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Zidroid signals the strategy to utilise the wall rebound in the final third.",
+    "wav": "line_2edd5e7a34e6885a.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 504.51,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Fired out by the corner panel!",
+    "wav": "line_a4ee036268b64236.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 506.45,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Codex City teammates collide heavily!",
+    "wav": "line_bf40ef54c0f0cf74.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 507.27,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Turingham recovers swiftly to slip the ball through on goal with an open runway ahead!",
+    "wav": "line_b7170748831ddbf6.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 516.78,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "But CR-7000 arrives with force, flattening Turingham to extinguish the danger!",
+    "wav": "line_e3e3b804f2e09d6b.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 528.24,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just centimeters away from scoring!",
+    "wav": "line_c42b9c2b70783a47.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 529.72,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Patchford loses balance and collapses!",
+    "wav": "line_1f10ef8a968cbce2.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 532.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid punishes the mistake from two metres out! That makes it eight-three to Real Machina!",
+    "wav": "line_921c394a247c794f.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 541.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 surges through the middle!",
+    "wav": "line_20e73b569ec469ed.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 543.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just flashes past the upright!",
+    "wav": "line_38a2ed212a381f45.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 545.67,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Patchford goes crashing down again!",
+    "wav": "line_94f8d7763806b866.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 547.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid makes it nine! In the dying seconds, Zidroid turns home another from close range! Real Machina lead nine-three!",
+    "wav": "line_92e3f187246b13df.wav",
+    "dur_s": 9.25
+  },
+  {
+    "t": 559.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Double figures for Real Machina! Zidroid hammers home once more from two metres, capping a sensational performance to make it ten-three!",
+    "wav": "line_7c5a63cbd12f335b.wav",
+    "dur_s": 10.66
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time! Real Machina win ten-three. Up next: Dynamo Datacenter versus Singularity United at twelve o'clock!",
+    "wav": "line_5438bee18e4d1692.wav",
+    "dur_s": 7.73
+  }
+]

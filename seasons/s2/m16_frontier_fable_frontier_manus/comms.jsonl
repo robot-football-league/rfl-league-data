@@ -1,0 +1,148 @@
+{"t": 0.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Steady from the whistle \u2014 I've got our half."}
+{"t": 0.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 2.4, "from": "r3", "team": "Manus FC", "number": 2, "text": "Taking the ball and clearing toward goal."}
+{"t": 4.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "I'm taking the ball and clearing toward goal.", "reason": "cooldown"}
+{"t": 4.4, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 6.4, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 20.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Working the wall ball clear toward their goal"}
+{"t": 20.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 22.4, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 37.3, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 38.4, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 49.7, "from": "r2", "team": "Manus FC", "number": 1, "text": "Release it off the wall and attack goal"}
+{"t": 50.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 50.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Near post is mine. Force it wide."}
+{"t": 54.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Wall case; releasing along the reachable lane."}
+{"t": 55.3, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 71.7, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 77.4, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 82.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm taking the ball; cover centrally"}
+{"t": 84.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "I'm engaging the ball; screen centrally", "reason": "cooldown"}
+{"t": 86.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 87.7, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "cooldown"}
+{"t": 94.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ram's arming \u2014 I've got the bounce."}
+{"t": 96.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm contesting the deep ball; clear toward their goal"}
+{"t": 104.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 105.7, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Emergency clear; reset behind the ball.", "reason": "cooldown"}
+{"t": 120.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 121.7, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 133.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 134.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm stepping to the central ball; cover behind me"}
+{"t": 134.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 137.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 138.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 139.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball now; cover behind me", "reason": "cooldown"}
+{"t": 142.1, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing toward their goal; cover behind me", "reason": "cooldown"}
+{"t": 146.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "I'll race it to the line \u2014 you press!"}
+{"t": 154.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Near post is mine. Force it wide."}
+{"t": 156.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the danger toward their goal"}
+{"t": 157.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball toward their goal"}
+{"t": 160.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 165.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 172.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm clearing this danger toward their goal"}
+{"t": 174.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 174.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 179.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball toward goal"}
+{"t": 187.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 188.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 188.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "I'll cut it off \u2014 stay on the ball."}
+{"t": 190.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 195.1, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball toward goal", "reason": "repeat"}
+{"t": 197.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing through the centre"}
+{"t": 200.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Pressing the ball centrally", "reason": "cooldown"}
+{"t": 200.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 201.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing toward goal", "reason": "cooldown"}
+{"t": 209.7, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 218.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 222.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 223.1, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 226.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 230.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 236.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 236.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 239.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "I'm pressing the ball toward goal"}
+{"t": 244.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 252.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 252.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 256.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 259.7, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; reset behind the ball."}
+{"t": 266.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 273.1, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 276.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 280.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "I\u2019m engaging the ball in the corner.", "reason": "cooldown"}
+{"t": 282.4, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 288.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Yours, Hare \u2014 I'll hold the line."}
+{"t": 290.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "I\u2019m engaging the ball centrally."}
+{"t": 291.9, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Taking the central ball toward goal.", "reason": "cooldown"}
+{"t": 294.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 299.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 312.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm engaging the central ball; cover behind me."}
+{"t": 314.9, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 317.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 333.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 334.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball now"}
+{"t": 340.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 349.8, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 356.9, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 356.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 360.9, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 362.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball toward goal", "reason": "cooldown"}
+{"t": 368.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm contesting the wall-side ball; cover centrally."}
+{"t": 370.2, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 376.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 378.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 392.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Wall case; releasing along the reachable lane."}
+{"t": 396.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 408.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 411.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 420.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 424.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Emergency clear; reset behind the ball.", "reason": "repeat"}
+{"t": 426.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 427.8, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 434.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 434.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball\u2014cover behind me"}
+{"t": 438.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing now\u2014cover behind me", "reason": "cooldown"}
+{"t": 440.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 442.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Taking the ball forward", "reason": "cooldown"}
+{"t": 444.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Taking it forward toward goal"}
+{"t": 446.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 446.9, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 460.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball forward"}
+{"t": 462.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing forward toward goal", "reason": "cooldown"}
+{"t": 464.9, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 466.1, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 468.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 470.9, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball forward", "reason": "repeat"}
+{"t": 472.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 474.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the danger ball; clear it toward our attack goal"}
+{"t": 480.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Emergency clear; reset behind the ball.", "reason": "cooldown"}
+{"t": 482.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm contesting the ball; cover centrally"}
+{"t": 482.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 496.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Wall case; releasing along the reachable lane."}
+{"t": 502.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 504.7, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball; finish centrally", "reason": "cooldown"}
+{"t": 505.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 507.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball; finish centrally"}
+{"t": 508.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Taking the ball centrally; cover behind me", "reason": "cooldown"}
+{"t": 510.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 512.9, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing toward goal now", "reason": "cooldown"}
+{"t": 514.9, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 522.9, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball deep; clear toward goal."}
+{"t": 527.3, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 527.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 531.1, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 533.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "Contesting the ball\u2014cover behind me"}
+{"t": 536.9, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 547.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 553.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "I'll cut it off \u2014 stay on the ball."}
+{"t": 554.9, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing for a wall release."}
+{"t": 554.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 558.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 563.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Releasing the wall ball now"}
+{"t": 564.8, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 567.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Working the wall ball free toward goal", "reason": "cooldown"}
+{"t": 568.9, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the released ball toward goal"}
+{"t": 578.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 585.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 589.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 594.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}

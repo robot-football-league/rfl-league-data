@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 2
+  },
+  "away": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 6
+  },
+  "winner": "Singularity United"
+}

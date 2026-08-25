@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 2
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 4
+  },
+  "winner": "Gemini Flash FC"
+}

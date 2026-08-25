@@ -1,0 +1,426 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in match sixteen.",
+    "wav": "line_bd0df19dcd59c442.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise tells Hare to keep things tight at the back.",
+    "wav": "line_13556ea3e4bc91f6.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 4.35,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Hare's gyros give way, tumbling onto the deck in the centre circle.",
+    "wav": "line_a4b754279a39c26b.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 11.24,
+    "kind": "collision",
+    "energy": "build",
+    "text": "A dreadful mix-up as Tortoise and Hare clatter into one another, sending Tortoise flat on the terracotta carpet.",
+    "wav": "line_788395ce125471dd.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 27.3,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Now Manus FC repeat the trick on the left touchline, Prompt and Trace colliding head-on to leave Prompt sprawling.",
+    "wav": "line_c492ea7f0cb5b508.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 61.22,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel launches it back out.",
+    "wav": "line_82ef4b1c51c2250e.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 62.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Manus applying sustained attacking pressure.",
+    "wav": "line_49bcfe4e095a32e0.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 63.66,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Trace loses footing and hits the deck three metres out.",
+    "wav": "line_4596f766d965e826.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 69.41,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Another collision knocks Prompt down again.",
+    "wav": "line_a857ceb6f76c389a.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 71.25,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks completely free with the goal gaping!",
+    "wav": "line_642ac1405cacac92.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 75.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare drives forward through the centre.",
+    "wav": "line_2b05d6b8939fb92f.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 77.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt signals across to Trace that possession is lost and they must recalibrate their central scan.",
+    "wav": "line_db267cfdfe6ff6c0.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 96.67,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare surges clear down the right flank, completely unchecked and bearing down on goal!",
+    "wav": "line_607ab8d7682dfbe1.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 103.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Fable have Manus pinned deep inside their own territory now, looking for their first league points of the campaign.",
+    "wav": "line_ff38dd1d9d139397.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 132.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare tucks it away from two metres out on the right channel! AFC Fable lead one-nil!",
+    "wav": "line_d9acc036ef84fcd2.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 146.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Hare calls for Tortoise to apply the press while Hare covers the flank.",
+    "wav": "line_1b4c1b0ab5fda61f.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 154.08,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A venomous strike whistles just two tenths of a metre wide of the target!",
+    "wav": "line_1e3755628547f416.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 167.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare powers four metres up the right channel, crossing the halfway line in style.",
+    "wav": "line_d72b82b66a880932.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 173.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare doubles the advantage from close range! Two-nil to AFC Fable, and what a start for the terracotta shirts!",
+    "wav": "line_42664f765e85b599.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 193.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt converts from close range in the centre! Manus FC are right back in this, it is AFC Fable 2, Manus FC 1!",
+    "wav": "line_a3dea64134f54c95.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 200.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Hare tells Tortoise to step into the tackle while the striker drops back into defensive cover.",
+    "wav": "line_290fb30c6a974278.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 228.85,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt skips clean through the midfield with nothing in the way!",
+    "wav": "line_722beb0761b91ebd.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 234.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Prompt drives straight at the mouth!",
+    "wav": "line_980ca2f9142822a4.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 235.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt buries it from point-blank range! Level pegging now, AFC Fable 2, Manus FC 2!",
+    "wav": "line_a16da57f229054b2.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 259.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace transmits an urgent warning to clear the danger and regroup behind the magenta sphere.",
+    "wav": "line_29a472e460ac2175.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 275.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace drives purposefully through the centre, reaching four metres from goal with intent.",
+    "wav": "line_1e4a4fd19c9ac988.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 282.56,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide of the upright from Trace's drive!",
+    "wav": "line_0a8588e85e5348eb.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 289.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace turns it around completely! Manus FC lead 3-2!",
+    "wav": "line_2ea256e7f586d406.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 290.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "The violet shirts have completely dominated this final third spell heading toward the break.",
+    "wav": "line_e9d8e0ebb5cefb8a.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "The whistle sounds for half time, and Manus FC take a 3-2 lead into the interval after that stirring comeback.",
+    "wav": "line_c3db2cf0769ca098.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 318.44,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks clean through four metres out with nobody between!",
+    "wav": "line_281d8cd8aab21217.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 323.24,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the target!",
+    "wav": "line_ce44fcac0012ff5a.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 325.81,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Trace takes a tumble on the right flank, actuators whirring as the recovery sequence kicks straight in.",
+    "wav": "line_ce265baa3337e252.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 345.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Terracotta shirts applying heavy pressure in the attacking third.",
+    "wav": "line_cef9b9e676811a22.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 349.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A rasping effort curls just wide of the post from two metres out!",
+    "wav": "line_91a02e5d02473f1b.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 356.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! An own goal off Prompt right on the line! AFC Fable level it at 3-3!",
+    "wav": "line_40c441d3ab3958a3.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 360.9,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt calls over the network to clear the immediate danger from the danger area.",
+    "wav": "line_2c3a76bde949dc2b.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 383.6,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief pause as Prompt tracks the ball on the touchline; these two sides are trading blows like heavyweights in a breathless contest.",
+    "wav": "line_8d8dcc70ccb92d29.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 406.32,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The powered corner panel thumps the ball back into the channel, keeping the tempo furious.",
+    "wav": "line_a1020efc18a19275.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 434.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare taps it home point-blank! AFC Fable retake the lead, 4-3!",
+    "wav": "line_66cccf3a0a1932a2.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 444.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt signals the intent to drive straight forward and hunt for another equaliser.",
+    "wav": "line_4031a2a740eefb78.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 474.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise rumbles forward through the centre, reaching the final third with time ticking away.",
+    "wav": "line_64dbd8abc259f71c.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 480.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare scores again from two metres out! AFC Fable lead 5-3 with under two minutes remaining!",
+    "wav": "line_a1547023b003a7c4.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 487.31,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise topples in midfield, needing precious seconds to right those joints.",
+    "wav": "line_735d0ae7a0930544.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 499.47,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Trace breaks clean through the left channel with the net wide open!",
+    "wav": "line_6660d0400d453a33.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 505.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! An own goal off Tortoise! Manus FC are right back in it at 5-4!",
+    "wav": "line_fc006810dcf20caa.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 510.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace calls for a complete clearance as the final minute approaches in this absolute thriller.",
+    "wav": "line_ba3f9c377c20b23b.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 526.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare drives to point-blank range!",
+    "wav": "line_c7582b10e2d779fa.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 526.6,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Fires wide from the centre!",
+    "wav": "line_c442388b4d0342b2.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 526.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare buries it point-blank! Surely the clincher! AFC Fable lead 6-4 in the dying seconds!",
+    "wav": "line_3c58ab3f40e2d072.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 556.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace storms down the left touchline in desperate pursuit of a lifeline, but the clock is nearly expired.",
+    "wav": "line_1f38e0ca58703fc3.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 577.0,
+    "kind": "run",
+    "energy": "calm",
+    "text": "Tortoise takes the ball up the right channel to run down the final moments.",
+    "wav": "line_1ba6611247f9843b.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "roar",
+    "text": "Full time: AFC Fable 6, Manus FC 4! Up next, Real Machina face Codex City at noon!",
+    "wav": "line_571da54e3dda35ea.wav",
+    "dur_s": 6.74
+  }
+]

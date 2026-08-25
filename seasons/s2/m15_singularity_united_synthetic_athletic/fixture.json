@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 13
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 4
+  },
+  "winner": "Singularity United"
+}

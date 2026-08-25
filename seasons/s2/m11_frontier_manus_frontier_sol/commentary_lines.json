@@ -1,0 +1,482 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in match eleven!",
+    "wav": "line_1d3312a0c94aa710.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford immediately instructs Turingham to apply pressure high and drop into a defensive cover lane.",
+    "wav": "line_6765c28362b0f5cd.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 17.68,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford breaks clear down the right!",
+    "wav": "line_37bed605758d601a.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 21.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "The terminal black shirt surges along the touchline, closing in on the Manus penalty area with real intent.",
+    "wav": "line_dfdb1152fe012fa7.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 35.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! A nightmare start for Manus FC as Prompt turns it into their own net! Yet another own goal this season, and Codex City take the lead: Manus FC nil, Codex City one!",
+    "wav": "line_dd433e0a0023f20c.wav",
+    "dur_s": 13.43
+  },
+  {
+    "t": 56.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace signals to the violet backline to clear their lines without taking any further risks in midfield.",
+    "wav": "line_2d2a5122cb18c147.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 85.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Manus FC applying relentless pressure here, pinning Codex deep in their own territory.",
+    "wav": "line_658be61c0acb03a0.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 92.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Patchford drives forward through the left channel!",
+    "wav": "line_30ba5337c3900b3a.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 95.72,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away! Patchford stabs it right from the goal mouth, but it shaves the post and bounces wide! Remarkable let-off for Manus FC.",
+    "wav": "line_e21c49b5c03c76dd.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 112.92,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Trace has broken right through from deep, completely untracked with nothing between them and the net!",
+    "wav": "line_d055966acc54556b.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 122.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace tucks it away from close range, and Manus FC are level! It is Manus FC one, Codex City one!",
+    "wav": "line_09a2fd36bbbec170.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 130.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace alerts Prompt to recalibrate and reset their positioning across the middle third.",
+    "wav": "line_35375bfb64c8aeda.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 143.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford pushes the magenta ball into the attacking third along the right.",
+    "wav": "line_38a039bcc60d2659.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 151.1,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt loses footing on the left touchline and tumbles over, but the gyros do their job and they will be upright shortly.",
+    "wav": "line_3aef201ba3e13f65.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 175.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford marches right through the middle, eyeing up another opening inside the box.",
+    "wav": "line_1348c35135fc19d2.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 188.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City have Manus FC completely boxed in right now, probing patiently around the perimeter.",
+    "wav": "line_c24ebe8db8c8efa4.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 201.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close for Codex City! A point-blank swipe flashes just wide of the target. Manus survive the onslaught.",
+    "wav": "line_65d8cd47b67e2cf1.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 225.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt bundles it over the line! Manus FC lead two-one!",
+    "wav": "line_46061b1ce33ef64e.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 230.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace urgently reminds Prompt to stay vigilant and sweep away any loose balls from the danger zone.",
+    "wav": "line_297906a0dc742377.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 251.07,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Prompt clatters Turingham to the deck!",
+    "wav": "line_21492c73704757c3.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 252.87,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Turingham retaliates, down goes Prompt!",
+    "wav": "line_2bb23a092afd65f7.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 253.75,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Codex teammates collide in a heap!",
+    "wav": "line_cf0876b51f05f9ae.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 254.87,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Total chaos! Now Trace and Prompt crash into each other, leaving Trace sprawled on the turf! Metal on metal everywhere!",
+    "wav": "line_9cc89cee37b38863.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 272.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Amid the utter mayhem, Prompt scrambles the ball home! It is Manus FC three, Codex City one!",
+    "wav": "line_8cb3e2bff0c52929.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 283.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford shouts for immediate pressure to cut off the violet counter-attack.",
+    "wav": "line_d7b194ef07e9650c.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 292.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford strikes right before the buzzer! A vital lifeline: Manus FC three, Codex City two!",
+    "wav": "line_d9d59586ee66c256.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 299.07,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt surges clean through again!",
+    "wav": "line_c7e3a187e4972edf.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "And that brings a breathless first half to a close. Five goals, collisions galore, and Manus FC hold a slender 3-2 lead over Codex City.",
+    "wav": "line_aa65d5ff359c34a3.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 324.4,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Point blank, but somehow pushed just wide!",
+    "wav": "line_04e7bec105d64293.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 328.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt will not be denied this time, ramming the rebound home! Manus FC extend their advantage: Manus FC four, Codex City two!",
+    "wav": "line_7351d13924631f91.wav",
+    "dur_s": 10.01
+  },
+  {
+    "t": 345.48,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just past the right post!",
+    "wav": "line_76e861e199f6d19c.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 346.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford drives into the right channel.",
+    "wav": "line_4e12137bf6b20cb5.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 347.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City pressing hard inside the box.",
+    "wav": "line_a4a2d2c992d1efde.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 350.29,
+    "kind": "ram",
+    "energy": "excited",
+    "text": "The corner ram panel fires the ball back into the mixer!",
+    "wav": "line_8806812a0d7600f1.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 355.86,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt picks up the rebound and breaks clean away into open territory!",
+    "wav": "line_3e38b3ffc8cf8396.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 363.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Prompt marches through the centre circle, turning defense into attack in the blink of an eye.",
+    "wav": "line_06a0bac5c884a587.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 374.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace buries it from two metres! Manus FC lead five-two!",
+    "wav": "line_818163c2bdde54e7.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 378.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Turingham signals that the defensive outlet is established and calls for a reset.",
+    "wav": "line_406919d327e9bd2e.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 391.32,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford sends Trace to the deck!",
+    "wav": "line_182a1bff4f869c5c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 394.04,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Trace flattens Turingham in response!",
+    "wav": "line_a303d43fee902c8b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 396.06,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt overbalances and topples on the touchline, but self-rights immediately.",
+    "wav": "line_c7e1cfee1944e3dd.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 402.96,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Trace knocks Turingham down again!",
+    "wav": "line_b8f6958b1ed26896.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 405.54,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Prompt stumbles right on the goal line and goes down once more.",
+    "wav": "line_aca319e1dda76682.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 412.32,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Now Trace takes a tumble!",
+    "wav": "line_b6bf8712c1022ff9.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 413.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! It is another own goal, this time off Patchford! Everything that could go wrong is going wrong for Codex City: Manus FC six, Codex City two!",
+    "wav": "line_77948ecbcd774504.wav",
+    "dur_s": 11.63
+  },
+  {
+    "t": 425.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Patchford charges right to the net!",
+    "wav": "line_8048342f08a6f4b6.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 425.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Instant redemption for Patchford, firing home from two metres out! That trims the deficit: Manus FC six, Codex City three!",
+    "wav": "line_2c479d002cbe8a7a.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 442.28,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A whisker wide! That could have put the game completely to bed!",
+    "wav": "line_abda6c827335e998.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 448.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt smashes it in from point-blank range! Manus FC pull away: Manus FC seven, Codex City three!",
+    "wav": "line_ddba37b12389e5e9.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 455.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt calls for immediate pressure.",
+    "wav": "line_d2ad633ca5ae1be6.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 456.71,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford bursts clean through, with time slipping away for Codex!",
+    "wav": "line_227dec36e9af4e85.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 462.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford weaves into the right channel, searching for a quick route back into this.",
+    "wav": "line_9145de3c2cee2b95.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 468.69,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Heavy challenge from Patchford! Prompt gets knocked clean off their feet, but with little over two minutes left, Codex are running out of time.",
+    "wav": "line_4f48c59345d6761c.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 489.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford scores! Seven to four!",
+    "wav": "line_52c404fe378ca047.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 490.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City keep the hammer down in the final third. Under two minutes remaining, they need three goals to pull off a miracle.",
+    "wav": "line_0bd589cdd24ff60b.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 515.3,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief lull as Turingham collects in midfield. Codex have shown plenty of grit, but Manus FC's clinical finishing has proved the difference here as we enter the closing stages.",
+    "wav": "line_4be4dc78ade0700b.wav",
+    "dur_s": 10.74
+  },
+  {
+    "t": 540.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Into the final minute, and Prompt signals their intention to direct the ball centrally towards the target to kill this match off.",
+    "wav": "line_8a9812d934a9ea88.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 566.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace delivers the knockout blow from two metres out! That seals the points for the violet shirts: Manus FC eight, Codex City four!",
+    "wav": "line_ed595606acdfd01c.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 578.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford grabs another consolation right on the edge of the goal mouth! Manus FC eight, Codex City five in the dying seconds!",
+    "wav": "line_2d16b4a3b649e432.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Manus FC eight, Codex City five. Join us next for AFC Fable against Singularity United.",
+    "wav": "line_2027ecad0411b0f5.wav",
+    "dur_s": 6.74
+  }
+]

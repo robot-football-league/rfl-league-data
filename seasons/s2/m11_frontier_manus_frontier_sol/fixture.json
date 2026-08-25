@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Manus FC",
+    "code": "MNS",
+    "goals": 8
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 5
+  },
+  "winner": "Manus FC"
+}

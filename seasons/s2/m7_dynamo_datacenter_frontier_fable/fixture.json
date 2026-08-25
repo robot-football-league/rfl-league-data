@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 7
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 3
+  },
+  "winner": "Dynamo Datacenter"
+}

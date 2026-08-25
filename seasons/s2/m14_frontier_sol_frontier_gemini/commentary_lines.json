@@ -1,0 +1,338 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this round-robin clash.",
+    "wav": "line_1ff16709be7bd819.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford immediately relays instructions to Turingham, demanding early pressure and a tight defensive rotation right from the start.",
+    "wav": "line_3ba6dd4cef80ec7c.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 34.18,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Turingham breaks clear through the centre circle, with an open path toward the Gemini Flash net!",
+    "wav": "line_9a7457b2cf2bbd05.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 66.5,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Flash pounces deep and suddenly has acres of space ahead!",
+    "wav": "line_ed754357a6af752d.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 72.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Spark sends a quick signal across the pitch, urging Flash to clear any lingering danger and send play upfield.",
+    "wav": "line_6f4cdf6aaad923d1.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 96.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford taps it in from point-blank range, and Codex City take a one-nil lead!",
+    "wav": "line_de8d4b35a9c9c9e5.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 133.76,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A whisker away! That effort from the right channel shaved the post by just inches.",
+    "wav": "line_97e7d425b4b54cf7.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 144.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford calls for goal-side positioning.",
+    "wav": "line_a57323ebdc37297b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 147.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash responds immediately at the goal mouth! It's one-one!",
+    "wav": "line_c9e2f100b494d36e.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 164.28,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "Nearly an error at the back, sliding just wide!",
+    "wav": "line_861e0b7c8275ecca.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 169.52,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel springs into action, firing the magenta ball back into the mix off the rebound.",
+    "wav": "line_6322fbb1a36cd54a.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 209.22,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Flash breaks down the right flank!",
+    "wav": "line_27f0c66475bfde59.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 210.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Flash signals to pry it loose.",
+    "wav": "line_f2d95b84bdebda2d.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 210.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "A sharp three-metre burst along the touchline from Flash keeps the pressure on.",
+    "wav": "line_e06a2c2be3fae289.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 216.36,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash loses balance and goes down!",
+    "wav": "line_34b9fa713ae65715.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 217.9,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel rattles and shoots the ball right back into the danger area.",
+    "wav": "line_15a188c46f9e64e9.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 223.84,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "So close! Just inches wide.",
+    "wav": "line_ec728a78c2861320.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 226.3,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash takes another tumble on the right channel, but the gyros are already spinning to right the Unitree unit.",
+    "wav": "line_48fc5f774597f738.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 256.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! A disastrous own goal from Turingham turns it into the net! Gemini Flash FC lead two-one!",
+    "wav": "line_86e1b940def7cc28.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 262.26,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "A hefty collision in the middle! Flash stands firm while Patchford hits the deck hard.",
+    "wav": "line_4a8d39ae6ec9fa14.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 278.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "With seconds left in the half, Flash communicates the need to drop back and protect the goal line.",
+    "wav": "line_b2d3f88730e7b9e4.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "The buzzer sounds for half-time. That unfortunate own goal separates the sides with Gemini Flash leading Codex City two goals to one.",
+    "wav": "line_20f18c5fef213aeb.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 325.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Spark arrives on the scene and slots it home from close range! Gemini Flash FC make it three-one!",
+    "wav": "line_8bf099b2e48c9901.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 335.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Codex City look to respond as Patchford carries the magenta ball forward through the middle into the attacking third.",
+    "wav": "line_85063823940bb5e9.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 354.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford drives deeper towards goal, nudging the ball into the right channel.",
+    "wav": "line_f5446a21bcfaef93.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 359.8,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Rebounding off the powered panel in the corner, the ball is thrust back toward the danger zone.",
+    "wav": "line_39e0bd83a341dfd0.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 368.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford demands tight pressure and rotation.",
+    "wav": "line_665c6218f3d5d76f.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 372.62,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Spark breaks completely clear on the left touchline, with the Codex City net lying unprotected!",
+    "wav": "line_aceb2307119a5b7b.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 386.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Spark surges all the way through!",
+    "wav": "line_32e8e06e7eb6dd77.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 387.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash converts for four-one!",
+    "wav": "line_4f541d88d28009ad.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 388.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless pressure from the electric blues has Codex City thoroughly pinned inside their own end.",
+    "wav": "line_0723d3c1d419bb5c.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 396.19,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford bursts through on the right channel!",
+    "wav": "line_db9b5c24f68a9df7.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 400.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Another own goal, this time deflected in off Spark! Codex City pull one back, making it four-two!",
+    "wav": "line_4ae3f12d3efac086.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 426.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford is frantically signalling for immediate high pressure as Codex City chase the game with under three minutes remaining.",
+    "wav": "line_b0bc7f852fc16a4e.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 444.04,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Flash comes in with a crunching challenge in midfield, sending Patchford clattering to the turf.",
+    "wav": "line_6480d564ed3c71fb.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 478.56,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide from two metres out! Time is ticking away rapidly for Codex City, who desperately need to find the net twice.",
+    "wav": "line_6d0f9d9b830ae6e5.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 504.97,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Powered panel fires it back out!",
+    "wav": "line_6f545faf22ab5bfb.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 506.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Spark issues the command to clear their lines and waste no time running down this clock.",
+    "wav": "line_180d1d3ee1316588.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 524.56,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away from point-blank range! That could have brought Codex City right back into contention with just over a minute left.",
+    "wav": "line_c8b416077cb97744.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 567.0,
+    "kind": "pressure",
+    "energy": "excited",
+    "text": "Codex City throw everything forward into the final third in these dying seconds, but Gemini Flash are holding their ground.",
+    "wav": "line_bf3a223f5760ed75.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 592.05,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Flash puts in a final stopper on Turingham by the touchline, sealing the result!",
+    "wav": "line_2811836006fa16f6.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Codex City two, Gemini Flash four. Singularity United face Synthetic Athletic up next!",
+    "wav": "line_c2e00f6100e43a91.wav",
+    "dur_s": 6.9
+  }
+]

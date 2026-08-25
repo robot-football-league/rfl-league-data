@@ -1,0 +1,176 @@
+{"t": 0.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 0.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 2.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball now"}
+{"t": 6.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball now", "reason": "repeat"}
+{"t": 12.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 12.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Prying ball loose from wall!"}
+{"t": 12.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 18.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Driving centrally toward goal"}
+{"t": 22.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 24.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Doorstep finish! Putting it away!"}
+{"t": 24.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Doorstep finish! Putting it away!"}
+{"t": 36.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Clearing defensive danger upfield!"}
+{"t": 36.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 38.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Wall case; releasing along the reachable lane."}
+{"t": 46.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 48.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 48.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Prying ball loose from wall!"}
+{"t": 57.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball\u2014cover the centre"}
+{"t": 60.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 64.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 66.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 70.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; reset behind the ball."}
+{"t": 72.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 76.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Tracking ball from defensive anchor."}
+{"t": 81.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 84.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 86.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Emergency clear; reset behind the ball.", "reason": "repeat"}
+{"t": 90.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "I have the ball\u2014cover centre"}
+{"t": 92.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Moving into central support"}
+{"t": 92.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 96.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 102.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 102.4, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 104.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Crossing from corner to center!"}
+{"t": 108.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Doorstep finish! Putting it away!"}
+{"t": 116.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Leading ball into open net!"}
+{"t": 118.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 118.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 120.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Leading ball into open net!"}
+{"t": 124.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball on the left side"}
+{"t": 128.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Doorstep finish! Putting it away!"}
+{"t": 132.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 134.6, "from": "r3", "team": "Manus FC", "number": 2, "text": "I have the ball\u2014cover centre"}
+{"t": 140.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 144.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 152.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 154.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball; cover centre"}
+{"t": 156.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 156.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing forward; cover centre", "reason": "cooldown"}
+{"t": 157.6, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 158.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 166.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Crossing from corner to center!"}
+{"t": 168.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Crossing from corner to center!"}
+{"t": 172.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; reset behind the ball."}
+{"t": 173.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 178.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 180.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Clearing defensive danger upfield!"}
+{"t": 190.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Tracking ball from defensive anchor."}
+{"t": 192.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 192.3, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing forward; reset behind the ball"}
+{"t": 193.6, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 194.4, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 200.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing forward with the ball", "reason": "cooldown"}
+{"t": 202.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 207.6, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'm contesting and clearing forward"}
+{"t": 210.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Covering goal line and holding defensive shape."}
+{"t": 212.4, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 214.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 215.6, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "I'll engage the wall-side ball and clear forward", "reason": "cooldown"}
+{"t": 222.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 226.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 227.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 231.7, "from": "r3", "team": "Manus FC", "number": 2, "text": "I have the ball; stay central."}
+{"t": 238.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Leading ball into open net!"}
+{"t": 238.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Doorstep finish! Putting it away!"}
+{"t": 243.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 250.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 250.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 250.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing defensive danger upfield!"}
+{"t": 260.6, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 262.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 262.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 267.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 274.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 274.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 276.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball from the right."}
+{"t": 277.6, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 283.7, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing the live danger.", "reason": "repeat"}
+{"t": 286.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 286.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 296.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Releasing it off the wall toward center."}
+{"t": 298.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Leading ball into open net!"}
+{"t": 298.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Wall case; releasing along the reachable lane."}
+{"t": 298.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Doorstep finish! Putting it away!"}
+{"t": 312.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 317.4, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 320.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 322.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 332.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 334.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 338.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 340.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 348.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 350.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 352.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 352.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 359.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the wall ball now; stay behind me."}
+{"t": 366.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 366.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 367.2, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "I\u2019m taking the ball; cover centrally.", "reason": "cooldown"}
+{"t": 367.3, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 374.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Wall case; releasing along the reachable lane."}
+{"t": 378.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 382.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 386.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 390.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 393.2, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball\u2014cover behind me"}
+{"t": 393.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 395.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball toward goal; cover behind me", "reason": "cooldown"}
+{"t": 397.2, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball\u2014cover behind me", "reason": "repeat"}
+{"t": 406.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 408.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Leading ball into open net!"}
+{"t": 409.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Taking the ball toward goal."}
+{"t": 411.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Clearing the live danger.", "reason": "cooldown"}
+{"t": 414.8, "from": "r3", "team": "Manus FC", "number": 2, "text": "Taking the ball; cover behind me"}
+{"t": 418.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing defensive danger upfield!"}
+{"t": 420.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 423.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Driving the ball toward goal", "reason": "cooldown"}
+{"t": 424.9, "from": "r3", "team": "Manus FC", "number": 2, "text": "I\u2019m engaging the ball; cover centrally"}
+{"t": 427.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Working the ball off the wall toward goal", "reason": "cooldown"}
+{"t": 430.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 430.9, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Working the ball off the wall toward goal", "reason": "cooldown"}
+{"t": 434.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Leading ball into open net!"}
+{"t": 437.1, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the live danger."}
+{"t": 442.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing defensive danger upfield!"}
+{"t": 445.6, "from": "r2", "team": "Manus FC", "number": 1, "text": "Pressing the ball toward goal"}
+{"t": 446.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 446.8, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "cooldown"}
+{"t": 452.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 454.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Intercepting ball trajectory!"}
+{"t": 458.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 466.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 467.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Pressing the ball toward goal", "reason": "repeat"}
+{"t": 469.4, "from": "r2", "team": "Manus FC", "number": 1, "text": "Driving it toward goal"}
+{"t": 470.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 478.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing defensive danger upfield!"}
+{"t": 478.9, "from": "r3", "team": "Manus FC", "number": 2, "text": "I'll contest and clear it toward goal"}
+{"t": 480.8, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Contest and clear toward goal", "reason": "cooldown"}
+{"t": 485.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Prying ball loose from wall!"}
+{"t": 489.8, "from": "r2", "team": "Manus FC", "number": 1, "text": "Clearing the live danger."}
+{"t": 490.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 499.8, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 503.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing toward goal."}
+{"t": 506.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Searching for the ball \u2014 sweeping field."}
+{"t": 508.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; resetting the central scan.", "reason": "cooldown"}
+{"t": 514.1, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; resetting the central scan."}
+{"t": 518.1, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 518.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Leading ball into open net!"}
+{"t": 530.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Crossing from corner to center!"}
+{"t": 534.1, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 542.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Leading ball into open net!"}
+{"t": 550.1, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 554.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Shooting at open corner!"}
+{"t": 557.2, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing the wall ball toward goal; cover central."}
+{"t": 564.3, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Wall case; releasing along the reachable lane.", "reason": "cooldown"}
+{"t": 566.1, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; resetting the central scan.", "reason": "repeat"}
+{"t": 566.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Doorstep finish! Putting it away!"}
+{"t": 567.9, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Intercepting ball trajectory!"}
+{"t": 578.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 579.8, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Clearing defensive danger upfield!"}
+{"t": 580.3, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; resetting the central scan."}
+{"t": 582.1, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; reset behind the ball."}
+{"t": 590.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Covering goal line and holding defensive shape."}
+{"t": 591.8, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "On the ball \u2014 pressing goalward!"}
+{"t": 593.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Clearing through the centre"}
+{"t": 594.8, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Clearing through the centre", "reason": "repeat"}

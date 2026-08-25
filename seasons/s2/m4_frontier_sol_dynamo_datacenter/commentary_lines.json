@@ -1,0 +1,450 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in match four!",
+    "wav": "line_44c62a19a2d779e5.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 0.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford orders Turingham to stay goal-side.",
+    "wav": "line_3372f3c818381f4a.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 3.19,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford breaks clean through from the centre circle! Not a single yellow shirt in sight to protect the net!",
+    "wav": "line_c798f69a2c5f8819.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 16.45,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Buffon.exe is clattered onto the deck by Patchford out wide.",
+    "wav": "line_976009827a21850e.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 21.6,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Corner ram fires it clear.",
+    "wav": "line_67ed0b6404d2e11d.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 23.56,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Mbapp-E is unceremoniously flattened in the channel.",
+    "wav": "line_c69cea3168947d88.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 27.24,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford goes down point-blank!",
+    "wav": "line_fc861ced75cb16d7.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 27.86,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Utter chaos for Dynamo as Buffon.exe crashes right into teammate Mbapp-E and hits the deck.",
+    "wav": "line_47517b502b750f2c.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 37.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Turingham taps it in from point-blank range to punish the defensive mix-up! Codex City take the lead, one nil!",
+    "wav": "line_4ef0353485b941fb.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 52.4,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the target!",
+    "wav": "line_ce44fcac0012ff5a.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 53.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford recalculates the wall bounce.",
+    "wav": "line_a39677ddb0a11fc4.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 53.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford smashes it home right at the goal mouth! Codex City double their advantage in seconds, it is Codex City two, Dynamo Datacenter nil!",
+    "wav": "line_741570804f192e82.wav",
+    "dur_s": 9.82
+  },
+  {
+    "t": 79.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Turingham surges straight up the middle into the attacking third, looking to extend this blistering start for the black shirts.",
+    "wav": "line_4bf489e3af8c9211.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 97.24,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "A whisker away from adding a third!",
+    "wav": "line_79e16320412987b5.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 101.42,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Patchford loses balance and tumbles right in front of goal, giving the yellow shirts a rare moment to breathe.",
+    "wav": "line_288e3900c9a59b6a.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 116.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe steps forward into midfield on the left channel, trying to spark Dynamo into life.",
+    "wav": "line_c8ddbca7e1b63048.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 126.68,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Patchford comes flying in down the left channel, knocking Buffon.exe flat onto the carpet with a crunching challenge.",
+    "wav": "line_9b9915de4d064344.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 147.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Buffon.exe charges through the middle, right on goal!",
+    "wav": "line_e343f2a4a9881dfd.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 151.72,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Turingham breaks out from deep! Nobody in front, a clear path down the pitch for Codex City!",
+    "wav": "line_64b36cdff616cb02.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 163.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Turingham drives forward through the centre.",
+    "wav": "line_84e79680876b2926.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 165.92,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close off the post!",
+    "wav": "line_353f635e9ffa1dea.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 166.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford calls out an angle calculation to work the rebound off the wall.",
+    "wav": "line_0814b7f056864330.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 173.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford converts from the left channel! That is three for Codex City, cruising at three nil!",
+    "wav": "line_c68928afc65fbffc.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 182.52,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Mbapp-E is sent sprawling!",
+    "wav": "line_c4a5f597947ede7c.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 182.66,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Teammates collide again, Buffon.exe falls!",
+    "wav": "line_e420ffd2ae39cc8e.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 183.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Buffon.exe scrambles up and immediately drives through the centre into shooting range, desperate to claw something back.",
+    "wav": "line_e072405eb66b8486.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 199.92,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "Flashing just past the upright from distance.",
+    "wav": "line_a9c996da489ad310.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 206.44,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Mbapp-E loses footing right in front of the goal mouth, an unfortunate slip at a crucial moment for Dynamo.",
+    "wav": "line_526ac31c94eb64c0.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 225.34,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The powered push-panel in the corner shoots the ball back into play along the right touchline.",
+    "wav": "line_a60d7658706e2e90.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 236.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Mbapp-E signals the plan to prise the ball off the boards in the final third.",
+    "wav": "line_99ba750d7b09306b.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 257.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless pressure here from Codex City, hemming Dynamo inside their own half for eleven straight seconds.",
+    "wav": "line_d6e6f6a69def9331.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 275.89,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E bursts clean through on goal with nobody in yellow or black between them and the net!",
+    "wav": "line_6bbb4453f00c5e8d.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 283.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Buffon.exe is there at the mouth of the goal to poke it home! Dynamo Datacenter pull one back, three one!",
+    "wav": "line_8fc95e05aefa18f9.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 292.49,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Patchford topples over in space.",
+    "wav": "line_9554fb9edfcd68a2.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 295.23,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Buffon.exe floors Turingham with a firm tackle out wide.",
+    "wav": "line_be0db51e015b3bbc.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings us to the break. Codex City lead Dynamo Datacenter three goals to one in a frantic opening half.",
+    "wav": "line_550f6c6a2bb91161.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 311.78,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Patchford loses gyroscopic stability in the centre circle and takes a tumble.",
+    "wav": "line_7ddf750463c46c44.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 326.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "So close to a fourth for Codex as the shot skims just past the left upright.",
+    "wav": "line_20d269415979bc83.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 346.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo pin Codex deep back.",
+    "wav": "line_2fb22d5d878b1b8c.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 347.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Mbapp-E bundles it over the line point-blank! Dynamo Datacenter are right back in this at three two!",
+    "wav": "line_23aa6afa7410a45b.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 353.83,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe is clean through from midfield with open goal ahead!",
+    "wav": "line_6e33ed17e57c17d7.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 359.9,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford communicates the trajectory solution to bounce it off the perimeter wall.",
+    "wav": "line_c9b3d2a4461d82c1.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 395.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Buffon.exe levels the match right on the goal line! What a comeback, three three!",
+    "wav": "line_ef8442635ad7d9bc.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 400.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Turingham alerts the backline to step up and meet the danger.",
+    "wav": "line_a5c689debae6376a.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 406.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe powers five metres through the middle, carrying the fight into the Codex third.",
+    "wav": "line_0a8eaa1009dc2895.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 416.61,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E clean through down the right touchline!",
+    "wav": "line_7082c22afd011d13.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 420.39,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "A dreadful mix-up between Codex teammates as Turingham crashes into Patchford and falls!",
+    "wav": "line_9b22824e93ec8d60.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 427.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter have completely turned the tide, keeping Codex City under suffocating pressure for eleven relentless seconds.",
+    "wav": "line_9bf23ac770013451.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 448.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Turingham confirms the assignment to cover the ball-side lane while the press steps up.",
+    "wav": "line_1c6ab070f57d839d.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 486.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City are pinned inside their own territory once again as Dynamo search for a winner.",
+    "wav": "line_b3c6ed42634e89d7.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 500.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Turingham signals to maintain that defensive lane in midfield.",
+    "wav": "line_cac73ba5a79a0903.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 514.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Patchford pounces from close range to restore the lead! Heartbreak for Dynamo as Codex City make it four three!",
+    "wav": "line_17e48498a1f2d1f4.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 552.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E charges six metres along the right touchline, driving Dynamo forward for one last roll of the dice.",
+    "wav": "line_7f21bb3dba714cbd.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 572.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the post!",
+    "wav": "line_725774649172bff6.wav",
+    "dur_s": 1.46
+  },
+  {
+    "t": 573.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! An own goal from Turingham! Another defensive disaster this season! It is four four at the death!",
+    "wav": "line_e1696406afc8bb5e.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time in a four-all classic, honours even in a thrilling encounter.",
+    "wav": "line_c9cd4973f1540281.wav",
+    "dur_s": 4.29
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "We are underway in match seven.",
+    "wav": "line_ecf5a864087fc3cd.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Mbapp-E signals intent to claim possession early on.",
+    "wav": "line_f5dbcc74f4e0a670.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 4.35,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise takes an unprompted tumble in the centre circle, gyros whirring to right the ivory frame.",
+    "wav": "line_a8748b477d630c10.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 13.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E pounces right on the goal line and stabs it in! Dynamo Datacenter take an early lead, it is Dynamo Datacenter one, AFC Fable nil!",
+    "wav": "line_fc71ad64bc9528c4.wav",
+    "dur_s": 9.9
+  },
+  {
+    "t": 26.6,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from close range!",
+    "wav": "line_24ad592e3caa0d36.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 29.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Hare levels it immediately right at the mouth of the goal! A swift response from AFC Fable makes it Dynamo Datacenter one, AFC Fable one!",
+    "wav": "line_246e2018b20d0db1.wav",
+    "dur_s": 8.75
+  },
+  {
+    "t": 59.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Buffon.exe thumps it home from two metres out! Dynamo Datacenter lead two-one!",
+    "wav": "line_c3035d8631fb676c.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 60.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Buffon.exe alerts their teammate they are pressing right forward again.",
+    "wav": "line_7860ea48962cc862.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 65.76,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks straight through midfield and has a clean, unobstructed run on goal!",
+    "wav": "line_fe6d898b7b7e285c.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 75.76,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel springs to life and fires the ball back into the defensive third.",
+    "wav": "line_ee4cbdd6e129aae0.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 82.41,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Mbapp-E clatters into Hare just two metres out, leaving the ivory striker flat on the deck and rebooting the balance systems.",
+    "wav": "line_acfaad138d5c3929.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 100.63,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Buffon.exe puts in a heavy challenge on the right touchline, sending Hare down.",
+    "wav": "line_a609f16d9009b61e.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 106.54,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Hare retaliates with a crunching tackle!",
+    "wav": "line_95bbcfb81446b61e.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 108.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Mbapp-E charges straight on goal!",
+    "wav": "line_df32e2b83324dea0.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 108.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E slots it home effortlessly! Dynamo Datacenter now lead three goals to one!",
+    "wav": "line_a6e198cbf3249710.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 110.66,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Hare loses footing in the centre circle, toppling over with no yellow shirt in sight.",
+    "wav": "line_11ae6b1d343780b9.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 120.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E grabs another from two metres out! Clinical finishing in yellow, and Dynamo Datacenter stretch their advantage to four goals to one!",
+    "wav": "line_91301d52e0a2ec2e.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 144.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise methodically nudges the magenta sphere into the middle of the pitch.",
+    "wav": "line_6f44830a8a14bc89.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 151.24,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "A speculative drive skips just wide of the post from distance.",
+    "wav": "line_284d2c581709c06b.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 161.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Buffon.exe broadcasts instructions on the left touchline to work the rebound off the boundary wall.",
+    "wav": "line_e278e181cd226cab.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 174.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Hare bundles it in from point-blank range! A vital lifeline for AFC Fable, cutting the deficit to four goals to two!",
+    "wav": "line_f55785228f3a1e23.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 202.55,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks clear inside the final third with only the empty net ahead!",
+    "wav": "line_84d7148507204c86.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 209.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "AFC Fable are applying relentless pressure, hemming Dynamo Datacenter deep.",
+    "wav": "line_569d29ffd0f7a55f.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 215.5,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Teammates collide, Tortoise hits the deck!",
+    "wav": "line_dc5e493601c570a4.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 216.64,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Hare crashes down over Tortoise too!",
+    "wav": "line_60483285568e679f.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 218.49,
+    "kind": "fall",
+    "energy": "excited",
+    "text": "And now Mbapp-E collapses under no challenge at all in their own third! Absolute chaos out there with three machines sprawling.",
+    "wav": "line_678589a51160aac7.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 240.98,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E breaks completely free down the left touchline!",
+    "wav": "line_3ded873f0bf01e76.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 246.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E surges down the wing!",
+    "wav": "line_be5932e97279762a.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 248.6,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Hare demands defensive cover immediately.",
+    "wav": "line_2c851e13d964ec77.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 249.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E rifles it home from the left channel! That makes it Dynamo Datacenter five, AFC Fable two!",
+    "wav": "line_ed3fe17ebd52ee9e.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 256.06,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Tortoise crunches Buffon.exe to the turf!",
+    "wav": "line_6bd7520fb7a1a713.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 259.75,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Dynamo teammates collide and Mbapp-E crashes down!",
+    "wav": "line_4db0a2b2910700c0.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 263.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Hare capitalises on the confusion to steer it in from two metres! AFC Fable pull one back, Dynamo Datacenter five, AFC Fable three!",
+    "wav": "line_7b9c296c22e35ee9.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 299.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E drives towards the corner.",
+    "wav": "line_481d053d533a6fd9.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 299.56,
+    "kind": "ram",
+    "energy": "excited",
+    "text": "The corner panel ejects the ball!",
+    "wav": "line_c12658232878d7be.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings a frantic first half to a close. Dynamo Datacenter lead AFC Fable five goals to three in an eight-goal thriller so far.",
+    "wav": "line_f5a19dcaee433d00.wav",
+    "dur_s": 8.15
+  },
+  {
+    "t": 316.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Hare signals full focus as the second half gets underway.",
+    "wav": "line_73661d04c66e3a72.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 323.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare advances steadily through the centre, probing into the right channel four metres out.",
+    "wav": "line_4d3099db227cfb65.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 336.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "AFC Fable are keeping the squeeze on inside the attacking third, searching for a way through yellow armour.",
+    "wav": "line_02ba529bcd0ef181.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 372.52,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe is clean through!",
+    "wav": "line_54d7b76c09f0b60a.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 375.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe surges up the right touchline, steering the magenta sphere into shooting territory.",
+    "wav": "line_f0c1fbf6a0088434.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 386.5,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Hare urgently alerts Tortoise to protect the frame and dig the ball out of the danger area.",
+    "wav": "line_8f09fa973b2fd96c.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 416.8,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief lull allows actuators to cool after that high-octane four-four draw Dynamo had with Codex City. Mbapp-E hovers near halfway, scanning for the next opening.",
+    "wav": "line_43e3c6cea0142ed5.wav",
+    "dur_s": 10.84
+  },
+  {
+    "t": 447.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter mount heavy pressure in the final third.",
+    "wav": "line_05c6e2aa6a8982b7.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 450.5,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Hare barks defensive orders again.",
+    "wav": "line_2ddb6c146534986c.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 452.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Disaster for AFC Fable as Tortoise deflects it into their own net! An own goal extends the lead, making it Dynamo Datacenter six, AFC Fable three!",
+    "wav": "line_1e72ac8999eaf68e.wav",
+    "dur_s": 10.97
+  },
+  {
+    "t": 497.03,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E is clear on the right with time ticking away!",
+    "wav": "line_d3540015dfe3e6e2.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 503.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E taps it in! Dynamo Datacenter lead seven goals to three!",
+    "wav": "line_ca14e4e6950cfde0.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 504.65,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise stumbles in the centre circle, struggling to regain footing as time slips away.",
+    "wav": "line_0ec0b1075cac6c69.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 516.9,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Mbapp-E calls for a shot!",
+    "wav": "line_3959bff0bbea49e4.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 517.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe drives purposefully towards the final third.",
+    "wav": "line_c88fc8788cabe8aa.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 521.08,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the upright!",
+    "wav": "line_040703eee8540158.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 523.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter are in total control here, pinning AFC Fable back as the clock ticks towards the final minute.",
+    "wav": "line_e43dd8fb08710698.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 560.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare makes a late charge through the middle, looking for any scrap of pride as the seconds tick down.",
+    "wav": "line_f0e34e767b83d3aa.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 585.52,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Hare's effort misses by a whisker in the dying embers of the match!",
+    "wav": "line_fb146cd81e9869f1.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Dynamo Datacenter seven, AFC Fable three. Codex City face Singularity United up next.",
+    "wav": "line_139f163656a9f7c1.wav",
+    "dur_s": 7.08
+  }
+]

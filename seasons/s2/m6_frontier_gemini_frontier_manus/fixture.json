@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 4
+  },
+  "away": {
+    "team": "Manus FC",
+    "code": "MNS",
+    "goals": 8
+  },
+  "winner": "Manus FC"
+}

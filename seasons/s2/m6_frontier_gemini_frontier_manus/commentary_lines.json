@@ -1,0 +1,466 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "We are underway in match six!",
+    "wav": "line_c6640975dab58f6a.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Flash signals an immediate forward charge.",
+    "wav": "line_6e54e03616fa9b9b.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 3.47,
+    "kind": "through",
+    "energy": "excited",
+    "text": "And Flash has broken clean through the middle! Not a single ivory shirt between the electric blue striker and the open net!",
+    "wav": "line_ac5e93633da59646.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 21.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Prompt surges forward down the right flank!",
+    "wav": "line_d1bf8f8e67bcafe0.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 24.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt slots it in from point-blank range, and Manus FC take a shock lead! It is Gemini Flash nil, Manus FC one!",
+    "wav": "line_c5e906913e7f6377.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 38.47,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "A sudden loss of balance for Prompt along the touchline, crashing down hard, but the self-righting routine is already kicking in.",
+    "wav": "line_f80d0c500b4420fb.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 50.57,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Trace gets clattered by Spark!",
+    "wav": "line_c500310c61a906fb.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 51.76,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Spark goes down in the immediate counter-challenge!",
+    "wav": "line_86a65ad433a21589.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 55.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Disastrous own goal by Flash! Manus FC lead two-nil!",
+    "wav": "line_8e9a8ebef4d17c83.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 56.9,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark stumbles in the centre circle and hits the deck, adding to Gemini Flash's early mechanical misery.",
+    "wav": "line_1717841eadfab153.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 70.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace calls for calm at the back, urging a total defensive reset behind the magenta ball.",
+    "wav": "line_dfd48988fca5e3fd.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 89.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Prompt advances nicely down the left touchline, retaining steady possession for the ivory-shirted side.",
+    "wav": "line_3cb3cad1882a0972.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 107.12,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt slips the ball past the line and is clean through on goal down the right channel!",
+    "wav": "line_6b1957c083e2083a.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 132.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt converts right at the goal mouth! Gemini Flash nil, Manus FC three!",
+    "wav": "line_55c650ef5c1994c4.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 134.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace alerts the frontline that possession is secure and asks Prompt to protect the middle.",
+    "wav": "line_01860214f416ac13.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 148.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace charges straight through the middle!",
+    "wav": "line_9cefb7e7646f0cb3.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 149.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace thumps it in from close range! What a ruthless display, it is Gemini Flash nil, Manus FC four!",
+    "wav": "line_10668e9d4b7af702.wav",
+    "dur_s": 9.25
+  },
+  {
+    "t": 162.44,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A sweeping strike whistles just wide of the post!",
+    "wav": "line_1a9c5327ff2d605e.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 170.36,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Rattled into the bevelled corner, and the push-panel propels the ball back into play with real ferocity.",
+    "wav": "line_30e789129c3733b5.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 207.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace communicates the plan to contest the loose ball and boot it straight upfield.",
+    "wav": "line_e2e26af9863a1de0.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 236.01,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Trace breaks free on the right with nothing in the way!",
+    "wav": "line_b95b64ed53a08399.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 243.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace marches right to the line!",
+    "wav": "line_88725f1287ba769d.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 243.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace makes it five! Gemini Flash nil, Manus FC five!",
+    "wav": "line_ade05e5161095a17.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 244.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless attacking pressure here, with Gemini Flash pinned completely inside their own half.",
+    "wav": "line_e45b2c099d4f21c7.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 253.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Flash initiates a rare burst forward into the attacking third.",
+    "wav": "line_54646f2601baf241.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 259.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "At last, the electric blue shirts apply sustained pressure deep in Manus territory, searching desperately for a breakthrough.",
+    "wav": "line_6c41e9bfd37dc676.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 274.9,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Spark scans the pitch, broadcasting an active sweep to relocate the rolling ball.",
+    "wav": "line_fa6be374b49dc5ba.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 287.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace strides effortlessly up the left channel with seconds ticking away in the half.",
+    "wav": "line_f2aa9b9470129bf5.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "Half time: Gemini nil, Manus five.",
+    "wav": "line_5df291fd4c923397.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 301.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Straight into the second half and Manus FC pick up right where they left off, penning the opposition in.",
+    "wav": "line_bbf604abf609d0e2.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 325.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close! Just a whisker away from the far corner!",
+    "wav": "line_c9a7740f893f73c9.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 332.52,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Prompt steps in with a crunching tackle on Flash right at the mouth of goal to snuff out the danger!",
+    "wav": "line_2b9e46d6c45cc3de.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 352.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Flash signals intent to push hard towards the attacking goal.",
+    "wav": "line_6bcc5735ac3f3e82.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 360.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash pulls one back from the right channel! Gemini Flash FC one, Manus FC five!",
+    "wav": "line_070be341cf25e2b8.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 378.91,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash loses footing on the touchline and hits the deck.",
+    "wav": "line_76c90154bdd5a9cf.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 385.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Driven wide of the open target!",
+    "wav": "line_e61d62289bb8980d.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 386.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark motors down the left channel!",
+    "wav": "line_5461525412f91582.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 386.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Spark slots it home! Two in quick succession! Gemini Flash two, Manus FC five!",
+    "wav": "line_086e03549d9b8121.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 390.16,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Flash is clean through again! A sudden surge of momentum for the electric blues as they hunt another!",
+    "wav": "line_efbb5ebbe893ff1c.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 407.77,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Heavy collision as Flash takes down Trace in the final third!",
+    "wav": "line_739be3f9b2a4219f.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 414.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt halts the comeback in its tracks! Gemini Flash two, Manus FC six!",
+    "wav": "line_1d33cf9eaed044e1.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 424.9,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace communicates that the challenge is on and requests middle coverage from Prompt.",
+    "wav": "line_47efcb72e920b2a5.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 436.44,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Shaved past the upright once more!",
+    "wav": "line_ca601a57832ebdc8.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 437.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace scrambles it over the line point-blank! That surely seals it, Gemini Flash two, Manus FC seven!",
+    "wav": "line_85a0a699c05601cb.wav",
+    "dur_s": 8.15
+  },
+  {
+    "t": 458.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Electric blues pressing hard as the minutes tick away.",
+    "wav": "line_769065b910a0d5c4.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 462.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash bundles it home from close range! Gemini Flash three, Manus FC seven!",
+    "wav": "line_a70c41a5cce5a96f.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 471.25,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Teammates collide in midfield and Flash tumbles over!",
+    "wav": "line_3ea3a40018420a1d.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 475.52,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Back up and Flash is clean through on goal once more!",
+    "wav": "line_e618c91eb9d32212.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 493.1,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Flash lands a solid challenge to dispossess Prompt!",
+    "wav": "line_5cbfb167a1275e33.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 498.55,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Prompt bowls Spark over cleanly!",
+    "wav": "line_3fea6a6ee9f993cd.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 499.22,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Push-panel catapults the ball clear!",
+    "wav": "line_00ad379d7c5e5279.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 499.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Flash lets Spark know sensors are sweeping the arena to track the magenta ball.",
+    "wav": "line_05ab9846f6534579.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 532.96,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Thumped deep into the corner and the mechanical ram sends it flying back into play.",
+    "wav": "line_9366fec20775bbc4.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 567.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Trace taps it in from point-blank range in the final minute! Gemini Flash three, Manus FC eight!",
+    "wav": "line_c7f79c10742a1934.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 585.2,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Skimming inches wide of the net!",
+    "wav": "line_d2d4f838bdea9092.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 588.02,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash tumbles in the box!",
+    "wav": "line_bb01e71016ea88bc.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 589.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash scrambles up and strokes it in! Gemini Flash four, Manus FC eight!",
+    "wav": "line_72ae9914eb9158c4.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full-time: Gemini Flash 4, Manus FC 8. Up next at 12:00 London, Dynamo Datacenter against AFC Fable!",
+    "wav": "line_e2f591fae4430ef7.wav",
+    "dur_s": 9.07
+  }
+]

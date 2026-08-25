@@ -1,0 +1,121 @@
+{"t": 0.5, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "Going for the ball"}
+{"t": 0.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "Going for the kickoff ball."}
+{"t": 0.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Steady from the whistle \u2014 I've got our half."}
+{"t": 0.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 4.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "kick it", "reason": "cooldown"}
+{"t": 8.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "ball is against the wall, clearing it", "reason": "cooldown"}
+{"t": 14.3, "from": "r3", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 14.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 30.0, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 30.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 46.0, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 54.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 60.0, "from": "r3", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 60.4, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "attacking the ball"}
+{"t": 72.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Yours, Hare \u2014 I'll hold the line."}
+{"t": 94.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Ram's arming \u2014 I've got the bounce."}
+{"t": 98.4, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 110.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 110.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 111.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "got it"}
+{"t": 123.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 126.7, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 128.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 159.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck by the wall, pushing it out"}
+{"t": 161.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing the wall"}
+{"t": 161.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 163.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 164.7, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 165.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "unsticking it", "reason": "cooldown"}
+{"t": 166.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "still working the stuck ball", "reason": "cooldown"}
+{"t": 167.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 173.4, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the wall", "reason": "repeat"}
+{"t": 174.8, "from": "r2", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 176.7, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 191.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball's against the wall, nudging it out"}
+{"t": 200.7, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 214.7, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 232.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "nudging it out from the wall"}
+{"t": 234.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing the ball from the wall", "reason": "cooldown"}
+{"t": 235.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "got it along the wall"}
+{"t": 236.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 244.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "prying it loose from the corner"}
+{"t": 246.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it free from the wall", "reason": "cooldown"}
+{"t": 248.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 248.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it along the wall", "reason": "cooldown"}
+{"t": 251.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 264.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 265.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 279.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 280.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it free along the wall"}
+{"t": 281.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 282.5, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 282.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 289.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "I'll cut it off \u2014 stay on the ball."}
+{"t": 296.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "got it against the wall"}
+{"t": 296.6, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 297.6, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing the ball free from the wall"}
+{"t": 299.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 316.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 324.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 328.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball's against the wall, pushing it free"}
+{"t": 329.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck, pushing it free"}
+{"t": 332.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing through", "reason": "cooldown"}
+{"t": 332.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 336.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 364.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "got it, helping clear"}
+{"t": 366.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 367.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "prying it from the wall"}
+{"t": 369.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 376.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "I'll cut it off \u2014 stay on the ball."}
+{"t": 378.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it"}
+{"t": 380.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "prying the stuck ball"}
+{"t": 383.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 383.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 386.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 396.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 400.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 418.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Yours, Hare \u2014 I'll hold the line."}
+{"t": 418.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 422.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 422.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "lining up the shot"}
+{"t": 436.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "I'll race it to the line \u2014 you press!"}
+{"t": 438.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "I'll cut it off \u2014 stay on the ball."}
+{"t": 448.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "firing now"}
+{"t": 450.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Near post is mine. Force it wide."}
+{"t": 450.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 458.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "striking towards goal"}
+{"t": 466.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 468.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 482.5, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Yours, Hare \u2014 I'll hold the line."}
+{"t": 484.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing off the wall"}
+{"t": 484.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing from the wall"}
+{"t": 486.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 486.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "breaking it free", "reason": "cooldown"}
+{"t": 490.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 490.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 494.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "working it off the wall"}
+{"t": 494.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "nudging off the wall"}
+{"t": 496.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "nudging off the wall", "reason": "repeat"}
+{"t": 500.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Post covered \u2014 dig it out!"}
+{"t": 501.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing toward goal", "reason": "cooldown"}
+{"t": 502.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 503.6, "from": "r2", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 516.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "kick it to goal!"}
+{"t": 519.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "scoring"}
+{"t": 521.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "getting the ball unstuck", "reason": "cooldown"}
+{"t": 521.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "scoring!", "reason": "cooldown"}
+{"t": 526.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "All yours, Tortoise \u2014 dropping back."}
+{"t": 526.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 529.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "unstucking the ball"}
+{"t": 530.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 532.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 532.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "unstucking from the wall", "reason": "cooldown"}
+{"t": 570.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing through"}
+{"t": 572.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Yours, Hare \u2014 I'll hold the line."}
+{"t": 586.4, "from": "r2", "team": "AFC Fable", "number": 1, "text": "Mine \u2014 slow and steady."}
+{"t": 586.5, "from": "r3", "team": "AFC Fable", "number": 2, "text": "Mine! No naps today."}
+{"t": 587.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "got it"}
+{"t": 590.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "helping unstick it", "reason": "cooldown"}
+{"t": 592.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball's against the wall"}
+{"t": 599.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "coming to help unstick"}

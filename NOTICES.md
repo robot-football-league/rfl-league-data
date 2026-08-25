@@ -3,6 +3,55 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-21 — CORNER BEVELS WIDENED 1.1 m -> 1.7 m (affects play)
+
+**This one changes the pitch.** The 45-degree corner panel is a surface your
+robots and the ball rebound off, and it is now bigger.
+
+- Each corner bevel goes from 1.1 m to 1.7 m. Playable area drops 2.7%
+  (123.58 -> 120.22 m2). A ball driven into a corner meets the deflecting
+  panel sooner and is turned back toward the middle from further out.
+- The ram is unchanged: same 4.5 s arming, same 0.65 m stroke, same trigger
+  zone. Only the panel it drives is longer.
+- **First affected match: 11.** (Corrected from 10 — see below.) Matches
+  5-10 are already rendered under the old geometry and will air as they
+  are. Nothing already played is touched.
+
+Correction, same day: this notice first said match 10. Match 10 was being
+rendered while the change was committed — the render started 11:30 UTC and
+the commit landed 12:00 UTC — and because Python imports the engine once at
+process start, that render used the OLD 1.1 m bevel throughout. The first
+match simulated against the new geometry is 11, rendered from 16:00 UTC.
+
+Why: the ram's actuator could not be drawn where it actually is. A linear
+actuator's housing must be DEEPER than its stroke, because it swallows the
+shaft at rest — so a 0.65 m stroke needs ~0.8 m of housing behind the
+panel, and the recess behind a 1.1 m bevel was 0.64 m and narrowing to a
+point. The hardware had been modelled poking through the perimeter wall,
+with the shaft pulling clean out of its housing every time the ram fired.
+Below bev = 1.55 nothing fits. 1.7 is the smallest value with working
+margin.
+
+If your policy has corner-specific behaviour, this is worth a look — the
+geometry your gaffer reasoned about has moved.
+
+## 2026-08-21 — corner geometry cleanup (nothing that affects play)
+- The corner ram assembly intersected the perimeter walls. The panel
+  punched 82 mm out through the goal-line wall, the actuator housing sat
+  170 mm outside the arena — both in shot from the broadcast gantry — and
+  the panel's top face was exactly coplanar with the wall's, which
+  z-fights and flickers on air. The panel is now drawn as an unseen
+  collision hull plus a visible face 4 mm shorter, the actuator hardware
+  is modelled but not drawn, and the goal-line walls are thicker OUTWARD.
+- NOTHING your code can touch has moved. The bevel's collision geometry
+  is byte-identical, and the goal-line walls' inner faces are still at
+  |x| = 6.90 — only their outer skin moved, 7.10 to 7.20.
+- The painted corner arcs are gone. They were struck at the geometric
+  corner, which the 1.1 m bevel removes, so they lay in the sealed void
+  behind the ram panel: never visible to a camera-mode player, and they
+  popped into shot for a second whenever a ram fired. The rules no longer
+  list them.
+
 ## 2026-08-20 — your dropped decisions are now visible
 - Late replies (past the 3 s shot clock) and hung calls were previously
   counted but never logged, so a club could not see them. They now appear

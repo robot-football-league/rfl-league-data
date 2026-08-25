@@ -1,0 +1,111 @@
+{"t": 2.0, "from": "r0", "team": "Singularity United", "number": 1, "text": "Going for the ball"}
+{"t": 2.0, "from": "r1", "team": "Singularity United", "number": 2, "text": "Going for the ball"}
+{"t": 8.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 24.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 30.2, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "Going for the ball", "reason": "repeat"}
+{"t": 38.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, pushing it free", "reason": "repeat"}
+{"t": 40.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 44.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, pushing it free", "reason": "cooldown"}
+{"t": 48.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball stuck against the wall, pushing it free", "reason": "cooldown"}
+{"t": 56.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "ball is against the wall, pushing it free"}
+{"t": 62.7, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "ball is near the wall, pushing it out", "reason": "cooldown"}
+{"t": 117.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it"}
+{"t": 119.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it", "reason": "cooldown"}
+{"t": 120.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, getting it out"}
+{"t": 131.6, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it", "reason": "repeat"}
+{"t": 144.4, "from": "r1", "team": "Singularity United", "number": 2, "text": "get that ball"}
+{"t": 148.8, "from": "r0", "team": "Singularity United", "number": 1, "text": "got it"}
+{"t": 149.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "attacking the ball"}
+{"t": 152.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 154.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the ball from the wall", "reason": "cooldown"}
+{"t": 155.6, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 159.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "got it, kicking toward goal"}
+{"t": 172.4, "from": "r1", "team": "Singularity United", "number": 2, "text": "clearing the ball from the wall"}
+{"t": 172.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 173.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 174.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "ball is stuck, pushing it free", "reason": "cooldown"}
+{"t": 174.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 176.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "ball stuck against wall, pushing", "reason": "cooldown"}
+{"t": 178.9, "from": "r0", "team": "Singularity United", "number": 1, "text": "prying it loose from the wall"}
+{"t": 180.5, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 180.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 182.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 184.5, "from": "r1", "team": "Singularity United", "number": 2, "text": "working it free"}
+{"t": 184.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it away from the wall"}
+{"t": 194.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it away from the wall", "reason": "repeat"}
+{"t": 196.5, "from": "r1", "team": "Singularity United", "number": 2, "text": "pushing ball along the wall"}
+{"t": 196.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 198.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "moving it forward", "reason": "cooldown"}
+{"t": 199.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 202.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got the ball, heading to goal", "reason": "cooldown"}
+{"t": 230.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball's against the wall, clearing it"}
+{"t": 233.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "helping free it"}
+{"t": 234.4, "from": "r1", "team": "Singularity United", "number": 2, "text": "prying it loose from the wall"}
+{"t": 236.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "freeing ball from wall", "reason": "cooldown"}
+{"t": 238.5, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 240.6, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 242.0, "from": "r0", "team": "Singularity United", "number": 1, "text": "helping you free it"}
+{"t": 244.0, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "got your back", "reason": "cooldown"}
+{"t": 244.5, "from": "r1", "team": "Singularity United", "number": 2, "text": "pushing it off the wall"}
+{"t": 248.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 248.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it free"}
+{"t": 250.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 254.0, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "helping free it", "reason": "repeat"}
+{"t": 256.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 259.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 260.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "firing at goal"}
+{"t": 260.5, "from": "r1", "team": "Singularity United", "number": 2, "text": "still working it free"}
+{"t": 260.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it along the wall"}
+{"t": 268.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 270.0, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "ball is stuck by the wall, pushing it", "reason": "cooldown"}
+{"t": 276.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 278.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it from the corner", "reason": "cooldown"}
+{"t": 280.0, "from": "r0", "team": "Singularity United", "number": 1, "text": "ball is stuck by the wall, pushing it"}
+{"t": 280.3, "from": "r1", "team": "Singularity United", "number": 2, "text": "working it free"}
+{"t": 284.3, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "prying the ball out from the wall", "reason": "cooldown"}
+{"t": 298.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing from the corner"}
+{"t": 326.7, "from": "r0", "team": "Singularity United", "number": 1, "text": "attacking"}
+{"t": 338.7, "from": "r1", "team": "Singularity United", "number": 2, "text": "shooting"}
+{"t": 348.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing the corner"}
+{"t": 349.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "unsticking the ball from the wall"}
+{"t": 350.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "unsticking from wall"}
+{"t": 351.0, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "unstuck", "reason": "cooldown"}
+{"t": 352.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 354.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 355.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 358.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 364.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "got the ball near the wall"}
+{"t": 366.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 368.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing the ball away", "reason": "cooldown"}
+{"t": 368.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it away from the wall", "reason": "cooldown"}
+{"t": 370.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 370.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 371.4, "from": "r1", "team": "Singularity United", "number": 2, "text": "helping unstick the ball"}
+{"t": 372.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "pushing it loose"}
+{"t": 372.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "shoving it along the wall", "reason": "cooldown"}
+{"t": 372.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 374.6, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 374.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying the ball off the wall", "reason": "cooldown"}
+{"t": 374.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "getting it unstuck from the wall"}
+{"t": 375.5, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 376.5, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 376.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "prying it free"}
+{"t": 378.5, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "getting it away from the wall", "reason": "cooldown"}
+{"t": 386.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "firing toward goal"}
+{"t": 424.5, "from": "r0", "team": "Singularity United", "number": 1, "text": "ball is stuck, pushing it out"}
+{"t": 438.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "unsticking the ball"}
+{"t": 442.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 444.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 458.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner wall"}
+{"t": 460.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing off corner wall", "reason": "cooldown"}
+{"t": 461.3, "from": "r1", "team": "Singularity United", "number": 2, "text": "moving it out"}
+{"t": 515.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "scoring!"}
+{"t": 520.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it"}
+{"t": 539.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "attacking the ball"}
+{"t": 552.2, "from": "r1", "team": "Singularity United", "number": 2, "text": "got it"}
+{"t": 554.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "getting the ball off the wall"}
+{"t": 556.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 560.5, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 576.2, "from": "r1", "team": "Singularity United", "number": 2, "text": "scoring"}
+{"t": 580.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "ball is stuck on the wall, getting it out", "reason": "cooldown"}
+{"t": 599.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "got it"}

@@ -1,0 +1,134 @@
+{"t": 0.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "going for the ball"}
+{"t": 0.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 0.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 2.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "attacking the ball", "reason": "cooldown"}
+{"t": 2.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 4.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing through", "reason": "cooldown"}
+{"t": 10.3, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "freeing ball from wall", "reason": "cooldown"}
+{"t": 10.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 12.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball is stuck by wall"}
+{"t": 14.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Final-third overload; both channels are live."}
+{"t": 26.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 28.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 28.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 30.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing from the wall"}
+{"t": 32.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 34.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it, driving forward", "reason": "cooldown"}
+{"t": 36.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing toward goal", "reason": "cooldown"}
+{"t": 40.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 42.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Search screen set behind the sweep."}
+{"t": 56.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 56.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it from the wall"}
+{"t": 58.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "helping you clear it"}
+{"t": 68.0, "from": "r2", "team": "Codex City", "number": 1, "suppressed": "First pressure; rotate into the goal-side outlet.", "reason": "repeat"}
+{"t": 70.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 82.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Routing goal-side before any clearance."}
+{"t": 84.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Routing goal-side before any clearance."}
+{"t": 96.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 98.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 110.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 114.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 126.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is stuck, pushing it free"}
+{"t": 128.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 130.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 136.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "going for it"}
+{"t": 144.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 160.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 160.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 174.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 174.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 188.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 188.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 200.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball's stuck against the wall, pushing it out"}
+{"t": 201.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "got the ball near the wall"}
+{"t": 202.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 202.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 216.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Routing goal-side before any clearance."}
+{"t": 216.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 221.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing past defender"}
+{"t": 222.3, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball is stuck, freeing it"}
+{"t": 224.1, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck against the wall, working it free", "reason": "cooldown"}
+{"t": 230.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 234.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 235.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it, pushing toward goal"}
+{"t": 250.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 252.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Routing goal-side before any clearance."}
+{"t": 264.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 266.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 280.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 280.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 280.3, "from": "r0", "team": "Real Machina", "number": 1, "text": "working it off the wall"}
+{"t": 281.5, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 282.1, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck against the wall", "reason": "cooldown"}
+{"t": 294.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 294.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 294.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing the wall"}
+{"t": 299.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is stuck by the wall, pushing it"}
+{"t": 314.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "attacking"}
+{"t": 316.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 316.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 330.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 338.8, "from": "r1", "team": "Real Machina", "number": 2, "text": "I'm going for the ball"}
+{"t": 344.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 346.5, "from": "r2", "team": "Codex City", "number": 1, "suppressed": "First pressure; rotate into the goal-side outlet.", "reason": "repeat"}
+{"t": 358.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 362.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 364.8, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball's against the wall, pushing it free"}
+{"t": 372.0, "from": "r1", "team": "Real Machina", "number": 2, "text": "helping free the ball"}
+{"t": 372.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 376.1, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 376.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Routing goal-side before any clearance."}
+{"t": 380.0, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 382.0, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "freeing from the wall", "reason": "cooldown"}
+{"t": 384.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it along the wall"}
+{"t": 384.1, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing hard"}
+{"t": 386.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 390.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 394.0, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 400.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 409.6, "from": "r0", "team": "Real Machina", "number": 1, "text": "coming to help"}
+{"t": 414.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 427.4, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 428.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 438.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 442.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 443.4, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 443.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "poking it out"}
+{"t": 448.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 456.7, "from": "r2", "team": "Codex City", "number": 1, "text": "Routing goal-side before any clearance."}
+{"t": 457.4, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 460.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing the wall"}
+{"t": 461.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "poking it along the wall"}
+{"t": 465.7, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "poking it free from the wall", "reason": "cooldown"}
+{"t": 467.7, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 470.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 471.4, "from": "r3", "team": "Codex City", "number": 2, "text": "Search screen set behind the sweep."}
+{"t": 484.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 485.4, "from": "r3", "team": "Codex City", "number": 2, "text": "Wrong side of danger; taking the lateral route."}
+{"t": 487.6, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it free"}
+{"t": 492.3, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing the wall", "reason": "repeat"}
+{"t": 493.5, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 494.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "working it off the wall"}
+{"t": 496.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 498.7, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 499.4, "from": "r3", "team": "Codex City", "number": 2, "text": "Releasing the collision; rotate onto the loose ball."}
+{"t": 502.4, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "unsticking from wall", "reason": "cooldown"}
+{"t": 503.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball is stuck, pushing"}
+{"t": 504.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it away from the wall"}
+{"t": 513.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it, taking the shot"}
+{"t": 518.9, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 526.8, "from": "r3", "team": "Codex City", "number": 2, "text": "Routing goal-side before any clearance."}
+{"t": 530.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 532.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "clearing off the wall", "reason": "cooldown"}
+{"t": 540.8, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 546.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "nudging it off the wall"}
+{"t": 554.8, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 568.8, "from": "r3", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 571.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 572.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball's against the wall, pushing it free"}
+{"t": 573.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "helping push it free"}
+{"t": 577.5, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 582.8, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 585.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 599.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it free"}
+{"t": 599.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}

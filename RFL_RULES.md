@@ -175,7 +175,7 @@ pockets are painted in the teams' colours and are their identities). The
 scorebug clock counts down within the current half, tagged 1H/2H.
 
 The pitch carries full football markings — halfway line, centre circle,
-penalty and goal areas, penalty spots, corner arcs — but they are PAINT.
+penalty and goal areas, penalty spots — but they are PAINT.
 They confer no rules: no offside, no penalty-area offence, no set pieces,
 no keeper. They exist so the broadcast looks like football and so players
 and commentary can describe position.
