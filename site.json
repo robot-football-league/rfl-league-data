@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T22:13:57+00:00",
+ "generated_at": "2026-08-26T14:12:31+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -1660,6 +1660,21 @@
     },
     {
      "pos": 4,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 5,
+     "W": 2,
+     "D": 0,
+     "L": 3,
+     "GF": 26,
+     "GA": 23,
+     "Pts": 6,
+     "GD": 3
+    },
+    {
+     "pos": 5,
      "slug": "frontier_manus",
      "name": "Manus FC",
      "code": "MNS",
@@ -1674,34 +1689,19 @@
      "GD": -6
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "frontier_gemini",
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 4,
+     "P": 5,
      "W": 2,
      "D": 0,
-     "L": 2,
-     "GF": 13,
-     "GA": 20,
-     "Pts": 6,
-     "GD": -7
-    },
-    {
-     "pos": 6,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "P": 4,
-     "W": 1,
-     "D": 0,
      "L": 3,
-     "GF": 17,
-     "GA": 23,
-     "Pts": 3,
-     "GD": -6
+     "GF": 13,
+     "GA": 29,
+     "Pts": 6,
+     "GD": -16
     },
     {
      "pos": 7,
@@ -5244,8 +5244,186 @@
      "away_name": "AFC Fable",
      "home_code": "GEM",
      "away_code": "FAB",
-     "status": "scheduled",
-     "kickoff_utc": "2026-08-26T11:00:00Z"
+     "status": "aired",
+     "score": [
+      0,
+      9
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 28,
+        "second": 185.2,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 240.5,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 45,
+        "second": 296.7,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": true
+       },
+       {
+        "minute": 55,
+        "second": 364.3,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 399.9,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 439.9,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": true
+       },
+       {
+        "minute": 73,
+        "second": 486.7,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 531.6,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": true
+       },
+       {
+        "minute": 89,
+        "second": 594.7,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 183,
+       "kick": 186,
+       "fall": 25,
+       "through": 17,
+       "wall": 40,
+       "ram": 2,
+       "near_miss": 12
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "On the ball \u2014 pressing goalward!"
+       },
+       {
+        "second": 38.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Post covered \u2014 dig it out!"
+       },
+       {
+        "second": 86.8,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Searching for the ball \u2014 sweeping field."
+       },
+       {
+        "second": 136.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "On the ball \u2014 pressing goalward!"
+       },
+       {
+        "second": 186.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "The moral so far: patience scores."
+       },
+       {
+        "second": 226.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Searching for the ball \u2014 sweeping field."
+       },
+       {
+        "second": 268.2,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "All yours, Tortoise \u2014 dropping back."
+       },
+       {
+        "second": 316.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Mine! No naps today."
+       },
+       {
+        "second": 365.1,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "The moral so far: patience scores."
+       },
+       {
+        "second": 402.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "On the ball \u2014 pressing goalward!"
+       },
+       {
+        "second": 438.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Doorstep finish! Putting it away!"
+       },
+       {
+        "second": 474.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Searching for the ball \u2014 sweeping field."
+       },
+       {
+        "second": 517.1,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ram's arming \u2014 I've got the bounce."
+       },
+       {
+        "second": 558.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Clearing defensive danger upfield!"
+       }
+      ],
+      "stats": {
+       "kicks": 186,
+       "falls": 25,
+       "near_misses": 12,
+       "post_hits": 0,
+       "through_balls": 17
+      },
+      "est_cost_usd": null
+     },
+     "watch": {
+      "id": "s2-m19_frontier_gemini_frontier_fable",
+      "url": "https://4dgsx.com/watch/s2-m19_frontier_gemini_frontier_fable",
+      "embed_url": "https://4dgsx.com/embed/s2-m19_frontier_gemini_frontier_fable"
+     }
     },
     {
      "n": 20,
@@ -5365,6 +5543,14 @@
      "goals": 17
     },
     {
+     "name": "Hare",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 14
+    },
+    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -5397,14 +5583,6 @@
      "goals": 11
     },
     {
-     "name": "Hare",
-     "team": "frontier_fable",
-     "team_name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "goals": 11
-    },
-    {
      "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
@@ -5429,7 +5607,7 @@
      "goals": 8
     }
    ],
-   "aired_count": 18,
+   "aired_count": 19,
    "total_matches": 28,
    "complete": false,
    "slots": [
@@ -5441,8 +5619,8 @@
   }
  ],
  "totals": {
-  "matches_aired": 24,
-  "goals": 239,
+  "matches_aired": 25,
+  "goals": 248,
   "clubs": 8
  }
 }

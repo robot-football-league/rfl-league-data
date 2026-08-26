@@ -1475,6 +1475,83 @@
     ]
    },
    "dir": "runs/league/s2/m18_dynamo_datacenter_singularity_united"
+  },
+  {
+   "fixture": 19,
+   "home": "frontier_gemini",
+   "away": "frontier_fable",
+   "score": [
+    0,
+    9
+   ],
+   "goals": [
+    {
+     "t": 185.2,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 240.5,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 296.7,
+     "team": "B",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 364.3,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 399.9,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 439.9,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 486.7,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 531.6,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 594.7,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": null,
+   "players": {
+    "home": [
+     "Flash",
+     "Spark"
+    ],
+    "away": [
+     "Tortoise",
+     "Hare"
+    ]
+   },
+   "dir": "runs/league/s2/m19_frontier_gemini_frontier_fable"
   }
  ]
 }

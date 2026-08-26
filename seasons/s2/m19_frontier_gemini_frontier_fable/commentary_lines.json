@@ -1,0 +1,514 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this RFL clash!",
+    "wav": "line_266e817ba198f0b6.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Flash immediately signals a rapid push forward.",
+    "wav": "line_5d0aeb4f7978184e.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 4.34,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise has hit the deck without anyone near them, gyros whirring as they begin the self-righting routine in midfield.",
+    "wav": "line_12c116e67f7ef4b1.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 34.57,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Spark bursts down the right flank, clean through with an open goal ahead!",
+    "wav": "line_33bca7a20459cdc1.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 41.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark drives down the wing.",
+    "wav": "line_2d08f6f204edc791.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 42.12,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Rebounded hard off the corner panel!",
+    "wav": "line_c2d5d63254a61fe9.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 44.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Gemini Flash are applying heavy pressure, hemming Fable deep in their end.",
+    "wav": "line_f52ae91cba5664d9.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 49.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide of the post!",
+    "wav": "line_725774649172bff6.wav",
+    "dur_s": 1.46
+  },
+  {
+    "t": 49.66,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Comical scenes as the two electric blue teammates crash straight into each other!",
+    "wav": "line_1e410f39faa9a291.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 55.35,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Another collision between Spark and Flash\u2014total miscommunication in the blue ranks as Spark hits the turf.",
+    "wav": "line_3f1a3b14bf747b52.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 63.44,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Flash puts in a firm challenge, sending Tortoise clattering to the floor in Fable's defensive third.",
+    "wav": "line_1c5470c3cd785faf.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 71.06,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "The teammates collide once again!",
+    "wav": "line_fd7333f548f38682.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 72.94,
+    "kind": "tackle",
+    "energy": "calm",
+    "text": "Flash clatters Tortoise down again.",
+    "wav": "line_1ed1697168271da6.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 75.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Spark urges an immediate attack.",
+    "wav": "line_dd396b5d5e96a897.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 76.75,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner push-panel launches the ball back into play.",
+    "wav": "line_d2fda0d047d42d30.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 81.3,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Spark steps in heavily and sends Hare sprawling to the deck.",
+    "wav": "line_6bf62893fa4cfd8b.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 85.66,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Hare recovers and levels Flash right on the goal line with a crunching block!",
+    "wav": "line_43d767a7762423f6.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 92.24,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise loses balance again in defence, toppling over with those servomotors working overtime to reset.",
+    "wav": "line_ab7eb74ed01d89df.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 100.8,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Hare makes another decisive intervention, bowling Flash over just two metres from goal to snuff out the danger.",
+    "wav": "line_d01527a2308c2f60.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 112.88,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Now Hare takes an unprompted tumble on the right channel, joining Tortoise in the self-righting club.",
+    "wav": "line_a3c53c1ce47b2f8b.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 124.48,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close as the ball drifts inches past the terracotta target!",
+    "wav": "line_d69e89f64b602a04.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 134.21,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Hare goes down again on the right side. Not quite the nimble start AFC Fable might have hoped for, but they are getting back up.",
+    "wav": "line_5b4983c333fc6d35.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 149.48,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Flashed just wide from point-blank range!",
+    "wav": "line_a92f8f7adaa4de63.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 152.94,
+    "kind": "through",
+    "energy": "build",
+    "text": "Tortoise clips the ball forward into open space\u2014there is nobody back to defend!",
+    "wav": "line_5d423ca6974dc754.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 160.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise signals to take things steady and methodical on the left flank, true to their namesake as they advance.",
+    "wav": "line_a55f3ba086a15616.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 185.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare pounces right on the goal mouth and slots it home! The terracotta shirts take the lead, Gemini Flash FC nil, AFC Fable one!",
+    "wav": "line_645b4c3cc5d97a72.wav",
+    "dur_s": 9.77
+  },
+  {
+    "t": 199.78,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks away through the middle, utterly clear of the electric blue defence!",
+    "wav": "line_b81ff900ac656fee.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 209.92,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A rasping effort whistles just half a metre wide of the upright.",
+    "wav": "line_14a5f07e267e4fa4.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 232.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise communicates to keep the tempo controlled from the back.",
+    "wav": "line_3382ab2d029c2d62.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 240.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare strikes again, drilling it home from two metres out! It is a double for Hare, and AFC Fable lead two-nil!",
+    "wav": "line_39404e7ddaee7df5.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 250.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare drives centrally towards goal.",
+    "wav": "line_50e477898077a584.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 252.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Centimetres away from a hat-trick as Hare's shot skims the post!",
+    "wav": "line_c440f21c83ead0fe.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 266.0,
+    "kind": "run",
+    "energy": "calm",
+    "text": "Spark attempts to relieve the pressure, carrying the ball three metres out from the defensive third.",
+    "wav": "line_4dd97568fbba6563.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 281.36,
+    "kind": "near_miss",
+    "energy": "calm",
+    "text": "A looping effort on the right channel drifts just wide of the mark.",
+    "wav": "line_833d40964963aaab.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 296.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! A disastrous own goal by Spark! AFC Fable lead three-nil right before the break!",
+    "wav": "line_3a2b966c9047d038.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 298.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Hare signals ruthless attacking intent.",
+    "wav": "line_ec0f146893ed176b.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings a commanding first half to a close. AFC Fable hold a handsome three-nil lead over a rattled Gemini Flash side.",
+    "wav": "line_f92108e684fc00cd.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 325.12,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches away from a fourth as the shot shaves the outer paint!",
+    "wav": "line_de5240fd1c24f55f.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 335.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Fable are completely dominant now, pinning Gemini Flash deep in their own territory.",
+    "wav": "line_638afc6218877e1a.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 344.65,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Spark lands a heavy tackle on Hare to halt the charge on the right.",
+    "wav": "line_33c162efe4cace92.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 352.8,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Another sighter from distance flashes just wide of the net.",
+    "wav": "line_d6d4d4e2ac3fbb66.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 364.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Tortoise bundles it over from point-blank range! Slow and steady does it, and AFC Fable make it four-nil!",
+    "wav": "line_320d1be5c5caccec.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 386.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Hare radios that they are fully alert and ready to keep pressing the advantage.",
+    "wav": "line_b80637e3d5479b36.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 399.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare charges straight through midfield!",
+    "wav": "line_df00bf1f8b7a5373.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 399.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare finishes it with authority from two metres! A magnificent hat-trick, and AFC Fable are running riot at five-nil!",
+    "wav": "line_abdead96c82306b3.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 428.59,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Tortoise breaks clean through from midfield\u2014the entire blue defence has vanished!",
+    "wav": "line_a644a6f6d071fc45.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 438.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise charges right to the net!",
+    "wav": "line_7baccd16c1ee0645.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 438.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Deflected away off the post!",
+    "wav": "line_a0d1c52d4ca83add.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 439.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash deflects it in! Another own goal makes it six-nil to AFC Fable!",
+    "wav": "line_37dc943596a233ed.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 441.1,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise reminds their partner that methodical play is paying huge dividends out here today.",
+    "wav": "line_01b9be4944a5ad3a.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 477.68,
+    "kind": "through",
+    "energy": "excited",
+    "text": "With time running down, Tortoise is clean through again!",
+    "wav": "line_359700b161ea37cf.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 482.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise gallops eight metres along the left wing.",
+    "wav": "line_96e9129fe13792b3.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 485.68,
+    "kind": "near_miss",
+    "energy": "calm",
+    "text": "Fired just wide of goal!",
+    "wav": "line_3d85c407c6589f5b.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 486.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Tortoise tucks it away on the rebound from point-blank range! Under two minutes left and it is Gemini Flash nil, AFC Fable seven!",
+    "wav": "line_b2c0506a1484a7a2.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 508.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare strides down the left flank.",
+    "wav": "line_303b0da0a5e97f88.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 509.0,
+    "kind": "pressure",
+    "energy": "calm",
+    "text": "Fable maintain total territorial control.",
+    "wav": "line_a00eb4b79bca29fe.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 509.4,
+    "kind": "near_miss",
+    "energy": "calm",
+    "text": "Narrowly past the post!",
+    "wav": "line_83c7573a7669b6b8.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 510.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Spark calls out desperately to finish any rare opportunity that comes their way, with barely ninety seconds remaining.",
+    "wav": "line_33ea3e281dc57b72.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 528.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Fable camp inside the final third once more.",
+    "wav": "line_1ec2ae83977d31ca.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 531.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! An absolute nightmare for Flash, turning it into their own net again! It is Gemini Flash nil, AFC Fable eight in the final minute!",
+    "wav": "line_8ba715c364a5f9b5.wav",
+    "dur_s": 9.67
+  },
+  {
+    "t": 548.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Spark drives up the left in search of consolation.",
+    "wav": "line_f589fd7422933834.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 551.88,
+    "kind": "near_miss",
+    "energy": "calm",
+    "text": "Spark sends a shot skimming past the post\u2014nothing is going right for Gemini Flash today.",
+    "wav": "line_9b1d525ee30d05f4.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 594.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Flash scores yet another own goal in the dying seconds! A staggering nine-nil to AFC Fable!",
+    "wav": "line_70819b51f5cf9b21.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Gemini Flash nil, AFC Fable nine. Next up, Synthetic Athletic face Manus FC!",
+    "wav": "line_becdcfa1457fb4ef.wav",
+    "dur_s": 6.69
+  }
+]
