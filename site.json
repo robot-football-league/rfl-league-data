@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T14:12:31+00:00",
+ "generated_at": "2026-08-27T11:33:56+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -117,7 +117,9 @@
      "GF": 18,
      "GA": 11,
      "Pts": 7,
-     "GD": 7
+     "GD": 7,
+     "prev": 1,
+     "move": 0
     },
     {
      "pos": 2,
@@ -132,7 +134,9 @@
      "GF": 20,
      "GA": 16,
      "Pts": 6,
-     "GD": 4
+     "GD": 4,
+     "prev": 2,
+     "move": 0
     },
     {
      "pos": 3,
@@ -147,7 +151,9 @@
      "GF": 15,
      "GA": 20,
      "Pts": 4,
-     "GD": -5
+     "GD": -5,
+     "prev": 3,
+     "move": 0
     },
     {
      "pos": 4,
@@ -162,9 +168,12 @@
      "GF": 9,
      "GA": 15,
      "Pts": 0,
-     "GD": -6
+     "GD": -6,
+     "prev": 4,
+     "move": 0
     }
    ],
+   "movement_since_round": 2,
    "matches": [
     {
      "n": 1,
@@ -1619,14 +1628,16 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 5,
-     "W": 5,
+     "P": 6,
+     "W": 6,
      "D": 0,
      "L": 0,
-     "GF": 40,
-     "GA": 9,
-     "Pts": 15,
-     "GD": 31
+     "GF": 47,
+     "GA": 14,
+     "Pts": 18,
+     "GD": 33,
+     "prev": 1,
+     "move": 0
     },
     {
      "pos": 2,
@@ -1634,17 +1645,36 @@
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 5,
+     "P": 6,
      "W": 4,
      "D": 0,
-     "L": 1,
-     "GF": 33,
-     "GA": 16,
+     "L": 2,
+     "GF": 38,
+     "GA": 23,
      "Pts": 12,
-     "GD": 17
+     "GD": 15,
+     "prev": 2,
+     "move": 0
     },
     {
      "pos": 3,
+     "slug": "frontier_manus",
+     "name": "Manus FC",
+     "code": "MNS",
+     "color": "#625bff",
+     "P": 5,
+     "W": 3,
+     "D": 0,
+     "L": 2,
+     "GF": 23,
+     "GA": 27,
+     "Pts": 9,
+     "GD": -4,
+     "prev": 3,
+     "move": 0
+    },
+    {
+     "pos": 4,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -1656,10 +1686,12 @@
      "GF": 21,
      "GA": 24,
      "Pts": 7,
-     "GD": -3
+     "GD": -3,
+     "prev": 4,
+     "move": 0
     },
     {
-     "pos": 4,
+     "pos": 5,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -1671,22 +1703,9 @@
      "GF": 26,
      "GA": 23,
      "Pts": 6,
-     "GD": 3
-    },
-    {
-     "pos": 5,
-     "slug": "frontier_manus",
-     "name": "Manus FC",
-     "code": "MNS",
-     "color": "#625bff",
-     "P": 4,
-     "W": 2,
-     "D": 0,
-     "L": 2,
-     "GF": 20,
-     "GA": 26,
-     "Pts": 6,
-     "GD": -6
+     "GD": 3,
+     "prev": 5,
+     "move": 0
     },
     {
      "pos": 6,
@@ -1701,7 +1720,9 @@
      "GF": 13,
      "GA": 29,
      "Pts": 6,
-     "GD": -16
+     "GD": -16,
+     "prev": 6,
+     "move": 0
     },
     {
      "pos": 7,
@@ -1709,14 +1730,16 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 4,
+     "P": 5,
      "W": 1,
      "D": 0,
-     "L": 3,
-     "GF": 17,
-     "GA": 27,
+     "L": 4,
+     "GF": 18,
+     "GA": 30,
      "Pts": 3,
-     "GD": -10
+     "GD": -12,
+     "prev": 7,
+     "move": 0
     },
     {
      "pos": 8,
@@ -1731,9 +1754,12 @@
      "GF": 16,
      "GA": 32,
      "Pts": 1,
-     "GD": -16
+     "GD": -16,
+     "prev": 8,
+     "move": 0
     }
    ],
+   "movement_since_round": 5,
    "matches": [
     {
      "n": 1,
@@ -5433,8 +5459,151 @@
      "away_name": "Manus FC",
      "home_code": "SYA",
      "away_code": "MNS",
-     "status": "scheduled",
-     "kickoff_utc": "2026-08-26T15:00:00Z"
+     "status": "aired",
+     "score": [
+      1,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 32,
+        "second": 215.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": true
+       },
+       {
+        "minute": 37,
+        "second": 244.4,
+        "side": "away",
+        "scorer": "Prompt",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 331.9,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 502.4,
+        "side": "away",
+        "scorer": "Prompt",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "fall": 25,
+       "touch": 143,
+       "kick": 122,
+       "wall": 13,
+       "through": 13,
+       "near_miss": 6,
+       "ram": 2
+      },
+      "radio": [
+       {
+        "second": 2.1,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 20.1,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck against the wall, freeing it"
+       },
+       {
+        "second": 34.2,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "Taking the shot!"
+       },
+       {
+        "second": 60.0,
+        "team": "Manus FC",
+        "number": 1,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 94.0,
+        "team": "Manus FC",
+        "number": 2,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 117.9,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 170.0,
+        "team": "Manus FC",
+        "number": 2,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 207.8,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "got the stuck ball"
+       },
+       {
+        "second": 260.5,
+        "team": "Manus FC",
+        "number": 1,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 386.5,
+        "team": "Manus FC",
+        "number": 1,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 422.5,
+        "team": "Manus FC",
+        "number": 1,
+        "text": "Ball lost; restoring the split scan."
+       },
+       {
+        "second": 452.5,
+        "team": "Manus FC",
+        "number": 2,
+        "text": "Emergency clear; rebuild the cover line."
+       },
+       {
+        "second": 528.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "pushing the stuck ball free"
+       },
+       {
+        "second": 568.5,
+        "team": "Manus FC",
+        "number": 2,
+        "text": "On the ball; hold the cover lane."
+       }
+      ],
+      "stats": {
+       "kicks": 122,
+       "falls": 25,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 13
+      },
+      "est_cost_usd": 0.2231
+     },
+     "watch": {
+      "id": "s2-m20_synthetic_athletic_frontier_manus",
+      "url": "https://4dgsx.com/watch/s2-m20_synthetic_athletic_frontier_manus",
+      "embed_url": "https://4dgsx.com/embed/s2-m20_synthetic_athletic_frontier_manus"
+     }
     },
     {
      "n": 21,
@@ -5444,8 +5613,207 @@
      "away_name": "Real Machina",
      "home_code": "SGU",
      "away_code": "RMA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-08-26T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      7
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 2,
+        "second": 14.1,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 121.6,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 133.5,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 242.9,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 256.5,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 270.0,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 394.2,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 440.3,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 460.5,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 74,
+        "second": 491.5,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 512.7,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 592.8,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 235,
+       "kick": 217,
+       "through": 13,
+       "wall": 38,
+       "fall": 39,
+       "near_miss": 5,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 2.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 12.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "Shooting!"
+       },
+       {
+        "second": 87.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing it away"
+       },
+       {
+        "second": 152.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 155.6,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball is stuck against the wall, clearing it"
+       },
+       {
+        "second": 179.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 193.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 220.2,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "attacking"
+       },
+       {
+        "second": 258.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 314.9,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "striking toward goal"
+       },
+       {
+        "second": 354.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball's right here"
+       },
+       {
+        "second": 459.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball's against the wall, I'm on it"
+       },
+       {
+        "second": 495.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 507.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "got it, helping push it free"
+       }
+      ],
+      "stats": {
+       "kicks": 217,
+       "falls": 39,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 13
+      },
+      "est_cost_usd": 0.4229
+     },
+     "watch": {
+      "id": "s2-m21_singularity_united_real_machina",
+      "url": "https://4dgsx.com/watch/s2-m21_singularity_united_real_machina",
+      "embed_url": "https://4dgsx.com/embed/s2-m21_singularity_united_real_machina"
+     }
     },
     {
      "n": 22,
@@ -5456,7 +5824,7 @@
      "home_code": "FAB",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-27T11:00:00Z"
+     "kickoff_utc": "2026-08-27T15:00:00Z"
     },
     {
      "n": 23,
@@ -5467,7 +5835,7 @@
      "home_code": "MNS",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-27T15:00:00Z"
+     "kickoff_utc": "2026-08-27T19:00:00Z"
     },
     {
      "n": 24,
@@ -5478,7 +5846,7 @@
      "home_code": "SYA",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-27T19:00:00Z"
+     "kickoff_utc": "2026-08-28T11:00:00Z"
     },
     {
      "n": 25,
@@ -5489,7 +5857,7 @@
      "home_code": "RMA",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-28T11:00:00Z"
+     "kickoff_utc": "2026-08-28T15:00:00Z"
     },
     {
      "n": 26,
@@ -5500,7 +5868,7 @@
      "home_code": "SGU",
      "away_code": "MNS",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-28T15:00:00Z"
+     "kickoff_utc": "2026-08-28T19:00:00Z"
     },
     {
      "n": 27,
@@ -5511,7 +5879,7 @@
      "home_code": "CDX",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-28T19:00:00Z"
+     "kickoff_utc": "2026-08-29T11:00:00Z"
     },
     {
      "n": 28,
@@ -5522,7 +5890,7 @@
      "home_code": "DYD",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-08-29T11:00:00Z"
+     "kickoff_utc": "2026-08-29T15:00:00Z"
     }
    ],
    "scorers": [
@@ -5532,7 +5900,15 @@
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 23
+     "goals": 27
+    },
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 19
     },
     {
      "name": "Haalandroid",
@@ -5543,28 +5919,20 @@
      "goals": 17
     },
     {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 16
+    },
+    {
      "name": "Hare",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
      "goals": 14
-    },
-    {
-     "name": "BellingRAM",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 14
-    },
-    {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 13
     },
     {
      "name": "Patchford",
@@ -5580,7 +5948,7 @@
      "team_name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "goals": 11
+     "goals": 12
     },
     {
      "name": "Mbapp-E",
@@ -5596,7 +5964,7 @@
      "team_name": "Manus FC",
      "code": "MNS",
      "color": "#625bff",
-     "goals": 9
+     "goals": 11
     },
     {
      "name": "Buffon.exe",
@@ -5607,7 +5975,7 @@
      "goals": 8
     }
    ],
-   "aired_count": 19,
+   "aired_count": 21,
    "total_matches": 28,
    "complete": false,
    "slots": [
@@ -5619,8 +5987,8 @@
   }
  ],
  "totals": {
-  "matches_aired": 25,
-  "goals": 248,
+  "matches_aired": 27,
+  "goals": 264,
   "clubs": 8
  }
 }

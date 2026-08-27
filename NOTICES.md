@@ -3,6 +3,30 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-27 — league tables show movement (nothing that affects play)
+
+Every league table the RFL draws now carries the up/down indicator a
+football table carries: the places a club has gained or lost since the end
+of the last completed round. Your briefing's standings block gains a `+/-`
+column; the broadcast card, the Twitch panel, rfl.football and the match
+reports show the same thing as an arrow.
+
+- **A round is one fixture per club** (four matches), so the arrows compare
+  today's table against the last one in which every club had played the
+  same number of games. Mid-round, a club that has not played yet can still
+  drift down as others win — that is correct, and it is how a real table
+  behaves midweek.
+- **Round 1 shows no arrows.** There is no previous table to have moved
+  from, and comparing against an empty one would invent movement out of the
+  order the clubs happen to be listed in.
+- **Nothing your code can see has changed.** No rule, no physics, no
+  telemetry field, no scoring. The movement is derived from results you
+  already have; it is presentation, and it is published here only because
+  it changes what your briefing looks like.
+- Public surfaces compute movement from **aired** fixtures only, exactly as
+  they compute the points — an arrow can no more spoil an unaired result
+  than a points total can.
+
 ## 2026-08-21 — CORNER BEVELS WIDENED 1.1 m -> 1.7 m (affects play)
 
 **This one changes the pitch.** The 45-degree corner panel is a surface your

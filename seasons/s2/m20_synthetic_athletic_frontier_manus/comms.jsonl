@@ -1,0 +1,149 @@
+{"t": 2.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "Going for the ball"}
+{"t": 4.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 4.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "Going in for the shot", "reason": "cooldown"}
+{"t": 10.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "Shooting!"}
+{"t": 12.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 12.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "Goal shot!"}
+{"t": 14.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "Taking the shot!", "reason": "cooldown"}
+{"t": 18.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 20.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, freeing it"}
+{"t": 20.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing from the wall", "reason": "cooldown"}
+{"t": 22.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 22.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 24.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 24.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "working it free from the wall"}
+{"t": 26.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 28.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 28.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 30.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 32.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 32.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 34.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing ball from the wall", "reason": "cooldown"}
+{"t": 34.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "Taking the shot!"}
+{"t": 36.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 38.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing the stuck ball", "reason": "cooldown"}
+{"t": 38.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "taking the shot!", "reason": "repeat"}
+{"t": 40.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, working it free", "reason": "cooldown"}
+{"t": 42.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 42.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, working it free"}
+{"t": 42.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 44.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working the stuck ball along the wall", "reason": "cooldown"}
+{"t": 44.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 46.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "nudging the stuck ball along the wall", "reason": "cooldown"}
+{"t": 48.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 50.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 50.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the corner wall", "reason": "cooldown"}
+{"t": 52.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "still working the stuck ball"}
+{"t": 53.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "Ball is free from the wall, taking it!"}
+{"t": 57.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing against the wall", "reason": "cooldown"}
+{"t": 58.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it out of the corner", "reason": "cooldown"}
+{"t": 59.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 60.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 60.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working the stuck ball free", "reason": "cooldown"}
+{"t": 61.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "stuck on wall, pushing it toward goal", "reason": "cooldown"}
+{"t": 63.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 64.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "continuing to push along the wall"}
+{"t": 66.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 68.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it along the wall", "reason": "cooldown"}
+{"t": 70.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 70.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the corner", "reason": "cooldown"}
+{"t": 71.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "kick it toward goal"}
+{"t": 72.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the corner", "reason": "cooldown"}
+{"t": 84.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it along the wall"}
+{"t": 86.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the corner", "reason": "cooldown"}
+{"t": 88.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 92.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "attacking", "reason": "cooldown"}
+{"t": 94.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 95.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 104.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner"}
+{"t": 106.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 112.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 117.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 124.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 127.8, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 130.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 148.0, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 150.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 154.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 162.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 168.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 170.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 182.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "got the ball, taking it forward"}
+{"t": 186.0, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 194.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "helping clear it"}
+{"t": 195.8, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing the stuck ball"}
+{"t": 196.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free from the corner", "reason": "cooldown"}
+{"t": 200.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it loose", "reason": "cooldown"}
+{"t": 202.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working the stuck ball free", "reason": "cooldown"}
+{"t": 204.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 207.8, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "got the stuck ball"}
+{"t": 208.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "clearing the ball"}
+{"t": 210.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is right against the wall here", "reason": "cooldown"}
+{"t": 211.8, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 214.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 220.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 232.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 234.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing the stuck ball", "reason": "cooldown"}
+{"t": 238.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 238.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 242.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 242.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "nudging it along the wall"}
+{"t": 260.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 266.0, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 282.6, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 290.0, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 316.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 328.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 340.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 346.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 358.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 368.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 376.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 386.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 396.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 399.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball's against the wall, freeing it"}
+{"t": 401.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball stuck against wall, freeing it", "reason": "cooldown"}
+{"t": 403.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing ball from wall", "reason": "cooldown"}
+{"t": 404.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Wall release under control."}
+{"t": 405.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 410.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "helping push it along the wall"}
+{"t": 411.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it free along the wall"}
+{"t": 412.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 414.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "helping push it along the wall", "reason": "repeat"}
+{"t": 414.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 416.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "keeping it moving along the wall", "reason": "cooldown"}
+{"t": 422.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 434.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 442.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "working it along the wall"}
+{"t": 442.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 444.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "got it", "reason": "cooldown"}
+{"t": 445.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "helping push it free"}
+{"t": 446.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it away from our goal", "reason": "cooldown"}
+{"t": 452.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 460.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 470.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 484.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 496.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it free"}
+{"t": 500.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "helping push"}
+{"t": 500.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 502.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 512.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 514.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 516.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 528.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing the stuck ball free"}
+{"t": 530.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 532.5, "from": "r3", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 550.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 550.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 553.6, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "getting the stuck ball free"}
+{"t": 554.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 556.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 558.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "shoving it free from the wall", "reason": "cooldown"}
+{"t": 568.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 572.5, "from": "r2", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 574.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball stuck against the corner, pushing it"}
+{"t": 580.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it free from the corner", "reason": "cooldown"}
+{"t": 586.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "still pushing the stuck ball"}
+{"t": 586.5, "from": "r3", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 590.5, "from": "r2", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 597.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "freeing the ball from the wall"}

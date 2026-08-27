@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 1
+  },
+  "away": {
+    "team": "Manus FC",
+    "code": "MNS",
+    "goals": 3
+  },
+  "winner": "Manus FC"
+}
