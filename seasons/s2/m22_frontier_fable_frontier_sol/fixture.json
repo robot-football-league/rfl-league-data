@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 6
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 4
+  },
+  "winner": "AFC Fable"
+}

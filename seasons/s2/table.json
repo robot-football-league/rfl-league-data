@@ -1694,6 +1694,160 @@
     ]
    },
    "dir": "runs/league/s2/m21_singularity_united_real_machina"
+  },
+  {
+   "fixture": 22,
+   "home": "frontier_fable",
+   "away": "frontier_sol",
+   "score": [
+    6,
+    4
+   ],
+   "goals": [
+    {
+     "t": 16.0,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 55.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 139.8,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 211.9,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 243.1,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 294.1,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 324.0,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 410.9,
+     "team": "B",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 470.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 570.2,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": null,
+   "players": {
+    "home": [
+     "Tortoise",
+     "Hare"
+    ],
+    "away": [
+     "Patchford",
+     "Turingham"
+    ]
+   },
+   "dir": "runs/league/s2/m22_frontier_fable_frontier_sol"
+  },
+  {
+   "fixture": 23,
+   "home": "frontier_manus",
+   "away": "dynamo_datacenter",
+   "score": [
+    3,
+    5
+   ],
+   "goals": [
+    {
+     "t": 145.4,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 157.1,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 173.0,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 273.5,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 337.5,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 440.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 530.8,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 570.4,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2292,
+   "players": {
+    "home": [
+     "Prompt",
+     "Trace"
+    ],
+    "away": [
+     "Mbapp-E",
+     "Buffon.exe"
+    ]
+   },
+   "dir": "runs/league/s2/m23_frontier_manus_dynamo_datacenter"
   }
  ]
 }

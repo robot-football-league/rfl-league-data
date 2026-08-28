@@ -1,0 +1,107 @@
+{"t": 2.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "Going for the ball"}
+{"t": 4.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 6.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 24.0, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 28.0, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 42.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 46.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 46.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clear it off the wall"}
+{"t": 48.4, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it"}
+{"t": 60.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 60.4, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it", "reason": "repeat"}
+{"t": 64.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 68.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "got it"}
+{"t": 68.3, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it", "reason": "repeat"}
+{"t": 72.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "pressuring"}
+{"t": 82.0, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 84.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 102.0, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 106.0, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 124.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 126.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 142.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 152.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 164.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 170.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 186.0, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 192.0, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 202.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "ball's near the wall, pushing it free"}
+{"t": 204.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Wall release under control."}
+{"t": 204.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "working it along the wall"}
+{"t": 206.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "got it along the wall", "reason": "cooldown"}
+{"t": 206.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "helping push it free", "reason": "cooldown"}
+{"t": 210.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 222.0, "from": "r0", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 230.0, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 248.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 249.6, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 261.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it off the wall"}
+{"t": 265.7, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "helping clear it from the wall"}
+{"t": 266.0, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 269.6, "from": "r0", "team": "Manus FC", "number": 1, "text": "Wall release under control."}
+{"t": 269.7, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 271.7, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing ball from the wall", "reason": "cooldown"}
+{"t": 284.0, "from": "r1", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 291.6, "from": "r0", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 293.7, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "ball is near the wall, pushing it out"}
+{"t": 293.9, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "working it free"}
+{"t": 316.5, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 320.5, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 334.5, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 348.5, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 352.5, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 366.5, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 374.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "prying it loose from the wall"}
+{"t": 376.5, "from": "r1", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 376.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 378.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it from the wall", "reason": "cooldown"}
+{"t": 388.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it from the wall"}
+{"t": 391.7, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 394.0, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "ball is stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 396.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it into the goal", "reason": "cooldown"}
+{"t": 397.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "attacking"}
+{"t": 398.2, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "shooting"}
+{"t": 415.4, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 415.5, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 433.5, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 435.4, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 440.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it"}
+{"t": 446.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "shooting", "reason": "cooldown"}
+{"t": 451.5, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 453.4, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "On the ball; hold the cover lane.", "reason": "repeat"}
+{"t": 458.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck on the wall, getting it loose"}
+{"t": 460.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 462.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 464.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "prying the ball off the wall", "reason": "cooldown"}
+{"t": 466.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "freeing ball from wall", "reason": "cooldown"}
+{"t": 469.5, "from": "r1", "team": "Manus FC", "number": 2, "text": "Emergency clear; rebuild the cover line."}
+{"t": 475.4, "from": "r0", "team": "Manus FC", "number": 1, "text": "Emergency clear; rebuild the cover line."}
+{"t": 475.9, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "freeing it from the wall"}
+{"t": 476.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 478.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it past the opponent", "reason": "cooldown"}
+{"t": 487.5, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 488.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "working it free"}
+{"t": 490.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it out", "reason": "cooldown"}
+{"t": 495.4, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 502.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it away"}
+{"t": 508.6, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 511.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it off the wall"}
+{"t": 515.1, "from": "r0", "team": "Manus FC", "number": 1, "suppressed": "Emergency clear; rebuild the cover line.", "reason": "repeat"}
+{"t": 517.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it off the wall", "reason": "repeat"}
+{"t": 518.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "freeing it from the wall"}
+{"t": 520.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "prying it loose from the corner", "reason": "cooldown"}
+{"t": 521.6, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 525.6, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "got it, pushing away from the wall"}
+{"t": 526.6, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 530.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it"}
+{"t": 535.1, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 544.6, "from": "r1", "team": "Manus FC", "number": 2, "text": "On the ball; hold the cover lane."}
+{"t": 546.4, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "freeing the ball"}
+{"t": 564.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "scoring!"}
+{"t": 565.1, "from": "r0", "team": "Manus FC", "number": 1, "text": "Ball lost; restoring the split scan."}
+{"t": 565.9, "from": "r1", "team": "Manus FC", "number": 2, "text": "Ball lost; restoring the split scan."}
+{"t": 585.1, "from": "r0", "team": "Manus FC", "number": 1, "text": "On the ball; hold the cover lane."}
+{"t": 585.9, "from": "r1", "team": "Manus FC", "number": 2, "suppressed": "Ball lost; restoring the split scan.", "reason": "repeat"}
+{"t": 586.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "prying it loose from the wall"}
+{"t": 596.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "helping pry it out"}
+{"t": 598.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing against the wall"}

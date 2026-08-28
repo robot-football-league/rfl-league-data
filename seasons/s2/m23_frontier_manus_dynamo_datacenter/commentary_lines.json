@@ -1,0 +1,458 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway here in match twenty-three!",
+    "wav": "line_73a7c1193b307579.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 2.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Buffon.exe calls to claim it.",
+    "wav": "line_f7be94958a6d18b7.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 4.03,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Oh dear, an early mix-up for Manus! Trace and Prompt clatter straight into one another in the centre circle, and Trace takes a heavy tumble. Self-righting routines engaged immediately.",
+    "wav": "line_783d73434904d3e0.wav",
+    "dur_s": 12.17
+  },
+  {
+    "t": 27.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter have firmly established themselves in the final third, pinning Manus back deep. The violet shirts are under real sustained pressure here as Dynamo probe for an opening.",
+    "wav": "line_81b4723684b66efb.wav",
+    "dur_s": 11.76
+  },
+  {
+    "t": 51.44,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel activates with a crack, thumping the magenta ball back into the mixer three metres out.",
+    "wav": "line_b203525cf2cb0f3f.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 63.78,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt is clean through on goal!",
+    "wav": "line_b4de5a609b5563ac.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 64.0,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Trace signals desperately from deep to clear the danger and reconstruct the defensive cover line. Big alarms sounding for Manus right now.",
+    "wav": "line_1645a7e1a1410843.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 108.04,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Trace breaks free through the middle!",
+    "wav": "line_59776da3553ef7df.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 109.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Trace strides forward with real purpose, carrying the ball three metres into the attacking third. Just four metres out from the target now!",
+    "wav": "line_2bcd0227767920d3.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 142.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E powers down the left channel.",
+    "wav": "line_de9168606981b7fc.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 145.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E taps it in from point-blank range! Dynamo take the lead, it's Manus nil, Dynamo Datacenter one!",
+    "wav": "line_afcbed9f610b1fe5.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 152.57,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E is through again with nobody in the way!",
+    "wav": "line_7f3ab3d0ac193086.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 157.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Mbapp-E charges right to goal!",
+    "wav": "line_4c7d18a77b5ba3d8.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 157.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E bundles it over the line again! Two quickfire strikes make it Manus nil, Dynamo Datacenter two!",
+    "wav": "line_5fd4e623fcd80212.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 164.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt calls across the midfield, taking charge and ordering Trace to hold that crucial cover lane.",
+    "wav": "line_093617774c7e18ce.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 173.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Prompt strikes back for Manus! A clinical finish from three metres out cuts the deficit in half! It's Manus one, Dynamo Datacenter two!",
+    "wav": "line_8053084064932ffd.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 196.6,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief pause in midfield as Prompt hovers over the ball. Manus showed great grit yesterday against Synthetic Athletic, and despite Dynamo's heavy defeat to Singularity on Tuesday, this contest is proving delightfully tight.",
+    "wav": "line_e4d63939908413a5.wav",
+    "dur_s": 12.96
+  },
+  {
+    "t": 220.26,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner ram wall thumps the magenta ball back into open space from deep in the violet third.",
+    "wav": "line_5ffcaea3831b41db.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 231.02,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Mbapp-E loses balance and topples over in the middle.",
+    "wav": "line_d26d7c383eac6e69.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 236.0,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt puts in a solid challenge and Buffon.exe hits the deck! Down for several seconds, leaving space open.",
+    "wav": "line_331c057bd95d42b2.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 249.6,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Prompt commands the frontline, signalling for Trace to maintain positioning as the attack builds three metres out.",
+    "wav": "line_3e78b23827155a3d.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 261.69,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Mbapp-E hits the deck unaided.",
+    "wav": "line_0f116c87f52b1986.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 264.39,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner push-panel launches the ball out into the final third.",
+    "wav": "line_0485d557fa56d1fe.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 270.44,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide of the target!",
+    "wav": "line_1a2a2053c2d7bfd6.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 273.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Prompt levels it up right before the break! Bundled in from point-blank range at the goal mouth! Manus two, Dynamo Datacenter two!",
+    "wav": "line_0f79943101ec402b.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 297.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo pressing hard before the whistle.",
+    "wav": "line_8bb810b548827baa.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "And that's half-time! All square at two goals apiece after an absorbing opening period. Both sides trading blows, and it's anyone's match to win.",
+    "wav": "line_4f5add91bae4efb2.wav",
+    "dur_s": 10.03
+  },
+  {
+    "t": 316.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Trace alerts the side to the lost ball and calls for a quick reset into split scanning mode.",
+    "wav": "line_01b8b343e60c7579.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 328.73,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe finds clear daylight on the left channel, four metres out and completely unmarked!",
+    "wav": "line_92efb514b96cd88e.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 337.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E pounces from point-blank range to restore the lead! A ruthless poacher's goal! Manus two, Dynamo Datacenter three!",
+    "wav": "line_9f3707d85db3294e.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 376.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe drives right up front!",
+    "wav": "line_2caa25489de2c56f.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 377.54,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt crunches Buffon.exe to ground!",
+    "wav": "line_444c0c874054fc04.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 379.89,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Dynamo teammates collide and Mbapp-E drops!",
+    "wav": "line_7ff6ceff22a9633e.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 382.65,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Push-panel fires it clear.",
+    "wav": "line_d9a0872078a39850.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 383.73,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Mbapp-E dishes out a crunching challenge on Prompt.",
+    "wav": "line_0e60b96ad21914a9.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 388.8,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Whistling just wide by a fraction of a metre!",
+    "wav": "line_1d37b8224062cbe1.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 394.12,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "Manus teammates bump, and down goes Prompt!",
+    "wav": "line_81cb585233149149.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 398.2,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Mbapp-E signals intent to shoot!",
+    "wav": "line_fb1a2398f7115a90.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 400.67,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt responds with a firm tackle that sends Buffon.exe sprawling onto the deck!",
+    "wav": "line_7f2221ef467756fb.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 407.41,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Buffon.exe returns the tackle, flattening Prompt!",
+    "wav": "line_42854a5a97eed16e.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 409.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo pinning Manus back relentlessly.",
+    "wav": "line_9b312e58f56a3790.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 409.95,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Buffon.exe overbalances out on the touchline and goes down. Gyroscopes whirring to get back upright.",
+    "wav": "line_0c7e63d7151b7f75.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 424.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace motors six metres up the right flank into midfield with real momentum.",
+    "wav": "line_b50566d5e8e599cb.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 429.79,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt slips clean through on goal!",
+    "wav": "line_8a55995fb8f9bac1.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 431.48,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Mbapp-E topples over behind play!",
+    "wav": "line_98a56ea6c7d93aa0.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 433.72,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close for Prompt right at the mouth of the goal!",
+    "wav": "line_c43d9388b070ada2.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 440.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Prompt scrambles it home! What persistence from point-blank range! It's all square again, Manus three, Dynamo Datacenter three!",
+    "wav": "line_ccdc4d25f5293f7a.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 450.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Two and a half minutes remaining on the clock and Prompt charges forward through the middle into the final third. It's wide open, both sides hunting a winner!",
+    "wav": "line_d4803c2db626c646.wav",
+    "dur_s": 8.93
+  },
+  {
+    "t": 471.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E surges down the right flank.",
+    "wav": "line_a1c83749b92b98fa.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 474.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Manus pinned in once more.",
+    "wav": "line_867d40bad40cda41.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 476.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Buffon.exe calls to sweep the ball clear off the perimeter wall as the clock ticks past two minutes to play.",
+    "wav": "line_8a4976df7d9daa61.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 491.01,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Ram panel punches it out!",
+    "wav": "line_78f67f8555d03114.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 492.64,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Mbapp-E delivers a hefty challenge on Trace, sending the Manus defender to the floor! Inside the final two minutes and the intensity is electric!",
+    "wav": "line_e421b09f0f948dd8.wav",
+    "dur_s": 9.67
+  },
+  {
+    "t": 530.1,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Buffon.exe signals a clearance attempt.",
+    "wav": "line_ad1a169b8c2f08a3.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 530.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E stabs it in from point-blank range with just over a minute left! A massive late breakthrough! Manus three, Dynamo Datacenter four!",
+    "wav": "line_8a4e640668487b63.wav",
+    "dur_s": 9.17
+  },
+  {
+    "t": 570.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E seals it with thirty seconds remaining! A brilliant finish from two metres out to cap off a wonderful performance! Manus three, Dynamo Datacenter five!",
+    "wav": "line_da04bdd005e6b54d.wav",
+    "dur_s": 11.02
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time! Manus three, Dynamo Datacenter five! Synthetic Athletic face Gemini Flash FC next at twelve.",
+    "wav": "line_94e4194173f99f42.wav",
+    "dur_s": 7.03
+  }
+]

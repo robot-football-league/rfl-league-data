@@ -1,0 +1,434 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this round-robin clash.",
+    "wav": "line_1ff16709be7bd819.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise signals to guard their own half early.",
+    "wav": "line_91489528e8e6d39d.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 4.35,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Hare loses footing in the centre circle without a touch, gyroscopes already whirring to right the unit.",
+    "wav": "line_de324ccb0eb281cf.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 16.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for Codex City! Patchford pounces down the right channel and slots it home from two metres out! The terminal black shirts take the early lead, AFC Fable nil, Codex City one!",
+    "wav": "line_0d89219f731fad88.wav",
+    "dur_s": 12.59
+  },
+  {
+    "t": 35.29,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Patchford spots open space and breaks completely clear from deep, straight through on goal with nothing in the way!",
+    "wav": "line_db5622e09171bea0.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 55.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Hare makes amends, tucking it in from the right channel! It's one-all with four minutes left in the half!",
+    "wav": "line_f5cde3ded0e8a414.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 62.0,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Tortoise transmits a quick alert about the ball drifting dangerously towards their net, retreating goal-side to cover.",
+    "wav": "line_a49601907f488877.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 84.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Codex City applying sustained pressure here, pinning the terracotta shirts deep inside their own defensive third for several tense seconds.",
+    "wav": "line_a85c4eb73ce1241e.wav",
+    "dur_s": 9.12
+  },
+  {
+    "t": 117.0,
+    "kind": "run",
+    "energy": "calm",
+    "text": "Hare carries the magenta ball steadily up the left flank, bringing play safely back into the centre circle.",
+    "wav": "line_ffc3f9844ef0cf6a.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 138.0,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Tortoise warns of the loose ball.",
+    "wav": "line_7dd5ccb6bc38a611.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 139.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for Codex City! Turingham reacts instantly from two metres out to nudge it across the line! Codex City lead two-one!",
+    "wav": "line_82e2abb75e8808df.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 151.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Patchford surges through the middle, advancing rapidly into the attacking third.",
+    "wav": "line_37b78b1eb940d48c.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 165.28,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Corner panel punches it back out!",
+    "wav": "line_a2e04b8082f1b73c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 166.67,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford thumps into Hare, sending the terracotta unit tumbling down in their own half.",
+    "wav": "line_a483251e0c258c6a.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 175.41,
+    "kind": "ram",
+    "energy": "build",
+    "text": "Powered panel fires it out wide!",
+    "wav": "line_595807091f379181.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 177.42,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Turingham stumbles and goes down unaided.",
+    "wav": "line_f7bde44693ae3f7e.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 180.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Two minutes left in the half and Codex City are relentlessly pinning Fable against their own goal line.",
+    "wav": "line_81040f893840e3d2.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 194.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare breaks free, driving the ball straight into the centre circle.",
+    "wav": "line_a2f94979ea125283.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 199.06,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare is clean through on goal down the left channel!",
+    "wav": "line_6c8faf6f9604a871.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 203.4,
+    "kind": "radio",
+    "energy": "excited",
+    "text": "Turingham alerts the backline to clear long under heavy terracotta pressure.",
+    "wav": "line_bfee486b6d462e46.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 211.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Hare buries it from point-blank range! That is a brace for Hare, and we are level at two apiece!",
+    "wav": "line_298d040d1b05808d.wav",
+    "dur_s": 9.12
+  },
+  {
+    "t": 217.78,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford crunches into Tortoise, toppling the defender.",
+    "wav": "line_fb7ad767085cdc9d.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 221.36,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Total confusion in the terracotta ranks as Hare and Tortoise collide heavily in midfield, leaving Hare sprawled across the turf!",
+    "wav": "line_0b5090ded144b476.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 243.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for Codex City! Patchford capitalises on the chaos, stroking the ball home from two metres out! Codex City lead three-two with under a minute of the half remaining!",
+    "wav": "line_b62eed371788dea7.wav",
+    "dur_s": 11.29
+  },
+  {
+    "t": 261.84,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Patchford puts in another crunching challenge, leaving Tortoise on the deck near the edge of the area.",
+    "wav": "line_125285452ad482c5.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 270.56,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close at point-blank range, but the ball just skids past the upright!",
+    "wav": "line_081b6069739f0482.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 279.0,
+    "kind": "pressure",
+    "energy": "excited",
+    "text": "Fable pressing furiously now with seconds left in the half!",
+    "wav": "line_d0dea9c9e00f0367.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 283.9,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Patchford calls out defensive rotations to counter the closing press.",
+    "wav": "line_dbda599d5b47a94a.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 294.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Hare grabs a hat-trick with six seconds left on the clock! It's three-three right on the buzzer!",
+    "wav": "line_fda5110b7f759dc0.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings a frantic first half to a close. Six goals shared equally, three-all at the interval!",
+    "wav": "line_5f6d88979c0ac875.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 314.49,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Tortoise charges clear through the middle, completely unmarked and bearing down on goal!",
+    "wav": "line_1b699564ac595589.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 321.68,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from point-blank range!",
+    "wav": "line_7552d6fb989aad29.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 323.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Tortoise regathers and drives forward relentlessly!",
+    "wav": "line_29eae26d78e4de39.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 324.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Tortoise will not be denied, tapping home from the goalmouth! Fable lead four-three!",
+    "wav": "line_c7bddbc02afff997.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 330.35,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise slips and crashes down.",
+    "wav": "line_dfba46f26b464cfb.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 332.41,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Another calamitous tangle between the teammates, and Hare is wiped out in the centre circle!",
+    "wav": "line_ebca350cf72de808.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 342.73,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "They've crashed into each other yet again! Tortoise hits the deck this time in the attacking third!",
+    "wav": "line_9770b43c81d0d2ef.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 354.66,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner push-panel springs to life with authority, rocketing the ball back out into open play.",
+    "wav": "line_3c7ce1ec52b5fee4.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 374.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford orchestrates the black shirts over the airwaves, directing coverage behind the first line of press.",
+    "wav": "line_3f7a33eb189a2daa.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 410.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for Codex City, and it's a catastrophic own goal from Hare! A stray deflection into the net, and Codex City are back level at four-four!",
+    "wav": "line_5252deaa7ca03d62.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 446.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Patchford signals to squeeze the touchline and maintain strict coverage through the central channel.",
+    "wav": "line_fe1dd51e75042ee4.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 469.44,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Rattles the post, agonizingly close!",
+    "wav": "line_fbddcaf536582661.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 470.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Tortoise charges straight at the net!",
+    "wav": "line_2e24509eacf25124.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 470.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Tortoise hammers it in from close range! Just over two minutes remaining and Fable edge in front, five-four!",
+    "wav": "line_88d8c33f3f3bc5ee.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 496.9,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Turingham is clean through down the left with under a hundred seconds left on the clock!",
+    "wav": "line_ec17ad4f5fe8ca09.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 508.43,
+    "kind": "fall",
+    "energy": "excited",
+    "text": "Hare stumbles and goes down in the centre, leaving Fable momentarily exposed!",
+    "wav": "line_2d528fcab23b6b74.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 516.4,
+    "kind": "radio",
+    "energy": "build",
+    "text": "Hare radios back immediately to signal retreating coverage as the ball trickles towards danger.",
+    "wav": "line_3652c8d69efcfb89.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 532.19,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Turingham breaks clean through from deep into the final minute!",
+    "wav": "line_36b6bf022349ac41.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 538.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Turingham powers along the right wall, hunting an equalizer as the clock ticks towards sixty seconds!",
+    "wav": "line_e43b32a91a6eef3f.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 552.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise cleverly turns the ball up the left flank, eating away precious seconds.",
+    "wav": "line_94f587ea13e86c8a.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 559.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Whisker away from sealing it!",
+    "wav": "line_54abb823243197e3.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 560.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Tortoise recovers instantly, driving deep into the box with forty seconds left!",
+    "wav": "line_ba73ceb962f2f995.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 570.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Goal for AFC Fable! Tortoise seals the victory from point-blank range with thirty seconds remaining! It's a hat-trick for Tortoise, and Fable lead six goals to four!",
+    "wav": "line_3cd78d40e1fec374.wav",
+    "dur_s": 12.23
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time, AFC Fable six, Codex City four; up next, Manus against Dynamo Datacenter at twelve!",
+    "wav": "line_282db316f6de2e6e.wav",
+    "dur_s": 7.21
+  }
+]
