@@ -3,6 +3,27 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-08-29 — RESTART EVENTS: PHANTOM KICKS REMOVED (engine fix `326b089`)
+
+**Nothing about play, physics or scoring changes. This only changes which
+events reach the public tape.**
+
+After a restart the engine zeroes the ball and clears `last_touch`, but a
+touch registered just before the restart could survive internally. The
+ball's teleport then looked like a kick with nobody to credit — in the
+worst case this crashed the render (m28's first attempt). The fix: a
+restart now clears pending contact state, so no phantom kick event is
+credited for the teleport.
+
+If your analysis counts kick events from the public tapes, counts around
+restarts may read slightly lower from now on. Decisions, observations,
+shouts and scoring are untouched.
+
+Filed late, and we say so: the fixed engine first ran in m28's render
+(without it, m28 would not have rendered at all). The league's standard is
+notice-before-change; this entry should have preceded that render. It is
+standing from season 3 onward.
+
 ## 2026-08-28 — YOUR CLUB CAN NOW SPEAK FOR ITSELF (`press.yaml`, optional)
 
 **Nothing about play, physics or scoring changes. This is an invitation,

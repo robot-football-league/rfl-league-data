@@ -1,0 +1,474 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this crucial clash!",
+    "wav": "line_077379f0d6f23d57.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Tortoise calls to hold the defensive line early on.",
+    "wav": "line_8dbcdaa1c5b393bc.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 4.35,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Tortoise loses footing in midfield.",
+    "wav": "line_26682bcf0592ca3b.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 6.59,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "CR-7000 steps in with a crunching challenge to leave Hare sprawling deep in terracotta territory.",
+    "wav": "line_d5ffafa11c119f11.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 15.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid tucks it away from close range! The league leaders strike early, Real Machina lead 1-0!",
+    "wav": "line_7f0db94d2ddbdc15.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 26.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare responds instantly, motoring through the centre into the attacking third.",
+    "wav": "line_da87be0738ee820d.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 33.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Hare finishes it right on the goal mouth! AFC Fable level it at 1-1!",
+    "wav": "line_1b898f69a7d740fb.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 39.29,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare is clean through on goal!",
+    "wav": "line_01cb840c0a77f758.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 42.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Charging straight down the middle, Hare has the goal at their mercy.",
+    "wav": "line_690fa679d24db974.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 50.6,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agony for Fable! Hare drags the shot just wide of the target from the right channel.",
+    "wav": "line_917b5b89740553e4.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 65.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Terracotta shirts applying relentless pressure now, penning Real Machina deep inside their own defensive zone.",
+    "wav": "line_d6e4fcebe1b2ef01.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 78.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid breaks out, carrying the magenta ball along the right flank.",
+    "wav": "line_6f5310f24339dd75.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 82.8,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from point-blank range!",
+    "wav": "line_7552d6fb989aad29.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 83.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid will not be denied twice, poking home from the goal mouth to make it 2-1 to Real Machina!",
+    "wav": "line_f741df8fb8f0394c.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 90.4,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Tortoise calls for patience in midfield, signaling intent to take control of the loose ball.",
+    "wav": "line_d3211a8ad31aec89.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 103.2,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Fable teammates collide in a heap!",
+    "wav": "line_d90dd6ce8ac81ffb.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 105.31,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Hare bounces up and flattens CR-7000 with a robust tackle!",
+    "wav": "line_c7616c628aea3e8f.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 110.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Tortoise turns it in right on the line! It's 2-2!",
+    "wav": "line_aea8c067e76e0660.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 111.64,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Zidroid takes a tumble in the centre circle without a challenge in sight. Plenty of time to reboot while play develops.",
+    "wav": "line_abaa0e300ea10ef5.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 137.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Disaster for Real Machina as CR-7000 turns the ball into the back of their own net! A shocking own goal puts AFC Fable ahead 3-2!",
+    "wav": "line_249e19f3d5d63d69.wav",
+    "dur_s": 11.49
+  },
+  {
+    "t": 152.4,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Tortoise signals to cover back.",
+    "wav": "line_241ffb56c97e4fca.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 153.91,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Hare breaks clear down the left touchline, clean through with nobody in white able to cut off the angle!",
+    "wav": "line_f7ea54e329696fdf.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 168.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Hare edges inside towards goal.",
+    "wav": "line_5113846902fff0b8.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 169.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Fable are completely hemming Real Machina inside their defensive area.",
+    "wav": "line_ced15bf605d875ec.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 173.89,
+    "kind": "ram",
+    "energy": "excited",
+    "text": "Rattled into the corner, and the push-panel fires the magenta sphere back into the mix with tremendous force!",
+    "wav": "line_dc6029d4ce8a0f6c.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 199.92,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Hare leaves Zidroid grounded with a powerful dispossessing challenge in the defensive third.",
+    "wav": "line_fb9cc453c0a326df.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 208.23,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "CR-7000 levels Tortoise with a firm tackle high up the pitch, winning back vital territory for Real Machina.",
+    "wav": "line_d4fe546001428ade.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 224.1,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Hare demands the ball immediately!",
+    "wav": "line_f3b178fbc6a34aec.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 224.71,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Zidroid comes sliding in with authority, flooring Hare out on the right flank before they can pull the trigger.",
+    "wav": "line_8904f0f7b1564b50.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 244.62,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Hare loses balance and topples.",
+    "wav": "line_ccf3cca2a1483b06.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 244.65,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 suddenly breaks through down the left flank, entirely unopposed!",
+    "wav": "line_8b2e9936c5d0c56a.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 253.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid arrives on cue to tap home from point-blank range! Real Machina are back on level terms, it is 3-3 with seconds left in the half!",
+    "wav": "line_b8dbbdfdc4f7c826.wav",
+    "dur_s": 11.39
+  },
+  {
+    "t": 266.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "CR-7000 charges down the right!",
+    "wav": "line_49d9e1e29445d13b.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 268.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Rattles just past the upright!",
+    "wav": "line_8454f05e5c1d12b9.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 269.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! What a turnaround right on the stroke of the interval! CR-7000 snatches the lead back for Real Machina, making it 4-3!",
+    "wav": "line_a0c8ccf196358f56.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "That brings a frantic first half to a close. Seven goals already, and Real Machina edge it 4-3 over AFC Fable as the teams recharge.",
+    "wav": "line_5b36d49373c4d0cf.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 320.5,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Hare urgently alerts Tortoise to the danger, claiming responsibility for dealing with a fast-moving ball near their goal line.",
+    "wav": "line_5fc71c7aa3f32d01.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 364.25,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "A dreadful mix-up between the terracotta pair sends Tortoise clattering to the turf!",
+    "wav": "line_e1a693ccce87be8b.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 372.84,
+    "kind": "collision",
+    "energy": "excited",
+    "text": "Now the white shirts collide! Zidroid hits the deck after bumping into CR-7000!",
+    "wav": "line_7a8334ad5ee7894e.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 380.54,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "CR-7000 also takes a fall!",
+    "wav": "line_a991e5973a279613.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 381.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Real Machina suffocating their opponents now.",
+    "wav": "line_87aae193670f8301.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 381.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Smashed centimetres wide of the post!",
+    "wav": "line_fa78bc10eddac7d7.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 385.3,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Hare is barking out instructions once again, demanding the next strike on goal.",
+    "wav": "line_c9733d3d7d2ae5e0.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 400.84,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Tortoise finds acres of space and bursts clean through on the counter-attack!",
+    "wav": "line_46255d4d082ff4b7.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 413.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Tortoise rumbles purposefully forward into the danger area, zeroing in on the Real Machina net.",
+    "wav": "line_7ad27841b2845c60.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 420.36,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Oh, by the barest of margins! Tortoise's effort shaves the paint of the post, just a tenth of a metre from an equaliser with three minutes to go!",
+    "wav": "line_30141444e2935cd8.wav",
+    "dur_s": 10.03
+  },
+  {
+    "t": 446.7,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "CR-7000 signals total control over on the right flank, looking to calm the tempo down.",
+    "wav": "line_f24ed487d61942bd.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 460.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Fable pressing furiously with time slipping away!",
+    "wav": "line_52deaede434172c5.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 463.75,
+    "kind": "ram",
+    "energy": "excited",
+    "text": "Rebound off the wall, and the mechanical corner panel blasts the ball right back into the danger zone!",
+    "wav": "line_7c46b8d9d0fdecc0.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 476.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "CR-7000 drives forward through midfield to relieve the intense pressure.",
+    "wav": "line_d00b767a13c1798b.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 481.27,
+    "kind": "through",
+    "energy": "excited",
+    "text": "CR-7000 breaks away clean through on goal on the left channel!",
+    "wav": "line_0a1d19fce40a3329.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 489.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid seals the two-goal cushion! A clinical finish into the bottom corner makes it 5-3 to Real Machina with under two minutes remaining!",
+    "wav": "line_46185a78b5d18586.wav",
+    "dur_s": 11.26
+  },
+  {
+    "t": 526.8,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Tortoise calls to retain composure at the back, steadying the rhythm as the final minute approaches.",
+    "wav": "line_666635cb5087c9d7.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 548.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Zidroid surges towards the net!",
+    "wav": "line_e7e6ae97a9991b6b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 548.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid strikes again with absolute ruthlessness! Real Machina stretch their lead to 6-3 in the dying seconds!",
+    "wav": "line_316bd7ac1db2b0cd.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 571.0,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief pause in the centre as the clock ticks down. Real Machina are showing exactly why they sit atop the league table, managing the final moments with seasoned precision.",
+    "wav": "line_bd7d43b2ed4bf344.wav",
+    "dur_s": 10.61
+  },
+  {
+    "t": 593.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Zidroid adds an emphatic exclamation mark in the final seconds! It's 7-3 to Real Machina!",
+    "wav": "line_261b37d598f1c9e2.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 598.82,
+    "kind": "tackle",
+    "energy": "calm",
+    "text": "Hare leaves Zidroid on the deck.",
+    "wav": "line_8242fad2fc9818bb.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Real Machina win 7-3; join us at 12:00 London for Singularity United against Manus FC.",
+    "wav": "line_cde46c231a5a56d1.wav",
+    "dur_s": 6.98
+  }
+]

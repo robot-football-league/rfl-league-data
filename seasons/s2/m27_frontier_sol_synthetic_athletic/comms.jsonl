@@ -1,0 +1,181 @@
+{"t": 0.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 0.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 14.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 14.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 24.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "Ball is stuck against the wall, clearing it"}
+{"t": 28.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 28.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "pushing it off the wall"}
+{"t": 34.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 34.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 36.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 40.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 42.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 42.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing the wall"}
+{"t": 42.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 44.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it free from the wall", "reason": "cooldown"}
+{"t": 44.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "got it near the wall", "reason": "cooldown"}
+{"t": 48.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 52.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "ball's stuck against the wall, clearing it", "reason": "cooldown"}
+{"t": 54.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "pushing off the wall"}
+{"t": 56.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 58.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it off the wall", "reason": "repeat"}
+{"t": 58.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "passing to the centre", "reason": "cooldown"}
+{"t": 60.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 62.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 62.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 64.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it toward goal"}
+{"t": 70.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 72.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing the ball", "reason": "cooldown"}
+{"t": 76.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 78.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the corner"}
+{"t": 80.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it from the wall"}
+{"t": 82.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it away from the wall", "reason": "cooldown"}
+{"t": 84.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 84.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 88.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 90.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Releasing the collision; rotate onto the loose ball."}
+{"t": 92.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "working it along the wall"}
+{"t": 94.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it loose from the wall", "reason": "cooldown"}
+{"t": 98.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 100.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "unsticking it from the corner", "reason": "cooldown"}
+{"t": 104.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 112.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 120.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 122.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "attacking"}
+{"t": 126.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 138.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 140.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 152.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 152.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "getting it unstuck from the wall"}
+{"t": 154.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 160.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 164.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it moving"}
+{"t": 166.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 168.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 180.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 182.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 186.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 188.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "Working it off the wall."}
+{"t": 194.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 194.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose for a shot", "reason": "cooldown"}
+{"t": 194.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "slotting it in", "reason": "cooldown"}
+{"t": 196.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 204.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it"}
+{"t": 210.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 210.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it away from the side", "reason": "cooldown"}
+{"t": 216.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 220.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it from the wall"}
+{"t": 224.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 228.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 230.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 240.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing from our goal"}
+{"t": 242.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing out", "reason": "cooldown"}
+{"t": 244.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Outlet set; ready for the next phase."}
+{"t": 248.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck by the wall, pushing it out", "reason": "cooldown"}
+{"t": 250.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 252.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 252.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "nudging it away from our goal"}
+{"t": 254.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free along the wall", "reason": "cooldown"}
+{"t": 256.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing the stuck ball along the wall", "reason": "cooldown"}
+{"t": 258.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Final-third overload; both channels are live."}
+{"t": 270.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "attacking the ball"}
+{"t": 270.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "getting it unstuck from the wall"}
+{"t": 272.0, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 272.0, "from": "r1", "team": "Codex City", "number": 2, "text": "Search screen set behind the sweep."}
+{"t": 272.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it away from our goal", "reason": "cooldown"}
+{"t": 274.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "breaking it free", "reason": "cooldown"}
+{"t": 274.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 276.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing off the wall", "reason": "cooldown"}
+{"t": 278.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 280.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing off the wall"}
+{"t": 286.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 286.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 298.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it"}
+{"t": 312.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Releasing the collision; rotate onto the loose ball."}
+{"t": 322.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 326.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 328.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck by the wall, pushing it free"}
+{"t": 334.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 336.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 336.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from our wall", "reason": "cooldown"}
+{"t": 338.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing the stuck ball free"}
+{"t": 340.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 340.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 342.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing the stuck ball free", "reason": "repeat"}
+{"t": 342.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 344.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free along the wall", "reason": "cooldown"}
+{"t": 346.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it off the wall", "reason": "cooldown"}
+{"t": 348.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got the ball by the wall, pushing it out", "reason": "cooldown"}
+{"t": 350.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball stuck against the wall, pushing it out"}
+{"t": 352.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing the stuck ball free", "reason": "cooldown"}
+{"t": 354.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 354.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 356.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "still clearing it", "reason": "cooldown"}
+{"t": 358.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working the ball off the wall", "reason": "cooldown"}
+{"t": 364.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "still working it along the wall"}
+{"t": 366.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 368.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working the ball off the corner wall", "reason": "cooldown"}
+{"t": 370.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 374.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Final-third overload; both channels are live."}
+{"t": 384.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 384.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 386.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it out of the corner", "reason": "cooldown"}
+{"t": 388.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Recovering the midfield search screen."}
+{"t": 396.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it loose from the corner"}
+{"t": 396.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the corner"}
+{"t": 398.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it out of the corner", "reason": "cooldown"}
+{"t": 400.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing the ball free from the wall", "reason": "cooldown"}
+{"t": 402.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 402.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "got it unstuck", "reason": "cooldown"}
+{"t": 402.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing hard against the corner", "reason": "cooldown"}
+{"t": 404.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it moving", "reason": "cooldown"}
+{"t": 416.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 420.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "attacking the goal"}
+{"t": 427.8, "from": "r0", "team": "Codex City", "number": 1, "suppressed": "Danger: both players counterpress; clear through the far goal.", "reason": "repeat"}
+{"t": 430.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 430.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 441.8, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 444.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 444.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 450.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 455.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 458.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 469.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 472.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it"}
+{"t": 476.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 483.8, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 490.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Learned screen set; closing the ball-goal channel."}
+{"t": 497.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 504.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "poking it out from the wall"}
+{"t": 506.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 508.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "giving myself room to clear it"}
+{"t": 510.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "poking it free", "reason": "cooldown"}
+{"t": 511.3, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 514.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "slotting it home", "reason": "cooldown"}
+{"t": 515.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 518.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "shoving it away from the wall"}
+{"t": 518.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 522.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "prying it off the wall"}
+{"t": 525.3, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 529.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 534.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner"}
+{"t": 537.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it away from our goal", "reason": "cooldown"}
+{"t": 538.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it away from our goal", "reason": "cooldown"}
+{"t": 539.3, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 540.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the corner", "reason": "repeat"}
+{"t": 542.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 543.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 544.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "prying it free from the corner"}
+{"t": 546.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 548.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 550.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "shoving it free from the wall", "reason": "cooldown"}
+{"t": 552.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 553.3, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 557.8, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 566.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "shooting"}
+{"t": 567.3, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 575.8, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 581.3, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 582.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball is stuck by the wall, pushing it out"}
+{"t": 589.8, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 595.3, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}

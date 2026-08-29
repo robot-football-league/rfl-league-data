@@ -1,0 +1,14 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 11
+  },
+  "away": {
+    "team": "Manus FC",
+    "code": "MNS",
+    "goals": 3
+  },
+  "winner": "Singularity United"
+}

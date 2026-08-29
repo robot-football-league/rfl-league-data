@@ -1,0 +1,498 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "build",
+    "text": "Underway in the season finale!",
+    "wav": "line_42ff8ac9f4b751e8.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Buffon.exe calls immediately to take charge of the opening restart in midfield.",
+    "wav": "line_9ca6d594ce15728d.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 8.5,
+    "kind": "through",
+    "energy": "excited",
+    "text": "A glorious opening here as Buffon.exe slips clear into the final third with nobody in sight!",
+    "wav": "line_810ca28840797e05.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 18.4,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Buffon.exe shouts to clear it.",
+    "wav": "line_036d72f265020106.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 21.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Heavy pressure from Dynamo early on.",
+    "wav": "line_305d60f7df457d11.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 22.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "There is the breakthrough! Buffon.exe converts from close range after that relentless spell of pressure, and Dynamo Datacenter take a one-nil lead!",
+    "wav": "line_c719d37d5b437aff.wav",
+    "dur_s": 10.84
+  },
+  {
+    "t": 36.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Mbapp-E surges clean through on goal!",
+    "wav": "line_19fd5b57b2fffdf5.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 36.36,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide! What a chance!",
+    "wav": "line_daf035d8cf0652a7.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 38.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Squeezed home! Buffon.exe reacts first to the loose magenta ball right on the line, doubling the yellow advantage! It is Dynamo Datacenter two, Gemini Flash FC nil!",
+    "wav": "line_2d94360f54d2749c.wav",
+    "dur_s": 11.63
+  },
+  {
+    "t": 58.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E carries along the right flank.",
+    "wav": "line_c6723e76230b3bb1.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 60.4,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Buffon.exe alerts the team to lever it off the boards.",
+    "wav": "line_03c9333f15d6106a.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 64.71,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Teammates clash and Mbapp-E goes down!",
+    "wav": "line_29b80381b3abc351.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 66.0,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Buffon.exe tumbles over the partner!",
+    "wav": "line_4b6c8411ff01f866.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 68.26,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Mbapp-E gets right back up and puts in a crunching challenge on Spark, leaving the blue defender flat on the turf.",
+    "wav": "line_ed1d31e665575f10.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 83.6,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash loses balance and topples over.",
+    "wav": "line_9464c84c685a16c3.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 86.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Flash recovers well, striding ten metres up the left channel.",
+    "wav": "line_8372d4cf80ed9898.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 90.26,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The push-panel launches it back out!",
+    "wav": "line_579b6352b4d0b535.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 91.1,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Flash is clean through on goal!",
+    "wav": "line_830c35f2c8b01f5a.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 91.47,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Flash clatters into Mbapp-E for the turnover!",
+    "wav": "line_a1e12d170a2c2d4b.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 95.17,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Mbapp-E returns the favour at the other end, knocking Spark sprawling right on the goal line!",
+    "wav": "line_9f589a42b745fa94.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 104.52,
+    "kind": "ram",
+    "energy": "build",
+    "text": "The corner ram fires it back into play with tremendous velocity, pinging off the perimeter walls.",
+    "wav": "line_7c2035d88ef5a434.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 137.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "Buffon.exe charges right through the centre!",
+    "wav": "line_e032bec1f1936559.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 137.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Clinical finish from Buffon.exe! Dynamo Datacenter lead three-nil!",
+    "wav": "line_fbee4389cc0e3850.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 138.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter simply will not let Gemini Flash FC out of their defensive territory here.",
+    "wav": "line_9007f51c874dc5ad.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 150.69,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E is through with only the net ahead!",
+    "wav": "line_c15444cceced1c0a.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 154.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Smashed into the net! Mbapp-E gets on the scoresheet with an emphatic finish, making it four-nil to Dynamo Datacenter!",
+    "wav": "line_4bc229c0491018fa.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 186.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Another one! Mbapp-E tucks away a fifth! Dynamo Datacenter are cruising at five-nil, punishing every blue misstep.",
+    "wav": "line_f40d4e3da97577f6.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 206.3,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The powered panel in the defensive corner spits the magenta ball straight back into the open channel.",
+    "wav": "line_db2b451351268f74.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 218.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E grabs another! That makes it six-nil to Dynamo Datacenter, turning this final match of the season into a rout!",
+    "wav": "line_081e72f2208aedad.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 233.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe drives through the middle again.",
+    "wav": "line_140f71773aa7ef12.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 235.76,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Skimming just wide of the post! So close to seven!",
+    "wav": "line_493cffcf972cf123.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 240.2,
+    "kind": "shout",
+    "energy": "build",
+    "text": "Buffon.exe lets out a loud shout of possession, claiming ownership of the ball deep inside the danger area.",
+    "wav": "line_40076e6d6efd731f.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 254.1,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Corner panel sends it ricocheting out.",
+    "wav": "line_1875e564e59258e2.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 255.73,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark loses footing and hits deck.",
+    "wav": "line_7bc08d55b3367902.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 255.78,
+    "kind": "collision",
+    "energy": "build",
+    "text": "The yellow shirts tangle again, and Buffon.exe takes an awkward tumble in the attacking channel.",
+    "wav": "line_d9f412aa5beb9d3f.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 263.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E pounces to make it seven-nil to Dynamo Datacenter!",
+    "wav": "line_534cd420502dfa41.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 264.99,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark goes down in the centre circle without a touch, struggling to find traction on this polished surface.",
+    "wav": "line_98db0290256936d3.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 278.45,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Buffon.exe breaks free down the right flank once more!",
+    "wav": "line_53fe471378b54c38.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 282.99,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The touchline ram triggers promptly, launching the ball back into the attacking area.",
+    "wav": "line_8504c3ab08c946ee.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 295.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Relentless pressure from the yellow shirts.",
+    "wav": "line_577d4a2ca3d941c3.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 295.16,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Fired away once more by the corner spring!",
+    "wav": "line_9b91411ad27598e2.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "The buzzer signals half time, and Dynamo Datacenter head into the break with an emphatic seven-nil advantage after an utterly dominant display.",
+    "wav": "line_9616f3a716aa0d1f.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 327.1,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Mbapp-E strikes again right at the start of the second period! Dynamo Datacenter make it eight-nil, ruthlessly clinical right in front of the net!",
+    "wav": "line_2e7b41a38dcf3063.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 358.4,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief pause in the action with the ball sitting dormant. Dynamo Datacenter have looked utterly fluid making their real-time decisions, while Gemini Flash FC have found no rhythm whatsoever in this final round.",
+    "wav": "line_b383ea6a8c602606.wav",
+    "dur_s": 13.38
+  },
+  {
+    "t": 389.72,
+    "kind": "near_miss",
+    "energy": "build",
+    "text": "Agonisingly close from Mbapp-E, whose poke at point-blank range misses the target by just a yard!",
+    "wav": "line_53e236d2ae61d539.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 409.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Buffon.exe gets another! That is nine-nil to Dynamo Datacenter as they sweep it into the unguarded net!",
+    "wav": "line_f462d4c2e6f0f342.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 431.76,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Off target from long range!",
+    "wav": "line_c09853cdce2a33a6.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 432.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Double figures! Mbapp-E reaches double digits for Dynamo Datacenter, making it ten-nil!",
+    "wav": "line_5726e3e820d89430.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 443.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Mbapp-E powers straight through the middle again.",
+    "wav": "line_182b7403de36d1e4.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 446.68,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just shaving the upright!",
+    "wav": "line_55a36b6e6b4c8b2d.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 450.01,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Mbapp-E is through on goal again!",
+    "wav": "line_0908c459e0e8f9a2.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 452.8,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Mbapp-E shouts to free it.",
+    "wav": "line_4d687cb3f1e615bf.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 455.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Dynamo Datacenter have hemmed Gemini Flash FC deep inside their defensive zone with time ticking away in this final half.",
+    "wav": "line_2d5f824e56ec8842.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 474.8,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Mbapp-E calls out clearly to hook the ball away from the touchline boards.",
+    "wav": "line_88e53a5e077b0805.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 492.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "Eleven-nil! Mbapp-E finds the target yet again, burying it from point-blank range for Dynamo Datacenter!",
+    "wav": "line_daee2fa79d0f4a46.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 512.7,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Mbapp-E shouts to signal the ball is being pried away from the perimeter barrier.",
+    "wav": "line_d2987b7f9795f2fb.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 540.7,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Mbapp-E calls out having secured possession along the boards.",
+    "wav": "line_e0d221c9c94bf433.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 545.0,
+    "kind": "run",
+    "energy": "calm",
+    "text": "Mbapp-E patiently works the ball across the defensive third into the final minute of the match.",
+    "wav": "line_479290b2a5d005c8.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 557.59,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner ram triggers with a clatter, sending the ball shooting back across the floor.",
+    "wav": "line_3731c561bfcbe170.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 572.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Buffon.exe carries the ball forward into midfield as the final seconds tick away.",
+    "wav": "line_fdcf3d8563ec4998.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 582.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "A twelfth goal to round off the season! Buffon.exe finishes coolly from close in to make it twelve-nil to Dynamo Datacenter!",
+    "wav": "line_379e6bee5c8b7c8f.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Dynamo Datacenter twelve, Gemini Flash FC nil \u2014 an emphatic finish to the season.",
+    "wav": "line_2deb93d12878fd7b.wav",
+    "dur_s": 6.43
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this round-robin clash.",
+    "wav": "line_1ff16709be7bd819.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 0.5,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho signals intent to claim the opening touch from the centre spot.",
+    "wav": "line_ad14b6a141bd4669.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 6.93,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho slips the magenta ball straight through the middle, clean through on goal with nobody in front!",
+    "wav": "line_145e721d92f81c29.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 18.95,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Corner ram hammers it back out.",
+    "wav": "line_f7ba41186bc4262e.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 20.63,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Spark loses footing and drops down.",
+    "wav": "line_c390f34588819724.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 21.18,
+    "kind": "collision",
+    "energy": "calm",
+    "text": "A clumsy mix-up in the final third as Robodinho clatters into teammate Griezmatronn, sending both tumbling onto the surface.",
+    "wav": "line_828d4ad824528e17.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 48.28,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho breaks clear down the left touchline, with the goal completely exposed ahead!",
+    "wav": "line_232969ea4a53d7de.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 55.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho marches down the wing.",
+    "wav": "line_c4bbe29978f0dd1a.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 56.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Flash FC are penned back completely.",
+    "wav": "line_a9df2f7038c15407.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 57.7,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Push-panel fires it back inside.",
+    "wav": "line_e8b4c2096e1e82ed.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 59.11,
+    "kind": "tackle",
+    "energy": "excited",
+    "text": "Robodinho puts in a heavy challenge in the defensive third, leaving Flash sprawling across the turf.",
+    "wav": "line_d76d33d05d16ff40.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 68.77,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Flash tumbles to the deck again.",
+    "wav": "line_508d4372e3cdfa64.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 71.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho turns it in from close range on the left channel to make it Synthetic Athletic 1, Gemini Flash FC 0!",
+    "wav": "line_d8133cbadcaf7ff5.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 89.4,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho calls to work the rebound.",
+    "wav": "line_b05bd5c942df9395.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 91.6,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close right in front of the goal mouth, drifting just a metre wide of the target!",
+    "wav": "line_a6472c29c689d882.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 103.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho marches steadily up the pitch over twenty-six seconds, driving all the way into the goal mouth.",
+    "wav": "line_01c7b9557cda14b8.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 114.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn pounces point-blank in the goal mouth to double the advantage! Synthetic Athletic lead 2-0!",
+    "wav": "line_8d5d080b056f0880.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 134.8,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Another close shave on the right flank, whistling just inches past the upright!",
+    "wav": "line_88e05bbf10e52ff4.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 146.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Synthetic Athletic maintain absolute control, pinning the blue shirts inside their own third.",
+    "wav": "line_df7f679c2e28901e.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 152.2,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Griezmatronn radios over that the ball has wedged tight against the perimeter wall.",
+    "wav": "line_1837b94a8193a40f.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 165.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho pokes it home from point-blank range right on the line! It is Synthetic Athletic 3, Gemini Flash FC 0!",
+    "wav": "line_62878f1ebd4bb84c.wav",
+    "dur_s": 8.99
+  },
+  {
+    "t": 177.61,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho is clear on goal once again!",
+    "wav": "line_483fde18a3899c9d.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 180.88,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just wide from long range!",
+    "wav": "line_60e6c07fc419c4ff.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 181.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho makes no mistake this time, firing in from close range! Synthetic Athletic 4, Gemini Flash FC 0!",
+    "wav": "line_0476a40fad694aee.wav",
+    "dur_s": 8.93
+  },
+  {
+    "t": 192.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho charges straight up the middle into shooting range.",
+    "wav": "line_4e3d38956ab68170.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 196.5,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn slots it home! Synthetic Athletic lead 5-0!",
+    "wav": "line_bae5e0b7743b8e84.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 197.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Non-stop pressure from the red shirts here, utterly monopolising territory in the attacking third while Flash FC struggle to regroup.",
+    "wav": "line_12851f30fad69585.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 239.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho informs Griezmatronn that they are wrestling the ball clear from the right-hand boards.",
+    "wav": "line_7743c4981bd13027.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 261.3,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho confirms possession is secure back in defence, rolling away from the rebound panel.",
+    "wav": "line_7bccd043f300a5cc.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 273.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho strikes again from right in front! It is Synthetic Athletic 6, Gemini Flash FC 0!",
+    "wav": "line_5b1cdea6076ead0a.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 283.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide of the post!",
+    "wav": "line_085f54ab781443cb.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 284.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn bundles it over the line point-blank! That makes it 7-0 to Synthetic Athletic!",
+    "wav": "line_73d0dba261a79c62.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "The halftime whistle sounds on a completely one-sided affair. Synthetic Athletic lead Gemini Flash FC 7-0 at the break.",
+    "wav": "line_fd57a599c21fb4ec.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 324.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn drives straight down the centre.",
+    "wav": "line_aa5e53d7abf9cc49.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 325.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Straight back on the front foot, keeping Gemini Flash FC pinned deep in their half.",
+    "wav": "line_6dff86fae23a0309.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 334.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho taps in from the doorstep! Synthetic Athletic make it 8-0!",
+    "wav": "line_9eb54da911c06ac2.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 378.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho radios across to say they are levering the magenta ball off the right touchline boards.",
+    "wav": "line_795d89eec2fcbfc2.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 400.7,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho alerts Griezmatronn that the ball is successfully unpinned from the perimeter wall.",
+    "wav": "line_9c726e2f2675e34d.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 439.79,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho spots the open lane and pushes clean through on goal from deep within the defensive third!",
+    "wav": "line_b29cb071068faac3.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 451.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho surges forward into the attacking zone.",
+    "wav": "line_9bbbba7e551e4d57.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 454.68,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Narrowly wide of the target!",
+    "wav": "line_f81a065da38bbd50.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 455.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho converts the rebound on the doorstep! Synthetic Athletic lead 9-0!",
+    "wav": "line_b1aa23f6bb07319e.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 466.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn powers right down the middle.",
+    "wav": "line_c1ca787c57c3e97e.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 466.8,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Griezmatronn rolls it into the net! Synthetic Athletic hit double figures, 10-0!",
+    "wav": "line_3ebc6dfe82694fa6.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 472.61,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Robodinho stumbles over in the centre circle, but the self-righting servos kick in immediately to recover.",
+    "wav": "line_eb0ad1c502815054.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 491.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Robodinho darts toward the goal.",
+    "wav": "line_ff2bb4842d4c35b0.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 491.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Robodinho tucks it away from close range! Synthetic Athletic make it 11-0!",
+    "wav": "line_e8b79b25d7e6fa70.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 508.81,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Robodinho breaks clear once more with only empty space ahead!",
+    "wav": "line_2966becd35826014.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 514.8,
+    "kind": "radio",
+    "energy": "calm",
+    "text": "Robodinho secures it near corner.",
+    "wav": "line_6fec72623301f1c1.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 514.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Just misses the mark from point-blank range, rolling a metre wide of the open frame!",
+    "wav": "line_a5bcd98c90028df5.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 545.0,
+    "kind": "color",
+    "energy": "calm",
+    "text": "A brief pause as Spark hovers over the ball in midfield. Flash FC conceded nine to AFC Fable yesterday and have found no relief today.",
+    "wav": "line_9c1e115041319c75.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 575.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Griezmatronn pushes the ball through the centre of the pitch as the final seconds tick away.",
+    "wav": "line_5854266c0004d7b1.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 595.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Fires just wide of the right post!",
+    "wav": "line_99ddafd80805198a.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Synthetic Athletic 11, Gemini Flash FC 0. Up next: Real Machina face AFC Fable.",
+    "wav": "line_e7173a7a8e001b0c.wav",
+    "dur_s": 7.45
+  }
+]

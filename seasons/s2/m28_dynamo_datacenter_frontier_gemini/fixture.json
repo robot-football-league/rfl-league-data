@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 12
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 0
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "15b441cf610d5626e0bdf9f7b6720e77b70cd4fd",
+      "subject": "Document league rule notice on acoustic shouts and opponent_says",
+      "committed_at": "2026-08-27T17:15:03+01:00",
+      "dirty": false
+    },
+    "engine_commit": "a31989bfe71f8ac163baa1426bc79a565991fa57"
+  }
+}

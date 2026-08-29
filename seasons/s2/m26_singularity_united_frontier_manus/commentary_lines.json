@@ -1,0 +1,514 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "energy": "calm",
+    "text": "Underway in this crucial league clash!",
+    "wav": "line_89047b1d955c9d49.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Haalandroid signals intent to contest the opening ball.",
+    "wav": "line_f93613d5d1fe57ad.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 4.03,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Manus teammates collide heavily in midfield!",
+    "wav": "line_5c985b62ad510c0a.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 6.28,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt recovers quickly to knock Haalandroid flat on the deck.",
+    "wav": "line_b04f1aba732165df.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 10.46,
+    "kind": "through",
+    "energy": "excited",
+    "text": "BellingRAM is clean through on goal!",
+    "wav": "line_287fa06c8bdf9443.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 12.69,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Trace goes tumbling under Haalandroid's challenge.",
+    "wav": "line_fbf54ab7133ab32c.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 13.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM slots it home from close range to give Singularity United a 1-0 lead!",
+    "wav": "line_023b0db6540bec9d.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 14.88,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "A slight gyroscope wobble sends Haalandroid spilling across the centre circle, but the self-righting routine is already underway.",
+    "wav": "line_da63719b1142009f.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 29.0,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt fires home from point-blank range, levelling it at 1-1!",
+    "wav": "line_4dc530ce38e9963c.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 29.0,
+    "kind": "run",
+    "energy": "excited",
+    "text": "A direct surge straight through the heart of the pitch from Prompt, carving out that chance right at the goal mouth.",
+    "wav": "line_c275f39b60ea6731.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 50.62,
+    "kind": "collision",
+    "energy": "build",
+    "text": "Friendly fire! BellingRAM crashes into Haalandroid.",
+    "wav": "line_7bb98ff3a1a7415b.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 53.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM scrambles upright and tucks it away at the goal mouth! Singularity United lead 2-1!",
+    "wav": "line_4a9f666a0e6eb3f1.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 63.09,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Trace loses footing in defence, tumbling over without any contact.",
+    "wav": "line_29f6edb79e69536e.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 70.22,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid breaks clear down the left channel!",
+    "wav": "line_12b057f87b20627d.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 73.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Haalandroid applies the finishing touch from two metres out! Singularity United stretch their advantage to 3-1!",
+    "wav": "line_9b8a2ac839acf1e9.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 85.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM charges through the middle, advancing deep into the final third.",
+    "wav": "line_f7b0fb3904b3485b.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 89.96,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Whisker away from a fourth goal!",
+    "wav": "line_0d5f3c1c387b206b.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 92.7,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Trace intervenes decisively on the right flank, flattening BellingRAM.",
+    "wav": "line_ac0e5f2f363df1f1.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 98.11,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner push-panel punches the magenta ball back into open territory.",
+    "wav": "line_612f4ade57949e97.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 104.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Haalandroid reacts fastest right at the goal mouth to make it 4-1 to Singularity United!",
+    "wav": "line_817e726f2843d970.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 113.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM is on the march again, driving directly into the attacking third.",
+    "wav": "line_98cc531960b80045.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 119.84,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Flashed just wide of the post!",
+    "wav": "line_da64131fd19ec240.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 120.6,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM is unrelenting, pouncing immediately from point-blank range to put Singularity United 5-1 up!",
+    "wav": "line_6f2e8fddbb63f0f7.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 140.4,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Trace barks out instructions to lock down the defensive cover lane while taking possession.",
+    "wav": "line_f4f985766e1e640d.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 148.28,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Inches wide from the left channel as Singularity United keep knocking on the door.",
+    "wav": "line_3a5692265e1d9f79.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 156.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM buries another from close range! Singularity United are running riot here, moving 6-1 ahead!",
+    "wav": "line_c9e632b850205b5a.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 194.17,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The ram panel catapults it back in.",
+    "wav": "line_fc2de42e9ae4147a.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 197.38,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "Haalandroid overbalances on the left flank, taking an awkward tumble, but the servos will get things back in order shortly.",
+    "wav": "line_9563e9192b6a11b3.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 211.7,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Prompt coordinates with Trace to reset their defensive scanning after conceding possession.",
+    "wav": "line_108552a8be74f43b.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 248.64,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "A close shave in defence as the ball drifts inches past the upright.",
+    "wav": "line_61698359ee8b43eb.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 254.8,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "BellingRAM lets Haalandroid know the ball is coming off the wall.",
+    "wav": "line_93215af38998bf07.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 260.71,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Prompt breaks free down the right touchline with nothing in the way!",
+    "wav": "line_93790a457945e72e.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 266.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt snatches one back for Manus FC! It is 6-2!",
+    "wav": "line_28ef10fbe5a9813f.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 267.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "A spirited spell of pressure from Manus FC, penning Singularity United inside their own third and reaping the reward.",
+    "wav": "line_07d7f9697ce0246d.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 283.7,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Prompt signals to re-establish defensive positioning after turning the ball over.",
+    "wav": "line_11a7e98e020af476.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 289.7,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Haalandroid finishes clinically right on the goal line! Singularity United make it 7-2 with seconds remaining in the half!",
+    "wav": "line_80856b72c5efaad2.wav",
+    "dur_s": 9.77
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "energy": "calm",
+    "text": "The buzzer sounds for half-time. Singularity United in complete control, leading Manus FC 7-2 in a breathless opening period.",
+    "wav": "line_29d92c63766a9c74.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 331.48,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "Back underway for the second half, and the corner ram panel immediately pings the ball back into the mix.",
+    "wav": "line_056a71a1219294b9.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 342.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Singularity United applying relentless forward pressure.",
+    "wav": "line_64a59a974285b42f.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 345.32,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Fired just wide of the mark!",
+    "wav": "line_73329ac263127d04.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 348.8,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Haalandroid works it off the perimeter.",
+    "wav": "line_0b5d689d32866f72.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 349.68,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The corner panel ejects the ball cleanly back towards the right channel.",
+    "wav": "line_69e743c07e7ee6eb.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 356.07,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Trace is clean through on goal!",
+    "wav": "line_6322c656ebcac299.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 359.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Trace charges forward along the right flank, trying to ignite a spark for Manus FC.",
+    "wav": "line_5c08546921e9add2.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 374.15,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt levels Haalandroid with a heavy midfield collision.",
+    "wav": "line_22d1ceb1615cdc15.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 378.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "BellingRAM motors seven metres up the middle of the pitch, bearing down menacingly on the goal area.",
+    "wav": "line_306f77b9ae3d235e.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 389.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Disastrous touch from Trace turns into an own goal! Singularity United lead 8-2!",
+    "wav": "line_d1b6fef4005b03b8.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 396.11,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "BellingRAM crunches into Prompt in midfield.",
+    "wav": "line_a07f8f98c95a877b.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 397.56,
+    "kind": "tackle",
+    "energy": "build",
+    "text": "Prompt bounces straight back up and flattens BellingRAM in retaliation! A bruising sequence between the two!",
+    "wav": "line_65c27c976dbb941f.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 412.1,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Prompt calls for defensive realignment.",
+    "wav": "line_1e7c44bfb2362a5b.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 412.21,
+    "kind": "fall",
+    "energy": "calm",
+    "text": "BellingRAM loses balance and goes down.",
+    "wav": "line_09094a36eef3caf8.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 415.04,
+    "kind": "through",
+    "energy": "excited",
+    "text": "Haalandroid is through on goal!",
+    "wav": "line_de58076e76c271a8.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 416.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Haalandroid advances steadily through the centre, lining up another strike from three metres out.",
+    "wav": "line_db0f710487cd0389.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 430.55,
+    "kind": "ram",
+    "energy": "calm",
+    "text": "The wall panel springs into life, ricocheting the ball away from the corner bevel.",
+    "wav": "line_f99c97cd5b909d90.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 441.0,
+    "kind": "pressure",
+    "energy": "build",
+    "text": "Manus FC are completely pinned back in their own territory as Singularity United keep tightening the screw.",
+    "wav": "line_2c013421df16545a.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 478.9,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Another dreadful deflection, this time off Prompt for an own goal! Singularity United stretch it to 9-2!",
+    "wav": "line_bf44a313d965e4ba.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 484.5,
+    "kind": "shout",
+    "energy": "calm",
+    "text": "Trace urges calm and calls to hold the cover lane as time begins to tick away in this second period.",
+    "wav": "line_f2362ae68b66a878.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 510.92,
+    "kind": "collision",
+    "energy": "build",
+    "text": "More miscommunication in the Manus ranks as Prompt and Trace collide on the touchline, sending Prompt crashing down.",
+    "wav": "line_df523c7ddec4707c.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 533.0,
+    "kind": "run",
+    "energy": "build",
+    "text": "Prompt drives forward into the box.",
+    "wav": "line_4573da35e3ca2d9c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 533.2,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! Prompt scrambles it over the line from point-blank range! A consolation for Manus FC, making it 9-3 with just over a minute left!",
+    "wav": "line_1e9eb6d28a4a75ae.wav",
+    "dur_s": 10.66
+  },
+  {
+    "t": 545.52,
+    "kind": "near_miss",
+    "energy": "excited",
+    "text": "Agonisingly close to a tenth as the shot skims the frame of the goal!",
+    "wav": "line_95158fbc42b656c0.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 552.4,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM reaches double figures for Singularity United with a clinical point-blank strike! It is 10-3 in the dying seconds!",
+    "wav": "line_38ada94e163a819a.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 574.3,
+    "kind": "goal",
+    "energy": "roar",
+    "text": "GOAL! BellingRAM adds yet another right at the death! Singularity United lead 11-3 with only seconds remaining on the clock!",
+    "wav": "line_2db84209647dd146.wav",
+    "dur_s": 10.5
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "energy": "calm",
+    "text": "Full time: Singularity United 11, Manus FC 3. Join us at 12:00 for Codex City against Synthetic Athletic!",
+    "wav": "line_3eef2c1d08667f06.wav",
+    "dur_s": 8.28
+  }
+]
