@@ -1,0 +1,214 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  3,
+  4
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Synthetic Athletic",
+   "code": "SYA",
+   "players": [
+    "Griezmatronn",
+    "Robodinho"
+   ]
+  },
+  "B": {
+   "name": "Dynamo Datacenter",
+   "code": "DYD",
+   "players": [
+    "Mbapp-E",
+    "Buffon.exe"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 88.6,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 216.5,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 343.8,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 419.2,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 496.9,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 522.0,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 550.3,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 510,
+ "event_counts": {
+  "touch": 199,
+  "kick": 208,
+  "wall": 28,
+  "ram": 5,
+  "through": 24,
+  "near_miss": 5,
+  "fall": 41
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 101,
+   "kick": 108,
+   "wall": 15,
+   "ram": 3,
+   "through": 10,
+   "near_miss": 2,
+   "fall": 12
+  },
+  "half_2": {
+   "touch": 98,
+   "kick": 100,
+   "fall": 29,
+   "through": 14,
+   "wall": 13,
+   "near_miss": 3,
+   "ram": 2
+  }
+ },
+ "falls": {
+  "total": 41,
+  "by_opponent": 12,
+  "unforced": 29,
+  "by_half": {
+   "half_1": 12,
+   "half_2": 29
+  },
+  "times_s": [
+   97.8,
+   98.7,
+   126.9,
+   131.9,
+   134.0,
+   134.6,
+   253.6,
+   256.6,
+   263.4,
+   266.1,
+   269.8,
+   278.4,
+   316.2,
+   316.3,
+   319.6,
+   319.8,
+   326.4,
+   329.2,
+   349.5,
+   349.9,
+   463.4,
+   473.4,
+   483.0,
+   485.6,
+   492.7,
+   495.6,
+   498.8,
+   502.3,
+   505.5,
+   512.0,
+   513.2,
+   514.8,
+   532.2,
+   558.1,
+   560.9,
+   570.4,
+   580.1,
+   582.7,
+   589.6,
+   592.2
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 10,
+   "recoveries": 10,
+   "touches": 26,
+   "decisions": 252,
+   "invalid_actions": 0,
+   "missed_deadlines": 5,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.548
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 68,
+   "decisions": 267,
+   "invalid_actions": 0,
+   "missed_deadlines": 4,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.518
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 12,
+   "recoveries": 11,
+   "touches": 54,
+   "decisions": 248,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.536
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 13,
+   "recoveries": 12,
+   "touches": 51,
+   "decisions": 246,
+   "invalid_actions": 0,
+   "missed_deadlines": 8,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.557
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 4315455,
+ "tokens_out": 16956,
+ "est_cost_usd": 0.4383
+}

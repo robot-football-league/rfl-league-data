@@ -1,0 +1,185 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  3,
+  4
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Synthetic Athletic",
+   "code": "SYA",
+   "players": [
+    "Griezmatronn",
+    "Robodinho"
+   ]
+  },
+  "B": {
+   "name": "Real Machina",
+   "code": "RMA",
+   "players": [
+    "CR-7000",
+    "Zidroid"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 76.4,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 89.2,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 155.9,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 201.9,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 282.9,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 344.1,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 568.0,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 293,
+ "event_counts": {
+  "kick": 214,
+  "wall": 37,
+  "through": 18,
+  "near_miss": 7,
+  "fall": 14,
+  "ram": 3
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "kick": 117,
+   "wall": 25,
+   "through": 8,
+   "near_miss": 4,
+   "fall": 8,
+   "ram": 2
+  },
+  "half_2": {
+   "kick": 97,
+   "through": 10,
+   "wall": 12,
+   "near_miss": 3,
+   "fall": 6,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 14,
+  "by_opponent": 3,
+  "unforced": 11,
+  "by_half": {
+   "half_1": 8,
+   "half_2": 6
+  },
+  "times_s": [
+   32.3,
+   41.9,
+   51.6,
+   59.2,
+   61.4,
+   70.9,
+   119.5,
+   126.7,
+   431.7,
+   440.7,
+   441.4,
+   441.8,
+   451.3,
+   544.3
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 35,
+   "decisions": 274,
+   "invalid_actions": 0,
+   "missed_deadlines": 13,
+   "abandoned": 1,
+   "mean_decision_latency_s": 1.766
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 61,
+   "decisions": 261,
+   "invalid_actions": 0,
+   "missed_deadlines": 10,
+   "abandoned": 1,
+   "mean_decision_latency_s": 1.701
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 56,
+   "decisions": 266,
+   "invalid_actions": 0,
+   "missed_deadlines": 14,
+   "abandoned": 1,
+   "mean_decision_latency_s": 1.68
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 61,
+   "decisions": 262,
+   "invalid_actions": 0,
+   "missed_deadlines": 16,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.735
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 4665328,
+ "tokens_out": 17648,
+ "est_cost_usd": 0.4736
+}

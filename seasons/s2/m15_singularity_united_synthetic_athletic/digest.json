@@ -1,0 +1,264 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  13,
+  4
+ ],
+ "winner": "A",
+ "teams": {
+  "A": {
+   "name": "Singularity United",
+   "code": "SGU",
+   "players": [
+    "Haalandroid",
+    "BellingRAM"
+   ]
+  },
+  "B": {
+   "name": "Synthetic Athletic",
+   "code": "SYA",
+   "players": [
+    "Griezmatronn",
+    "Robodinho"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 26.4,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 2.5
+  },
+  {
+   "t": 64.1,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 85.2,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 100.7,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 160.4,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 206.7,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 286.6,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 324.3,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 2.5
+  },
+  {
+   "t": 388.3,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 406.4,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 445.1,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 463.1,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 495.4,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 517.0,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 538.8,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 561.7,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 581.4,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  }
+ ],
+ "events_total": 493,
+ "event_counts": {
+  "touch": 211,
+  "kick": 201,
+  "through": 16,
+  "wall": 27,
+  "fall": 30,
+  "near_miss": 5,
+  "ram": 3
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 103,
+   "kick": 97,
+   "through": 9,
+   "wall": 21,
+   "fall": 15,
+   "near_miss": 1,
+   "ram": 1
+  },
+  "half_2": {
+   "touch": 108,
+   "kick": 104,
+   "fall": 15,
+   "through": 7,
+   "ram": 2,
+   "wall": 6,
+   "near_miss": 4
+  }
+ },
+ "falls": {
+  "total": 30,
+  "by_opponent": 10,
+  "unforced": 20,
+  "by_half": {
+   "half_1": 15,
+   "half_2": 15
+  },
+  "times_s": [
+   33.5,
+   34.9,
+   39.9,
+   44.4,
+   50.2,
+   59.7,
+   90.2,
+   94.5,
+   134.5,
+   175.5,
+   184.9,
+   193.0,
+   233.9,
+   237.7,
+   272.1,
+   330.3,
+   353.1,
+   363.2,
+   375.4,
+   451.3,
+   452.1,
+   470.3,
+   472.2,
+   482.2,
+   488.6,
+   502.0,
+   568.9,
+   587.5,
+   590.9,
+   597.6
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 9,
+   "recoveries": 9,
+   "touches": 58,
+   "decisions": 259,
+   "invalid_actions": 0,
+   "missed_deadlines": 1,
+   "abandoned": 2,
+   "mean_decision_latency_s": 1.409
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 10,
+   "recoveries": 9,
+   "touches": 64,
+   "decisions": 261,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 2,
+   "mean_decision_latency_s": 1.365
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 34,
+   "decisions": 280,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 2,
+   "mean_decision_latency_s": 1.451
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 9,
+   "recoveries": 9,
+   "touches": 55,
+   "decisions": 262,
+   "invalid_actions": 0,
+   "missed_deadlines": 1,
+   "abandoned": 2,
+   "mean_decision_latency_s": 1.411
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 4494108,
+ "tokens_out": 17377,
+ "est_cost_usd": 0.4564
+}

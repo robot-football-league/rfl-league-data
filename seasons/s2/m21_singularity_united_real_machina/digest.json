@@ -1,0 +1,242 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  5,
+  7
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Singularity United",
+   "code": "SGU",
+   "players": [
+    "Haalandroid",
+    "BellingRAM"
+   ]
+  },
+  "B": {
+   "name": "Real Machina",
+   "code": "RMA",
+   "players": [
+    "CR-7000",
+    "Zidroid"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 14.1,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 121.6,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 133.5,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 242.9,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 256.5,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 270.0,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 394.2,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 440.3,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 460.5,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 491.5,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 512.7,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 592.8,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 548,
+ "event_counts": {
+  "touch": 235,
+  "kick": 217,
+  "through": 13,
+  "wall": 38,
+  "fall": 39,
+  "near_miss": 5,
+  "ram": 1
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 114,
+   "kick": 107,
+   "through": 5,
+   "wall": 26,
+   "fall": 28,
+   "near_miss": 4
+  },
+  "half_2": {
+   "touch": 121,
+   "kick": 110,
+   "through": 8,
+   "wall": 12,
+   "near_miss": 1,
+   "fall": 11,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 39,
+  "by_opponent": 13,
+  "unforced": 26,
+  "by_half": {
+   "half_1": 28,
+   "half_2": 11
+  },
+  "times_s": [
+   34.2,
+   37.5,
+   41.1,
+   44.2,
+   44.5,
+   47.9,
+   50.8,
+   54.3,
+   55.3,
+   60.4,
+   60.4,
+   70.0,
+   79.5,
+   89.0,
+   94.6,
+   113.4,
+   123.5,
+   162.4,
+   172.0,
+   181.7,
+   204.0,
+   208.4,
+   209.9,
+   218.3,
+   219.2,
+   228.8,
+   276.6,
+   286.1,
+   339.8,
+   372.7,
+   382.7,
+   413.4,
+   417.3,
+   420.9,
+   428.2,
+   435.3,
+   498.9,
+   509.2,
+   573.1
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 70,
+   "decisions": 195,
+   "invalid_actions": 0,
+   "missed_deadlines": 46,
+   "abandoned": 28,
+   "mean_decision_latency_s": 1.973
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 14,
+   "recoveries": 14,
+   "touches": 57,
+   "decisions": 171,
+   "invalid_actions": 0,
+   "missed_deadlines": 40,
+   "abandoned": 29,
+   "mean_decision_latency_s": 1.926
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 11,
+   "recoveries": 11,
+   "touches": 47,
+   "decisions": 175,
+   "invalid_actions": 0,
+   "missed_deadlines": 46,
+   "abandoned": 34,
+   "mean_decision_latency_s": 1.882
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 61,
+   "decisions": 201,
+   "invalid_actions": 0,
+   "missed_deadlines": 44,
+   "abandoned": 29,
+   "mean_decision_latency_s": 1.907
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 4167313,
+ "tokens_out": 15380,
+ "est_cost_usd": 0.4229
+}

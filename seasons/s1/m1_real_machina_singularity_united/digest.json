@@ -1,0 +1,133 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  3,
+  2
+ ],
+ "winner": "A",
+ "teams": {},
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 112.2,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 138.5,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 343.9,
+   "team": "B",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 546.1,
+   "team": "B",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 587.2,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 198,
+ "event_counts": {
+  "kick": 134,
+  "wall": 58,
+  "ram": 5,
+  "near_miss": 1
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "kick": 73,
+   "wall": 28,
+   "ram": 5,
+   "near_miss": 1
+  },
+  "half_2": {
+   "kick": 61,
+   "wall": 30
+  }
+ },
+ "falls": {
+  "total": 0,
+  "by_opponent": 0,
+  "unforced": 0,
+  "by_half": {
+   "half_1": 0,
+   "half_2": 0
+  },
+  "times_s": []
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 24,
+   "decisions": 264,
+   "invalid_actions": 0,
+   "missed_deadlines": 6,
+   "abandoned": null,
+   "mean_decision_latency_s": 1.637
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 31,
+   "decisions": 274,
+   "invalid_actions": 0,
+   "missed_deadlines": 10,
+   "abandoned": null,
+   "mean_decision_latency_s": 1.579
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 5,
+   "recoveries": 5,
+   "touches": 26,
+   "decisions": 268,
+   "invalid_actions": 0,
+   "missed_deadlines": 11,
+   "abandoned": null,
+   "mean_decision_latency_s": 1.544
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 12,
+   "recoveries": 12,
+   "touches": 34,
+   "decisions": 245,
+   "invalid_actions": 0,
+   "missed_deadlines": 9,
+   "abandoned": null,
+   "mean_decision_latency_s": 1.651
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 4431478,
+ "tokens_out": 16701,
+ "est_cost_usd": 0.4498
+}

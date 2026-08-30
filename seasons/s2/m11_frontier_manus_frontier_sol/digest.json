@@ -1,0 +1,225 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  8,
+  5
+ ],
+ "winner": "A",
+ "teams": {
+  "A": {
+   "name": "Manus FC",
+   "code": "MNS",
+   "players": [
+    "Prompt",
+    "Trace"
+   ]
+  },
+  "B": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 35.5,
+   "team": "B",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 122.4,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 225.6,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 272.2,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 292.3,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 328.3,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 374.9,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 413.1,
+   "team": "A",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 425.1,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 448.5,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 489.8,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 566.4,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 578.1,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  }
+ ],
+ "events_total": 440,
+ "event_counts": {
+  "touch": 189,
+  "kick": 179,
+  "through": 18,
+  "wall": 32,
+  "near_miss": 5,
+  "fall": 16,
+  "ram": 1
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 100,
+   "kick": 77,
+   "through": 8,
+   "wall": 15,
+   "near_miss": 2,
+   "fall": 5
+  },
+  "half_2": {
+   "touch": 89,
+   "through": 10,
+   "kick": 102,
+   "near_miss": 3,
+   "wall": 17,
+   "ram": 1,
+   "fall": 11
+  }
+ },
+ "falls": {
+  "total": 16,
+  "by_opponent": 9,
+  "unforced": 7,
+  "by_half": {
+   "half_1": 5,
+   "half_2": 11
+  },
+  "times_s": [
+   151.1,
+   251.1,
+   252.9,
+   253.8,
+   254.9,
+   389.3,
+   391.3,
+   394.0,
+   396.1,
+   402.7,
+   403.0,
+   405.5,
+   412.3,
+   468.7,
+   470.6,
+   478.2
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "Prompt",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 66,
+   "decisions": 178,
+   "invalid_actions": 0,
+   "missed_deadlines": 96,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.791
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "Trace",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 27,
+   "decisions": 223,
+   "invalid_actions": 0,
+   "missed_deadlines": 62,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.122
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "codex-city-rotating-press",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 66,
+   "decisions": 289,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "codex-city-rotating-press",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 30,
+   "decisions": 281,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 621526,
+ "tokens_out": 53442,
+ "est_cost_usd": 0.1884
+}

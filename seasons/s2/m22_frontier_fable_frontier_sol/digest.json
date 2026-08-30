@@ -1,0 +1,213 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  6,
+  4
+ ],
+ "winner": "A",
+ "teams": {
+  "A": {
+   "name": "AFC Fable",
+   "code": "FAB",
+   "players": [
+    "Tortoise",
+    "Hare"
+   ]
+  },
+  "B": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 16.0,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 55.0,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 139.8,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 211.9,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 243.1,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 294.1,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 324.0,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 410.9,
+   "team": "B",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 470.8,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 570.2,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 454,
+ "event_counts": {
+  "touch": 206,
+  "kick": 183,
+  "fall": 21,
+  "wall": 25,
+  "through": 12,
+  "ram": 3,
+  "near_miss": 4
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 102,
+   "kick": 93,
+   "fall": 11,
+   "wall": 18,
+   "through": 4,
+   "ram": 2,
+   "near_miss": 1
+  },
+  "half_2": {
+   "touch": 104,
+   "through": 8,
+   "kick": 90,
+   "near_miss": 3,
+   "fall": 10,
+   "wall": 7,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 21,
+  "by_opponent": 3,
+  "unforced": 18,
+  "by_half": {
+   "half_1": 11,
+   "half_2": 10
+  },
+  "times_s": [
+   4.3,
+   92.5,
+   98.8,
+   166.7,
+   177.4,
+   217.8,
+   217.9,
+   221.4,
+   231.5,
+   251.2,
+   261.8,
+   330.4,
+   332.4,
+   342.7,
+   352.3,
+   361.9,
+   372.1,
+   508.4,
+   518.2,
+   528.0,
+   538.2
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "Tortoise",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 57,
+   "decisions": 267,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "Hare",
+   "falls": 10,
+   "recoveries": 10,
+   "touches": 66,
+   "decisions": 262,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "codex-city-danger-counterpress",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 50,
+   "decisions": 289,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "codex-city-danger-counterpress",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 33,
+   "decisions": 292,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 0,
+ "tokens_out": 0,
+ "est_cost_usd": null
+}

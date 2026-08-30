@@ -1,0 +1,173 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  2,
+  4
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  },
+  "B": {
+   "name": "Gemini Flash FC",
+   "code": "GEM",
+   "players": [
+    "Flash",
+    "Spark"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": null,
+ "goals": [
+  {
+   "t": 96.1,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 2.5
+  },
+  {
+   "t": 147.1,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 256.2,
+   "team": "B",
+   "scorer": 1,
+   "replay_s": 2.5
+  },
+  {
+   "t": 325.8,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 2.5
+  },
+  {
+   "t": 387.8,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 2.5
+  },
+  {
+   "t": 400.5,
+   "team": "A",
+   "scorer": 3,
+   "replay_s": 2.5
+  }
+ ],
+ "events_total": 440,
+ "event_counts": {
+  "touch": 192,
+  "kick": 187,
+  "through": 12,
+  "wall": 35,
+  "near_miss": 5,
+  "ram": 4,
+  "fall": 5
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 97,
+   "kick": 89,
+   "through": 6,
+   "wall": 14,
+   "near_miss": 3,
+   "ram": 2,
+   "fall": 3
+  },
+  "half_2": {
+   "touch": 95,
+   "kick": 98,
+   "through": 6,
+   "wall": 21,
+   "ram": 2,
+   "fall": 2,
+   "near_miss": 2
+  }
+ },
+ "falls": {
+  "total": 5,
+  "by_opponent": 3,
+  "unforced": 2,
+  "by_half": {
+   "half_1": 3,
+   "half_2": 2
+  },
+  "times_s": [
+   216.4,
+   226.3,
+   262.3,
+   444.0,
+   592.0
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "codex-city-rotating-press",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 57,
+   "decisions": 288,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "codex-city-rotating-press",
+   "falls": 1,
+   "recoveries": 0,
+   "touches": 31,
+   "decisions": 291,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x113243a10>",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 59,
+   "decisions": 288,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x1127da480>",
+   "falls": 0,
+   "recoveries": 0,
+   "touches": 45,
+   "decisions": 295,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 0,
+ "tokens_out": 0,
+ "est_cost_usd": null
+}
