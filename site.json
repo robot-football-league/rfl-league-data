@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T16:24:11+00:00",
+ "generated_at": "2026-09-01T16:44:30+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -213,7 +213,9 @@
       }
      ],
      "player_model": "llm:google:gemini-flash-lite-latest",
-     "assets": {}
+     "assets": {
+      "badge": "teams/frontier_muse/badge.png"
+     }
     },
     {
      "slug": "frontier_glm",
@@ -235,7 +237,9 @@
       }
      ],
      "player_model": "llm:openai:gpt-5.6-luna",
-     "assets": {}
+     "assets": {
+      "badge": "teams/frontier_glm/badge.png"
+     }
     },
     {
      "slug": "frontier_deepseek",
@@ -260,7 +264,9 @@
       }
      ],
      "player_model": "llm:openai:gpt-5.6-luna",
-     "assets": {}
+     "assets": {
+      "badge": "teams/frontier_deepseek/badge.png"
+     }
     }
    ],
    "table": [
@@ -8212,7 +8218,9 @@
     }
    ],
    "player_model": "llm:openai:gpt-5.6-luna",
-   "assets": {}
+   "assets": {
+    "badge": "teams/frontier_deepseek/badge.png"
+   }
   },
   "frontier_fable": {
    "slug": "frontier_fable",
@@ -8292,7 +8300,9 @@
     }
    ],
    "player_model": "llm:openai:gpt-5.6-luna",
-   "assets": {}
+   "assets": {
+    "badge": "teams/frontier_glm/badge.png"
+   }
   },
   "frontier_manus": {
    "slug": "frontier_manus",
@@ -8346,7 +8356,9 @@
     }
    ],
    "player_model": "llm:google:gemini-flash-lite-latest",
-   "assets": {}
+   "assets": {
+    "badge": "teams/frontier_muse/badge.png"
+   }
   },
   "frontier_sol": {
    "slug": "frontier_sol",
