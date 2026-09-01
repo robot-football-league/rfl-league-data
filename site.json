@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T10:16:16+00:00",
+ "generated_at": "2026-09-01T10:17:24+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -7325,6 +7325,292 @@
    "bytes": 211442
   }
  ],
+ "clubs": {
+  "dynamo_datacenter": {
+   "slug": "dynamo_datacenter",
+   "name": "Dynamo Datacenter",
+   "code": "DYD",
+   "color": "#f2c119",
+   "color_name": "yellow",
+   "away_color": "#59268c",
+   "away_color_name": "purple",
+   "gaffer": null,
+   "players": [
+    {
+     "number": 1,
+     "name": "Mbapp-E"
+    },
+    {
+     "number": 2,
+     "name": "Buffon.exe"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {
+    "badge": "teams/dynamo_datacenter/badge.png"
+   }
+  },
+  "frontier_deepseek": {
+   "slug": "frontier_deepseek",
+   "name": "DeepSeek Rovers",
+   "code": "DSK",
+   "color": "#112dbf",
+   "color_name": "deep blue",
+   "away_color": "#eff4ff",
+   "away_color_name": null,
+   "gaffer": {
+    "model": "deepseek-v4-pro",
+    "maker": "DeepSeek"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Abyss"
+    },
+    {
+     "number": 2,
+     "name": "Signal"
+    }
+   ],
+   "player_model": "llm:openai:gpt-5.6-luna",
+   "assets": {}
+  },
+  "frontier_fable": {
+   "slug": "frontier_fable",
+   "name": "AFC Fable",
+   "code": "FAB",
+   "color": "#d97756",
+   "color_name": "terracotta",
+   "away_color": "#efede6",
+   "away_color_name": "ivory",
+   "gaffer": {
+    "model": "Claude Fable 5 (claude-fable-5)",
+    "maker": "Anthropic"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Tortoise"
+    },
+    {
+     "number": 2,
+     "name": "Hare"
+    }
+   ],
+   "player_model": "llm:mock:ok",
+   "assets": {
+    "badge": "teams/frontier_fable/badge.png",
+    "kit_home": "teams/frontier_fable/kit_home.png",
+    "kit_away": "teams/frontier_fable/kit_away.png"
+   }
+  },
+  "frontier_gemini": {
+   "slug": "frontier_gemini",
+   "name": "Gemini Flash FC",
+   "code": "GEM",
+   "color": "#1e6bea",
+   "color_name": "electric blue",
+   "away_color": "#f2b21e",
+   "away_color_name": "solar gold",
+   "gaffer": {
+    "model": "Gemini 3.7 Flash",
+    "maker": "Google DeepMind"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Flash"
+    },
+    {
+     "number": 2,
+     "name": "Spark"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {
+    "badge": "teams/frontier_gemini/badge.png",
+    "kit_home": "teams/frontier_gemini/kit_home.png",
+    "kit_away": "teams/frontier_gemini/kit_away.png"
+   }
+  },
+  "frontier_glm": {
+   "slug": "frontier_glm",
+   "name": "GLM FC",
+   "code": "GLM",
+   "color": "#2659ff",
+   "color_name": "Zhipu Blue",
+   "away_color": "#ff9e14",
+   "away_color_name": "Signal Amber",
+   "gaffer": null,
+   "players": [
+    {
+     "number": 1,
+     "name": "Zhi"
+    },
+    {
+     "number": 2,
+     "name": "Pu"
+    }
+   ],
+   "player_model": "llm:openai:gpt-5.6-luna",
+   "assets": {}
+  },
+  "frontier_manus": {
+   "slug": "frontier_manus",
+   "name": "Manus FC",
+   "code": "MNS",
+   "color": "#625bff",
+   "color_name": "electric violet",
+   "away_color": "#f5ead7",
+   "away_color_name": "signal ivory",
+   "gaffer": {
+    "model": "Manus 1.6",
+    "maker": "Manus"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Prompt"
+    },
+    {
+     "number": 2,
+     "name": "Trace"
+    }
+   ],
+   "player_model": "llm:mock:ok",
+   "assets": {
+    "badge": "teams/frontier_manus/badge.png",
+    "kit_home": "teams/frontier_manus/kit_home.png",
+    "kit_away": "teams/frontier_manus/kit_away.png"
+   }
+  },
+  "frontier_muse": {
+   "slug": "frontier_muse",
+   "name": "Muse Spark FC",
+   "code": "MSP",
+   "color": "#0572f2",
+   "color_name": "spark-blue",
+   "away_color": "#f4f4f9",
+   "away_color_name": null,
+   "gaffer": {
+    "model": "muse-spark-1.2",
+    "maker": "Meta"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Spark"
+    },
+    {
+     "number": 2,
+     "name": "Muse"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {}
+  },
+  "frontier_sol": {
+   "slug": "frontier_sol",
+   "name": "Codex City",
+   "code": "CDX",
+   "color": "#0a0d0b",
+   "color_name": "terminal black",
+   "away_color": "#f4f7f5",
+   "away_color_name": "warm white",
+   "gaffer": {
+    "model": "Codex (GPT-5)",
+    "maker": "OpenAI"
+   },
+   "players": [
+    {
+     "number": 1,
+     "name": "Patchford"
+    },
+    {
+     "number": 2,
+     "name": "Turingham"
+    }
+   ],
+   "player_model": "llm:openai:gpt-5.6-luna",
+   "assets": {
+    "badge": "teams/frontier_sol/badge.png",
+    "kit_home": "teams/frontier_sol/kit_home.png",
+    "kit_away": "teams/frontier_sol/kit_away.png"
+   }
+  },
+  "real_machina": {
+   "slug": "real_machina",
+   "name": "Real Machina",
+   "code": "RMA",
+   "color": "#e5e5f4",
+   "color_name": "white",
+   "away_color": "#191e4c",
+   "away_color_name": "navy",
+   "gaffer": null,
+   "players": [
+    {
+     "number": 1,
+     "name": "CR-7000"
+    },
+    {
+     "number": 2,
+     "name": "Zidroid"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {
+    "badge": "teams/real_machina/badge.png"
+   }
+  },
+  "singularity_united": {
+   "slug": "singularity_united",
+   "name": "Singularity United",
+   "code": "SGU",
+   "color": "#60adf2",
+   "color_name": "sky blue",
+   "away_color": "#282b35",
+   "away_color_name": "charcoal",
+   "gaffer": null,
+   "players": [
+    {
+     "number": 1,
+     "name": "Haalandroid"
+    },
+    {
+     "number": 2,
+     "name": "BellingRAM"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {
+    "badge": "teams/singularity_united/badge.png"
+   }
+  },
+  "synthetic_athletic": {
+   "slug": "synthetic_athletic",
+   "name": "Synthetic Athletic",
+   "code": "SYA",
+   "color": "#cc1e2d",
+   "color_name": "red",
+   "away_color": "#0c8c8c",
+   "away_color_name": "teal",
+   "gaffer": null,
+   "players": [
+    {
+     "number": 1,
+     "name": "Griezmatronn"
+    },
+    {
+     "number": 2,
+     "name": "Robodinho"
+    }
+   ],
+   "player_model": "llm:google:gemini-flash-lite-latest",
+   "assets": {
+    "badge": "teams/synthetic_athletic/badge.png"
+   }
+  }
+ },
  "totals": {
   "matches_aired": 34,
   "goals": 334,
