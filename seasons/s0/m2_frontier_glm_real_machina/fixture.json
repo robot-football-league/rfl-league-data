@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 4
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 14
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {
+      "commit": "74dacea473226ed15a3f509ea8958c27e9c43df8",
+      "subject": "GLM FC founded; scaffold helpers removed per the club's own blocker report",
+      "committed_at": "2026-09-01T10:31:21+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "14b49860b5affc64724d1057504bffbc84888788"
+  }
+}

@@ -1,0 +1,24 @@
+{"t": 2.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the kickoff ball."}
+{"t": 2.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for the ball."}
+{"t": 4.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "Going for the ball", "reason": "cooldown"}
+{"t": 62.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the ball"}
+{"t": 91.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for the ball!"}
+{"t": 94.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "Got it!"}
+{"t": 152.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "got the ball, pushing for goal"}
+{"t": 163.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 269.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the ball"}
+{"t": 368.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing it from the wall"}
+{"t": 373.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 444.9, "from": "r3", "team": "Real Machina", "number": 2, "text": "stuck on the wall, pushing it out"}
+{"t": 451.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "scoring!"}
+{"t": 496.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball's stuck against the wall, pushing it free"}
+{"t": 498.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it free along the wall"}
+{"t": 518.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 524.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 554.5, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it free"}
+{"t": 554.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "working it off the wall"}
+{"t": 555.9, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck by the wall", "reason": "cooldown"}
+{"t": 559.9, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "still working it", "reason": "cooldown"}
+{"t": 582.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "ball's against the wall, pushing it free"}
+{"t": 585.3, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "prying the ball off the wall", "reason": "cooldown"}
+{"t": 590.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}

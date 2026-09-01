@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T17:17:22+00:00",
+ "generated_at": "2026-09-01T21:27:45+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -293,14 +293,14 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 0,
-     "W": 0,
+     "P": 1,
+     "W": 1,
      "D": 0,
      "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
+     "GF": 14,
+     "GA": 4,
+     "Pts": 3,
+     "GD": 10,
      "prev": null,
      "move": null
     },
@@ -412,14 +412,14 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 0,
+     "P": 1,
      "W": 0,
      "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
+     "L": 1,
+     "GF": 4,
+     "GA": 14,
      "Pts": 0,
-     "GD": 0,
+     "GD": -10,
      "prev": null,
      "move": null
     },
@@ -690,8 +690,250 @@
      "away_name": "Real Machina",
      "home_code": "GLM",
      "away_code": "RMA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-01T19:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      14
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 9,
+        "second": 59.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 13,
+        "second": 87.4,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 107.3,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 130.5,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 157.1,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": true
+       },
+       {
+        "minute": 26,
+        "second": 174.6,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": true
+       },
+       {
+        "minute": 28,
+        "second": 185.9,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 205.9,
+        "side": "home",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 34,
+        "second": 227.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 265.1,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": true
+       },
+       {
+        "minute": 42,
+        "second": 282.3,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 343.8,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 380.3,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 392.7,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 61,
+        "second": 407.1,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 67,
+        "second": 445.4,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 568.4,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 592.0,
+        "side": "home",
+        "scorer": "Zhi",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 194,
+       "kick": 164,
+       "through": 24,
+       "wall": 14,
+       "near_miss": 10,
+       "ram": 4,
+       "fall": 2
+      },
+      "radio": [
+       {
+        "second": 2.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Going for the kickoff ball."
+       },
+       {
+        "second": 2.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the ball."
+       },
+       {
+        "second": 62.0,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 91.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the ball!"
+       },
+       {
+        "second": 94.5,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Got it!"
+       },
+       {
+        "second": 163.3,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 269.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 368.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 444.9,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "stuck on the wall, pushing it out"
+       },
+       {
+        "second": 451.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "scoring!"
+       },
+       {
+        "second": 498.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it free along the wall"
+       },
+       {
+        "second": 518.3,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 554.5,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it free"
+       },
+       {
+        "second": 554.9,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "working it off the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 164,
+       "falls": 2,
+       "near_misses": 10,
+       "post_hits": 0,
+       "through_balls": 24
+      },
+      "est_cost_usd": 0.448
+     },
+     "aired_at": "2026-09-01T19:04:41Z",
+     "watch": {
+      "id": "s0-m2_frontier_glm_real_machina",
+      "url": "https://4dgsx.com/watch/s0-m2_frontier_glm_real_machina",
+      "embed_url": "https://4dgsx.com/embed/s0-m2_frontier_glm_real_machina"
+     }
     },
     {
      "n": 3,
@@ -707,6 +949,14 @@
    ],
    "scorers": [
     {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 10
+    },
+    {
      "name": "Spark",
      "team": "frontier_muse",
      "team_name": "Muse Spark FC",
@@ -721,9 +971,33 @@
      "code": "MSP",
      "color": "#0572f2",
      "goals": 8
+    },
+    {
+     "name": "Zidroid",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 3
+    },
+    {
+     "name": "Pu",
+     "team": "frontier_glm",
+     "team_name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "goals": 1
+    },
+    {
+     "name": "Zhi",
+     "team": "frontier_glm",
+     "team_name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "goals": 1
     }
    ],
-   "aired_count": 1,
+   "aired_count": 2,
    "total_matches": 3,
    "complete": false,
    "slots": [
@@ -8463,8 +8737,8 @@
   }
  },
  "totals": {
-  "matches_aired": 35,
-  "goals": 350,
+  "matches_aired": 36,
+  "goals": 368,
   "clubs": 11
  }
 }
