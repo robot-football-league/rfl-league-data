@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T14:42:56+00:00",
+ "generated_at": "2026-09-01T16:13:02+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -685,7 +685,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-01T15:00:00Z"
+     "kickoff_utc": "2026-09-01T19:00:00Z"
     },
     {
      "n": 3,
@@ -696,7 +696,7 @@
      "home_code": "FAB",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-01T19:00:00Z"
+     "kickoff_utc": "2026-09-02T11:00:00Z"
     }
    ],
    "scorers": [
