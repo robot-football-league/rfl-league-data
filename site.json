@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T10:17:24+00:00",
+ "generated_at": "2026-09-01T10:34:28+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -7286,6 +7286,7 @@
    "club": "frontier_deepseek",
    "night": 0,
    "season": 3,
+   "finished_at": "2026-08-30T12:57:21+01:00",
    "model": "llm:aiml:deepseek/deepseek-v4-pro",
    "turns": 28,
    "summary": "Founding night \u2014 the club did not exist before this session.",
@@ -7300,6 +7301,7 @@
    "club": "frontier_glm",
    "night": 0,
    "season": 3,
+   "finished_at": "2026-09-01T10:31:21+01:00",
    "model": "llm:aiml:zhipu/glm-5.3",
    "turns": null,
    "summary": "Founding night \u2014 the club did not exist before this session.",
@@ -7314,6 +7316,7 @@
    "club": "frontier_muse",
    "night": 0,
    "season": 3,
+   "finished_at": "2026-08-30T13:05:49+01:00",
    "model": "llm:aiml:meta/muse-spark-1.2",
    "turns": 28,
    "summary": "Founding night \u2014 the club did not exist before this session.",

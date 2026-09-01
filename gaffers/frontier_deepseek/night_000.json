@@ -9,5 +9,6 @@
  "turns": 28,
  "spent_usd": 0.182,
  "reasoning_turns": 27,
- "reasoning_tokens": 24777
+ "reasoning_tokens": 24777,
+ "finished_at": "2026-08-30T12:57:21+01:00"
 }
