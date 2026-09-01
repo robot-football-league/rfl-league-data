@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T21:50:51+00:00",
+ "generated_at": "2026-09-01T10:11:35+00:00",
  "current_season": 2,
  "seasons": [
   {
@@ -7281,7 +7281,50 @@
    "timezone": "Europe/London"
   }
  ],
- "gaffer_sessions": [],
+ "gaffer_sessions": [
+  {
+   "club": "frontier_deepseek",
+   "night": 0,
+   "season": 3,
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 28,
+   "summary": "Founding night \u2014 the club did not exist before this session.",
+   "commit": "39e019d",
+   "spent_usd": 0.182,
+   "reasoning_turns": 27,
+   "reasoning_tokens": 24777,
+   "transcript": "gaffers/frontier_deepseek/night_000.md",
+   "bytes": 217022
+  },
+  {
+   "club": "frontier_glm",
+   "night": 0,
+   "season": 3,
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": null,
+   "summary": "Founding night \u2014 the club did not exist before this session.",
+   "commit": "74dacea",
+   "spent_usd": null,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_glm/night_000.md",
+   "bytes": 560511
+  },
+  {
+   "club": "frontier_muse",
+   "night": 0,
+   "season": 3,
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "Founding night \u2014 the club did not exist before this session.",
+   "commit": "d045da1",
+   "spent_usd": 0.201,
+   "reasoning_turns": 19,
+   "reasoning_tokens": 10036,
+   "transcript": "gaffers/frontier_muse/night_000.md",
+   "bytes": 211442
+  }
+ ],
  "totals": {
   "matches_aired": 34,
   "goals": 334,

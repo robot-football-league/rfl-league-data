@@ -1,0 +1,9 @@
+{
+ "night": 0,
+ "season": 3,
+ "model": "llm:aiml:zhipu/glm-5.3",
+ "rendered_through": 0,
+ "summary": "Founding night \u2014 the club did not exist before this session.",
+ "commit": "74dacea",
+ "founding": true
+}
