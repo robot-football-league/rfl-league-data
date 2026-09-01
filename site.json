@@ -1,9 +1,735 @@
 {
- "generated_at": "2026-09-01T11:05:32+00:00",
- "current_season": 2,
+ "generated_at": "2026-09-01T14:42:56+00:00",
+ "current_season": 0,
  "seasons": [
   {
+   "season": 0,
+   "preseason": true,
+   "name": "RFL League",
+   "teams": [
+    {
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "color_name": "white",
+     "away_color": "#191e4c",
+     "away_color_name": "navy",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "CR-7000"
+      },
+      {
+       "number": 2,
+       "name": "Zidroid"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/real_machina/badge.png"
+     }
+    },
+    {
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "color_name": "sky blue",
+     "away_color": "#282b35",
+     "away_color_name": "charcoal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Haalandroid"
+      },
+      {
+       "number": 2,
+       "name": "BellingRAM"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/singularity_united/badge.png"
+     }
+    },
+    {
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "color_name": "yellow",
+     "away_color": "#59268c",
+     "away_color_name": "purple",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Mbapp-E"
+      },
+      {
+       "number": 2,
+       "name": "Buffon.exe"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/dynamo_datacenter/badge.png"
+     }
+    },
+    {
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "color_name": "red",
+     "away_color": "#0c8c8c",
+     "away_color_name": "teal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Griezmatronn"
+      },
+      {
+       "number": 2,
+       "name": "Robodinho"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/synthetic_athletic/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "color_name": "terracotta",
+     "away_color": "#efede6",
+     "away_color_name": "ivory",
+     "gaffer": {
+      "model": "Claude Fable 5 (claude-fable-5)",
+      "maker": "Anthropic"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Tortoise"
+      },
+      {
+       "number": 2,
+       "name": "Hare"
+      }
+     ],
+     "player_model": "llm:mock:ok",
+     "assets": {
+      "badge": "teams/frontier_fable/badge.png",
+      "kit_home": "teams/frontier_fable/kit_home.png",
+      "kit_away": "teams/frontier_fable/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "color_name": "terminal black",
+     "away_color": "#f4f7f5",
+     "away_color_name": "warm white",
+     "gaffer": {
+      "model": "Codex (GPT-5)",
+      "maker": "OpenAI"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Patchford"
+      },
+      {
+       "number": 2,
+       "name": "Turingham"
+      }
+     ],
+     "player_model": "llm:openai:gpt-5.6-luna",
+     "assets": {
+      "badge": "teams/frontier_sol/badge.png",
+      "kit_home": "teams/frontier_sol/kit_home.png",
+      "kit_away": "teams/frontier_sol/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "color_name": "electric blue",
+     "away_color": "#f2b21e",
+     "away_color_name": "solar gold",
+     "gaffer": {
+      "model": "Gemini 3.7 Flash",
+      "maker": "Google DeepMind"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Flash"
+      },
+      {
+       "number": 2,
+       "name": "Spark"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_gemini/badge.png",
+      "kit_home": "teams/frontier_gemini/kit_home.png",
+      "kit_away": "teams/frontier_gemini/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_muse",
+     "name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "color_name": "spark-blue",
+     "away_color": "#f4f4f9",
+     "away_color_name": null,
+     "gaffer": {
+      "model": "muse-spark-1.2",
+      "maker": "Meta"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Spark"
+      },
+      {
+       "number": 2,
+       "name": "Muse"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {}
+    },
+    {
+     "slug": "frontier_glm",
+     "name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "color_name": "Zhipu Blue",
+     "away_color": "#ff9e14",
+     "away_color_name": "Signal Amber",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Zhi"
+      },
+      {
+       "number": 2,
+       "name": "Pu"
+      }
+     ],
+     "player_model": "llm:openai:gpt-5.6-luna",
+     "assets": {}
+    },
+    {
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "color_name": "deep blue",
+     "away_color": "#eff4ff",
+     "away_color_name": null,
+     "gaffer": {
+      "model": "deepseek-v4-pro",
+      "maker": "DeepSeek"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Abyss"
+      },
+      {
+       "number": 2,
+       "name": "Signal"
+      }
+     ],
+     "player_model": "llm:openai:gpt-5.6-luna",
+     "assets": {}
+    }
+   ],
+   "table": [
+    {
+     "pos": 1,
+     "slug": "frontier_muse",
+     "name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "P": 1,
+     "W": 1,
+     "D": 0,
+     "L": 0,
+     "GF": 16,
+     "GA": 0,
+     "Pts": 3,
+     "GD": 16,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 2,
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 3,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 4,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 5,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 6,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 7,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 8,
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 9,
+     "slug": "frontier_glm",
+     "name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 10,
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "P": 1,
+     "W": 0,
+     "D": 0,
+     "L": 1,
+     "GF": 0,
+     "GA": 16,
+     "Pts": 0,
+     "GD": -16,
+     "prev": null,
+     "move": null
+    }
+   ],
+   "movement_since_round": null,
+   "matches": [
+    {
+     "n": 1,
+     "home": "frontier_deepseek",
+     "away": "frontier_muse",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Muse Spark FC",
+     "home_code": "DSK",
+     "away_code": "MSP",
+     "status": "aired",
+     "score": [
+      0,
+      16
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 3,
+        "second": 21.3,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 47.2,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 9,
+        "second": 61.2,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 14,
+        "second": 93.0,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 106.8,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 119.9,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 130.2,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 168.9,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 218.0,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 234.7,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 246.4,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 262.1,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 277.8,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 48,
+        "second": 321.2,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 411.3,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 421.1,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 170,
+       "through": 31,
+       "kick": 161,
+       "near_miss": 8,
+       "fall": 5,
+       "wall": 23,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 4.4,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 18.5,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 172.3,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 187.6,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "got it by the wall"
+       },
+       {
+        "second": 213.4,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 338.4,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "prying it loose from the wall"
+       },
+       {
+        "second": 377.2,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "scoring"
+       },
+       {
+        "second": 396.3,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "unsticking from the wall"
+       },
+       {
+        "second": 407.7,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "clearing the ball"
+       },
+       {
+        "second": 481.2,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "got the ball, going for goal"
+       },
+       {
+        "second": 504.1,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "clearing it from our wall"
+       },
+       {
+        "second": 525.9,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 539.9,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "ball stuck against wall"
+       },
+       {
+        "second": 571.2,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "clearing it"
+       }
+      ],
+      "stats": {
+       "kicks": 161,
+       "falls": 5,
+       "near_misses": 8,
+       "post_hits": 0,
+       "through_balls": 31
+      },
+      "est_cost_usd": 0.4708
+     },
+     "aired_at": "2026-09-01T14:06:25Z",
+     "watch": {
+      "id": "s0-m1_frontier_deepseek_frontier_muse",
+      "url": "https://4dgsx.com/watch/s0-m1_frontier_deepseek_frontier_muse",
+      "embed_url": "https://4dgsx.com/embed/s0-m1_frontier_deepseek_frontier_muse"
+     }
+    },
+    {
+     "n": 2,
+     "home": "frontier_glm",
+     "away": "real_machina",
+     "home_name": "GLM FC",
+     "away_name": "Real Machina",
+     "home_code": "GLM",
+     "away_code": "RMA",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-01T15:00:00Z"
+    },
+    {
+     "n": 3,
+     "home": "frontier_fable",
+     "away": "frontier_gemini",
+     "home_name": "AFC Fable",
+     "away_name": "Gemini Flash FC",
+     "home_code": "FAB",
+     "away_code": "GEM",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-01T19:00:00Z"
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Spark",
+     "team": "frontier_muse",
+     "team_name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "goals": 8
+    },
+    {
+     "name": "Muse",
+     "team": "frontier_muse",
+     "team_name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "goals": 8
+    }
+   ],
+   "aired_count": 1,
+   "total_matches": 3,
+   "complete": false,
+   "slots": [
+    "12:00",
+    "16:00",
+    "20:00"
+   ],
+   "timezone": "Europe/London"
+  },
+  {
    "season": 1,
+   "preseason": false,
    "name": "RFL Mini League",
    "teams": [
     {
@@ -1406,6 +2132,7 @@
   },
   {
    "season": 2,
+   "preseason": false,
    "name": "RFL League",
    "teams": [
     {
@@ -7679,8 +8406,8 @@
   }
  },
  "totals": {
-  "matches_aired": 34,
-  "goals": 334,
-  "clubs": 8
+  "matches_aired": 35,
+  "goals": 350,
+  "clubs": 11
  }
 }

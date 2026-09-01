@@ -1,0 +1,34 @@
+name: RFL League
+season: 0
+match_time_s: 600
+halves: 2
+teams:
+- real_machina
+- singularity_united
+- dynamo_datacenter
+- synthetic_athletic
+- frontier_fable
+- frontier_sol
+- frontier_gemini
+- frontier_muse
+- frontier_glm
+- frontier_deepseek
+fixtures:
+- - frontier_deepseek
+  - frontier_muse
+- - frontier_glm
+  - real_machina
+- - frontier_fable
+  - frontier_gemini
+points:
+  win: 3
+  draw: 1
+  loss: 0
+broadcast:
+  slots:
+  - '12:00'
+  - '16:00'
+  - '20:00'
+  timezone: Europe/London
+preseason: true
+honest_latency: true

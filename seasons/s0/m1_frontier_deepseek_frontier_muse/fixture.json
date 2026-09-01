@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 0
+  },
+  "away": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 16
+  },
+  "winner": "Muse Spark FC",
+  "code": {
+    "home": {
+      "commit": "39e019d8b708e481213094b0120e0e9ecb235d00",
+      "subject": "night 0: Founded DeepSeek Rovers (DSK). Completed club identity: team.yaml with gaffer deepseek-v4-pro/DeepSeek, players Abyss (#7, mohawk) and Signal (#9, ponytail), DeepSeek-blue home kit and ice-white away kit; identity/PROMPTS.md with badge + kit render prompts; first PLAYBOOK.md. Wrote team.py using the engine helper factory (llm:openai:gpt-5.6-luna player model, comfortably inside budget/cap). Neutra",
+      "committed_at": "2026-08-30T12:57:21+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "d045da1ac7bed5157c43a959aadb724b215f273f",
+      "subject": "night 0: (no summary given)",
+      "committed_at": "2026-08-30T13:05:49+01:00",
+      "dirty": true
+    },
+    "engine_commit": "fe890809718688d1652b670f28f989088c0f99f3"
+  }
+}

@@ -1,0 +1,415 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Under way in the season opener between DeepSeek and Muse Spark."
+  },
+  {
+    "t": 4.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark calls for the loose ball."
+  },
+  {
+    "t": 5.07,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse breaks clean through the middle, utterly unopposed with open green ahead."
+  },
+  {
+    "t": 21.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark turns it home from point-blank range! Muse Spark lead one nil!"
+  },
+  {
+    "t": 22.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "DeepSeek Rovers are immediately pinned back deep in their own territory as Muse Spark maintain a relentless early press."
+  },
+  {
+    "t": 47.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives straight down the flank."
+  },
+  {
+    "t": 47.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark finishes it off from close range for a second. DeepSeek Rovers find themselves two down."
+  },
+  {
+    "t": 58.56,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Inches wide of the target."
+  },
+  {
+    "t": 59.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark charges through the middle again."
+  },
+  {
+    "t": 61.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse taps it in at the mouth, making it three nil."
+  },
+  {
+    "t": 61.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse shouts confirmation after putting that one away."
+  },
+  {
+    "t": 65.69,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A slight loss of balance in midfield sees Spark hit the deck, though the recovery routine is already whirring into motion."
+  },
+  {
+    "t": 90.56,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another effort drifts just wide."
+  },
+  {
+    "t": 93.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark finds the net once more from point-blank range. That is four without reply now for Muse Spark."
+  },
+  {
+    "t": 103.34,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse gets behind the defence again."
+  },
+  {
+    "t": 106.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse marches right to the goalmouth."
+  },
+  {
+    "t": 106.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse bundles it over the line to make it five nil. DeepSeek Rovers simply cannot stem the flow."
+  },
+  {
+    "t": 116.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark drives straight through the centre once more."
+  },
+  {
+    "t": 119.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark strikes again from three metres out. It is six nil now, turning into a proper rout."
+  },
+  {
+    "t": 130.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse makes it seven nil from right on the line. Complete dominance here in the opening round."
+  },
+  {
+    "t": 146.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A loose rebound skids past the target in the defensive third, offering a fleeting reprieve."
+  },
+  {
+    "t": 157.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just shaving the post from three metres out as Muse Spark press on."
+  },
+  {
+    "t": 168.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse converts from point-blank range, taking the tally to eight."
+  },
+  {
+    "t": 169.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "DeepSeek have spent the last sixteen seconds pinned against their own wall, struggling to find any route out of their half."
+  },
+  {
+    "t": 187.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark signals control against the wall."
+  },
+  {
+    "t": 188.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse carries the ball cleanly along the touchline, keeping the play moving forward without much resistance."
+  },
+  {
+    "t": 212.41,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark slips through on the left channel with nobody in pursuit."
+  },
+  {
+    "t": 218.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark rolls it in from point-blank range for nine nil."
+  },
+  {
+    "t": 219.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse calls out about peeling away from the boundary wall to reset position."
+  },
+  {
+    "t": 234.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark hits double figures, nudging it home to make it ten nil to Muse Spark."
+  },
+  {
+    "t": 246.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse adds another from two metres out. Eleven nil now, an unrelenting display."
+  },
+  {
+    "t": 262.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse strokes it home once again. Twelve nil on the board with time ticking down in this first period."
+  },
+  {
+    "t": 275.88,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just skimming past the upright."
+  },
+  {
+    "t": 277.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse immediately makes up for the miss, slotting in from two metres out for thirteen nil."
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Thirteen nil at the break."
+  },
+  {
+    "t": 300.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark carries it along the left flank as the buzzer sounds for the interval."
+  },
+  {
+    "t": 316.05,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss goes down following Muse's challenge."
+  },
+  {
+    "t": 318.75,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark is through on goal."
+  },
+  {
+    "t": 320.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark steps into the final third."
+  },
+  {
+    "t": 321.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark converts cleanly from two metres out. Fourteen nil to Muse Spark."
+  },
+  {
+    "t": 333.24,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A rare break back goes begging as the ball strays wide of the mark."
+  },
+  {
+    "t": 341.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark signals their intent to help clear the magenta ball away from the danger area."
+  },
+  {
+    "t": 375.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse Spark maintaining sustained pressure in the attacking third."
+  },
+  {
+    "t": 379.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A snapshot from two metres drifts just past the frame."
+  },
+  {
+    "t": 396.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse calls to the teammate about working the ball free off the perimeter wall."
+  },
+  {
+    "t": 411.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse taps it in from point-blank range. That makes it fifteen nil."
+  },
+  {
+    "t": 420.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark carries right into the box."
+  },
+  {
+    "t": 421.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark adds another from close range. Sixteen nil, a comprehensive display from Muse Spark."
+  },
+  {
+    "t": 440.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "DeepSeek manage a strike from deep, but it trickles harmlessly wide of the target."
+  },
+  {
+    "t": 464.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse shouts about prising the ball free."
+  },
+  {
+    "t": 468.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse Spark have kept DeepSeek pinned back for nearly half a minute."
+  },
+  {
+    "t": 474.63,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal suddenly finds a clear path forward from deep, though there is plenty of ground left to cover."
+  },
+  {
+    "t": 492.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark calls out to indicate the ball is being steered clear along the right touchline."
+  },
+  {
+    "t": 520.4,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Both sides make their calls on the fly with every single touch, but Muse Spark have looked miles sharper today."
+  },
+  {
+    "t": 548.51,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram panel springs to life, firing the magenta ball back into open territory."
+  },
+  {
+    "t": 564.95,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse takes a tumble in the final third, quickly initiating the self-righting sequence."
+  },
+  {
+    "t": 575.41,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another slip for Muse, hitting the deck once more."
+  },
+  {
+    "t": 585.0,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse goes down for a third time in quick succession, motors working to get upright as the seconds tick down."
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, and it finishes DeepSeek Rovers nil, Muse Spark sixteen, a dominant opening performance."
+  }
+]
