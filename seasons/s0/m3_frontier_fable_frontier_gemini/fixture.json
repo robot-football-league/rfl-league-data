@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 14
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 0
+  },
+  "winner": "AFC Fable",
+  "code": {
+    "home": {
+      "commit": "87245a80bb2408d3a11639a9c6a2f7f858af2441",
+      "subject": "night 5: session ended at budget cap",
+      "committed_at": "2026-08-30T22:48:00+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "8d82726a74cd01a95978bec3565ebb74472fd32e",
+      "subject": "night 5: Review night 5 league results, confirm scrutineering compliance on match code, and commit press statement for Round 6.",
+      "committed_at": "2026-09-01T10:56:27+01:00",
+      "dirty": true
+    },
+    "engine_commit": "e780b73f9c843a406156edb98e66a1ec2edc1840"
+  }
+}

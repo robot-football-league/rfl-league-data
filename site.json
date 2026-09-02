@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T21:27:45+00:00",
+ "generated_at": "2026-09-02T11:19:19+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -289,6 +289,23 @@
     },
     {
      "pos": 2,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 1,
+     "W": 1,
+     "D": 0,
+     "L": 0,
+     "GF": 14,
+     "GA": 0,
+     "Pts": 3,
+     "GD": 14,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 3,
      "slug": "real_machina",
      "name": "Real Machina",
      "code": "RMA",
@@ -305,7 +322,7 @@
      "move": null
     },
     {
-     "pos": 3,
+     "pos": 4,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
@@ -322,7 +339,7 @@
      "move": null
     },
     {
-     "pos": 4,
+     "pos": 5,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -339,28 +356,11 @@
      "move": null
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 0,
-     "W": 0,
-     "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
-     "prev": null,
-     "move": null
-    },
-    {
-     "pos": 6,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
      "P": 0,
      "W": 0,
      "D": 0,
@@ -391,23 +391,6 @@
     },
     {
      "pos": 8,
-     "slug": "frontier_gemini",
-     "name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
-     "P": 0,
-     "W": 0,
-     "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
-     "prev": null,
-     "move": null
-    },
-    {
-     "pos": 9,
      "slug": "frontier_glm",
      "name": "GLM FC",
      "code": "GLM",
@@ -420,6 +403,23 @@
      "GA": 14,
      "Pts": 0,
      "GD": -10,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 9,
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "P": 1,
+     "W": 0,
+     "D": 0,
+     "L": 1,
+     "GF": 0,
+     "GA": 14,
+     "Pts": 0,
+     "GD": -14,
      "prev": null,
      "move": null
     },
@@ -943,8 +943,222 @@
      "away_name": "Gemini Flash FC",
      "home_code": "FAB",
      "away_code": "GEM",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-02T11:00:00Z"
+     "status": "aired",
+     "score": [
+      14,
+      0
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 19,
+        "second": 123.5,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": true
+       },
+       {
+        "minute": 22,
+        "second": 146.2,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 158.2,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 187.8,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 32,
+        "second": 215.0,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 233.4,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 280.0,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 292.6,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 56,
+        "second": 372.6,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 392.6,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 418.3,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 477.9,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 500.5,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 581.8,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 177,
+       "kick": 155,
+       "fall": 6,
+       "through": 20,
+       "wall": 16,
+       "ram": 3,
+       "near_miss": 9
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 42.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +1.0, -0.6, rolling at their net \u2014 mine, slow and steady."
+       },
+       {
+        "second": 80.4,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.9, -2.3, near still \u2014 dropping back."
+       },
+       {
+        "second": 128.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +0.2, -0.1, near still \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 166.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +2.6, +0.5, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 212.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.2, +0.5, near still \u2014 heave with me."
+       },
+       {
+        "second": 250.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.8, -1.7, rolling across \u2014 mine, slow and steady."
+       },
+       {
+        "second": 298.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +1.1, +0.1, rolling at their net \u2014 heave with me."
+       },
+       {
+        "second": 344.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +6.5, +2.9, rolling at our net \u2014 push with me."
+       },
+       {
+        "second": 388.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.3, +2.0, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 430.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.9, +1.5, rolling at their net, fast \u2014 dropping goal-side."
+       },
+       {
+        "second": 472.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.9, +1.1, rolling across \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 518.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -0.6, +0.7, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 558.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +4.6, -1.6, rolling at their net \u2014 mine \u2014 no naps."
+       }
+      ],
+      "stats": {
+       "kicks": 155,
+       "falls": 6,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 20
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-02T11:04:36Z",
+     "watch": {
+      "id": "s0-m3_frontier_fable_frontier_gemini",
+      "url": "https://4dgsx.com/watch/s0-m3_frontier_fable_frontier_gemini",
+      "embed_url": "https://4dgsx.com/embed/s0-m3_frontier_fable_frontier_gemini"
+     }
     }
    ],
    "scorers": [
@@ -973,6 +1187,22 @@
      "goals": 8
     },
     {
+     "name": "Hare",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 7
+    },
+    {
+     "name": "Tortoise",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 6
+    },
+    {
      "name": "Zidroid",
      "team": "real_machina",
      "team_name": "Real Machina",
@@ -997,9 +1227,9 @@
      "goals": 1
     }
    ],
-   "aired_count": 2,
+   "aired_count": 3,
    "total_matches": 3,
-   "complete": false,
+   "complete": true,
    "slots": [
     "12:00",
     "16:00",
@@ -8737,8 +8967,8 @@
   }
  },
  "totals": {
-  "matches_aired": 36,
-  "goals": 368,
+  "matches_aired": 37,
+  "goals": 382,
   "clubs": 11
  }
 }
