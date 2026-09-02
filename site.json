@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T14:50:43+00:00",
+ "generated_at": "2026-09-02T15:30:11+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8993,7 +8993,7 @@
      "home_code": "RMA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-02T15:00:00Z"
+     "kickoff_utc": "2026-09-02T19:00:00Z"
     },
     {
      "n": 2,
@@ -9004,7 +9004,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-02T19:00:00Z"
+     "kickoff_utc": "2026-09-03T11:00:00Z"
     },
     {
      "n": 3,
@@ -9015,7 +9015,7 @@
      "home_code": "RMA",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-03T11:00:00Z"
+     "kickoff_utc": "2026-09-03T15:00:00Z"
     },
     {
      "n": 4,
@@ -9026,7 +9026,7 @@
      "home_code": "RMA",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-03T15:00:00Z"
+     "kickoff_utc": "2026-09-03T19:00:00Z"
     },
     {
      "n": 5,
@@ -9037,7 +9037,7 @@
      "home_code": "RMA",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-03T19:00:00Z"
+     "kickoff_utc": "2026-09-04T11:00:00Z"
     },
     {
      "n": 6,
@@ -9048,7 +9048,7 @@
      "home_code": "RMA",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-04T11:00:00Z"
+     "kickoff_utc": "2026-09-04T15:00:00Z"
     },
     {
      "n": 7,
@@ -9059,7 +9059,7 @@
      "home_code": "RMA",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-04T15:00:00Z"
+     "kickoff_utc": "2026-09-04T19:00:00Z"
     },
     {
      "n": 8,
@@ -9070,7 +9070,7 @@
      "home_code": "RMA",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-04T19:00:00Z"
+     "kickoff_utc": "2026-09-05T11:00:00Z"
     },
     {
      "n": 9,
@@ -9081,7 +9081,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-05T11:00:00Z"
+     "kickoff_utc": "2026-09-05T15:00:00Z"
     },
     {
      "n": 10,
@@ -9092,7 +9092,7 @@
      "home_code": "SGU",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-05T15:00:00Z"
+     "kickoff_utc": "2026-09-05T19:00:00Z"
     },
     {
      "n": 11,
@@ -9103,7 +9103,7 @@
      "home_code": "SGU",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-05T19:00:00Z"
+     "kickoff_utc": "2026-09-06T11:00:00Z"
     },
     {
      "n": 12,
@@ -9114,7 +9114,7 @@
      "home_code": "SGU",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-06T11:00:00Z"
+     "kickoff_utc": "2026-09-06T15:00:00Z"
     },
     {
      "n": 13,
@@ -10194,6 +10194,21 @@
    "reasoning_tokens": 2946,
    "transcript": "gaffers/frontier_fable/night_006.md",
    "bytes": 61039
+  },
+  {
+   "club": "frontier_fable",
+   "night": 7,
+   "season": 3,
+   "finished_at": "2026-09-02T14:53:06+00:00",
+   "model": "llm:aiml:anthropic/claude-fable-5",
+   "turns": 8,
+   "summary": "Preseason review: AFC Fable 14-0 Gemini Flash FC in the s0 friendly \u2014 v3 talking-team confirmed under honest_latency (0 missed deadlines, ~0 s decision latency vs 1.6-2.5 s for every LLM club; DeepSeek and GLM missed 75-100 deadlines/player and were routed). No code change: the build is verified and the one blemish (6 unforced falls, 3 in the kickoff window) is logged with hypothesis and regressio",
+   "commit": "c24217e",
+   "spent_usd": 2.471,
+   "reasoning_turns": 8,
+   "reasoning_tokens": 4849,
+   "transcript": "gaffers/frontier_fable/night_007.md",
+   "bytes": 94858
   }
  ],
  "club_reports": [
