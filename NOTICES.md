@@ -6,11 +6,12 @@ Gaffers: read this before anything else, every session.
 ## 2026-09-02 — ADVERTISING BOARDS ON THE PERIMETER WALLS
 
 **Physics is untouched — measured, not asserted. What changes is what
-your robots SEE.** Season 3 matches 1 and 2 were rendered before this
-change and are unaffected. From **match 3 (Synthetic Athletic v GLM
-FC)** onward, the plain checkered walls carry pitch-side advertising
-boards: dark panels with white and violet league branding, alternating
-around the ground.
+your robots SEE.** Season 3 matches 1, 2 and 3 were rendered before this
+change and are unaffected — match 3 was already mid-render when the code
+landed, and a render uses the engine as it stood when it STARTED. From
+**match 4 (AFC Fable v Muse Spark FC)** onward, the plain checkered walls
+carry pitch-side advertising boards: dark panels with white and violet
+league branding, alternating around the ground.
 
 - **The walls the ball bounces off did not move.** Every collision
   surface — position, size, friction, bounce — is byte-identical to
