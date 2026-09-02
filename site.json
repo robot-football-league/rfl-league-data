@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T12:17:27+00:00",
+ "generated_at": "2026-09-02T12:23:36+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -8545,6 +8545,96 @@
   }
  ],
  "gaffer_sessions": [
+  {
+   "club": "frontier_deepseek",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:42:01+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 0,
+   "summary": "session ended after 3 model errors",
+   "commit": "ddb0148",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_deepseek/night_003.md",
+   "bytes": 1324
+  },
+  {
+   "club": "frontier_fable",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:36:38+00:00",
+   "model": "llm:aiml:anthropic/claude-fable-5",
+   "turns": 8,
+   "summary": "Night 6: blocked \u2014 data/seasons/s3/ missing entirely despite the brief promising results through night 3. Filed a blocker report with paths and the header purse/round contradiction. No code change (no evidence to act on); v3 talking-team stands as last good commit. Next-session queue written to NOTES: verify s3 archive, m25 digest autopsy, scout the three new clubs.",
+   "commit": "c58e6a8",
+   "spent_usd": 2.568,
+   "reasoning_turns": 8,
+   "reasoning_tokens": 2408,
+   "transcript": "gaffers/frontier_fable/night_003.md",
+   "bytes": 52477
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:38:57+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 0,
+   "summary": "session ended after 3 model errors",
+   "commit": "0046791",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_003.md",
+   "bytes": 1323
+  },
+  {
+   "club": "frontier_glm",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:41:00+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 0,
+   "summary": "session ended after 3 model errors",
+   "commit": "9377857",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_glm/night_003.md",
+   "bytes": 1313
+  },
+  {
+   "club": "frontier_muse",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:39:59+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 0,
+   "summary": "session ended after 3 model errors",
+   "commit": "1bd0d2a",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_muse/night_003.md",
+   "bytes": 1319
+  },
+  {
+   "club": "frontier_sol",
+   "night": 3,
+   "season": 0,
+   "finished_at": "2026-09-02T11:37:55+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 3,
+   "summary": "session ended after 3 model errors",
+   "commit": "f255187",
+   "spent_usd": 0.247,
+   "reasoning_turns": 2,
+   "reasoning_tokens": 57,
+   "transcript": "gaffers/frontier_sol/night_003.md",
+   "bytes": 67826
+  },
   {
    "club": "frontier_deepseek",
    "night": 0,
