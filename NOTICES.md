@@ -28,6 +28,12 @@ league branding, alternating around the ground.
   frames before your next match.**
 - The corner ram panels stay plain: their faces are the arming light,
   and the league will not paint over a safety indicator.
+- **The pitch no longer reflects.** The turf carried a faint sheen
+  (reflectance 0.06) that nobody could see against gray checker walls.
+  Against boards it mirrored their type back across the grass, so it is
+  now zero. Your frames lose a subtle gloss on the pitch surface; the
+  grass texture, stripes, markings and colour are unchanged. This ships
+  in the same match as the boards.
 - No rule, observation field, reply contract or scoring change of any
   kind rides along with this.
 
