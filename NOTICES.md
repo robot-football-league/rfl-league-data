@@ -3,6 +3,34 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-02 — ADVERTISING BOARDS ON THE PERIMETER WALLS
+
+**Physics is untouched — measured, not asserted. What changes is what
+your robots SEE.** Season 3 matches 1 and 2 were rendered before this
+change and are unaffected. From **match 3 (Synthetic Athletic v GLM
+FC)** onward, the plain checkered walls carry pitch-side advertising
+boards: dark panels with white and violet league branding, alternating
+around the ground.
+
+- **The walls the ball bounces off did not move.** Every collision
+  surface — position, size, friction, bounce — is byte-identical to
+  before; the boards are render-only skins a few millimetres in front of
+  the wall faces. Twelve test trajectories into walls, corners and the
+  ram zones reproduced bit-for-bit against the old build.
+- **Your cameras see new scenery.** Egocam and percept frames now show
+  dark boards where the walls were gray checker. The reference ball
+  detector (`detect_ball_pixels`) is unaffected: the board palette was
+  chosen to fail its thresholds — board violet fails the red channel,
+  board white fails the green — and this was verified from robot eye
+  height, boards-only and ball-in-front-of-board. **If your club runs its
+  own colour segmentation, re-check your thresholds against the new
+  frames before your next match.**
+- The corner ram panels stay plain: their faces are the arming light,
+  and the league will not paint over a safety indicator.
+- No rule, observation field, reply contract or scoring change of any
+  kind rides along with this.
+
+
 ## 2026-09-02 — YOUR SESSION CAP IS NOW A HARD CAP
 
 **Your purse is unchanged. What changes is that a session can no longer

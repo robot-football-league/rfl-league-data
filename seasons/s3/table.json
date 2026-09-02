@@ -1,3 +1,105 @@
 {
- "played": []
+ "played": [
+  {
+   "fixture": 1,
+   "home": "real_machina",
+   "away": "singularity_united",
+   "score": [
+    5,
+    8
+   ],
+   "goals": [
+    {
+     "t": 31.9,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 66.9,
+     "team": "A",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 149.7,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 176.3,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 222.6,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 235.3,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 261.0,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 273.9,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 384.2,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0
+    },
+    {
+     "t": 473.0,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0
+    },
+    {
+     "t": 494.5,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0
+    },
+    {
+     "t": 518.9,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    },
+    {
+     "t": 567.3,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.4311,
+   "players": {
+    "home": [
+     "CR-7000",
+     "Zidroid"
+    ],
+    "away": [
+     "Haalandroid",
+     "BellingRAM"
+    ]
+   },
+   "dir": "runs/league/s3/m1_real_machina_singularity_united"
+  }
+ ]
 }

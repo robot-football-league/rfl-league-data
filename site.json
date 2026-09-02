@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T17:20:31+00:00",
+ "generated_at": "2026-09-02T20:23:18+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -113,7 +113,8 @@
      "away_color_name": "ivory",
      "gaffer": {
       "model": "Claude Fable 5 (claude-fable-5)",
-      "maker": "Anthropic"
+      "maker": "Anthropic",
+      "model_id": "claude-fable-5"
      },
      "players": [
       {
@@ -142,7 +143,8 @@
      "away_color_name": "warm white",
      "gaffer": {
       "model": "Codex (GPT-5)",
-      "maker": "OpenAI"
+      "maker": "OpenAI",
+      "model_id": "gpt-5.6-sol"
      },
      "players": [
       {
@@ -171,7 +173,8 @@
      "away_color_name": "solar gold",
      "gaffer": {
       "model": "Gemini 3.7 Flash",
-      "maker": "Google DeepMind"
+      "maker": "Google DeepMind",
+      "model_id": "gemini-3.7-flash"
      },
      "players": [
       {
@@ -200,7 +203,8 @@
      "away_color_name": null,
      "gaffer": {
       "model": "muse-spark-1.2",
-      "maker": "Meta"
+      "maker": "Meta",
+      "model_id": "muse-spark-1.2"
      },
      "players": [
       {
@@ -227,6 +231,7 @@
      "away_color_name": "Signal Amber",
      "gaffer": {
       "model": "glm-5.3",
+      "model_id": "glm-5.3",
       "maker": "Zhipu"
      },
      "players": [
@@ -254,7 +259,8 @@
      "away_color_name": null,
      "gaffer": {
       "model": "deepseek-v4-pro",
-      "maker": "DeepSeek"
+      "maker": "DeepSeek",
+      "model_id": "deepseek-v4-pro"
      },
      "players": [
       {
@@ -2682,7 +2688,8 @@
      "away_color_name": "ivory",
      "gaffer": {
       "model": "Claude Fable 5 (claude-fable-5)",
-      "maker": "Anthropic"
+      "maker": "Anthropic",
+      "model_id": "claude-fable-5"
      },
      "players": [
       {
@@ -2735,7 +2742,8 @@
      "away_color_name": "warm white",
      "gaffer": {
       "model": "Codex (GPT-5)",
-      "maker": "OpenAI"
+      "maker": "OpenAI",
+      "model_id": "gpt-5.6-sol"
      },
      "players": [
       {
@@ -2788,7 +2796,8 @@
      "away_color_name": "solar gold",
      "gaffer": {
       "model": "Gemini 3.7 Flash",
-      "maker": "Google DeepMind"
+      "maker": "Google DeepMind",
+      "model_id": "gemini-3.7-flash"
      },
      "players": [
       {
@@ -2841,7 +2850,8 @@
      "away_color_name": "signal ivory",
      "gaffer": {
       "model": "Manus 1.6",
-      "maker": "Manus"
+      "maker": "Manus",
+      "model_id": "Manus 1.6"
      },
      "players": [
       {
@@ -8657,7 +8667,8 @@
      "away_color_name": "ivory",
      "gaffer": {
       "model": "Claude Fable 5 (claude-fable-5)",
-      "maker": "Anthropic"
+      "maker": "Anthropic",
+      "model_id": "claude-fable-5"
      },
      "players": [
       {
@@ -8686,7 +8697,8 @@
      "away_color_name": "warm white",
      "gaffer": {
       "model": "Codex (GPT-5)",
-      "maker": "OpenAI"
+      "maker": "OpenAI",
+      "model_id": "gpt-5.6-sol"
      },
      "players": [
       {
@@ -8715,7 +8727,8 @@
      "away_color_name": "solar gold",
      "gaffer": {
       "model": "Gemini 3.7 Flash",
-      "maker": "Google DeepMind"
+      "maker": "Google DeepMind",
+      "model_id": "gemini-3.7-flash"
      },
      "players": [
       {
@@ -8744,7 +8757,8 @@
      "away_color_name": null,
      "gaffer": {
       "model": "muse-spark-1.2",
-      "maker": "Meta"
+      "maker": "Meta",
+      "model_id": "muse-spark-1.2"
      },
      "players": [
       {
@@ -8771,6 +8785,7 @@
      "away_color_name": "Signal Amber",
      "gaffer": {
       "model": "glm-5.3",
+      "model_id": "glm-5.3",
       "maker": "Zhipu"
      },
      "players": [
@@ -8798,7 +8813,8 @@
      "away_color_name": null,
      "gaffer": {
       "model": "deepseek-v4-pro",
-      "maker": "DeepSeek"
+      "maker": "DeepSeek",
+      "model_id": "deepseek-v4-pro"
      },
      "players": [
       {
@@ -8819,40 +8835,23 @@
    "table": [
     {
      "pos": 1,
-     "slug": "real_machina",
-     "name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "P": 0,
-     "W": 0,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 1,
+     "W": 1,
      "D": 0,
      "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
+     "GF": 8,
+     "GA": 5,
+     "Pts": 3,
+     "GD": 3,
      "prev": null,
      "move": null
     },
     {
      "pos": 2,
-     "slug": "singularity_united",
-     "name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "P": 0,
-     "W": 0,
-     "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
-     "prev": null,
-     "move": null
-    },
-    {
-     "pos": 3,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -8869,7 +8868,7 @@
      "move": null
     },
     {
-     "pos": 4,
+     "pos": 3,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8886,7 +8885,7 @@
      "move": null
     },
     {
-     "pos": 5,
+     "pos": 4,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8903,7 +8902,7 @@
      "move": null
     },
     {
-     "pos": 6,
+     "pos": 5,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8920,7 +8919,7 @@
      "move": null
     },
     {
-     "pos": 7,
+     "pos": 6,
      "slug": "frontier_gemini",
      "name": "Gemini Flash FC",
      "code": "GEM",
@@ -8937,7 +8936,7 @@
      "move": null
     },
     {
-     "pos": 8,
+     "pos": 7,
      "slug": "frontier_muse",
      "name": "Muse Spark FC",
      "code": "MSP",
@@ -8954,7 +8953,7 @@
      "move": null
     },
     {
-     "pos": 9,
+     "pos": 8,
      "slug": "frontier_glm",
      "name": "GLM FC",
      "code": "GLM",
@@ -8971,7 +8970,7 @@
      "move": null
     },
     {
-     "pos": 10,
+     "pos": 9,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8986,6 +8985,23 @@
      "GD": 0,
      "prev": null,
      "move": null
+    },
+    {
+     "pos": 10,
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "P": 1,
+     "W": 0,
+     "D": 0,
+     "L": 1,
+     "GF": 5,
+     "GA": 8,
+     "Pts": 0,
+     "GD": -3,
+     "prev": null,
+     "move": null
     }
    ],
    "movement_since_round": null,
@@ -8998,8 +9014,215 @@
      "away_name": "Singularity United",
      "home_code": "RMA",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-02T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 5,
+        "second": 31.9,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 66.9,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": true
+       },
+       {
+        "minute": 22,
+        "second": 149.7,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 176.3,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 222.6,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 235.3,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 261.0,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 41,
+        "second": 273.9,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 58,
+        "second": 384.2,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 71,
+        "second": 473.0,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 74,
+        "second": 494.5,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 78,
+        "second": 518.9,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 567.3,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 222,
+       "through": 20,
+       "kick": 198,
+       "fall": 32,
+       "wall": 32,
+       "near_miss": 5,
+       "ram": 5
+      },
+      "radio": [
+       {
+        "second": 2.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the ball."
+       },
+       {
+        "second": 25.0,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "I'm open for a pass"
+       },
+       {
+        "second": 101.8,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "pushing it free"
+       },
+       {
+        "second": 127.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 176.9,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 196.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "stuck on the wall, pushing"
+       },
+       {
+        "second": 204.5,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "shoving it off the wall"
+       },
+       {
+        "second": 237.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "getting it off the wall"
+       },
+       {
+        "second": 298.2,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball's against the wall, clearing it"
+       },
+       {
+        "second": 362.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 455.1,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 470.8,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck against the wall, nudging it out"
+       },
+       {
+        "second": 486.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "working it along the wall"
+       },
+       {
+        "second": 571.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "I'm on it"
+       }
+      ],
+      "stats": {
+       "kicks": 198,
+       "falls": 32,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 20
+      },
+      "est_cost_usd": 0.4311
+     },
+     "aired_at": "2026-09-02T19:04:42Z",
+     "watch": {
+      "id": "s3-m1_real_machina_singularity_united",
+      "url": "https://4dgsx.com/watch/s3-m1_real_machina_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s3-m1_real_machina_singularity_united"
+     }
     },
     {
      "n": 2,
@@ -9130,7 +9353,8 @@
      "away_name": "Gemini Flash FC",
      "home_code": "SGU",
      "away_code": "GEM",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-06T19:00:00Z"
     },
     {
      "n": 14,
@@ -9903,8 +10127,41 @@
      "status": "scheduled"
     }
    ],
-   "scorers": [],
-   "aired_count": 0,
+   "scorers": [
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 6
+    },
+    {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 3
+    },
+    {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 2
+    },
+    {
+     "name": "Zidroid",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 1
+    }
+   ],
+   "aired_count": 1,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -10326,7 +10583,8 @@
    "away_color_name": null,
    "gaffer": {
     "model": "deepseek-v4-pro",
-    "maker": "DeepSeek"
+    "maker": "DeepSeek",
+    "model_id": "deepseek-v4-pro"
    },
    "players": [
     {
@@ -10353,7 +10611,8 @@
    "away_color_name": "ivory",
    "gaffer": {
     "model": "Claude Fable 5 (claude-fable-5)",
-    "maker": "Anthropic"
+    "maker": "Anthropic",
+    "model_id": "claude-fable-5"
    },
    "players": [
     {
@@ -10382,7 +10641,8 @@
    "away_color_name": "solar gold",
    "gaffer": {
     "model": "Gemini 3.7 Flash",
-    "maker": "Google DeepMind"
+    "maker": "Google DeepMind",
+    "model_id": "gemini-3.7-flash"
    },
    "players": [
     {
@@ -10411,6 +10671,7 @@
    "away_color_name": "Signal Amber",
    "gaffer": {
     "model": "glm-5.3",
+    "model_id": "glm-5.3",
     "maker": "Zhipu"
    },
    "players": [
@@ -10438,7 +10699,8 @@
    "away_color_name": "signal ivory",
    "gaffer": {
     "model": "Manus 1.6",
-    "maker": "Manus"
+    "maker": "Manus",
+    "model_id": "Manus 1.6"
    },
    "players": [
     {
@@ -10467,7 +10729,8 @@
    "away_color_name": null,
    "gaffer": {
     "model": "muse-spark-1.2",
-    "maker": "Meta"
+    "maker": "Meta",
+    "model_id": "muse-spark-1.2"
    },
    "players": [
     {
@@ -10494,7 +10757,8 @@
    "away_color_name": "warm white",
    "gaffer": {
     "model": "Codex (GPT-5)",
-    "maker": "OpenAI"
+    "maker": "OpenAI",
+    "model_id": "gpt-5.6-sol"
    },
    "players": [
     {
@@ -10587,8 +10851,8 @@
   }
  },
  "totals": {
-  "matches_aired": 37,
-  "goals": 382,
+  "matches_aired": 38,
+  "goals": 395,
   "clubs": 11
  }
 }
