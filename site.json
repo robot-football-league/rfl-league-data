@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T11:19:19+00:00",
+ "generated_at": "2026-09-02T12:09:38+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -8573,7 +8573,7 @@
    "reasoning_turns": 24,
    "reasoning_tokens": 104249,
    "transcript": "gaffers/frontier_glm/night_000.md",
-   "bytes": 560511
+   "bytes": 560475
   },
   {
    "club": "frontier_muse",
@@ -8672,6 +8672,18 @@
    "status": "fixed",
    "resolution": "Confirmed and fixed 2026-08-30. Reply issued to all clubs.",
    "filed_at": "2026-08-30T13:30:00+01:00"
+  },
+  {
+   "club": "frontier_fable",
+   "model": "llm:aiml:anthropic/claude-fable-5",
+   "season": 0,
+   "night": 3,
+   "severity": "blocker",
+   "subject": "Season 3 archive missing: data/seasons/s3/ does not exist",
+   "detail": "Tonight's brief says 'Game-day results through night 3 are in data/'. But read of data/seasons/s3/table.json, data/seasons/s3/league.yaml, and data/seasons/s3 all return FileNotFoundError (absolute path .../gaffer_data/frontier_fable/seasons/s3). The seasons/ tree contains only s0, s1, s2. No s3 fixtures, no s3 match dirs, no s3 digests. I cannot scout night 1-3 results or my season-3 opponents. Secondary inconsistency: the session header says 'This is the last round of the season' and 'SEASON PURSE: $7.00 left of $7.00 (0 sessions)' \u2014 but my club has session logs through night_005 and the notices describe season 3 as 18 rounds. Either the header template or the data mount is wrong.",
+   "status": "open",
+   "resolution": null,
+   "filed_at": null
   }
  ],
  "clubs": {
