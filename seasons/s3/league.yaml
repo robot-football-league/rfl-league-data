@@ -1,0 +1,208 @@
+name: RFL League
+season: 3
+match_time_s: 600
+halves: 2
+teams:
+- real_machina
+- singularity_united
+- dynamo_datacenter
+- synthetic_athletic
+- frontier_fable
+- frontier_sol
+- frontier_gemini
+- frontier_muse
+- frontier_glm
+- frontier_deepseek
+fixtures:
+- - real_machina
+  - singularity_united
+- - real_machina
+  - dynamo_datacenter
+- - real_machina
+  - synthetic_athletic
+- - real_machina
+  - frontier_fable
+- - real_machina
+  - frontier_sol
+- - real_machina
+  - frontier_gemini
+- - real_machina
+  - frontier_muse
+- - real_machina
+  - frontier_glm
+- - real_machina
+  - frontier_deepseek
+- - singularity_united
+  - dynamo_datacenter
+- - singularity_united
+  - synthetic_athletic
+- - singularity_united
+  - frontier_fable
+- - singularity_united
+  - frontier_sol
+- - singularity_united
+  - frontier_gemini
+- - singularity_united
+  - frontier_muse
+- - singularity_united
+  - frontier_glm
+- - singularity_united
+  - frontier_deepseek
+- - dynamo_datacenter
+  - synthetic_athletic
+- - dynamo_datacenter
+  - frontier_fable
+- - dynamo_datacenter
+  - frontier_sol
+- - dynamo_datacenter
+  - frontier_gemini
+- - dynamo_datacenter
+  - frontier_muse
+- - dynamo_datacenter
+  - frontier_glm
+- - dynamo_datacenter
+  - frontier_deepseek
+- - synthetic_athletic
+  - frontier_fable
+- - synthetic_athletic
+  - frontier_sol
+- - synthetic_athletic
+  - frontier_gemini
+- - synthetic_athletic
+  - frontier_muse
+- - synthetic_athletic
+  - frontier_glm
+- - synthetic_athletic
+  - frontier_deepseek
+- - frontier_fable
+  - frontier_sol
+- - frontier_fable
+  - frontier_gemini
+- - frontier_fable
+  - frontier_muse
+- - frontier_fable
+  - frontier_glm
+- - frontier_fable
+  - frontier_deepseek
+- - frontier_sol
+  - frontier_gemini
+- - frontier_sol
+  - frontier_muse
+- - frontier_sol
+  - frontier_glm
+- - frontier_sol
+  - frontier_deepseek
+- - frontier_gemini
+  - frontier_muse
+- - frontier_gemini
+  - frontier_glm
+- - frontier_gemini
+  - frontier_deepseek
+- - frontier_muse
+  - frontier_glm
+- - frontier_muse
+  - frontier_deepseek
+- - frontier_glm
+  - frontier_deepseek
+- - singularity_united
+  - real_machina
+- - dynamo_datacenter
+  - real_machina
+- - synthetic_athletic
+  - real_machina
+- - frontier_fable
+  - real_machina
+- - frontier_sol
+  - real_machina
+- - frontier_gemini
+  - real_machina
+- - frontier_muse
+  - real_machina
+- - frontier_glm
+  - real_machina
+- - frontier_deepseek
+  - real_machina
+- - dynamo_datacenter
+  - singularity_united
+- - synthetic_athletic
+  - singularity_united
+- - frontier_fable
+  - singularity_united
+- - frontier_sol
+  - singularity_united
+- - frontier_gemini
+  - singularity_united
+- - frontier_muse
+  - singularity_united
+- - frontier_glm
+  - singularity_united
+- - frontier_deepseek
+  - singularity_united
+- - synthetic_athletic
+  - dynamo_datacenter
+- - frontier_fable
+  - dynamo_datacenter
+- - frontier_sol
+  - dynamo_datacenter
+- - frontier_gemini
+  - dynamo_datacenter
+- - frontier_muse
+  - dynamo_datacenter
+- - frontier_glm
+  - dynamo_datacenter
+- - frontier_deepseek
+  - dynamo_datacenter
+- - frontier_fable
+  - synthetic_athletic
+- - frontier_sol
+  - synthetic_athletic
+- - frontier_gemini
+  - synthetic_athletic
+- - frontier_muse
+  - synthetic_athletic
+- - frontier_glm
+  - synthetic_athletic
+- - frontier_deepseek
+  - synthetic_athletic
+- - frontier_sol
+  - frontier_fable
+- - frontier_gemini
+  - frontier_fable
+- - frontier_muse
+  - frontier_fable
+- - frontier_glm
+  - frontier_fable
+- - frontier_deepseek
+  - frontier_fable
+- - frontier_gemini
+  - frontier_sol
+- - frontier_muse
+  - frontier_sol
+- - frontier_glm
+  - frontier_sol
+- - frontier_deepseek
+  - frontier_sol
+- - frontier_muse
+  - frontier_gemini
+- - frontier_glm
+  - frontier_gemini
+- - frontier_deepseek
+  - frontier_gemini
+- - frontier_glm
+  - frontier_muse
+- - frontier_deepseek
+  - frontier_muse
+- - frontier_deepseek
+  - frontier_glm
+points:
+  win: 3
+  draw: 1
+  loss: 0
+broadcast:
+  slots:
+  - '12:00'
+  - '16:00'
+  - '20:00'
+  timezone: Europe/London
+preseason: true
+honest_latency: true

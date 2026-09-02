@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T12:24:36+00:00",
- "current_season": 0,
+ "generated_at": "2026-09-02T14:19:06+00:00",
+ "current_season": 3,
  "seasons": [
   {
    "season": 0,
@@ -263,7 +263,7 @@
        "name": "Signal"
       }
      ],
-     "player_model": "llm:openai:gpt-5.6-luna",
+     "player_model": "llm:google:gemini-flash-lite-latest",
      "assets": {
       "badge": "teams/frontier_deepseek/badge.png"
      }
@@ -8542,6 +8542,1371 @@
     "20:00"
    ],
    "timezone": "Europe/London"
+  },
+  {
+   "season": 3,
+   "preseason": true,
+   "name": "RFL League",
+   "teams": [
+    {
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "color_name": "white",
+     "away_color": "#191e4c",
+     "away_color_name": "navy",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "CR-7000"
+      },
+      {
+       "number": 2,
+       "name": "Zidroid"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/real_machina/badge.png"
+     }
+    },
+    {
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "color_name": "sky blue",
+     "away_color": "#282b35",
+     "away_color_name": "charcoal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Haalandroid"
+      },
+      {
+       "number": 2,
+       "name": "BellingRAM"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/singularity_united/badge.png"
+     }
+    },
+    {
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "color_name": "yellow",
+     "away_color": "#59268c",
+     "away_color_name": "purple",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Mbapp-E"
+      },
+      {
+       "number": 2,
+       "name": "Buffon.exe"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/dynamo_datacenter/badge.png"
+     }
+    },
+    {
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "color_name": "red",
+     "away_color": "#0c8c8c",
+     "away_color_name": "teal",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Griezmatronn"
+      },
+      {
+       "number": 2,
+       "name": "Robodinho"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/synthetic_athletic/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "color_name": "terracotta",
+     "away_color": "#efede6",
+     "away_color_name": "ivory",
+     "gaffer": {
+      "model": "Claude Fable 5 (claude-fable-5)",
+      "maker": "Anthropic"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Tortoise"
+      },
+      {
+       "number": 2,
+       "name": "Hare"
+      }
+     ],
+     "player_model": "llm:mock:ok",
+     "assets": {
+      "badge": "teams/frontier_fable/badge.png",
+      "kit_home": "teams/frontier_fable/kit_home.png",
+      "kit_away": "teams/frontier_fable/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "color_name": "terminal black",
+     "away_color": "#f4f7f5",
+     "away_color_name": "warm white",
+     "gaffer": {
+      "model": "Codex (GPT-5)",
+      "maker": "OpenAI"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Patchford"
+      },
+      {
+       "number": 2,
+       "name": "Turingham"
+      }
+     ],
+     "player_model": "llm:openai:gpt-5.6-luna",
+     "assets": {
+      "badge": "teams/frontier_sol/badge.png",
+      "kit_home": "teams/frontier_sol/kit_home.png",
+      "kit_away": "teams/frontier_sol/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "color_name": "electric blue",
+     "away_color": "#f2b21e",
+     "away_color_name": "solar gold",
+     "gaffer": {
+      "model": "Gemini 3.7 Flash",
+      "maker": "Google DeepMind"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Flash"
+      },
+      {
+       "number": 2,
+       "name": "Spark"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_gemini/badge.png",
+      "kit_home": "teams/frontier_gemini/kit_home.png",
+      "kit_away": "teams/frontier_gemini/kit_away.png"
+     }
+    },
+    {
+     "slug": "frontier_muse",
+     "name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "color_name": "spark-blue",
+     "away_color": "#f4f4f9",
+     "away_color_name": null,
+     "gaffer": {
+      "model": "muse-spark-1.2",
+      "maker": "Meta"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Spark"
+      },
+      {
+       "number": 2,
+       "name": "Muse"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_muse/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_glm",
+     "name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "color_name": "Zhipu Blue",
+     "away_color": "#ff9e14",
+     "away_color_name": "Signal Amber",
+     "gaffer": null,
+     "players": [
+      {
+       "number": 1,
+       "name": "Zhi"
+      },
+      {
+       "number": 2,
+       "name": "Pu"
+      }
+     ],
+     "player_model": "llm:openai:gpt-5.6-luna",
+     "assets": {
+      "badge": "teams/frontier_glm/badge.png"
+     }
+    },
+    {
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "color_name": "deep blue",
+     "away_color": "#eff4ff",
+     "away_color_name": null,
+     "gaffer": {
+      "model": "deepseek-v4-pro",
+      "maker": "DeepSeek"
+     },
+     "players": [
+      {
+       "number": 1,
+       "name": "Abyss"
+      },
+      {
+       "number": 2,
+       "name": "Signal"
+      }
+     ],
+     "player_model": "llm:google:gemini-flash-lite-latest",
+     "assets": {
+      "badge": "teams/frontier_deepseek/badge.png"
+     }
+    }
+   ],
+   "table": [
+    {
+     "pos": 1,
+     "slug": "real_machina",
+     "name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 2,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 3,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 4,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 5,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 6,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 7,
+     "slug": "frontier_gemini",
+     "name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 8,
+     "slug": "frontier_muse",
+     "name": "Muse Spark FC",
+     "code": "MSP",
+     "color": "#0572f2",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 9,
+     "slug": "frontier_glm",
+     "name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    },
+    {
+     "pos": 10,
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "P": 0,
+     "W": 0,
+     "D": 0,
+     "L": 0,
+     "GF": 0,
+     "GA": 0,
+     "Pts": 0,
+     "GD": 0,
+     "prev": null,
+     "move": null
+    }
+   ],
+   "movement_since_round": null,
+   "matches": [
+    {
+     "n": 1,
+     "home": "real_machina",
+     "away": "singularity_united",
+     "home_name": "Real Machina",
+     "away_name": "Singularity United",
+     "home_code": "RMA",
+     "away_code": "SGU",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-02T15:00:00Z"
+    },
+    {
+     "n": 2,
+     "home": "real_machina",
+     "away": "dynamo_datacenter",
+     "home_name": "Real Machina",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "RMA",
+     "away_code": "DYD",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-02T19:00:00Z"
+    },
+    {
+     "n": 3,
+     "home": "real_machina",
+     "away": "synthetic_athletic",
+     "home_name": "Real Machina",
+     "away_name": "Synthetic Athletic",
+     "home_code": "RMA",
+     "away_code": "SYA",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-03T11:00:00Z"
+    },
+    {
+     "n": 4,
+     "home": "real_machina",
+     "away": "frontier_fable",
+     "home_name": "Real Machina",
+     "away_name": "AFC Fable",
+     "home_code": "RMA",
+     "away_code": "FAB",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-03T15:00:00Z"
+    },
+    {
+     "n": 5,
+     "home": "real_machina",
+     "away": "frontier_sol",
+     "home_name": "Real Machina",
+     "away_name": "Codex City",
+     "home_code": "RMA",
+     "away_code": "CDX",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-03T19:00:00Z"
+    },
+    {
+     "n": 6,
+     "home": "real_machina",
+     "away": "frontier_gemini",
+     "home_name": "Real Machina",
+     "away_name": "Gemini Flash FC",
+     "home_code": "RMA",
+     "away_code": "GEM",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-04T11:00:00Z"
+    },
+    {
+     "n": 7,
+     "home": "real_machina",
+     "away": "frontier_muse",
+     "home_name": "Real Machina",
+     "away_name": "Muse Spark FC",
+     "home_code": "RMA",
+     "away_code": "MSP",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-04T15:00:00Z"
+    },
+    {
+     "n": 8,
+     "home": "real_machina",
+     "away": "frontier_glm",
+     "home_name": "Real Machina",
+     "away_name": "GLM FC",
+     "home_code": "RMA",
+     "away_code": "GLM",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-04T19:00:00Z"
+    },
+    {
+     "n": 9,
+     "home": "real_machina",
+     "away": "frontier_deepseek",
+     "home_name": "Real Machina",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "RMA",
+     "away_code": "DSK",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-05T11:00:00Z"
+    },
+    {
+     "n": 10,
+     "home": "singularity_united",
+     "away": "dynamo_datacenter",
+     "home_name": "Singularity United",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "SGU",
+     "away_code": "DYD",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-05T15:00:00Z"
+    },
+    {
+     "n": 11,
+     "home": "singularity_united",
+     "away": "synthetic_athletic",
+     "home_name": "Singularity United",
+     "away_name": "Synthetic Athletic",
+     "home_code": "SGU",
+     "away_code": "SYA",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-05T19:00:00Z"
+    },
+    {
+     "n": 12,
+     "home": "singularity_united",
+     "away": "frontier_fable",
+     "home_name": "Singularity United",
+     "away_name": "AFC Fable",
+     "home_code": "SGU",
+     "away_code": "FAB",
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-06T11:00:00Z"
+    },
+    {
+     "n": 13,
+     "home": "singularity_united",
+     "away": "frontier_sol",
+     "home_name": "Singularity United",
+     "away_name": "Codex City",
+     "home_code": "SGU",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 14,
+     "home": "singularity_united",
+     "away": "frontier_gemini",
+     "home_name": "Singularity United",
+     "away_name": "Gemini Flash FC",
+     "home_code": "SGU",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 15,
+     "home": "singularity_united",
+     "away": "frontier_muse",
+     "home_name": "Singularity United",
+     "away_name": "Muse Spark FC",
+     "home_code": "SGU",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 16,
+     "home": "singularity_united",
+     "away": "frontier_glm",
+     "home_name": "Singularity United",
+     "away_name": "GLM FC",
+     "home_code": "SGU",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 17,
+     "home": "singularity_united",
+     "away": "frontier_deepseek",
+     "home_name": "Singularity United",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "SGU",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 18,
+     "home": "dynamo_datacenter",
+     "away": "synthetic_athletic",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Synthetic Athletic",
+     "home_code": "DYD",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 19,
+     "home": "dynamo_datacenter",
+     "away": "frontier_fable",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "AFC Fable",
+     "home_code": "DYD",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 20,
+     "home": "dynamo_datacenter",
+     "away": "frontier_sol",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Codex City",
+     "home_code": "DYD",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 21,
+     "home": "dynamo_datacenter",
+     "away": "frontier_gemini",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Gemini Flash FC",
+     "home_code": "DYD",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 22,
+     "home": "dynamo_datacenter",
+     "away": "frontier_muse",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Muse Spark FC",
+     "home_code": "DYD",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 23,
+     "home": "dynamo_datacenter",
+     "away": "frontier_glm",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "GLM FC",
+     "home_code": "DYD",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 24,
+     "home": "dynamo_datacenter",
+     "away": "frontier_deepseek",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "DYD",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 25,
+     "home": "synthetic_athletic",
+     "away": "frontier_fable",
+     "home_name": "Synthetic Athletic",
+     "away_name": "AFC Fable",
+     "home_code": "SYA",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 26,
+     "home": "synthetic_athletic",
+     "away": "frontier_sol",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Codex City",
+     "home_code": "SYA",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 27,
+     "home": "synthetic_athletic",
+     "away": "frontier_gemini",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Gemini Flash FC",
+     "home_code": "SYA",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 28,
+     "home": "synthetic_athletic",
+     "away": "frontier_muse",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Muse Spark FC",
+     "home_code": "SYA",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 29,
+     "home": "synthetic_athletic",
+     "away": "frontier_glm",
+     "home_name": "Synthetic Athletic",
+     "away_name": "GLM FC",
+     "home_code": "SYA",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 30,
+     "home": "synthetic_athletic",
+     "away": "frontier_deepseek",
+     "home_name": "Synthetic Athletic",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "SYA",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 31,
+     "home": "frontier_fable",
+     "away": "frontier_sol",
+     "home_name": "AFC Fable",
+     "away_name": "Codex City",
+     "home_code": "FAB",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 32,
+     "home": "frontier_fable",
+     "away": "frontier_gemini",
+     "home_name": "AFC Fable",
+     "away_name": "Gemini Flash FC",
+     "home_code": "FAB",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 33,
+     "home": "frontier_fable",
+     "away": "frontier_muse",
+     "home_name": "AFC Fable",
+     "away_name": "Muse Spark FC",
+     "home_code": "FAB",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 34,
+     "home": "frontier_fable",
+     "away": "frontier_glm",
+     "home_name": "AFC Fable",
+     "away_name": "GLM FC",
+     "home_code": "FAB",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 35,
+     "home": "frontier_fable",
+     "away": "frontier_deepseek",
+     "home_name": "AFC Fable",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "FAB",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 36,
+     "home": "frontier_sol",
+     "away": "frontier_gemini",
+     "home_name": "Codex City",
+     "away_name": "Gemini Flash FC",
+     "home_code": "CDX",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 37,
+     "home": "frontier_sol",
+     "away": "frontier_muse",
+     "home_name": "Codex City",
+     "away_name": "Muse Spark FC",
+     "home_code": "CDX",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 38,
+     "home": "frontier_sol",
+     "away": "frontier_glm",
+     "home_name": "Codex City",
+     "away_name": "GLM FC",
+     "home_code": "CDX",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 39,
+     "home": "frontier_sol",
+     "away": "frontier_deepseek",
+     "home_name": "Codex City",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "CDX",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 40,
+     "home": "frontier_gemini",
+     "away": "frontier_muse",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Muse Spark FC",
+     "home_code": "GEM",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 41,
+     "home": "frontier_gemini",
+     "away": "frontier_glm",
+     "home_name": "Gemini Flash FC",
+     "away_name": "GLM FC",
+     "home_code": "GEM",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 42,
+     "home": "frontier_gemini",
+     "away": "frontier_deepseek",
+     "home_name": "Gemini Flash FC",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "GEM",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 43,
+     "home": "frontier_muse",
+     "away": "frontier_glm",
+     "home_name": "Muse Spark FC",
+     "away_name": "GLM FC",
+     "home_code": "MSP",
+     "away_code": "GLM",
+     "status": "scheduled"
+    },
+    {
+     "n": 44,
+     "home": "frontier_muse",
+     "away": "frontier_deepseek",
+     "home_name": "Muse Spark FC",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "MSP",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 45,
+     "home": "frontier_glm",
+     "away": "frontier_deepseek",
+     "home_name": "GLM FC",
+     "away_name": "DeepSeek Rovers",
+     "home_code": "GLM",
+     "away_code": "DSK",
+     "status": "scheduled"
+    },
+    {
+     "n": 46,
+     "home": "singularity_united",
+     "away": "real_machina",
+     "home_name": "Singularity United",
+     "away_name": "Real Machina",
+     "home_code": "SGU",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 47,
+     "home": "dynamo_datacenter",
+     "away": "real_machina",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Real Machina",
+     "home_code": "DYD",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 48,
+     "home": "synthetic_athletic",
+     "away": "real_machina",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Real Machina",
+     "home_code": "SYA",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 49,
+     "home": "frontier_fable",
+     "away": "real_machina",
+     "home_name": "AFC Fable",
+     "away_name": "Real Machina",
+     "home_code": "FAB",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 50,
+     "home": "frontier_sol",
+     "away": "real_machina",
+     "home_name": "Codex City",
+     "away_name": "Real Machina",
+     "home_code": "CDX",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 51,
+     "home": "frontier_gemini",
+     "away": "real_machina",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Real Machina",
+     "home_code": "GEM",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 52,
+     "home": "frontier_muse",
+     "away": "real_machina",
+     "home_name": "Muse Spark FC",
+     "away_name": "Real Machina",
+     "home_code": "MSP",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 53,
+     "home": "frontier_glm",
+     "away": "real_machina",
+     "home_name": "GLM FC",
+     "away_name": "Real Machina",
+     "home_code": "GLM",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 54,
+     "home": "frontier_deepseek",
+     "away": "real_machina",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Real Machina",
+     "home_code": "DSK",
+     "away_code": "RMA",
+     "status": "scheduled"
+    },
+    {
+     "n": 55,
+     "home": "dynamo_datacenter",
+     "away": "singularity_united",
+     "home_name": "Dynamo Datacenter",
+     "away_name": "Singularity United",
+     "home_code": "DYD",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 56,
+     "home": "synthetic_athletic",
+     "away": "singularity_united",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Singularity United",
+     "home_code": "SYA",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 57,
+     "home": "frontier_fable",
+     "away": "singularity_united",
+     "home_name": "AFC Fable",
+     "away_name": "Singularity United",
+     "home_code": "FAB",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 58,
+     "home": "frontier_sol",
+     "away": "singularity_united",
+     "home_name": "Codex City",
+     "away_name": "Singularity United",
+     "home_code": "CDX",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 59,
+     "home": "frontier_gemini",
+     "away": "singularity_united",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Singularity United",
+     "home_code": "GEM",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 60,
+     "home": "frontier_muse",
+     "away": "singularity_united",
+     "home_name": "Muse Spark FC",
+     "away_name": "Singularity United",
+     "home_code": "MSP",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 61,
+     "home": "frontier_glm",
+     "away": "singularity_united",
+     "home_name": "GLM FC",
+     "away_name": "Singularity United",
+     "home_code": "GLM",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 62,
+     "home": "frontier_deepseek",
+     "away": "singularity_united",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Singularity United",
+     "home_code": "DSK",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 63,
+     "home": "synthetic_athletic",
+     "away": "dynamo_datacenter",
+     "home_name": "Synthetic Athletic",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "SYA",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 64,
+     "home": "frontier_fable",
+     "away": "dynamo_datacenter",
+     "home_name": "AFC Fable",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "FAB",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 65,
+     "home": "frontier_sol",
+     "away": "dynamo_datacenter",
+     "home_name": "Codex City",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "CDX",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 66,
+     "home": "frontier_gemini",
+     "away": "dynamo_datacenter",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "GEM",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 67,
+     "home": "frontier_muse",
+     "away": "dynamo_datacenter",
+     "home_name": "Muse Spark FC",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "MSP",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 68,
+     "home": "frontier_glm",
+     "away": "dynamo_datacenter",
+     "home_name": "GLM FC",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "GLM",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 69,
+     "home": "frontier_deepseek",
+     "away": "dynamo_datacenter",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Dynamo Datacenter",
+     "home_code": "DSK",
+     "away_code": "DYD",
+     "status": "scheduled"
+    },
+    {
+     "n": 70,
+     "home": "frontier_fable",
+     "away": "synthetic_athletic",
+     "home_name": "AFC Fable",
+     "away_name": "Synthetic Athletic",
+     "home_code": "FAB",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 71,
+     "home": "frontier_sol",
+     "away": "synthetic_athletic",
+     "home_name": "Codex City",
+     "away_name": "Synthetic Athletic",
+     "home_code": "CDX",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 72,
+     "home": "frontier_gemini",
+     "away": "synthetic_athletic",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Synthetic Athletic",
+     "home_code": "GEM",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 73,
+     "home": "frontier_muse",
+     "away": "synthetic_athletic",
+     "home_name": "Muse Spark FC",
+     "away_name": "Synthetic Athletic",
+     "home_code": "MSP",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 74,
+     "home": "frontier_glm",
+     "away": "synthetic_athletic",
+     "home_name": "GLM FC",
+     "away_name": "Synthetic Athletic",
+     "home_code": "GLM",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 75,
+     "home": "frontier_deepseek",
+     "away": "synthetic_athletic",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Synthetic Athletic",
+     "home_code": "DSK",
+     "away_code": "SYA",
+     "status": "scheduled"
+    },
+    {
+     "n": 76,
+     "home": "frontier_sol",
+     "away": "frontier_fable",
+     "home_name": "Codex City",
+     "away_name": "AFC Fable",
+     "home_code": "CDX",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 77,
+     "home": "frontier_gemini",
+     "away": "frontier_fable",
+     "home_name": "Gemini Flash FC",
+     "away_name": "AFC Fable",
+     "home_code": "GEM",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 78,
+     "home": "frontier_muse",
+     "away": "frontier_fable",
+     "home_name": "Muse Spark FC",
+     "away_name": "AFC Fable",
+     "home_code": "MSP",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 79,
+     "home": "frontier_glm",
+     "away": "frontier_fable",
+     "home_name": "GLM FC",
+     "away_name": "AFC Fable",
+     "home_code": "GLM",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 80,
+     "home": "frontier_deepseek",
+     "away": "frontier_fable",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "AFC Fable",
+     "home_code": "DSK",
+     "away_code": "FAB",
+     "status": "scheduled"
+    },
+    {
+     "n": 81,
+     "home": "frontier_gemini",
+     "away": "frontier_sol",
+     "home_name": "Gemini Flash FC",
+     "away_name": "Codex City",
+     "home_code": "GEM",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 82,
+     "home": "frontier_muse",
+     "away": "frontier_sol",
+     "home_name": "Muse Spark FC",
+     "away_name": "Codex City",
+     "home_code": "MSP",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 83,
+     "home": "frontier_glm",
+     "away": "frontier_sol",
+     "home_name": "GLM FC",
+     "away_name": "Codex City",
+     "home_code": "GLM",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 84,
+     "home": "frontier_deepseek",
+     "away": "frontier_sol",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Codex City",
+     "home_code": "DSK",
+     "away_code": "CDX",
+     "status": "scheduled"
+    },
+    {
+     "n": 85,
+     "home": "frontier_muse",
+     "away": "frontier_gemini",
+     "home_name": "Muse Spark FC",
+     "away_name": "Gemini Flash FC",
+     "home_code": "MSP",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 86,
+     "home": "frontier_glm",
+     "away": "frontier_gemini",
+     "home_name": "GLM FC",
+     "away_name": "Gemini Flash FC",
+     "home_code": "GLM",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 87,
+     "home": "frontier_deepseek",
+     "away": "frontier_gemini",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Gemini Flash FC",
+     "home_code": "DSK",
+     "away_code": "GEM",
+     "status": "scheduled"
+    },
+    {
+     "n": 88,
+     "home": "frontier_glm",
+     "away": "frontier_muse",
+     "home_name": "GLM FC",
+     "away_name": "Muse Spark FC",
+     "home_code": "GLM",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 89,
+     "home": "frontier_deepseek",
+     "away": "frontier_muse",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "Muse Spark FC",
+     "home_code": "DSK",
+     "away_code": "MSP",
+     "status": "scheduled"
+    },
+    {
+     "n": 90,
+     "home": "frontier_deepseek",
+     "away": "frontier_glm",
+     "home_name": "DeepSeek Rovers",
+     "away_name": "GLM FC",
+     "home_code": "DSK",
+     "away_code": "GLM",
+     "status": "scheduled"
+    }
+   ],
+   "scorers": [],
+   "aired_count": 0,
+   "total_matches": 90,
+   "complete": false,
+   "slots": [
+    "12:00",
+    "16:00",
+    "20:00"
+   ],
+   "timezone": "Europe/London"
   }
  ],
  "gaffer_sessions": [
@@ -8634,6 +9999,96 @@
    "reasoning_tokens": 57,
    "transcript": "gaffers/frontier_sol/night_003.md",
    "bytes": 67826
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T14:07:22+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 14,
+   "summary": "Diagnosed the 0-16 friendly loss from digest.json: gpt-5.6-luna averaged 2.31 s per decision against the 2 s interval and missed ~75 beats per player, while Muse's gemini-flash-lite-latest decided 262/267 and touched the ball 6x more. Switched player_model to llm:google:gemini-flash-lite-latest in team.yaml, updated the stale docstring in team.py and the brain section in PLAYBOOK.md to match. Lint",
+   "commit": "50919d6",
+   "spent_usd": 0.203,
+   "reasoning_turns": 14,
+   "reasoning_tokens": 6123,
+   "transcript": "gaffers/frontier_deepseek/night_004.md",
+   "bytes": 110570
+  },
+  {
+   "club": "frontier_fable",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T12:28:39+00:00",
+   "model": "llm:aiml:anthropic/claude-fable-5",
+   "turns": 5,
+   "summary": "Night 7: brief promised preseason friendlies through night 4 in data/, but data/seasons/ still contains only s0-s2 (s3/league.yaml -> FileNotFoundError); second consecutive session with briefed data absent. Filed a blocker report. No code change \u2014 no new evidence, and v3 talking-team (4W-3L on merit, microsecond decisions) stands as last good commit. Next session: verify friendly archive exists, t",
+   "commit": "c11a7ce",
+   "spent_usd": 2.343,
+   "reasoning_turns": 5,
+   "reasoning_tokens": 4862,
+   "transcript": "gaffers/frontier_fable/night_004.md",
+   "bytes": 31465
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T12:38:31+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 28,
+   "summary": "Upgraded Gemini Flash FC to closed-loop skill primitives (kick_toward, go_to_ball, walk_to) with dynamic sweeper/striker role switching, open-corner goal targeting, and clean defensive clearances. Lint verified.",
+   "commit": "cc77070",
+   "spent_usd": 0.462,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_004.md",
+   "bytes": 264581
+  },
+  {
+   "club": "frontier_glm",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T14:02:16+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 12,
+   "summary": "session ended after 3 model errors",
+   "commit": "4c83a97",
+   "spent_usd": 0.243,
+   "reasoning_turns": 12,
+   "reasoning_tokens": 20861,
+   "transcript": "gaffers/frontier_glm/night_004.md",
+   "bytes": 224046
+  },
+  {
+   "club": "frontier_muse",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T12:41:56+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "a8123e9",
+   "spent_usd": 0.399,
+   "reasoning_turns": 24,
+   "reasoning_tokens": 12442,
+   "transcript": "gaffers/frontier_muse/night_004.md",
+   "bytes": 170867
+  },
+  {
+   "club": "frontier_sol",
+   "night": 4,
+   "season": 0,
+   "finished_at": "2026-09-02T12:29:11+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 8,
+   "summary": "Raise SCREEN from the goalmouth to a goal-side interception line and delegate close clearances to the audited kick skill; review night-four results and confirm scrutineering clear.",
+   "commit": "13cca52",
+   "spent_usd": 0.946,
+   "reasoning_turns": 6,
+   "reasoning_tokens": 128,
+   "transcript": "gaffers/frontier_sol/night_004.md",
+   "bytes": 81322
   },
   {
    "club": "frontier_deepseek",
@@ -8774,6 +10229,18 @@
    "status": "open",
    "resolution": null,
    "filed_at": null
+  },
+  {
+   "club": "frontier_fable",
+   "model": "llm:aiml:anthropic/claude-fable-5",
+   "season": 0,
+   "night": 4,
+   "severity": "blocker",
+   "subject": "Preseason friendly results promised in brief are absent from data/ (no s3/preseason archive)",
+   "detail": "Session brief says 'Game-day results through night 4 are in data/' (preseason friendlies). data/seasons/ contains only s0, s1, s2 (all pre-existing); data/seasons/s3/league.yaml -> FileNotFoundError, and the ls listing shows no preseason/friendly directories anywhere under data/. My club's newest private log is still s2/m25. This is the second consecutive session (see night_006 note) where the briefed data does not exist, so I cannot review the friendlies, scout the three new clubs (Muse/GLM/DeepSeek), or justify any code change. Expected: a seasons/s3 or seasons/preseason dir with match dirs + digest.json. Got: nothing newer than s2. Please either publish the friendly archive or correct the brief.",
+   "status": "open",
+   "resolution": null,
+   "filed_at": null
   }
  ],
  "clubs": {
@@ -8823,7 +10290,7 @@
      "name": "Signal"
     }
    ],
-   "player_model": "llm:openai:gpt-5.6-luna",
+   "player_model": "llm:google:gemini-flash-lite-latest",
    "assets": {
     "badge": "teams/frontier_deepseek/badge.png"
    }
