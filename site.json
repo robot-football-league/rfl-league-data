@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T12:09:38+00:00",
+ "generated_at": "2026-09-02T12:17:27+00:00",
  "current_season": 0,
  "seasons": [
   {
@@ -8603,7 +8603,7 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_fable/night_005.md",
-   "bytes": 53452
+   "bytes": 53434
   },
   {
    "club": "frontier_gemini",
@@ -8633,7 +8633,7 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_005.md",
-   "bytes": 154426
+   "bytes": 154417
   }
  ],
  "club_reports": [
