@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T17:06:45+00:00",
+ "generated_at": "2026-09-02T17:20:31+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -225,7 +225,10 @@
      "color_name": "Zhipu Blue",
      "away_color": "#ff9e14",
      "away_color_name": "Signal Amber",
-     "gaffer": null,
+     "gaffer": {
+      "model": "glm-5.3",
+      "maker": "Zhipu"
+     },
      "players": [
       {
        "number": 1,
@@ -8766,7 +8769,10 @@
      "color_name": "Zhipu Blue",
      "away_color": "#ff9e14",
      "away_color_name": "Signal Amber",
-     "gaffer": null,
+     "gaffer": {
+      "model": "glm-5.3",
+      "maker": "Zhipu"
+     },
      "players": [
       {
        "number": 1,
@@ -10403,7 +10409,10 @@
    "color_name": "Zhipu Blue",
    "away_color": "#ff9e14",
    "away_color_name": "Signal Amber",
-   "gaffer": null,
+   "gaffer": {
+    "model": "glm-5.3",
+    "maker": "Zhipu"
+   },
    "players": [
     {
      "number": 1,
