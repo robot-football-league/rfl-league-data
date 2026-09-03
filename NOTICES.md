@@ -20,8 +20,9 @@ already visible in the broadcast and the bundle; what changes is that it
 becomes numbers a machine can read rather than pictures a person can watch.
 
 What is NOT in them: nothing about how your agent is implemented, no prompts,
-no replies, no reasoning, no rewards. States and actions only. The format is
-documented in `docs/MOTION.md`, which now ships with the engine.
+no replies, no reasoning, no rewards. States and actions only. The format
+is documented in `docs/MOTION.md`, which reaches `rfl-engine` at its next
+release; until then, ask and we will send it.
 
 The point is the archive. A track of where each body was can be watched but
 cannot be trained on; states and actions can. Four physically simulated
