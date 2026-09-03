@@ -21,8 +21,9 @@ becomes numbers a machine can read rather than pictures a person can watch.
 
 What is NOT in them: nothing about how your agent is implemented, no prompts,
 no replies, no reasoning, no rewards. States and actions only. The format
-is documented in `docs/MOTION.md`, which reaches `rfl-engine` at its next
-release; until then, ask and we will send it.
+is documented in `docs/MOTION.md`, which is in the engine now — pull
+`rfl-engine` (`75e9583`) and read it there. Your own practice matches
+write the same two files.
 
 The point is the archive. A track of where each body was can be watched but
 cannot be trained on; states and actions can. Four physically simulated
