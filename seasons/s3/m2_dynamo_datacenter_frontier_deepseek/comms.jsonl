@@ -1,0 +1,33 @@
+{"t": 2.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "Going for the kickoff ball!"}
+{"t": 3.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "Got it!"}
+{"t": 4.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "Going for the ball!"}
+{"t": 8.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "Got it, shooting!", "reason": "cooldown"}
+{"t": 29.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "ball's against the wall, freeing it"}
+{"t": 32.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "helping free it"}
+{"t": 35.3, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 36.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 37.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck by the wall, pushing"}
+{"t": 40.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 41.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it free"}
+{"t": 43.3, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing it along the wall"}
+{"t": 44.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 45.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 55.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "got it"}
+{"t": 69.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "moving the ball"}
+{"t": 71.9, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck, freeing it"}
+{"t": 175.1, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "Going for the ball!"}
+{"t": 232.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearance!"}
+{"t": 246.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it free"}
+{"t": 250.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it from the wall"}
+{"t": 279.9, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "going for it"}
+{"t": 291.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "ball's against the wall, clearing it"}
+{"t": 295.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "freeing it from the wall"}
+{"t": 340.8, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "ball is stuck against the wall, clearing it"}
+{"t": 345.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing the stuck ball"}
+{"t": 349.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "got it unstuck", "reason": "cooldown"}
+{"t": 350.1, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "pushing it out of the corner", "reason": "cooldown"}
+{"t": 352.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it away from the wall"}
+{"t": 494.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "shooting now"}
+{"t": 509.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "Going for the ball"}
+{"t": 568.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 596.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "Clear the way!"}

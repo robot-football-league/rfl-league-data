@@ -1,0 +1,569 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "We are underway in round one.",
+    "wav": "line_18857816b2adebf7.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 2.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls out early, stepping forward to claim the loose magenta ball in midfield.",
+    "wav": "line_301441c6250eac84.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 8.67,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss is suddenly clean through on goal in the final third!",
+    "wav": "line_338b4d0f7b479219.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 14.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss drives it nicely down the left channel, probing into the final third just four metres out. Datacenter, an entirely unchanged side since day one, scrambling to recover.",
+    "wav": "line_0f347d160f30f6e4.wav",
+    "dur_s": 10.84
+  },
+  {
+    "t": 29.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Play catches against the boards on the touchline, and Abyss shouts to Signal that they are working it free.",
+    "wav": "line_3fa896ac35afba1b.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 41.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to clear it out.",
+    "wav": "line_485e786e0461a728.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 43.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss powers up the right flank.",
+    "wav": "line_4a4f9ea1ae8875cf.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 44.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Sustained pressure from the blue shirts.",
+    "wav": "line_0969d5e8991632ae.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 45.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Abyss breaks the deadlock! A tidy finish from close range down the right channel, and DeepSeek Rovers lead one-nil!",
+    "wav": "line_f6e27c985ce4ea33.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 69.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to shift play out from the back.",
+    "wav": "line_8a8054f430acba36.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 72.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal doubles the advantage! A neat tap-in through the middle, making it two-nil to DeepSeek Rovers.",
+    "wav": "line_d8f2adece8d1af9a.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 79.37,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal is clean through on goal.",
+    "wav": "line_6733f7d1dd2a6fd1.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 79.44,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E hits the deck in a heavy challenge with Abyss on halfway, leaving the yellow shirt sprawling for several seconds.",
+    "wav": "line_a2df88d1fa7687c4.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 101.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal bags another! Cleanly swept home from three metres out, and DeepSeek Rovers are running riot here, three goals to nil.",
+    "wav": "line_00672d96d5d56e6f.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 128.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E pulls one back for Datacenter! Poked in from two metres out to make it three-one, giving the yellow shirts a glimmer of hope.",
+    "wav": "line_23d52feb94a41f87.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 144.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss strides through the middle.",
+    "wav": "line_d1f10e979e4d1541.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 146.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss restores the cushion! Right on the goal line, a simple finish to make it four-one to DeepSeek Rovers.",
+    "wav": "line_8f4e4ed1ef4d5256.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 154.71,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A bit of an undignified spill for Mbapp-E in the centre circle, though the gyros will have them upright shortly.",
+    "wav": "line_37304e91f0a454fa.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 181.34,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A comical tangle between teammates, and Signal ends up flat on the turf.",
+    "wav": "line_b3bbdcc9229f6678.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 187.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe takes full advantage of the chaos! Rolled into the corner from two metres out, cutting the deficit to four-two.",
+    "wav": "line_4ea3dcba00d397bc.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 204.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal answers immediately! Point-blank at the mouth of the goal, and DeepSeek Rovers stretch their lead to five-two.",
+    "wav": "line_78c7de98238f9fbd.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 211.18,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal breaks clear through the middle.",
+    "wav": "line_3aae3db3fc331a3c.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 214.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal controls the magenta sphere, advancing calmly towards the left channel in the final third.",
+    "wav": "line_e1ec698fc1a0c65b.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 232.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe shouts for a quick clearance over on the far touchline to relieve the pressure.",
+    "wav": "line_2f6df7efee1365af.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 246.12,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal loses footing by the boards and takes an unprompted tumble.",
+    "wav": "line_44e802a9a52d9c8a.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 251.28,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe gets shoved over in a crunching collision out wide.",
+    "wav": "line_c56bfca8f7aed7c7.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 255.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E turns it in at the goal mouth! Datacenter claw another one back, and it is three-five now.",
+    "wav": "line_1000f1e4d7a1e933.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 275.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Agonisingly wide of the post.",
+    "wav": "line_7107bf468da8abb8.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 277.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe bursts into the box.",
+    "wav": "line_b8f31387420f782b.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 277.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe scores! It is four-five, and Datacenter are right back in this!",
+    "wav": "line_595951236490bb3c.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 278.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Datacenter are pouring forward now.",
+    "wav": "line_ceac7019c350f26b.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 279.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss shouts to the backline, urging Rovers to push up and contest the midfield before the interval.",
+    "wav": "line_6145eda99cac934c.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 297.46,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel thumps it clear.",
+    "wav": "line_4bfef003f88cdde6.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "That brings an astonishing first half to a close. Nine goals shared already, and DeepSeek Rovers hold a slender five-four lead at the break.",
+    "wav": "line_848ec6b8f4d5d7f8.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 340.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal announces they are digging the ball away from the perimeter wall.",
+    "wav": "line_10c1b3085f20b17e.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 345.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A fierce snapshot flashes just inches wide of the upright!",
+    "wav": "line_1da7eb9c890a1f8e.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 357.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss nudges it over the line! DeepSeek Rovers extend their lead to six-four right in front of goal.",
+    "wav": "line_ad42a97d814dfb74.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 363.0,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E takes a clumsy spill in the centre circle, waiting on the self-righting routine.",
+    "wav": "line_9d0f1d5793a33708.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 371.64,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss is slipped clean through again.",
+    "wav": "line_b02e086cb5af082d.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 372.83,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E goes down again on the opposite flank.",
+    "wav": "line_70fab2f9a571048b.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 377.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss advances towards the danger area.",
+    "wav": "line_3abbf6832635e51b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 379.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss slots it home with consummate ease! That is seven-four to DeepSeek Rovers now, and they are pulling well clear.",
+    "wav": "line_089b4cc4870f643f.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 399.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "It rolls wide of the mark.",
+    "wav": "line_4fed408be46105e8.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 401.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "An absolute disaster for Buffon.exe, turning the ball straight into their own net! It is four-eight, another own goal to add to the league's growing collection this season.",
+    "wav": "line_3aed65f4b199bb6d.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 443.01,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe is clattered to the deck.",
+    "wav": "line_713c3f08ea340229.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 444.69,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss tumbles right over in return.",
+    "wav": "line_e729980ed2759b64.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 445.24,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal takes possession, clean through on goal in the final third.",
+    "wav": "line_f9995eda2416a984.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 449.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just missing the target from point blank.",
+    "wav": "line_f1b8349bbf85e4b6.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 452.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal makes no mistake this time! A ninth goal for DeepSeek Rovers, making it four-nine with under two and a half minutes remaining.",
+    "wav": "line_487bd707c35e209e.wav",
+    "dur_s": 8.99
+  },
+  {
+    "t": 475.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal marches through the centre again.",
+    "wav": "line_b6d0ea2dfa0872d9.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 475.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Double figures for DeepSeek Rovers! Signal buries it from two metres out, pushing the scoreline to a comprehensive ten-four.",
+    "wav": "line_88e55f23916c1cdc.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 488.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe grabs a consolation goal for Datacenter, tucking it away to make it five-ten with time ticking away.",
+    "wav": "line_9b2aa9a4145e3527.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 494.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe calls out intent to shoot from distance.",
+    "wav": "line_813835b14cbd22f7.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 500.47,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another awkward collision between the Rovers pair, and Signal hits the floor.",
+    "wav": "line_99bfcec0d0c7ecee.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 506.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E pounces on the defensive lapse! A sixth goal for Dynamo Datacenter, narrowing the deficit to six-ten.",
+    "wav": "line_4bbda588fd2e1bc8.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 524.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "That one skims harmlessly wide.",
+    "wav": "line_1dad2890025aa333.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 524.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss finishes ruthlessly on the rebound! It is eleven-six to DeepSeek Rovers, snuffing out any faint Datacenter hopes with seventy-five seconds left on the clock.",
+    "wav": "line_d21275b03421b1b1.wav",
+    "dur_s": 10.19
+  },
+  {
+    "t": 545.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E drives forward through midfield inside the final minute of the match.",
+    "wav": "line_974be432cc34498b.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 551.24,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Scrapes mere inches past the post.",
+    "wav": "line_184e7011f35eca8b.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 553.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E taps it in from point-blank range! Seven-eleven now, as Datacenter refuse to surrender in these dying seconds.",
+    "wav": "line_576c37f7b8140b78.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 571.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe strokes it home! Eight-eleven, a frantic flurry of goals here in the final half-minute, though surely time has run out for them.",
+    "wav": "line_91fd2a82abe9d2bd.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 585.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Signal puts it into their own net! An own goal makes it nine-eleven, and suddenly it is just a two-goal match with fifteen seconds remaining!",
+    "wav": "line_772d685141aaab54.wav",
+    "dur_s": 10.45
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Full time, 9-11. Synthetic Athletic meet GLM FC Thursday, twenty-hundred UK, twenty-one Europe, fifteen US East. Goodbye.",
+    "wav": "line_f0c0dea01d13cf45.wav",
+    "dur_s": 7.81
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 4
+  },
+  "away": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 3
+  },
+  "winner": "Synthetic Athletic",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "17326a267e97e1ebb4039cb34f293f4ff0e99983",
+      "subject": "night 4: session ended after 3 model errors",
+      "committed_at": "2026-09-02T15:02:16+01:00",
+      "dirty": true
+    },
+    "engine_commit": "9661ad5c896fa5bff614e52f911d8416b49c3721"
+  }
+}

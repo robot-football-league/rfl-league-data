@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T21:11:43+00:00",
+ "generated_at": "2026-09-03T17:06:08+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8852,18 +8852,18 @@
     },
     {
      "pos": 2,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 0,
-     "W": 0,
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "P": 1,
+     "W": 1,
      "D": 0,
      "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
+     "GF": 11,
+     "GA": 9,
+     "Pts": 3,
+     "GD": 2,
      "prev": null,
      "move": null
     },
@@ -8873,14 +8873,14 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 0,
-     "W": 0,
+     "P": 1,
+     "W": 1,
      "D": 0,
      "L": 0,
-     "GF": 0,
-     "GA": 0,
-     "Pts": 0,
-     "GD": 0,
+     "GF": 4,
+     "GA": 3,
+     "Pts": 3,
+     "GD": 1,
      "prev": null,
      "move": null
     },
@@ -8958,31 +8958,31 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 0,
+     "P": 1,
      "W": 0,
      "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
+     "L": 1,
+     "GF": 3,
+     "GA": 4,
      "Pts": 0,
-     "GD": 0,
+     "GD": -1,
      "prev": null,
      "move": null
     },
     {
      "pos": 9,
-     "slug": "frontier_deepseek",
-     "name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "P": 0,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 1,
      "W": 0,
      "D": 0,
-     "L": 0,
-     "GF": 0,
-     "GA": 0,
+     "L": 1,
+     "GF": 9,
+     "GA": 11,
      "Pts": 0,
-     "GD": 0,
+     "GD": -2,
      "prev": null,
      "move": null
     },
@@ -9232,8 +9232,264 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "DYD",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-03T11:00:00Z"
+     "status": "aired",
+     "score": [
+      9,
+      11
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 45.4,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 11,
+        "second": 72.5,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 15,
+        "second": 101.6,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 19,
+        "second": 128.7,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 146.4,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 187.4,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 204.3,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 255.8,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 277.5,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 357.3,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 379.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 401.3,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 68,
+        "second": 452.6,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 71,
+        "second": 475.2,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 73,
+        "second": 488.3,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 76,
+        "second": 506.6,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 524.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 83,
+        "second": 553.3,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 571.9,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 585.4,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 228,
+       "kick": 212,
+       "through": 14,
+       "wall": 19,
+       "fall": 15,
+       "near_miss": 6,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 2.0,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "Going for the kickoff ball!"
+       },
+       {
+        "second": 3.2,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "Got it!"
+       },
+       {
+        "second": 29.6,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "ball's against the wall, freeing it"
+       },
+       {
+        "second": 37.7,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "ball is stuck by the wall, pushing"
+       },
+       {
+        "second": 43.3,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing it along the wall"
+       },
+       {
+        "second": 55.7,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "got it"
+       },
+       {
+        "second": 71.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 232.8,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearance!"
+       },
+       {
+        "second": 250.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 291.6,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "ball's against the wall, clearing it"
+       },
+       {
+        "second": 295.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 345.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "clearing the stuck ball"
+       },
+       {
+        "second": 494.1,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "shooting now"
+       },
+       {
+        "second": 568.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got it"
+       }
+      ],
+      "stats": {
+       "kicks": 212,
+       "falls": 15,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 14
+      },
+      "est_cost_usd": 0.4608
+     },
+     "aired_at": "2026-09-03T11:04:48Z",
+     "watch": {
+      "id": "s3-m2_dynamo_datacenter_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m2_dynamo_datacenter_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m2_dynamo_datacenter_frontier_deepseek"
+     }
     },
     {
      "n": 3,
@@ -9243,8 +9499,173 @@
      "away_name": "GLM FC",
      "home_code": "SYA",
      "away_code": "GLM",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-03T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 18,
+        "second": 117.6,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 255.4,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 283.4,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 344.1,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 74,
+        "second": 492.2,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": false
+       },
+       {
+        "minute": 76,
+        "second": 503.9,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 584.0,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 164,
+       "through": 23,
+       "kick": 156,
+       "near_miss": 3,
+       "wall": 19,
+       "ram": 4,
+       "fall": 8
+      },
+      "radio": [
+       {
+        "second": 2.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Going for kickoff."
+       },
+       {
+        "second": 26.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Ball is against the wall, pushing it free"
+       },
+       {
+        "second": 77.2,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 107.3,
+        "team": "GLM FC",
+        "number": 2,
+        "text": "Mine!"
+       },
+       {
+        "second": 139.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 190.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 225.9,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 247.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the corner"
+       },
+       {
+        "second": 332.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball's against the wall, clearing it"
+       },
+       {
+        "second": 378.2,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing the ball from the corner wall"
+       },
+       {
+        "second": 414.9,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "I have the ball"
+       },
+       {
+        "second": 429.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the corner wall"
+       },
+       {
+        "second": 478.1,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "prying it off the end wall"
+       },
+       {
+        "second": 538.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Ball is against the wall, pushing it free"
+       }
+      ],
+      "stats": {
+       "kicks": 156,
+       "falls": 8,
+       "near_misses": 3,
+       "post_hits": 0,
+       "through_balls": 23
+      },
+      "est_cost_usd": 0.4628
+     },
+     "aired_at": "2026-09-03T15:04:41Z",
+     "watch": {
+      "id": "s3-m3_synthetic_athletic_frontier_glm",
+      "url": "https://4dgsx.com/watch/s3-m3_synthetic_athletic_frontier_glm",
+      "embed_url": "https://4dgsx.com/embed/s3-m3_synthetic_athletic_frontier_glm"
+     }
     },
     {
      "n": 4,
@@ -9364,7 +9785,8 @@
      "away_name": "Codex City",
      "home_code": "DYD",
      "away_code": "CDX",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-07T11:00:00Z"
     },
     {
      "n": 15,
@@ -9374,7 +9796,8 @@
      "away_name": "AFC Fable",
      "home_code": "SYA",
      "away_code": "FAB",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-07T15:00:00Z"
     },
     {
      "n": 16,
@@ -10137,6 +10560,46 @@
      "goals": 6
     },
     {
+     "name": "Abyss",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "goals": 5
+    },
+    {
+     "name": "Signal",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "goals": 5
+    },
+    {
+     "name": "Mbapp-E",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 4
+    },
+    {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 4
+    },
+    {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 4
+    },
+    {
      "name": "CR-7000",
      "team": "real_machina",
      "team_name": "Real Machina",
@@ -10153,6 +10616,14 @@
      "goals": 2
     },
     {
+     "name": "Zhi",
+     "team": "frontier_glm",
+     "team_name": "GLM FC",
+     "code": "GLM",
+     "color": "#2659ff",
+     "goals": 2
+    },
+    {
      "name": "Zidroid",
      "team": "real_machina",
      "team_name": "Real Machina",
@@ -10161,7 +10632,7 @@
      "goals": 1
     }
    ],
-   "aired_count": 1,
+   "aired_count": 3,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -10851,8 +11322,8 @@
   }
  },
  "totals": {
-  "matches_aired": 38,
-  "goals": 395,
+  "matches_aired": 40,
+  "goals": 422,
   "clubs": 11
  }
 }

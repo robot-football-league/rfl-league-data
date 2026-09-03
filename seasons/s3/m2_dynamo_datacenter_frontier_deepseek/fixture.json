@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 9
+  },
+  "away": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 11
+  },
+  "winner": "DeepSeek Rovers",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "50919d6c8c20559d53e20b1b243fc2f0a8c08a65",
+      "subject": "night 4: Diagnosed the 0-16 friendly loss from digest.json: gpt-5.6-luna averaged 2.31 s per decision against the 2 s interval and missed ~75 beats per player, while Muse's gemini-flash-lite-latest decided 262/267 and touched the ball 6x more. Switched player_model to llm:google:gemini-flash-lite-latest in team.yaml, updated the stale docstring in team.py and the brain section in PLAYBOOK.md to match. Lint",
+      "committed_at": "2026-09-02T15:07:22+01:00",
+      "dirty": true
+    },
+    "engine_commit": "a5f5528b60fd2ea5d66dba57579dcdd6d9cee844"
+  }
+}
