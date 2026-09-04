@@ -1,0 +1,569 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round one.",
+    "wav": "line_869014e3ba3f033e.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls to rotate close and protect the goal side under early pressure.",
+    "wav": "line_010ef6c194077d14.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 10.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Turingham carries through the centre, driving four metres out into the right channel.",
+    "wav": "line_77a5d3d7f43f1402.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 28.59,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash breaks clear down the right channel with nobody between them and the net!",
+    "wav": "line_dde1399be3886777.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 37.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash marches right to point-blank range!",
+    "wav": "line_86e3f1b0e102b812.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 37.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash buries it! Gemini Flash FC lead one-nil!",
+    "wav": "line_a52467e1590c6d4e.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 38.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Codex City remain pinned back after that opening spell.",
+    "wav": "line_ab953c6798f94796.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 43.49,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark loses balance in the centre circle and topples over, but the gyros whir and the recovery is cleanly underway.",
+    "wav": "line_ea9dd5774227f23f.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 64.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Codex City applying pressure now.",
+    "wav": "line_560e60c8ee414bd9.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 65.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark shouts back to clear the ball upfield towards the flank.",
+    "wav": "line_42cb4ad42dc274df.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 74.33,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash is slipped through the middle again and there is an open goal waiting!",
+    "wav": "line_86fc3d4f2ee82dd2.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 85.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash taps it in from point-blank range for two-nil. Simple as you like.",
+    "wav": "line_6d52c477b7a84de9.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 100.89,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A clumsy tangle between teammates Flash and Spark leaves the scorer flat on the deck.",
+    "wav": "line_1c6ed3ccc58d44d0.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 114.64,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Codex City scrape one just wide of the post from two metres out.",
+    "wav": "line_024ae828c0a43338.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 140.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash calls out to step up and press the ball in their own third.",
+    "wav": "line_ccc496b96959b4ca.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 163.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash bundles it over the line again. That makes it three-nil to Gemini Flash FC.",
+    "wav": "line_16f3b9527f1ce889.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 182.47,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram fires the ball straight back into the channel.",
+    "wav": "line_41d63e5da1031c13.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 193.24,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A close call at the other end as the shot skips just wide.",
+    "wav": "line_c089a349df84abb1.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 206.62,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark tumbles after clipping Flash.",
+    "wav": "line_93ae485dc569442c.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 207.29,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The push-panel activates on the right touchline, returning the ball safely into play.",
+    "wav": "line_00d25500eec1e08b.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 223.37,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham is clean through wide right.",
+    "wav": "line_276f9ae6f32b9a87.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 224.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham shouts to cover central.",
+    "wav": "line_e3ec08c7ee8598aa.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 226.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham drives nine metres up the right touchline into the final third.",
+    "wav": "line_da5afb40aa862b0e.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 232.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Turingham finds the corner from two metres out. Codex City pull one back, three-one.",
+    "wav": "line_097786cbf59af6b9.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 247.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark responds instantly from the right channel, restoring the cushion to four-one.",
+    "wav": "line_2e7efc63e1330a17.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 257.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash carries forward three metres, finding space inside the attacking third.",
+    "wav": "line_b223e9a97625e734.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 271.47,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The bevelled corner fires the magenta ball back into traffic.",
+    "wav": "line_967a3673ef9cfd47.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 285.4,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls out an intention to take on the strike.",
+    "wav": "line_04ff46350d4a26fc.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds for half time with Gemini Flash FC commanding a four-one advantage.",
+    "wav": "line_d9b0914194a863d9.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 315.65,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash bursts through the middle unmarked with space ahead.",
+    "wav": "line_7a7b075897a02afc.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 323.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark makes no mistake from two metres out. That is five-one to Gemini Flash FC.",
+    "wav": "line_41b9299413b5f78a.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 351.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash taps in from point-blank range, making it six-one.",
+    "wav": "line_762603008830381e.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 352.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City are pinned back deep in their own third once again.",
+    "wav": "line_3f8f696c93e796a6.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 359.19,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark goes down under Turingham's challenge.",
+    "wav": "line_80112ab7807738ec.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 361.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Turingham gets knocked over by Spark in the final third.",
+    "wav": "line_04ec5ec2892f73f4.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 366.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just missed from point-blank range.",
+    "wav": "line_0aa964c9560cb1f7.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 367.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark calls to track the ball.",
+    "wav": "line_fd54eb119d349cb7.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 368.77,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark goes down in another heavy challenge.",
+    "wav": "line_5f31936b548447aa.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 372.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City sustain rare attacking pressure.",
+    "wav": "line_dc2593da86f2147e.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 372.9,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Corner ram launches it clear.",
+    "wav": "line_4b7af1e315c608b8.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 374.34,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Turingham stumbles completely unprompted and clatters down, but the recovery routine begins immediately.",
+    "wav": "line_aff26af3d36803c5.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 400.17,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Teammates collide and Flash hits the turf.",
+    "wav": "line_a1a3589653578da6.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 403.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham drives right to the line.",
+    "wav": "line_61018af60f0e21ec.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 404.55,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Patchford is knocked down by Flash right at the mouth of goal.",
+    "wav": "line_b9cd6c04448ffc4e.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 409.73,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Patchford returns the favour, sending Flash tumbling onto the carpet.",
+    "wav": "line_a74225597b1c55ed.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 414.28,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Patchford topples over unaided right in front of goal.",
+    "wav": "line_1d1451b396ee35cc.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 425.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "A disaster for Spark who turns the ball into their own net, making it six-two.",
+    "wav": "line_3cf4458190cf7fa5.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 435.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark pushes the ball forward into the final third, steadying the ship.",
+    "wav": "line_bf0584ea23dbcbd4.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 449.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash calls for the shot.",
+    "wav": "line_bedc6bde6c499724.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 450.11,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark steps in to knock Patchford over against the touchline as the clock winds down.",
+    "wav": "line_3b4cc31fc2b1807e.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 464.82,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford breaks clean through from deep with two minutes remaining.",
+    "wav": "line_bf2b6ad0dd632e29.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 476.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford slots it home from close range. It is three-six now.",
+    "wav": "line_01f6f255d8ef625f.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 478.47,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Turingham hits the deck again in midfield with time ticking away.",
+    "wav": "line_0455866f38a5148f.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 498.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham bundles it in from point-blank range! Four-six, and Codex City are suddenly within two!",
+    "wav": "line_6036f85c73174954.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 511.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash strikes back immediately, making it four-seven to Gemini Flash FC.",
+    "wav": "line_1939aee4090b21a2.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 511.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash drove through the middle untouched to finish that off.",
+    "wav": "line_66183e9dd3f35d5b.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 517.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash calls to press onto the ball defensively.",
+    "wav": "line_24c55d47f37e1638.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 525.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A close effort slips just wide.",
+    "wav": "line_aae981a83e00fbde.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 528.31,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The push-panel punches the magenta ball back into open territory.",
+    "wav": "line_296b9f599e2f4f49.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 555.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark seals the match from point-blank range, pushing the score to four-eight.",
+    "wav": "line_f36f4669be94b3a5.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 583.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash drives forward into the final third.",
+    "wav": "line_eb404d1e0d48552e.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 586.2,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A speculative effort drifts wide of the frame.",
+    "wav": "line_0e9663f3a858fde7.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time: four-eight. Join us Friday, twenty UK, twenty-one Europe, fifteen US East for Rovers against Real Machina.",
+    "wav": "line_a1a3145848030758.wav",
+    "dur_s": 8.41
+  }
+]

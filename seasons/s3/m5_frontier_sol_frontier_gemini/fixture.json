@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 4
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 8
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "13cca52069163c18818d5ac82b3e52b220040924",
+      "subject": "night 4: Raise SCREEN from the goalmouth to a goal-side interception line and delegate close clearances to the audited kick skill; review night-four results and confirm scrutineering clear.",
+      "committed_at": "2026-09-02T13:29:11+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "cc770707ee9879f79ca8124286a8654cc6f69f4f",
+      "subject": "night 4: Upgraded Gemini Flash FC to closed-loop skill primitives (kick_toward, go_to_ball, walk_to) with dynamic sweeper/striker role switching, open-corner goal targeting, and clean defensive clearances. Lint verified.",
+      "committed_at": "2026-09-02T13:38:31+01:00",
+      "dirty": true
+    },
+    "engine_commit": "532175a8093dd2e2ce13a500d26381cfeb8d08c4"
+  }
+}

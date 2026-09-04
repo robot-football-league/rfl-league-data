@@ -1,0 +1,587 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round one.",
+    "wav": "line_869014e3ba3f033e.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls for calm and covers their own half.",
+    "wav": "line_90910b5b9663a2f9.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 4.35,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare loses balance in midfield and hits the deck.",
+    "wav": "line_0ee6fec721bfd3a1.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 8.8,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates collide, and Tortoise hits the deck.",
+    "wav": "line_49bc3e5c2b921f1e.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 11.99,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark breaks clean through down the right channel!",
+    "wav": "line_07a0342175b2eaa6.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 16.32,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the open goal!",
+    "wav": "line_7773bb9bc5cdd158.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 18.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives straight back into range.",
+    "wav": "line_da148340c739fcb0.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 19.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse turns it home! It is AFC Fable nil, Muse Spark one!",
+    "wav": "line_c7438cbb929af0cb.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 20.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "The spark-blue shirts keep pressing high, querying their language model on every touch while Fable struggle to clear.",
+    "wav": "line_cbe78e5b91796079.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 30.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark bursts through the middle again.",
+    "wav": "line_b8ae02c439c21811.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 31.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark doubles the lead from point-blank range. That makes it AFC Fable nil, Muse Spark two, and the visitors are in full control.",
+    "wav": "line_cbd3589d5a94fa56.wav",
+    "dur_s": 9.12
+  },
+  {
+    "t": 46.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise carries play up the middle.",
+    "wav": "line_36a1403f7a111282.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 48.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise bundles it in to pull one back! AFC Fable one, Muse Spark two, and Fable's pre-programmed logic strikes right back.",
+    "wav": "line_20c9e2e1b77e3a34.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 63.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise levels the match! A second goal in minutes makes it AFC Fable two, Muse Spark two!",
+    "wav": "line_869913b1699a98f6.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 83.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to Hare, retreating goal-side to protect the net.",
+    "wav": "line_e08decf1b57fdae1.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 89.11,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner ram fires the ball clear.",
+    "wav": "line_6104100eeebc0c5f.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 92.28,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A bit of miscommunication there as Muse and Spark bump into each other in their own third, sending Muse sprawling.",
+    "wav": "line_b0508f5cc72547ea.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 113.32,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare is through on goal!",
+    "wav": "line_d77e705fa6748479.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 115.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches away! Hare snatches at the shot and it scrapes past the post.",
+    "wav": "line_1b2b7c4f3624b8cd.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 130.17,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse steps in with a firm challenge on the left channel, knocking Hare to the turf.",
+    "wav": "line_dd34283d9cd15c9d.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 139.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable maintain the sustained attacking pressure.",
+    "wav": "line_00e015b758c26d5c.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 140.42,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise takes an awkward tumble out on the wing.",
+    "wav": "line_66ce986c156fbe94.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 144.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark calls out to Muse, looking to pry the loose ball away from the touchline.",
+    "wav": "line_db6d25a084f42a8b.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 162.84,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The push-panel launches it back out.",
+    "wav": "line_7080e9d27f9bee9a.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 164.55,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise comes across forcefully to dispossess Spark, leaving the spark-blue forward flat on the carpet.",
+    "wav": "line_26cdc590946bc5ed.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 179.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse regains possession and drives five metres up the right wing into midfield.",
+    "wav": "line_643533913effbe39.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 186.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse finishes at the mouth of the goal! Muse Spark lead again, AFC Fable two, Muse Spark three!",
+    "wav": "line_b35bc49e47210bae.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 210.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls for the ball in their own third, promising a steady advance forward.",
+    "wav": "line_bf4f40ec524f1176.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 222.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise bundles it in for a hat-trick! Level once again, AFC Fable three, Muse Spark three!",
+    "wav": "line_60ce4309c557237e.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 231.39,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark is clean through the middle!",
+    "wav": "line_97fe571331d9e865.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 232.6,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise tracks back and crunches into Muse, denying the chance with authority.",
+    "wav": "line_1d08dcaaf4c733cf.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 241.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark fires it home from the right channel! What a see-saw contest, AFC Fable three, Muse Spark four!",
+    "wav": "line_c77f2581eb2a71ed.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 261.71,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark trips and falls out wide.",
+    "wav": "line_aa651528043b831d.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 264.03,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel thumps the ball right back into the danger area.",
+    "wav": "line_7c7f34b6231b744e.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 274.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to cut off the rolling ball.",
+    "wav": "line_e8169fac24aa1aa2.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 279.37,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Another corner panel kick-out.",
+    "wav": "line_26af2d72c35419ab.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 280.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse Spark have Fable pinned deep in the closing seconds of the half, recycling possession with patience.",
+    "wav": "line_ee8e5342f801e268.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 297.81,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Fable teammates collide in midfield.",
+    "wav": "line_1066ecd404976304.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "That brings a breathless first half to a close. Seven goals shared already, with Muse Spark holding a four-three edge over AFC Fable.",
+    "wav": "line_764b38fa2cdb6f16.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 325.84,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Tortoise glances it just wide!",
+    "wav": "line_53d7deaa33ef12c8.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 327.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise pounces on the rebound and scores! We are all square again, AFC Fable four, Muse Spark four!",
+    "wav": "line_b916d175115d267c.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 350.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise scores again from close range! AFC Fable lead for the first time today, five to four!",
+    "wav": "line_9b534174ccd82d78.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 376.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts across that they have the loose ball covered, promising no lapses in concentration.",
+    "wav": "line_a0793636122b75b2.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 390.01,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark breaks clear from midfield with nobody ahead of them!",
+    "wav": "line_0cf455059a79ff08.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 416.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives purposefully toward goal.",
+    "wav": "line_f2d0c0e00d0ce143.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 416.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark slots it into the corner! Ten goals in this match and we are tied, AFC Fable five, Muse Spark five!",
+    "wav": "line_ab6ff8d816f6ec30.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 428.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse calls out with attacking intent as they look to push forward.",
+    "wav": "line_c69bf96fd388c92f.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 435.4,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare finds daylight on the left and has a clear sight of goal!",
+    "wav": "line_0cdf840870b49a7f.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 448.72,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flies just past the upright!",
+    "wav": "line_953b5f19f5900f21.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 450.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Into the final two and a half minutes, and Fable are piling on the pressure in search of another lead.",
+    "wav": "line_1e85c9fdd792ae30.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 461.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare scrambles it over the line! With just over two minutes remaining, AFC Fable take a six-five lead!",
+    "wav": "line_d8df138a9a274541.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 476.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Tortoise powers right through the centre.",
+    "wav": "line_97fa966afe62cbf6.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 476.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise immediately adds another! What a blitz, AFC Fable lead Muse Spark seven to five with two minutes to play!",
+    "wav": "line_cc55d250d08a7fe9.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 497.51,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise halts Muse with a clatter.",
+    "wav": "line_21480c239d5720f5.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 498.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse scrambles forward along the touchline.",
+    "wav": "line_5fed2ed6465fee2d.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 500.83,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse clatters Hare to the ground.",
+    "wav": "line_690de6e413af5b85.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 501.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse scores! The deficit is cut to one, AFC Fable seven, Muse Spark six!",
+    "wav": "line_8dd4db25d32c36ab.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 503.6,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Tortoise rallies Hare from the centre circle, calling for calm and promising to anchor their own half.",
+    "wav": "line_28c556a44638d7df.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 518.44,
+    "kind": "tackle",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Tortoise stands firm on the left touchline, upending Spark to stop the counter.",
+    "wav": "line_0339dea8e21ec4e1.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 528.72,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Spark loses footing under pressure and goes down, with time rapidly ticking away for Muse Spark.",
+    "wav": "line_d53d57d86587c55f.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 542.43,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The push-panel fires the ball away from the corner, keeping it alive as we tick into the final minute.",
+    "wav": "line_7ffdee5e111b6565.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 556.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Muse drives up through the centre of the pitch, desperately looking for an equaliser with under forty seconds left.",
+    "wav": "line_9bda71fbaa2d21cb.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 572.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark levels it in the final half-minute! It is AFC Fable seven, Muse Spark seven! Unbelievable drama!",
+    "wav": "line_beb4c8700f5cd4a8.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 590.99,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The corner panel rebounds the ball one last time with seconds remaining.",
+    "wav": "line_923c24c4e371d8dc.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Seven all at full time. Codex City face Gemini Flash Friday: twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_9a0cd0b195fe3dad.wav",
+    "dur_s": 8.28
+  }
+]
