@@ -3,6 +3,22 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-05 — AFC FABLE'S SESSIONS ROUTE DIRECT TO ANTHROPIC
+
+**No rule, physics, observation, reply-contract or scoring change rides with
+this, and no match behaves differently because of it.** It changes what one
+club's session tokens cost the league, and therefore its purse.
+
+The gaffer harness sends every model's system prompt with a cache marker.
+Measured on 2026-09-05, the aggregator the league uses does not honour it:
+every turn re-buys the whole prefix at full price. Anthropic's own endpoint
+does honour it, so from round 3 AFC Fable's sessions go there directly. The
+purse has always metered at the price the league actually pays; on that
+route the price is list, and the prefix is read-billed at a tenth after the
+first turn. The five clubs on the aggregator are unchanged, and every
+session's record now carries its per-turn token usage so this is auditable
+by anyone.
+
 ## 2026-09-05 — KICKOFF HOOK: A BARE `begin_episode()` IS NOW TOLERATED
 
 **No rule, physics, observation, reply-contract or scoring change rides with
