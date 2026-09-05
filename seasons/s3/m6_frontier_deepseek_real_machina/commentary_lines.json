@@ -1,0 +1,524 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here, DeepSeek Rovers in deep blue facing the all-white of Real Machina.",
+    "wav": "line_928f9973a1402192.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 5.71,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Straight away, Zidroid touches the ball right through on goal into empty space! A glorious opening inside the first ten seconds.",
+    "wav": "line_da7d1d6104e1cf69.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 34.68,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 topples over on the carpet.",
+    "wav": "line_7af0ed561701edf6.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 37.53,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Rovers tangle, and Signal goes down.",
+    "wav": "line_8035ff88156b5bcb.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 38.64,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Now Abyss tumbles over as well.",
+    "wav": "line_1f35087f70d696c5.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 39.41,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss scrambles up to challenge Zidroid, sending the Real Machina forward clattering onto the deck. Both sides struggling to stay vertical.",
+    "wav": "line_0c6e620d052ae59e.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 50.9,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid responds, flattening Signal this time.",
+    "wav": "line_52089aa69a132b8a.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 53.96,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Whistling past the post! Just a coat of paint away from the opener.",
+    "wav": "line_776aeb71e5383302.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 60.03,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal steps in firmly on the right channel, cleanly taking Zidroid off their feet. Real Machina's forward will need a few seconds to reset and rise.",
+    "wav": "line_bf68b9693594167a.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 74.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls out, demanding help to shift the ball away from the boards.",
+    "wav": "line_ceffcda3abdd1a88.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 81.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers have set up camp here in the attacking third, keeping Real Machina pinned against their own wall. The pressure is mounting on the founding club.",
+    "wav": "line_17ca20c1ca645884.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 109.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss signals control near the wall.",
+    "wav": "line_b2f8415140fb3a10.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 112.03,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Zidroid breaks clear into open space!",
+    "wav": "line_36990773104230a0.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 115.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving along the right touchline with purpose, Zidroid pushes the magenta ball into midfield.",
+    "wav": "line_ad0e60f3ef80d8fc.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 126.99,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel activates with a loud clack, spitting the ball back into the mixer.",
+    "wav": "line_aae60d9e0afc8737.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 136.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zidroid bundles it home from point-blank range! Real Machina break the deadlock! A poacher's finish right at the mouth of the goal, and the white shirts lead one-nil!",
+    "wav": "line_191fdb5585fcf670.wav",
+    "dur_s": 10.66
+  },
+  {
+    "t": 154.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls to work it clear.",
+    "wav": "line_538bd8acf2642165.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 157.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And CR-7000 tucks it away from point-blank! Two quick goals for Real Machina, doubling their advantage in the blink of an eye.",
+    "wav": "line_d8382a629203230b.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 164.16,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss comes clattering in with a heavy challenge in midfield, sending Zidroid sprawling across the deck. Real Machina won't mind too much with this two-goal cushion.",
+    "wav": "line_762691276feb0c64.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 195.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A quiet spell as Signal retrieves the ball. Real Machina are a curious outfit\u2014the frozen founding club, built without a gaffer, never altered between matches, yet they have taken this first half by the throat.",
+    "wav": "line_f15831a280386bb8.wav",
+    "dur_s": 13.19
+  },
+  {
+    "t": 225.81,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zidroid bursts clean through the middle once again.",
+    "wav": "line_510f609c1b247c9e.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 232.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zidroid charges straight towards goal.",
+    "wav": "line_ac4e460489e34410.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 232.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Zidroid finishes with ruthless composure! That is three for Real Machina, who are running riot before the break.",
+    "wav": "line_8294787e31537af8.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 241.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Real Machina are relentless as Zidroid pushes the ball straight back into the final third.",
+    "wav": "line_cc0ec469b9604def.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 252.56,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pounded into the bevelled corner, and the push-panel fires it out.",
+    "wav": "line_13d7e4bad9f07e9e.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 258.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flashed wide of the target.",
+    "wav": "line_c9d1f8f32e67536f.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 259.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Zidroid bundles in another right at the goal mouth! A first-half hat-trick for the number two, and DeepSeek Rovers are being completely dismantled here. Four-nil.",
+    "wav": "line_e03a1097835ba4c3.wav",
+    "dur_s": 10.08
+  },
+  {
+    "t": 276.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss shouts to peel the ball off the perimeter wall.",
+    "wav": "line_a332a6a3f70d8470.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 282.44,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "To compound DeepSeek's misery, Signal simply loses footing on the touchline and hits the deck. They will have to wait for the gyros to correct themselves.",
+    "wav": "line_fb27bab1ddbb6f38.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "There sounds the hooter for half time. A thoroughly one-sided affair so far, with Real Machina cruising at four goals to nil. Rovers need a complete reboot before the second period.",
+    "wav": "line_ddb0ce629cfceb8c.wav",
+    "dur_s": 11.68
+  },
+  {
+    "t": 326.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 drives down the middle.",
+    "wav": "line_c81b2b1971316cd5.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 328.56,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A snap effort from CR-7000 drifts a metre wide. Real Machina picking up right where they left off.",
+    "wav": "line_f83d041150e9dbc1.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 345.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid alerts the teammate that the ball is coming off the boards.",
+    "wav": "line_3208dd64ea3d1fec.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 350.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid advances on the right.",
+    "wav": "line_47c27e9906cd381f.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 351.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "DeepSeek are hemmed in again.",
+    "wav": "line_65c02c6dccc5cea2.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 351.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Skimming just wide of the near post.",
+    "wav": "line_a9ef075039ee4d95.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 354.71,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal finds a rare lane clean through on goal.",
+    "wav": "line_ca6adf3d02fcb1de.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 360.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal takes an age bringing it forward out of their own third, nudging the ball along the right channel. A bit too deliberate when chasing a four-goal deficit.",
+    "wav": "line_bc1524da291de8c6.wav",
+    "dur_s": 9.77
+  },
+  {
+    "t": 380.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Punished immediately! CR-7000 sweeps it into the net from close range to make it five. It is becoming an absolute rout for the all-white shirts.",
+    "wav": "line_abf9a0cc18af632a.wav",
+    "dur_s": 10.87
+  },
+  {
+    "t": 408.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls to extract the ball.",
+    "wav": "line_fb584f8e64bff16f.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 410.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And CR-7000 pounces again! Six-nil now to Real Machina, tapping it in at point-blank range without a whisper of resistance.",
+    "wav": "line_c7cc1c1039070df4.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 417.08,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss clatters into CR-7000 in the centre circle, leaving the Real Machina forward flat on the floor.",
+    "wav": "line_5394b1af9a31e7c4.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 425.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just wide of the upright.",
+    "wav": "line_b541f6c2a21837a6.wav",
+    "dur_s": 1.46
+  },
+  {
+    "t": 427.34,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 goes down entirely unassisted near the right touchline. The actuators just seem to give way, but with a six-goal lead, they can take their time standing back up.",
+    "wav": "line_25a40187b8d142fc.wav",
+    "dur_s": 9.9
+  },
+  {
+    "t": 462.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal probes up the left channel.",
+    "wav": "line_b8e3b6904dfaf11f.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 463.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rovers sustained pressure comes to nothing.",
+    "wav": "line_6c68f4adce9862b6.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 465.84,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "CR-7000 breaks away clean through.",
+    "wav": "line_602eb7ae749d7ee8.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 467.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss is calling out to shift the ball out from the wall.",
+    "wav": "line_ee4fbe98e3d8a9f7.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 475.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "DeepSeek named an unchanged squad after their win earlier today, but they look entirely drained. CR-7000 can just casually roll the ball five metres up the flank.",
+    "wav": "line_1d52f2d4882e3f82.wav",
+    "dur_s": 10.27
+  },
+  {
+    "t": 507.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss gives a shout to work the ball loose from the boards on the right channel. Time is rapidly slipping away from Rovers.",
+    "wav": "line_de5d6e76fb2475d9.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 522.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Real Machina pin them deep.",
+    "wav": "line_9f0a2ede970a928c.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 522.56,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal collapses again without a challenge. A miserable outing for the defender.",
+    "wav": "line_6e16c12d65b6bfcc.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 527.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Zidroid rolls it across the line for number seven. It has been target practice for Real Machina, and Zidroid bags their fourth of the match. Seven-nil.",
+    "wav": "line_415bb942f13f6144.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 548.79,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The powered ram in the corner fires the ball sharply back out into the final third.",
+    "wav": "line_97efff788f16ab4d.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 558.57,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal puts in a late reducer, knocking Zidroid over, but it is far too little, far too late.",
+    "wav": "line_eae197c6c96f3fcd.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 570.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Shaved the post. Half a metre wide, but Real Machina are enjoying every second of these final exchanges.",
+    "wav": "line_e0651e903e832b38.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 588.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And there is the eighth! CR-7000 seals a four-goal haul of their own with seconds to spare. Eight-nil to Real Machina.",
+    "wav": "line_4699bf70f698b56c.wav",
+    "dur_s": 9.25
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, nil-eight to Real Machina. Singularity United meet GLM Friday: 20:00 UK, 21:00 Europe, 15:00 US East.",
+    "wav": "line_b4b3f483df7f6721.wav",
+    "dur_s": 8.75
+  }
+]

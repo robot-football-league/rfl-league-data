@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 4
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 6
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "3e89709c566afbb48a39222776fbd16714be7588",
+      "subject": "night 8: Tuned kick distance threshold to 1.25m for balanced approach and strike execution, verified clean practice run and scrutineering.",
+      "committed_at": "2026-09-04T12:58:43+01:00",
+      "dirty": true
+    },
+    "engine_commit": "b3ac9201a4eb4f9fe664b900fd1261f05be06c72"
+  }
+}

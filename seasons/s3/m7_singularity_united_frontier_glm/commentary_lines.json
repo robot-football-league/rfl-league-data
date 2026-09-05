@@ -1,0 +1,515 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round two. Singularity United in sky blue, GLM in their away strip.",
+    "wav": "line_2271f6e1a4d2bfda.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 7.93,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Haalandroid is through on goal right from the off!",
+    "wav": "line_8105e168098410f6.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 12.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving straight through the final third.",
+    "wav": "line_c909353683887644.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 15.28,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the left post! That was less than a metre away from an opening goal.",
+    "wav": "line_bed34858c51b9732.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 28.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid shouting across the backline to clear the danger as GLM apply a touch of pressure.",
+    "wav": "line_404953db51150a89.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 40.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM calls to work it off the boards.",
+    "wav": "line_8173ab5d8538c1ff.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 44.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid smashes it home from close range! Singularity United lead one-nil, breaking through after that sustained opening push!",
+    "wav": "line_d196943cadb91115.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 55.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid strides right to the line.",
+    "wav": "line_93d12d3f8abc1dc9.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 55.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And taps it in. Haalandroid makes it two-nil to Singularity United. Clinical work inside the box.",
+    "wav": "line_0a274ed0d6c77247.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 69.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid buries another from two metres out. That is three-nil to Singularity United, and the sky blues are running away with this.",
+    "wav": "line_6cde07faf1ecda01.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 82.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM adds a fourth from point-blank range. Four-nil to Singularity United, who look utterly relentless this afternoon.",
+    "wav": "line_c4ae59db0982223a.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 103.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Pu bundles it over the line to pull one back for GLM. A neat finish at the goal mouth makes it four-one.",
+    "wav": "line_830a11b9a4cea945.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 116.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM shouting that the ball is theirs.",
+    "wav": "line_d0275944e4fc4e59.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 119.28,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Fires just wide of the post.",
+    "wav": "line_669d19dc760d24ff.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 121.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM pounces on the rebound and turns it in. Five-one to Singularity United.",
+    "wav": "line_93845db9cc70c4f3.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 125.82,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid breaks clean through the midfield once again with no one back to cover.",
+    "wav": "line_0fce94e686e48f21.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 136.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Right up to the goal mouth.",
+    "wav": "line_9476e1081b203a49.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 137.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid strokes it home from point-blank range. That makes it six-one to Singularity United.",
+    "wav": "line_7ea85c7e9a14ff81.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 147.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A close effort, skimming just past the post from close range.",
+    "wav": "line_f21d545c199aa711.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 153.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "An unfortunate deflection off Pu rolls into the net. An own goal makes it seven-one to Singularity United.",
+    "wav": "line_3c7bd916b0213877.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 166.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid marching right through the middle.",
+    "wav": "line_ed9e49cd01875b97.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 167.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid slots another from two metres out. Eight-one to Singularity United now.",
+    "wav": "line_afe37917ba35046c.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 173.6,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid takes an unassisted tumble in the centre circle. Actuators resetting, and back on two feet in a few moments.",
+    "wav": "line_91b3862ca6779079.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 198.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Singularity United are camped in the final third, pinning GLM back against the boards with total control.",
+    "wav": "line_88f47d78cf7230ae.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 214.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM calls to pry the ball away from the right touchline.",
+    "wav": "line_a467fe0f4c8e07d0.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 226.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM finishes from point-blank range. It is nine-one now to Singularity United.",
+    "wav": "line_24a36ab282c4a4fe.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 239.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM strikes again from close in. Ten-one to Singularity United.",
+    "wav": "line_92c7214dc408fa71.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 243.0,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM finds plenty of daylight through the centre of the pitch, completely unmarked.",
+    "wav": "line_a3cac18d6311edc7.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 263.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A good direct carry from Pu, pushing up the centre towards the box.",
+    "wav": "line_8bf98e28a76b8846.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 272.86,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM topples over on the right flank, servos whirring as the upright sequence begins.",
+    "wav": "line_d07fe498a2a597e9.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 285.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A slight scramble at the back and BellingRAM turns it into their own net. Ten-two the score now.",
+    "wav": "line_326248bc78ee43bd.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid moves up the left touchline",
+    "wav": "line_09b357f568a52600.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 300.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid goes down heavily after a firm shoulder challenge from Pu.",
+    "wav": "line_d7b0596310de386d.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 317.22,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM into space out wide.",
+    "wav": "line_ab30c801eb5138ad.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 322.26,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM tucks it away from two",
+    "wav": "line_b455106fd79bda19.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 324.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Singularity United are an untouched founding unit, completely unchanged since day one, and their sharp decision-making has controlled every phase of this contest.",
+    "wav": "line_6968559b2f5ca165.wav",
+    "dur_s": 10.55
+  },
+  {
+    "t": 347.5,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Zhi shouts to play the wall.",
+    "wav": "line_5ea63c22fdbab88e.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 370.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Singularity United maintaining a heavy press in",
+    "wav": "line_68e5485f3d54dffe.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 373.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid loses balance out on the left touchline and drops to the turf.",
+    "wav": "line_33570e6993901d41.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 393.51,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid calls to free it.",
+    "wav": "line_ce9c2dffd4013636.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 401.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM shouts to confirm possession along",
+    "wav": "line_744d8f6346dc9cdc.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 403.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM calls to work it off the rebound panels.",
+    "wav": "line_0655f2234b41e65b.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 417.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM taps it in from point-blank range. That takes the score to twelve-two for Singularity United.",
+    "wav": "line_796e07b6647d27b2.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 424.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A speculative effort from deep skims a metre wide of the target.",
+    "wav": "line_63a1e0d7d4902615.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 442.92,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Singularity United pressing high once more.",
+    "wav": "line_8c0ae3ec1dffd271.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 463.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid converts right on the goal line. Thirteen-two",
+    "wav": "line_8a9146cb6e089365.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 466.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid scores again from point-blank range, making it fourteen-two as the clock winds down.",
+    "wav": "line_5822e61fd80330f0.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 482.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi breaks through the middle with a clear path towards the net.",
+    "wav": "line_1699d3b8f6ff108c.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 503.87,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi drives towards the target.",
+    "wav": "line_d9e6036962c7e7a9.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 512.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi bundles it home. GLM pull",
+    "wav": "line_b71298167eec69a3.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 512.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "GLM trying to sustain a spell of pressure inside the final third here.",
+    "wav": "line_be87f5f33a3ffc98.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 513.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM sweeps it into the net from two metres out. Fifteen-three to Singularity United now.",
+    "wav": "line_27aa95e482c47534.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 529.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM charges towards the line.",
+    "wav": "line_9b288961155d388f.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 543.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Fires across the face of goal,",
+    "wav": "line_01d4cf1477a2b9f9.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 543.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "GLM came into this round after a narrow defeat to Synthetic Athletic yesterday, but they have simply been overwhelmed here today.",
+    "wav": "line_c92016397511e46b.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 566.2,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Haalandroid finds the net from three metres out to make it sixteen-three to Singularity United.",
+    "wav": "line_9b0490860ea43c77.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 588.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, sixteen-three to Singularity United. Up next, Dynamo Datacenter meet Muse Spark FC, kicking off Saturday at twelve midday UK, one in Europe, and seven in the morning US East. Good day.",
+    "wav": "line_3e6cce9fae2093c8.wav",
+    "dur_s": 15.62
+  }
+]

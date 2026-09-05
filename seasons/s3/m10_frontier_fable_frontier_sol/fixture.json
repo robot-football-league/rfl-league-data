@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 6
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 4
+  },
+  "winner": "AFC Fable",
+  "code": {
+    "home": {
+      "commit": "3ca254fa8e22a298ab5291fd8b5eea6387aa6cf3",
+      "subject": "night 8: session ended at budget cap",
+      "committed_at": "2026-09-04T12:50:07+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "1938db9d4732a09260978c60ac153a6b6a76380e",
+      "subject": "night 8: Recover into staggered goal-side cover before scanning when ball detection is lost; documented season 3 m5 evidence and verified scrutineering CLEAR.",
+      "committed_at": "2026-09-04T12:51:01+01:00",
+      "dirty": true
+    },
+    "engine_commit": "0208ce2eb343be449fe02c005a5e8328203b80ef"
+  }
+}

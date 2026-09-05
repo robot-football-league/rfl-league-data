@@ -1,0 +1,533 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round two.",
+    "wav": "line_31fa7bb649a3b5a0.wav",
+    "dur_s": 1.41
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash immediately shouts to their partner, demanding an aggressive press on the ball right from the off.",
+    "wav": "line_adb2f7c02b33ad43.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 45.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Gemini Flash FC are camping in the final third, penning Synthetic Athletic back deep.",
+    "wav": "line_ea4bd90fe67bda65.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 52.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark breaks the deadlock from point-blank range! That is the opener, and Gemini Flash FC take a one-nil lead!",
+    "wav": "line_04ad4c71abd30b42.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 74.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho calls out from the left channel, letting Griezmatronn know they are prying the ball away from the boards.",
+    "wav": "line_3eedc226d2bb9a72.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 92.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Sustained territory again for Gemini Flash FC, keeping the red shirts hemmed in their own end.",
+    "wav": "line_52e3fed090ca2817.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 115.26,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho breaks clear from midfield! Clean through on goal here!",
+    "wav": "line_eadf08f2fdee2239.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 136.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash steps in, driving straight up the middle into shooting range.",
+    "wav": "line_52399a988a34fbf6.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 141.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark carries it right to goal.",
+    "wav": "line_c5696ac12c11b0ad.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 141.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark taps it home. That doubles the lead, making it two-nil to Gemini Flash FC.",
+    "wav": "line_ef571c138da7190c.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 147.64,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark topples over in midfield.",
+    "wav": "line_f5c2ccecb5a76a29.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 148.06,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn is clean through on goal!",
+    "wav": "line_b90194148de20590.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 152.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn surges straight to point-blank.",
+    "wav": "line_38f780ae03898169.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 152.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn converts! Synthetic Athletic strike straight back, it is one-two!",
+    "wav": "line_5c156f2af14e912d.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 156.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash bellows across the carpet, urging Spark to contest that loose ball in the centre.",
+    "wav": "line_a2657381bd3c2615.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 201.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho drives into the channel.",
+    "wav": "line_788b9ed7cf364b41.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 202.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Synthetic Athletic have settled in the attacking third now, forcing Gemini Flash FC to absorb real pressure.",
+    "wav": "line_20f28962f2db2dd4.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 223.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls out from the back, working the ball off the perimeter wall.",
+    "wav": "line_8949e6b485fd54bf.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 232.0,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just wide of the post.",
+    "wav": "line_d79b71178e8eaf38.wav",
+    "dur_s": 1.41
+  },
+  {
+    "t": 233.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho stabs it in right at the mouth of the goal! Synthetic Athletic have hauled themselves level at two-all!",
+    "wav": "line_7161169231ae8e96.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 252.68,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Another close shave in the defensive third, the ball whistling just wide.",
+    "wav": "line_c601e9e5c79b4a0e.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 261.74,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash flattens Robodinho out wide.",
+    "wav": "line_0b805174a257e636.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 262.47,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho returns the favour immediately.",
+    "wav": "line_1d8d8a31483a6e10.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 263.61,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "The corner ram shoots it out.",
+    "wav": "line_2e7878c5ab600c51.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 266.8,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates collide and Spark falls.",
+    "wav": "line_b87d8ce03fcc15be.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 267.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash sweeps it in amidst the chaos! A quick-fire response, and Gemini Flash FC lead three-two!",
+    "wav": "line_7e5914875f614584.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 284.6,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches away from another! Robodinho almost found the bottom corner there.",
+    "wav": "line_11d7b8fa2a1d5b1f.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 298.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls to unpick it.",
+    "wav": "line_bdecf1f0c4117c0c.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The whistle sounds for the break. A lively half comes to a close with Gemini Flash FC holding a three-two advantage.",
+    "wav": "line_0431d9e2133f8e8f.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 333.71,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark breaks clear down the wing!",
+    "wav": "line_d927aab435519cd4.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 337.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark motors into the final third along the left wall.",
+    "wav": "line_452cb93bcdce340a.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 341.77,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The push-panel activates, rocketing the ball back into open turf before anyone can corral it.",
+    "wav": "line_acc0c2852fcac6cc.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 369.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Heavy pressure applied by Flash.",
+    "wav": "line_38bfe17d1bdaa2e6.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 370.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho calls out to their defensive partner, guiding the ball safely along the perimeter.",
+    "wav": "line_24dec176e8fd9c3f.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 393.7,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A quiet moment as Synthetic Athletic take stock. Remember, this founding red club has never altered its build, querying their model live touch by touch while others tweak code between match days.",
+    "wav": "line_255b729f9a3280a6.wav",
+    "dur_s": 12.88
+  },
+  {
+    "t": 416.72,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark finds daylight on the right and races clean through on goal.",
+    "wav": "line_7ea0e160f3c3f715.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 425.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark marches right into the six-yard.",
+    "wav": "line_1252caa1923db151.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 425.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark slots it home from close range. That makes it four-two to Gemini Flash FC.",
+    "wav": "line_3d052ab7c8c65d0d.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 431.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Griezmatronn gives a quick shout of possession in midfield.",
+    "wav": "line_7e31b631175c852f.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 440.36,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Inches wide of the target.",
+    "wav": "line_5fb13802ca588f4f.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 441.27,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Griezmatronn loses footing and hits the deck, needing a moment to reset.",
+    "wav": "line_0045af587632820d.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 446.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another effort flashes just wide.",
+    "wav": "line_d91d4c3664001eb4.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 448.94,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Griezmatronn clatters into Spark.",
+    "wav": "line_267a2831aa59479d.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 451.43,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark knocks Griezmatronn down.",
+    "wav": "line_0bb018ebe0099c7c.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 451.89,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark takes down Robodinho right on the doorstep.",
+    "wav": "line_5263341ad023b92e.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 456.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn pokes it over the line! Synthetic Athletic trail three-four with time running thin!",
+    "wav": "line_1ee0bb93ae08ba97.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 458.63,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Griezmatronn stumbles and drops right after the restart! Barely two minutes remain for them to find an equaliser.",
+    "wav": "line_8803b0af373c01d8.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 475.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Robodinho takes charge, driving up the right wing with the clock ticking down!",
+    "wav": "line_5f226604ebe917a8.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 488.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho scrambles it in! Unbelievable resilience from the red shirts, they have levelled it at four-four with under two minutes to play!",
+    "wav": "line_4e9e3576180990f8.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 504.3,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Spark bellows intent to shoot!",
+    "wav": "line_c8a029ecdfea1fa5.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 505.08,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "The push-panel launches the ball back out as both sides scramble for a late winner!",
+    "wav": "line_9e2f38b53a3db757.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 518.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark bundles it over the line! Heartbreak for Synthetic Athletic as Gemini Flash FC snatch a five-four lead very late on!",
+    "wav": "line_45456e93051ca32a.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 528.96,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Griezmatronn bursts through the middle with seventy seconds remaining! Can they rescue a point here?",
+    "wav": "line_3d7964ca7fcdaa0e.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 543.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Flash counters up the left channel, looking to run the clock down into the final minute.",
+    "wav": "line_cee1fa777b119958.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 560.7,
+    "kind": "tackle",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Griezmatronn clatters Spark to the turf, desperate to win back possession in the closing seconds!",
+    "wav": "line_4f7eaf3b9fdb7cc5.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 576.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "An agonising own goal! Robodinho deflects it into the net, sealing it at six-four to Gemini Flash FC!",
+    "wav": "line_d285af44728d2a4e.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 581.74,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Griezmatronn tumbles on the carpet.",
+    "wav": "line_e25def5c11c54c07.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 581.84,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark and Flash collide in midfield, but the points are firmly wrapped up now.",
+    "wav": "line_734e9f7af6b5be82.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "It ends four-six. Up next, AFC Fable meet Codex City Saturday at eight in the UK, nine in Europe, three",
+    "wav": "line_8d7cb4a3be51da9f.wav",
+    "dur_s": 8.36
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 16
+  },
+  "away": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 3
+  },
+  "winner": "Singularity United",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "581b1d2e2d0241fffba6ec80e59be9c174783032",
+      "subject": "night 8: session ended: backoff exceeded the wall clock",
+      "committed_at": "2026-09-04T14:33:34+01:00",
+      "dirty": true
+    },
+    "engine_commit": "aea9bf6cd750ef3a101a728007242541045d7fec"
+  }
+}

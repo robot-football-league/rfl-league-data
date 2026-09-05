@@ -1,0 +1,118 @@
+{"t": 2.6, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "Going for the kickoff ball!"}
+{"t": 2.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "Going for the kickoff ball!"}
+{"t": 4.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "kickoff"}
+{"t": 7.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 16.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 18.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "prying it from the wall"}
+{"t": 24.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 25.5, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "prying it loose from the wall"}
+{"t": 32.6, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "clearing it away"}
+{"t": 35.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it free along the wall"}
+{"t": 37.1, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "helping push it free from the wall", "reason": "cooldown"}
+{"t": 37.6, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "got it stuck, working it free"}
+{"t": 38.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it free along the wall", "reason": "repeat"}
+{"t": 39.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "helping free the ball"}
+{"t": 48.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "attacking the ball"}
+{"t": 51.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "working it free along the wall", "reason": "cooldown"}
+{"t": 57.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "got it, driving toward goal", "reason": "cooldown"}
+{"t": 74.3, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball's against the wall, clearing it"}
+{"t": 75.9, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "pushing it free"}
+{"t": 76.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it now"}
+{"t": 79.4, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 82.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 83.3, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "ball is stuck against wall, pushing it out", "reason": "cooldown"}
+{"t": 84.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck, pushing it out"}
+{"t": 84.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "got it unstuck"}
+{"t": 86.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "clearing the stuck ball", "reason": "cooldown"}
+{"t": 86.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it out"}
+{"t": 89.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing hard against the wall", "reason": "cooldown"}
+{"t": 90.2, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 91.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "clearing the ball", "reason": "cooldown"}
+{"t": 92.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 94.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 100.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "clearing the wall"}
+{"t": 120.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "got the stuck ball"}
+{"t": 122.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck by the wall, forcing it loose"}
+{"t": 134.8, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "prying it from the wall"}
+{"t": 135.7, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it from the wall"}
+{"t": 139.4, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "working it along the wall"}
+{"t": 140.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 140.9, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "helping push it off the wall"}
+{"t": 143.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 144.5, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "got it pinned against the wall, kicking free", "reason": "cooldown"}
+{"t": 156.3, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "moving in to clear it"}
+{"t": 159.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "got it, pushing it away from the corner"}
+{"t": 161.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "still working it loose"}
+{"t": 164.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "freeing it from the corner"}
+{"t": 166.0, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "working it free from the corner", "reason": "cooldown"}
+{"t": 171.1, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "ball is stuck, pushing it out"}
+{"t": 206.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "clearing the ball from the wall"}
+{"t": 211.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "unsticking it from the wall"}
+{"t": 213.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 228.1, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "clearing our goal"}
+{"t": 230.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "unsticking it"}
+{"t": 232.8, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "unsticking it", "reason": "repeat"}
+{"t": 264.0, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "Clearing from our goal!"}
+{"t": 279.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck, freeing it"}
+{"t": 280.6, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "Freeing the ball from the wall!"}
+{"t": 280.9, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "prying it off the wall"}
+{"t": 283.5, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 330.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball's stuck against the wall, clearing it"}
+{"t": 336.6, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "working it free from the wall"}
+{"t": 342.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "Striking toward goal!"}
+{"t": 355.2, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing the ball from the wall"}
+{"t": 356.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 357.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 357.8, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 368.5, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it away from the wall"}
+{"t": 370.7, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 372.9, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "getting the ball off the wall", "reason": "cooldown"}
+{"t": 385.3, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "got it"}
+{"t": 396.5, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "working it off the wall"}
+{"t": 399.3, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "freeing from the wall"}
+{"t": 400.6, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "clearing it from the wall"}
+{"t": 400.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "moving the ball", "reason": "cooldown"}
+{"t": 402.2, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 402.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 403.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 405.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 415.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "getting it unstuck"}
+{"t": 416.9, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "pushing off the wall"}
+{"t": 418.0, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "prying it away from the wall"}
+{"t": 418.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 420.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 420.9, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "freeing the stuck ball"}
+{"t": 422.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 423.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "helping clear the wall", "reason": "cooldown"}
+{"t": 426.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it off the wall"}
+{"t": 434.0, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "clearing it toward the goal"}
+{"t": 435.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "blasting it free"}
+{"t": 436.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck against the wall, kicking it clear"}
+{"t": 437.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 442.8, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "going for the ball", "reason": "cooldown"}
+{"t": 446.4, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "attacking the ball"}
+{"t": 459.2, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "moving to the ball"}
+{"t": 463.6, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "clearing it away from our goal", "reason": "cooldown"}
+{"t": 464.7, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 465.1, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it from the wall"}
+{"t": 466.6, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "prying it loose from the wall"}
+{"t": 466.8, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 467.5, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "unsticking the ball"}
+{"t": 467.5, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 469.0, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "battling for the ball at the wall", "reason": "cooldown"}
+{"t": 469.1, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 470.4, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it past the post", "reason": "cooldown"}
+{"t": 475.0, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 478.0, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it off the wall"}
+{"t": 548.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 550.2, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "helping push it free"}
+{"t": 550.8, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "pushing it free"}
+{"t": 552.6, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "got it near the wall", "reason": "cooldown"}
+{"t": 553.2, "from": "r3", "team": "Muse Spark FC", "number": 2, "text": "got it, clearing the wall"}
+{"t": 554.0, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 554.3, "from": "r0", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 556.3, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "breaking it away from the wall", "reason": "cooldown"}
+{"t": 560.2, "from": "r3", "team": "Muse Spark FC", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 562.0, "from": "r2", "team": "Muse Spark FC", "number": 1, "text": "got the ball near the wall"}
+{"t": 570.5, "from": "r2", "team": "Muse Spark FC", "number": 1, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 571.8, "from": "r1", "team": "Dynamo Datacenter", "number": 2, "text": "breaking it free"}

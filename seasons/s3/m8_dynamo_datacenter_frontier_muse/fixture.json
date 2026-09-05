@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 7
+  },
+  "away": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 4
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "4aab8f4324cd21da0005b2e37309b6f3abeb1783",
+      "subject": "night 8: (no summary given)",
+      "committed_at": "2026-09-04T13:03:07+01:00",
+      "dirty": true
+    },
+    "engine_commit": "aea9bf6cd750ef3a101a728007242541045d7fec"
+  }
+}

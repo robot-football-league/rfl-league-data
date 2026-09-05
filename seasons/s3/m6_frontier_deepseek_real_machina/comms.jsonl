@@ -1,0 +1,112 @@
+{"t": 74.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing the ball from our wall"}
+{"t": 76.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 81.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "unsticking the ball", "reason": "cooldown"}
+{"t": 84.5, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 88.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it, pushing through"}
+{"t": 89.9, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 90.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "helping clear it", "reason": "cooldown"}
+{"t": 92.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 94.2, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "poking it loose", "reason": "cooldown"}
+{"t": 94.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "ball is stuck by the wall, working it loose"}
+{"t": 96.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 98.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing it out", "reason": "cooldown"}
+{"t": 102.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "pushing it in!"}
+{"t": 107.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "getting in to help clear the wall"}
+{"t": 107.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 108.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 109.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "got it by the wall"}
+{"t": 110.4, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "prying it away from the wall", "reason": "cooldown"}
+{"t": 110.7, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 114.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 115.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "breaking it free"}
+{"t": 118.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "challenging by the wall", "reason": "cooldown"}
+{"t": 118.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it from the wall", "reason": "repeat"}
+{"t": 122.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 123.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "kick it out to the center"}
+{"t": 126.8, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 129.0, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "passing to the center", "reason": "cooldown"}
+{"t": 129.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "clearing the ball"}
+{"t": 130.3, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it to the goal", "reason": "cooldown"}
+{"t": 132.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "sending it upfield", "reason": "cooldown"}
+{"t": 138.5, "from": "r3", "team": "Real Machina", "number": 2, "text": "coming to the ball"}
+{"t": 146.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 154.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "pushing it free from the wall"}
+{"t": 162.9, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "attacking the ball", "reason": "cooldown"}
+{"t": 183.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it"}
+{"t": 197.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "working it off the wall"}
+{"t": 199.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "pushing it away from the wall"}
+{"t": 200.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 201.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "getting it free"}
+{"t": 203.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing off wall", "reason": "cooldown"}
+{"t": 205.4, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 207.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 265.8, "from": "r3", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 274.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball is stuck against the wall"}
+{"t": 276.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "pushing it off the wall"}
+{"t": 277.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "pushing it free from the wall"}
+{"t": 278.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 279.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 279.7, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 280.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "nudging it free", "reason": "cooldown"}
+{"t": 282.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it loose", "reason": "cooldown"}
+{"t": 282.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 290.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "working it off the wall"}
+{"t": 331.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 333.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it from the wall"}
+{"t": 339.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "got it off the boards", "reason": "cooldown"}
+{"t": 344.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it"}
+{"t": 345.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it off the boards"}
+{"t": 346.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "getting it unstuck", "reason": "cooldown"}
+{"t": 366.8, "from": "r3", "team": "Real Machina", "number": 2, "text": "moving the ball"}
+{"t": 369.1, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing the wall"}
+{"t": 370.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing hard against the wall", "reason": "cooldown"}
+{"t": 370.8, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 372.1, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "prying it loose from the boards", "reason": "cooldown"}
+{"t": 372.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "ball is stuck, pushing it out", "reason": "cooldown"}
+{"t": 375.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "prying it off the boards", "reason": "cooldown"}
+{"t": 377.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 394.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "loosening it from the wall"}
+{"t": 395.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "working it along the wall"}
+{"t": 396.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "prying it off the wall"}
+{"t": 398.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing along the wall", "reason": "cooldown"}
+{"t": 404.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing from the wall", "reason": "cooldown"}
+{"t": 408.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "working it free from the corner"}
+{"t": 408.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "nudging it free"}
+{"t": 446.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 447.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "prying it off the wall"}
+{"t": 451.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing it from the wall"}
+{"t": 452.8, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 453.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 454.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "helping pry it loose"}
+{"t": 454.7, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 458.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "punching it away from the wall"}
+{"t": 463.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 463.1, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 464.1, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing it loose", "reason": "cooldown"}
+{"t": 467.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it from the wall"}
+{"t": 468.9, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 469.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "getting it off the corner"}
+{"t": 484.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "working it off the wall"}
+{"t": 486.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "nudging it past the corner"}
+{"t": 490.9, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 495.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "pushing it free"}
+{"t": 496.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "shoving it free"}
+{"t": 500.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing the corner"}
+{"t": 507.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "getting it unstuck"}
+{"t": 509.4, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "shoving it free", "reason": "cooldown"}
+{"t": 511.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "ball is stuck, working it out", "reason": "cooldown"}
+{"t": 513.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing the ball from the corner", "reason": "cooldown"}
+{"t": 514.7, "from": "r2", "team": "Real Machina", "number": 1, "text": "scoring"}
+{"t": 516.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "shoving it free", "reason": "cooldown"}
+{"t": 526.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "getting it unstuck from the wall"}
+{"t": 529.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "still working it free", "reason": "cooldown"}
+{"t": 532.8, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "got it"}
+{"t": 535.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing through the center", "reason": "cooldown"}
+{"t": 540.9, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing it from the wall"}
+{"t": 542.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 543.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "nudging it along the wall", "reason": "cooldown"}
+{"t": 546.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 555.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "freeing it from the corner"}
+{"t": 576.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "working it free"}
+{"t": 577.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "pushing it off the wall"}
+{"t": 582.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "working it out of the corner", "reason": "cooldown"}

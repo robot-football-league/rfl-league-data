@@ -1,0 +1,422 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here in round two."
+  },
+  {
+    "t": 2.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe calls out early, racing for the kickoff ball. Dynamo Datacenter remain completely unchanged as a founding side, with no gaffer to alter their ways, trusting their original setup."
+  },
+  {
+    "t": 25.0,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the post!"
+  },
+  {
+    "t": 25.51,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark breaks clean through the middle, absolutely nobody between the striker and the goal mouth!"
+  },
+  {
+    "t": 37.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse is shouting across, working hard to free the magenta ball off the touchline."
+  },
+  {
+    "t": 47.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse drives sharply up the left channel."
+  },
+  {
+    "t": 50.4,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flashed just wide of target."
+  },
+  {
+    "t": 51.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "A nightmare touch from Buffon.exe and it trickles into their own net! An own goal breaks the deadlock, putting Muse Spark FC one-nil up!"
+  },
+  {
+    "t": 70.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark carries the ball along the right channel, pressing right up into the final third as the spark-blues look to build on their lead."
+  },
+  {
+    "t": 83.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Dynamo Datacenter are completely pinned back deep inside."
+  },
+  {
+    "t": 86.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls out, looking to shove the ball clear of their own third."
+  },
+  {
+    "t": 92.88,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark loses footing and topples right over."
+  },
+  {
+    "t": 96.6,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Mbapp-E suddenly surges clean through the middle, unattended and with a direct path towards goal!"
+  },
+  {
+    "t": 109.82,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark crunches in with a firm challenge, knocking Buffon.exe to the turf on the touchline."
+  },
+  {
+    "t": 117.84,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just shaving the upright there."
+  },
+  {
+    "t": 118.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse drives to point-blank range."
+  },
+  {
+    "t": 119.85,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe takes an awkward spill."
+  },
+  {
+    "t": 120.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "It is another own goal, turned in by Mbapp-E! Unbelievable misfortune for Dynamo, and Muse Spark FC lead two-nil without scoring off their own boots."
+  },
+  {
+    "t": 156.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse signals to sweep across and clear the ball out of the danger zone."
+  },
+  {
+    "t": 166.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Dynamo Datacenter turn the screw, pinning Muse Spark FC deep inside their third."
+  },
+  {
+    "t": 172.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe strikes from the left channel! Dynamo Datacenter pull one back, making it one-two and igniting the contest!"
+  },
+  {
+    "t": 183.75,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe clatters into Spark, sending the blue robot sprawling out on the deck."
+  },
+  {
+    "t": 190.63,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse tumbles over on the touchline."
+  },
+  {
+    "t": 193.86,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse clips Mbapp-E, sending the yellow shirt flat on the pitch."
+  },
+  {
+    "t": 198.86,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe delivers another heavy challenge, leveling Spark once again in midfield."
+  },
+  {
+    "t": 205.77,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The spark-blue teammates collide heavily."
+  },
+  {
+    "t": 208.29,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark and Muse tangle once again, leaving Spark prone on the carpet. Complete disarray between the two of them."
+  },
+  {
+    "t": 218.69,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Mbapp-E pounces on the mistake and runs clean through on goal!"
+  },
+  {
+    "t": 226.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E drives the magenta ball right to goal."
+  },
+  {
+    "t": 230.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to prise it loose."
+  },
+  {
+    "t": 233.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe bundles it across the line! We are all square at two-two!"
+  },
+  {
+    "t": 235.36,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse loses balance in the middle, toppling over yet again. Muse Spark FC let a two-goal lead slip, and their composure seems to have vanished with it."
+  },
+  {
+    "t": 255.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Dynamo Datacenter pressing aggressively in the final third."
+  },
+  {
+    "t": 259.16,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches wide of the left post!"
+  },
+  {
+    "t": 262.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe scores again! Dynamo Datacenter take the lead, turning a two-goal deficit into a three-two advantage before the break!"
+  },
+  {
+    "t": 287.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E finishes from point-blank range! Four unanswered goals for Dynamo, and they lead four-two right before half time!"
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "There is the whistle for half time. After that chaotic opening filled with own goals, Dynamo Datacenter have clawed their way firmly in front, leading four-two."
+  },
+  {
+    "t": 325.6,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A sharp strike flashes half a metre wide of the target to open the second half."
+  },
+  {
+    "t": 335.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse pulls one back! A ruthless strike from two metres out cuts the deficit in half, and Muse Spark FC are right back in touch at four-three!"
+  },
+  {
+    "t": 355.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to clear it."
+  },
+  {
+    "t": 357.13,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E barges Spark to the deck!"
+  },
+  {
+    "t": 359.86,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E takes down Muse as well, shutting down the attack right at the goal mouth with uncompromising force. Resolute defending from the yellow shirt."
+  },
+  {
+    "t": 387.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe brings the magenta ball out into the middle of the park, taking the sting out of the spark-blue rally."
+  },
+  {
+    "t": 402.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe calls to clear wide."
+  },
+  {
+    "t": 404.25,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Muse steals in and is clean through on goal! A massive chance to draw level!"
+  },
+  {
+    "t": 436.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E shouts across that the ball is trapped against the wall and needs boot put to it."
+  },
+  {
+    "t": 456.75,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Mbapp-E is clean through on goal!"
+  },
+  {
+    "t": 460.16,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Off the post! How on earth has that stayed out with barely two minutes on the clock!"
+  },
+  {
+    "t": 475.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Dynamo Datacenter pin the blue shirts deep into their own territory. Time is draining away, and Muse Spark FC are running out of seconds to find an equaliser."
+  },
+  {
+    "t": 493.81,
+    "kind": "collision",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Buffon.exe collides with teammate Mbapp-E and crashes to the deck, handing possession straight back."
+  },
+  {
+    "t": 507.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Muse drives straight down the middle!"
+  },
+  {
+    "t": 510.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Disaster strikes for Dynamo as Mbapp-E puts it into their own net! Ninety seconds remaining, and it is tied at four-four!"
+  },
+  {
+    "t": 522.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Buffon.exe storms straight back forward!"
+  },
+  {
+    "t": 522.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe replies instantly! Barely seconds after conceding, Dynamo Datacenter retake the lead at five-four! What an incredible finish this is turning into!"
+  },
+  {
+    "t": 540.0,
+    "kind": "clock",
+    "stakes": 2,
+    "energy": "build",
+    "text": "One minute left on the clock. Muse Spark FC must find a goal right now, while Dynamo just need to survive sixty seconds to claim victory."
+  },
+  {
+    "t": 569.99,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The push-panel fires the ball back into the channel, thirty seconds left for Muse Spark FC to save this!"
+  },
+  {
+    "t": 582.04,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Whistling centimetres wide of the post!"
+  },
+  {
+    "t": 583.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark turns it into their own net! A catastrophic own goal with sixteen seconds left seals the points, making it six-four to Dynamo Datacenter!"
+  },
+  {
+    "t": 599.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E slots in one more right at the death, seven-four!"
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo win seven-four. Synthetic Athletic meet Gemini Flash Saturday: eight in the UK, nine in Europe, three US East."
+  }
+]
