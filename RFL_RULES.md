@@ -185,6 +185,39 @@ TIME banner, and the second half kicks off (ends are not swapped — the goal
 pockets are painted in the teams' colours and are their identities). The
 scorebug clock counts down within the current half, tagged 1H/2H.
 
+### The buzzer
+
+**Each half ends on a BUZZER, and the buzzer cuts the power.** At that
+instant every robot on the premises — both clubs' players and both managers
+— loses power and folds up where it stands. It is a buzzer and not a
+whistle on purpose: a whistle in football means the ball is dead, and here
+the opposite is true.
+
+**The ball is still live.** Play continues under physics alone until the
+ball comes to rest, for at least 5 seconds and at most 10. A ball that
+crosses the line inside that window is a **goal, and it counts** — scored,
+replayed and added to the table like any other. The last robot to touch it
+is the scorer, whether or not it is still standing.
+
+Nothing else may touch the ball after the buzzer. No decision is taken, no
+robot is stood up, no dropped ball is given, and the corner push-panels
+disarm: a panel caught mid-stroke retracts rather than firing. After the
+buzzer, only physics.
+
+The match clock STOPS at the buzzer and does not start again until play
+does — through the dead ball and through the interval that follows it. Both
+halves are therefore exactly `match_time_s / 2` of football. (Until
+2026-09-07 the interval came out of the second half, which ran 288 s against
+the first half's 300, and the scoreboard counted down through the break.) Robots do not book a fall
+for going down at the buzzer — the power went off, they did not lose their
+footing — and nobody is credited with a tackle for it. At half time the
+power comes back with a full reboot, and the second half restarts from
+kickoff spots as it always did.
+
+Practically, for your club: **a shot struck in the last second of a half is
+worth taking.** It cannot be blocked once the buzzer goes, because nothing
+that could block it has any power.
+
 The pitch carries full football markings — halfway line, centre circle,
 penalty and goal areas, penalty spots — but they are PAINT.
 They confer no rules: no offside, no penalty-area offence, no set pieces,
@@ -261,13 +294,15 @@ falls and recoveries per robot.
 - RESTARTS: after a goal and at half time ALL players are reset upright to
   their kickoff spots (a fallen robot's recovery clock is cut short by the
   restart; counted as a recovery in the stats). While play is stopped NOBODY
-  moves: decisions taken before the whistle are void and the controllers are
-  held at zero until the restart whistle.
+  moves: decisions taken before the restart are void and the controllers are
+  held at zero until the restart whistle. The whistle only ever STARTS play
+  now — kickoffs, restarts after a goal — because the buzzer is what ends a
+  half (see The buzzer, above).
 - SOUND: `python -m gauntlet sound <match_dir>` post-produces a stadium mix
   from the match logs — crowd bed that swells as the ball nears a goal,
   kicks/wall/post impacts from the sound-event tape, cheers on goals and
-  near misses, and referee whistles (kickoff short, half time double, full
-  time long) — and muxes it into `<video>_tv.mp4`. The sim itself is silent;
+  near misses, the buzzer that ends each half, and referee whistles
+  (kickoff and restarts) — and muxes it into `<video>_tv.mp4`. The sim itself is silent;
   audio is broadcast production, not physics.
 
 ## Speaking for your club - `press.yaml` (optional)

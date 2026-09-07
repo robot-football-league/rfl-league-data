@@ -1,0 +1,506 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round three.",
+    "wav": "line_b1c360076fcdebef.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to hold their own half.",
+    "wav": "line_0fd3be6c36f200f5.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 4.58,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise takes an early tumble in the centre.",
+    "wav": "line_438f44c5dd20dbca.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 8.68,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise gets right back up and leaves Griezmatronn flat on the deck in midfield. Clattering challenge.",
+    "wav": "line_452c95982e075688.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 41.27,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner push-panel fires it back.",
+    "wav": "line_96426747e88384aa.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 43.52,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho crunches into Tortoise deep.",
+    "wav": "line_1152ec9c904813a6.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 45.65,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Messy scenes as Hare trips over teammate Tortoise and crashes down.",
+    "wav": "line_4b5805bd8184a0af.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 53.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts to claim it.",
+    "wav": "line_6e240cd1030c76a7.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 54.46,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise wobbles and goes over unaided back in their own third. Servos struggling there.",
+    "wav": "line_a8574a73c98d369f.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 63.4,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare is completely clean through!",
+    "wav": "line_42f505b0dc3fe849.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 65.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare powers down the right channel, right into the final third!",
+    "wav": "line_f1a23c5da47abd53.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 72.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare buries it! The opener goes to AFC Fable! Clinical from the away side!",
+    "wav": "line_e8c1ad6f113e88e2.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 98.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable applying severe pressure now, hemming Synthetic Athletic into their own third for ten long seconds.",
+    "wav": "line_6f7b063bebc29a77.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 109.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare drives through the middle with real authority, carrying it deep.",
+    "wav": "line_2c135fb5292064e7.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 118.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls out to dig the ball out from the wall. Athletic ask for every move live from their language model, but right now they are firmly on the back foot.",
+    "wav": "line_01773b903f87ffdb.wav",
+    "dur_s": 10.45
+  },
+  {
+    "t": 141.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable keep them pinned right against the glass.",
+    "wav": "line_965d562d75ae48e0.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 147.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho takes matters into their own feet, driving out from the back to relieve the pressure.",
+    "wav": "line_c19105db2e2d0400.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 169.23,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho breaks clean through the left channel!",
+    "wav": "line_b39b6cbe98f80906.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 172.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho levels it up! Precision finish three metres out, and Synthetic Athletic are back on terms!",
+    "wav": "line_1ad5c93ae6840cbe.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 186.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to push together from the right flank.",
+    "wav": "line_7db7d5c0457b9a33.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 195.84,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches wide of the upright!",
+    "wav": "line_cad35c2a11449d52.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 199.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare surges five metres down the left channel, carrying deep into the danger area.",
+    "wav": "line_32ed58e449cd00cb.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 222.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare slots it home! Fable lead again!",
+    "wav": "line_4ca153552d842315.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 223.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Athletic pinned down instantly as Fable flood forward.",
+    "wav": "line_ae7dcdc30bfde2e1.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 232.16,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Griezmatronn is clean through on goal on the left!",
+    "wav": "line_3a9df4c40f7c11b1.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 236.96,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Off the post and bouncing!",
+    "wav": "line_3db4cec38e5d9025.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 237.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "It is an own goal! Hare turns it into their own net! We are level at two apiece!",
+    "wav": "line_c917d1d027540a96.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 258.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to drop back goal-side in a hurry.",
+    "wav": "line_02913982bf74ad83.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 268.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho pushes forward into the final third, shifting into space.",
+    "wav": "line_70641a0b9b276bb2.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 278.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Point blank and denied!",
+    "wav": "line_cadc095f9f68f964.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 279.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho scrambles it over the line! Synthetic Athletic turn it around right on the whistle!",
+    "wav": "line_2221381b975a739b.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 300.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Half time, Athletic lead three-two.",
+    "wav": "line_6bfb03c9b0adbd25.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 300.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise drives up the middle as the whistle sounds. Plenty of work left for both sides.",
+    "wav": "line_ca91910ae2613ff4.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 332.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise finds the net! AFC Fable strike early in the second half to make it three-three!",
+    "wav": "line_ab12e71d8757ef1c.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 342.07,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Griezmatronn drops Hare with a solid",
+    "wav": "line_2e9439a2cf9a2078.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 343.17,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Total confusion for Athletic as Griezmatronn trips over teammate Robodinho.",
+    "wav": "line_4380c206da08fd57.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 348.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Agonisingly close at point-blank range!",
+    "wav": "line_3a3f76b85323ceef.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 350.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts to take charge of the ball near the goal line.",
+    "wav": "line_2efd5e236056371e.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 369.02,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Tortoise breaks clean away down the touchline!",
+    "wav": "line_6feeae08c02436dd.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 378.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise powers three metres up the flank, taking play into midfield.",
+    "wav": "line_ca1553fd98c849ba.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 400.84,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Fired out hard by the push-panel, ricocheting away from the corner.",
+    "wav": "line_86e8c9a2472a6675.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 416.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise is shouting to drop goal-side as the ball runs through midfield.",
+    "wav": "line_ad79029038ac9196.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 429.41,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The panel blasts it clear.",
+    "wav": "line_dff9379cbe19280b.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 430.73,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho loses footing on the left channel. Needs a moment to reset the joints.",
+    "wav": "line_ebc7825cf46571a5.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 440.23,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Down goes Robodinho again. Struggling for traction out wide.",
+    "wav": "line_8796261e72cd3411.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 449.51,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare is clean through with nobody ahead!",
+    "wav": "line_4a26270935c3e202.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 472.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Synthetic Athletic sustaining huge pressure inside the final third with barely two minutes on the clock.",
+    "wav": "line_ed37fe4d01badfb5.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 489.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho scores! Crucial breakthrough late on, and Athletic take the lead!",
+    "wav": "line_184a062e8c041e66.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 492.1,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Hare calls to take control in the centre as time rapidly slips away.",
+    "wav": "line_a42c9e5f8eeeae8e.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 521.12,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Point-blank miss from Athletic!",
+    "wav": "line_f85318655c671e73.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 525.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Disaster for Fable! Tortoise knocks it into their own net! It is five-three Athletic in the final minute!",
+    "wav": "line_66e3658e42d5672d.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 539.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Griezmatronn strides straight down the middle.",
+    "wav": "line_ea63d35cd152279c.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 539.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Griezmatronn seals it! Six-three now, and that wraps up the points for Synthetic Athletic!",
+    "wav": "line_e2c21a0dea16ebf8.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 580.88,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Near miss from distance, rolling harmlessly wide with nineteen seconds remaining.",
+    "wav": "line_fae0e30ae393be3b.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 590.33,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Corner ram launches the ball back into the channel.",
+    "wav": "line_432697db9d3ba92d.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 600.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Full time, Synthetic Athletic take it six-three. Next up, Muse Spark face Real Machina on Monday at eight in the",
+    "wav": "line_8a045f9a326020b2.wav",
+    "dur_s": 9.95
+  }
+]

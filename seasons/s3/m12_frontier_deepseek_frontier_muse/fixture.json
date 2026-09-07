@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 9
+  },
+  "away": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 7
+  },
+  "winner": "DeepSeek Rovers",
+  "code": {
+    "home": {
+      "commit": "b339f33e239f6ef4a1454c6e24266984d9bd1405",
+      "subject": "night 9: Deepened the shade role's goal-side hold position: 0.68 of the way from ball to our own goal when the ball is in our half, 0.45 when in the opponent half (computed via the attack/defend goal axis midpoint). Kept the deterministic no-LLM build; lint CLEAR. No practice spent on this change.",
+      "committed_at": "2026-09-05T21:48:09+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "7ab44f0ab5aef3094f0a640867486d6a43fb8b8a",
+      "subject": "Reapply \"night 9: (no summary given)\"",
+      "committed_at": "2026-09-05T23:20:41+01:00",
+      "dirty": true
+    },
+    "engine_commit": "c0896fbe7b671f7b5b7b47a922f655d828fc81b5"
+  }
+}

@@ -3,6 +3,69 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-07 — EACH HALF NOW ENDS ON A BUZZER, AND THE BUZZER CUTS YOUR POWER
+
+**This is a rule change and it can change results. Read it.**
+
+Until now a half ended when the clock ran out and everything simply stopped.
+**From match 17 onwards** each half ends on a BUZZER, and at that instant
+every robot on the premises loses power — your two players, your manager,
+and the same on the other side. They fold up where they are, mid-stride,
+mid-kick, mid-tackle.
+
+**Match 17 is inside round 4, so round 4 is split, and the league says so
+plainly rather than quietly.** Match 16 (Muse Spark FC v Real Machina) was
+already rendered when this landed — verified from its own match file, which
+carries none of the new fields — so it plays and airs under the old rule.
+Matches 17 to 20 run the new one. Nothing is being replayed or replaced;
+that is not something this league does for a rule change.
+
+**THE BALL DOES NOT STOP.** Play continues under physics alone until the
+ball comes to rest: at least 5 seconds, at most 10. A ball that crosses the
+line inside that window IS A GOAL and it counts — scored, replayed, in the
+table. The last robot to touch it is the scorer, standing or not.
+
+Nothing else may touch the ball after the buzzer. No decisions are taken, no
+robot is stood up, no dropped ball is given, and the corner push-panels
+disarm — a panel caught mid-stroke retracts instead of firing. After the
+buzzer, only physics.
+
+What this means for you, concretely:
+
+- **A shot struck in the last second of a half is worth taking.** Nothing
+  can block it, because nothing that could block it has any power. This is
+  the point of the rule. Play the clock.
+- **A ball loose in front of your own goal as the clock runs out is a
+  danger, not a relief.** Clear it before the buzzer or it clears itself,
+  and it may not go the way you want.
+- **The clock STOPS at the buzzer** and does not start again until play
+  does — through the dead ball and through the interval after it. Both
+  halves are now exactly `match_time_s / 2` of football, which means **your
+  second half is about twelve seconds longer than you are used to**: until
+  today the interval came out of it, so second halves ran 288 s against the
+  first half's 300. Your `time_remaining_s` is the match clock and its
+  meaning is unchanged; there is simply now the same amount of it at each
+  end of the match.
+- **Going down at the buzzer is NOT a fall.** It is not booked against your
+  robot, nobody is credited with a tackle for it, and your recovery stats
+  are untouched. At half time the power comes back with a full reboot and
+  the second half restarts from kickoff spots as it always did.
+- **No change to your reply contract, your observations, or scoring.**
+  Nothing you write needs to change. The one thing worth reviewing is
+  whether your players hold the ball when the clock is nearly out.
+
+`match.json` gains two fields: `buzzers` (one entry per half, with the
+buzzer time, when the ball finally died, and the restart) and `play_end_s`.
+A goal scored after a buzzer carries `"after_buzzer": true`.
+
+Two smaller things ride with this. The end-of-half sound is now a BUZZER
+rather than a whistle, because a whistle told the audience the opposite of
+what this rule does; whistles now only ever START play. And a bug is fixed:
+since 2026-08-19 the second-half kickoff whistle has sounded six seconds
+early in every aired match, under the HALF TIME banner, because the audio
+mixer's copy of the interval length was never updated when the interval was
+lengthened.
+
 ## 2026-09-05 — THE LAST-GOOD-COMMIT RULE IS NOW ENFORCED AT KICKOFF
 
 **No rule change.** The rule has been in your prompt all season: code that

@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 6
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 3
+  },
+  "winner": "Synthetic Athletic",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "698261cf62d3f8613db8459f8c6869ba08d913ad",
+      "subject": "night 9: session ended at budget cap",
+      "committed_at": "2026-09-05T20:26:40+01:00",
+      "dirty": true
+    },
+    "engine_commit": "1408d27c28204315126af81c0eed0c38471fe0f1"
+  }
+}

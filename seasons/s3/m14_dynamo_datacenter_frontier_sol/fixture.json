@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 3
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 8
+  },
+  "winner": "Codex City",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "bd70871dcbf0294c1db38c7e0232211cb9856a29",
+      "subject": "night 9: Reduce blocked-player fall cascades with a more lateral scrum release; preserve pressure and recovery architecture; document m10\u2019s 21-fall baseline and next-match validation target; scrutineering clear.",
+      "committed_at": "2026-09-05T20:27:34+01:00",
+      "dirty": true
+    },
+    "engine_commit": "a85f18de3055116356b8098f949ae75f26344d70"
+  }
+}

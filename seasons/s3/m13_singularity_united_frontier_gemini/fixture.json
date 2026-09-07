@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 6
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 7
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "d610e858c95aa5b4b5adecd34c89a271f24526da",
+      "subject": "night 9: Reviewed Season 3 Match 9 6-4 victory over Synthetic Athletic, verified squad parameters and pure-pursuit role allocation, passed scrutineering cleanly.",
+      "committed_at": "2026-09-05T20:28:20+01:00",
+      "dirty": true
+    },
+    "engine_commit": "c0896fbe7b671f7b5b7b47a922f655d828fc81b5"
+  }
+}

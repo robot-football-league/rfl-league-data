@@ -1,0 +1,139 @@
+{"t": 0.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 0.5, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 11.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "Going for the ball"}
+{"t": 12.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 12.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 15.4, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "Going for the ball", "reason": "repeat"}
+{"t": 24.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 28.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 38.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 44.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 50.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 50.7, "from": "r1", "team": "Singularity United", "number": 2, "text": "Breaking it free from the wall!"}
+{"t": 56.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 57.8, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "Prying it loose from the corner wall.", "reason": "cooldown"}
+{"t": 61.1, "from": "r1", "team": "Singularity United", "number": 2, "text": "Pushing the ball out from the wall!"}
+{"t": 62.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 68.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 78.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 80.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 90.7, "from": "r1", "team": "Singularity United", "number": 2, "text": "prying it off the wall"}
+{"t": 94.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 98.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 107.4, "from": "r0", "team": "Singularity United", "number": 1, "text": "working it free from the wall"}
+{"t": 108.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 110.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 111.1, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "pushing it away from the corner", "reason": "cooldown"}
+{"t": 118.7, "from": "r1", "team": "Singularity United", "number": 2, "text": "coming to support"}
+{"t": 120.0, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 126.0, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 129.8, "from": "r1", "team": "Singularity United", "number": 2, "text": "clearing it off the wall"}
+{"t": 139.8, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 157.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 166.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 171.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 181.0, "from": "r1", "team": "Singularity United", "number": 2, "text": "Clearing the wall!"}
+{"t": 184.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 185.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 191.0, "from": "r0", "team": "Singularity United", "number": 1, "text": "Going for the ball"}
+{"t": 196.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 197.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 209.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 212.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 224.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 225.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Clearing ball upfield to flank!"}
+{"t": 236.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "ball's against the wall, digging it out"}
+{"t": 237.2, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 239.8, "from": "r1", "team": "Singularity United", "number": 2, "text": "got it near the wall"}
+{"t": 240.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 249.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Holding defensive corridor."}
+{"t": 252.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 255.9, "from": "r1", "team": "Singularity United", "number": 2, "text": "prying it off the wall"}
+{"t": 257.8, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 259.8, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 261.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 264.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 271.1, "from": "r0", "team": "Singularity United", "number": 1, "text": "clearing from the wall"}
+{"t": 273.5, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 273.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 276.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 276.9, "from": "r1", "team": "Singularity United", "number": 2, "text": "prying the ball off the wall"}
+{"t": 278.4, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "shoving it away from the wall", "reason": "cooldown"}
+{"t": 281.2, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 282.3, "from": "r0", "team": "Singularity United", "number": 1, "text": "pushing it along the wall"}
+{"t": 284.0, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 284.0, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 285.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 286.7, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 288.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 294.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "working it free from the wall"}
+{"t": 294.9, "from": "r1", "team": "Singularity United", "number": 2, "text": "clearing it from the wall"}
+{"t": 297.3, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "pushing it off the side wall", "reason": "cooldown"}
+{"t": 297.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 314.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 314.5, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 325.2, "from": "r1", "team": "Singularity United", "number": 2, "text": "ball's against the wall, digging it out"}
+{"t": 327.1, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "working it free from the wall", "reason": "repeat"}
+{"t": 330.9, "from": "r0", "team": "Singularity United", "number": 1, "text": "working it off the wall"}
+{"t": 332.5, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 334.3, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "digging the ball out from the wall", "reason": "cooldown"}
+{"t": 344.5, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 347.5, "from": "r1", "team": "Singularity United", "number": 2, "text": "clearing from the wall"}
+{"t": 348.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "prying it loose"}
+{"t": 348.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 352.0, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "attacking the ball", "reason": "cooldown"}
+{"t": 356.4, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it loose", "reason": "repeat"}
+{"t": 359.6, "from": "r1", "team": "Singularity United", "number": 2, "text": "got it near the wall"}
+{"t": 360.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 361.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "prying it off the wall"}
+{"t": 362.9, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it off the wall", "reason": "repeat"}
+{"t": 367.2, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 368.4, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 368.9, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it free from the wall", "reason": "cooldown"}
+{"t": 374.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 379.0, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it off the wall", "reason": "repeat"}
+{"t": 379.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 382.2, "from": "r0", "team": "Singularity United", "number": 1, "text": "working it along the wall"}
+{"t": 383.8, "from": "r0", "team": "Singularity United", "number": 1, "suppressed": "prying it free from the wall", "reason": "cooldown"}
+{"t": 386.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 387.1, "from": "r1", "team": "Singularity United", "number": 2, "text": "clearing it forward"}
+{"t": 395.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 398.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 409.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 410.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 415.7, "from": "r1", "team": "Singularity United", "number": 2, "text": "helping clear the corner"}
+{"t": 419.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "ball is stuck by the wall, pushing it out"}
+{"t": 419.8, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 422.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 423.9, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "pushing it out", "reason": "cooldown"}
+{"t": 427.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 434.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 440.2, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 448.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 450.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 460.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 464.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 471.3, "from": "r0", "team": "Singularity United", "number": 1, "text": "prying it loose from the wall"}
+{"t": 472.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 482.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 484.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 489.9, "from": "r1", "team": "Singularity United", "number": 2, "text": "got it"}
+{"t": 494.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 496.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 506.9, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 508.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 520.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 532.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 538.6, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 546.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 550.6, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 551.3, "from": "r0", "team": "Singularity United", "number": 1, "text": "Shooting!"}
+{"t": 554.2, "from": "r1", "team": "Singularity United", "number": 2, "text": "Got it!"}
+{"t": 558.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 560.6, "from": "r1", "team": "Singularity United", "number": 2, "suppressed": "Shooting!", "reason": "cooldown"}
+{"t": 562.6, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Clearing ball upfield to flank!"}
+{"t": 570.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 574.6, "from": "r3", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 578.6, "from": "r0", "team": "Singularity United", "number": 1, "text": "Going for the ball!"}
+{"t": 584.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 596.5, "from": "r2", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
