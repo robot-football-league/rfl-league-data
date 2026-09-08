@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 4
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 13
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {
+      "commit": "7ab44f0ab5aef3094f0a640867486d6a43fb8b8a",
+      "subject": "Reapply \"night 9: (no summary given)\"",
+      "committed_at": "2026-09-05T23:20:41+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "8e10ada0ae8fb13bf93c6c127fd198c69a5edcb6"
+  }
+}

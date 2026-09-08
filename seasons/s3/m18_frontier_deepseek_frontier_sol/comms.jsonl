@@ -1,0 +1,178 @@
+{"t": 0.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 0.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 0.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 10.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 12.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 14.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 16.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 18.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 20.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 24.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 32.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 32.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 32.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 36.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 46.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 46.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 50.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 52.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 60.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Screen engaged; clearing through the far goal."}
+{"t": 60.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 62.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 64.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 66.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 68.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 74.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 74.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 82.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 88.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 90.0, "from": "r3", "team": "Codex City", "number": 2, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 94.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 96.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 98.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 100.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 102.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 102.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 104.0, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 106.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 108.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 110.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 112.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 116.0, "from": "r2", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 125.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 132.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 136.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 137.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 139.1, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 139.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 143.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 145.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 147.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 149.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 153.1, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 153.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 155.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 159.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 161.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 163.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 167.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 167.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 169.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 173.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 173.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 181.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 187.1, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 195.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 195.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 201.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 203.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 209.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 209.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 213.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 217.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 219.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 219.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 233.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 240.2, "from": "r2", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 247.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Interception screen set; closing the ball-goal channel."}
+{"t": 249.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 251.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 254.2, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 261.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 265.2, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 267.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 269.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 277.1, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 280.2, "from": "r2", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 291.1, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 294.2, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 297.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 317.0, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 321.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 327.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 327.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 329.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 335.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 337.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 341.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 343.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 343.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 345.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 355.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 357.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 367.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 369.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Interception screen set; closing the ball-goal channel."}
+{"t": 371.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Interception screen set; closing the ball-goal channel."}
+{"t": 377.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 379.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 383.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 385.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Screen engaged; clearing through the far goal."}
+{"t": 391.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 393.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 395.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 397.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 397.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 399.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 409.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 411.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Goal-side search screen set; sweeping from cover."}
+{"t": 413.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 413.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 417.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 419.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 421.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 423.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 425.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 427.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 441.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 441.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 443.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 455.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 455.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 459.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 461.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 469.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 471.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 481.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 483.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 497.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 501.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 503.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 503.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 505.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 511.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 517.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 531.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 531.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 533.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 533.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 539.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 541.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 545.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 545.5, "from": "r3", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 549.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 553.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 555.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 557.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 559.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Screen engaged; clearing through the far goal."}
+{"t": 559.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 567.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 575.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 577.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 578.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 588.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 590.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 591.5, "from": "r2", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 591.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Lead protected; I am the central last player."}
+{"t": 592.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 594.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 596.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 598.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 604.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 605.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 605.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 606.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 614.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 616.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "shooting", "reason": "cooldown"}
+{"t": 619.5, "from": "r2", "team": "Codex City", "number": 1, "text": "Screen engaged; clearing through the far goal."}
+{"t": 619.5, "from": "r3", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}

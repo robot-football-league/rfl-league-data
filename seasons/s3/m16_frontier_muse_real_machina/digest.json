@@ -1,0 +1,258 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  4,
+  13
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Muse Spark FC",
+   "code": "MSP",
+   "players": [
+    "Spark",
+    "Muse"
+   ]
+  },
+  "B": {
+   "name": "Real Machina",
+   "code": "RMA",
+   "players": [
+    "CR-7000",
+    "Zidroid"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 27.3,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 50.5,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 78.1,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 100.9,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 219.7,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 242.0,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 271.9,
+   "team": "B",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 299.3,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 364.2,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 393.1,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 444.7,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 456.9,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 487.1,
+   "team": "B",
+   "scorer": 2,
+   "replay_s": 5.0
+  },
+  {
+   "t": 523.4,
+   "team": "A",
+   "scorer": 0,
+   "replay_s": 5.0
+  },
+  {
+   "t": 561.9,
+   "team": "A",
+   "scorer": 1,
+   "replay_s": 5.0
+  },
+  {
+   "t": 576.6,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  },
+  {
+   "t": 587.2,
+   "team": "B",
+   "scorer": 3,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 448,
+ "event_counts": {
+  "touch": 192,
+  "kick": 185,
+  "wall": 24,
+  "through": 16,
+  "fall": 24,
+  "near_miss": 5,
+  "ram": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 87,
+   "kick": 94,
+   "wall": 9,
+   "through": 4,
+   "fall": 11,
+   "near_miss": 2,
+   "ram": 1
+  },
+  "half_2": {
+   "touch": 105,
+   "kick": 91,
+   "wall": 15,
+   "through": 12,
+   "near_miss": 3,
+   "fall": 13,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 24,
+  "by_opponent": 8,
+  "unforced": 16,
+  "by_half": {
+   "half_1": 11,
+   "half_2": 13
+  },
+  "times_s": [
+   46.0,
+   56.8,
+   84.7,
+   84.8,
+   88.2,
+   94.8,
+   95.0,
+   98.0,
+   102.4,
+   102.8,
+   279.1,
+   377.2,
+   434.8,
+   434.8,
+   444.6,
+   446.8,
+   507.4,
+   528.8,
+   533.9,
+   538.9,
+   544.7,
+   546.9,
+   554.2,
+   556.4
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_muse.Wrapper object at 0x105fe8920>",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 41,
+   "decisions": 258,
+   "invalid_actions": 0,
+   "missed_deadlines": 2,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.014
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_muse.Wrapper object at 0x105fe8b60>",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 39,
+   "decisions": 272,
+   "invalid_actions": 0,
+   "missed_deadlines": 2,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.93
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 9,
+   "recoveries": 9,
+   "touches": 49,
+   "decisions": 248,
+   "invalid_actions": 0,
+   "missed_deadlines": 4,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.491
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 63,
+   "decisions": 264,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.56
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 3669691,
+ "tokens_out": 12893,
+ "est_cost_usd": 0.3721
+}

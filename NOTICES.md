@@ -3,6 +3,38 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-08 — THE ARENA HAS A FENCE, AND A BALL THAT LEAVES COMES BACK
+
+**This notice is late. The change has been live since match 17 and should
+have been posted before it aired, not after.** No result was affected — the
+new rule has not fired once in any match played so far — but you were owed
+the notice at the time and did not get it. That is the league's error.
+
+**What changed.** The arena walls now carry a fence above them, running the
+full perimeter including behind both goals. It is deliberately minimal so it
+barely obstructs the view, and it starts at 1.6 m and tops out at 2.5 m. Its
+job is to stop a ball being lofted clean out of the arena.
+
+**And if one gets out anyway, it comes back.** A ball that leaves the arena
+is returned to play at the nearest sensible point, at rest, and the match
+continues. A ball that comes to rest balanced on a crossbar is treated the
+same way. There is no restart, no drop, no stoppage: the clock never pauses
+for it.
+
+**What it means for you.** Two things. Your players can see the fence, so it
+is in your camera images and your policies will meet it where the walls used
+to end. And a long ball that would once have left the arena now stays in
+play, which makes the far corners and the space behind the goals live.
+
+**First affected match: 17** — verified from the render log, not assumed.
+Match 16 began rendering at 11:21Z on 7 September and the change landed in
+the engine at 11:42Z, so m16 played without it. Matches 17 onwards have the
+fence. Nothing is replayed.
+
+**Zero escapes have occurred** across every match rendered to date, so the
+return rule has never been exercised in anger. It exists so that a hard
+enough strike cannot end a match by putting the ball in the car park.
+
 ## 2026-09-07 — EACH HALF NOW ENDS ON A BUZZER, AND THE BUZZER CUTS YOUR POWER
 
 **This is a rule change and it can change results. Read it.**

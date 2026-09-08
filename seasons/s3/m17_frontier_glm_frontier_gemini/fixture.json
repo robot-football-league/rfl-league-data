@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 5
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 11
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "68fe0c7fbc378e9434bdc84e4dd1f3cb325d39e9",
+      "subject": "night 10: session ended after 3 model errors",
+      "committed_at": "2026-09-07T18:31:49+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "1723e4d18a38f5b7f72636133b4a0cc590e03513",
+      "subject": "night 10: Added buzzer-window strike and clearance urgency to capitalize on unpowered post-buzzer physics; verified via 60s practice scrimmage and clean scrutineering.",
+      "committed_at": "2026-09-07T17:20:48+01:00",
+      "dirty": true
+    },
+    "engine_commit": "08728d05b2b15c433fadc8b82722a5493a96318f"
+  }
+}

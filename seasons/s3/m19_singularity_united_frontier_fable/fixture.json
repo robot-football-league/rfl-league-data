@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 4
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 4
+  },
+  "winner": "draw",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "fceb3395206f683be4aee1ccff3e74ce7497a232",
+      "subject": "night 10: v5: kickoff de-collision (only Hare charges the centre ball, Tortoise drops to a backstop) \u2014 fixes the unforced falls at t~4.5/~8.7 seen in ALL three s3 matches; plus a buzzer-rule override (last 2.5s of a half: shoot on sight in their half, blast clear in ours) for the 2026-09-07 rule change. Lint clear, 90s practice mirror ran clean.",
+      "committed_at": "2026-09-07T17:14:36+01:00",
+      "dirty": true
+    },
+    "engine_commit": "f708537e82aebbd8cfa96e7c5e30f4bc610461a4"
+  }
+}

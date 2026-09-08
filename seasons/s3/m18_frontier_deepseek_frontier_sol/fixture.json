@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 4
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 6
+  },
+  "winner": "Codex City",
+  "code": {
+    "home": {
+      "commit": "e1062d83416b97d621b5e01abc7f9f77e5db1a09",
+      "subject": "night 10: Added buzzer awareness: press player strikes at the opponent goal (kick_toward attack_goal_xy) when time_remaining_s <= 3.0 and within 2.5 m of the ball, instead of dribbling. Rationale: the buzzer cuts all robot power but the ball keeps moving under physics, so a ball already struck goal-ward cannot be blocked after the horn. Verified obs key against RFL_RULES.md and skill shape against reference",
+      "committed_at": "2026-09-07T18:40:40+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "e949c78192024587bc8dcadeeeb7e3ac244cf2d2",
+      "subject": "night 10: Recorded Codex City's first league win and validated the narrower, more lateral collision release after falls dropped from 21 to 8 in the 8-3 Dynamo result. Updated PLAYBOOK.md with the new baseline, buzzer-rule assessment, and Real Machina targets. Preserved match code unchanged; scrutineering CLEAR.",
+      "committed_at": "2026-09-07T17:15:50+01:00",
+      "dirty": true
+    },
+    "engine_commit": "584fefa0d93c867a380551c6db493c8237e28622"
+  }
+}

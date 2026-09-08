@@ -1,0 +1,31 @@
+{"t": 2.8, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for the ball!"}
+{"t": 4.7, "from": "r0", "team": "Muse Spark FC", "number": 1, "text": "Going for the ball"}
+{"t": 4.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the ball"}
+{"t": 19.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 20.5, "from": "r0", "team": "Muse Spark FC", "number": 1, "text": "ball is stuck against the wall, pushing it out"}
+{"t": 22.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "Got it, shooting!", "reason": "cooldown"}
+{"t": 42.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball's against the wall, clearing it"}
+{"t": 63.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it away from our goal"}
+{"t": 67.2, "from": "r1", "team": "Muse Spark FC", "number": 2, "text": "working it free from the wall"}
+{"t": 80.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for the ball"}
+{"t": 120.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball is stuck against the wall, freeing it"}
+{"t": 124.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, pushing it out", "reason": "cooldown"}
+{"t": 127.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "working it free from the wall"}
+{"t": 139.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing the ball from the wall"}
+{"t": 142.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "poking it loose", "reason": "cooldown"}
+{"t": 171.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing off the wall"}
+{"t": 194.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "clear the ball"}
+{"t": 217.9, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it"}
+{"t": 220.8, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "forcing it in", "reason": "cooldown"}
+{"t": 221.2, "from": "r0", "team": "Muse Spark FC", "number": 1, "text": "Going for the ball"}
+{"t": 229.5, "from": "r1", "team": "Muse Spark FC", "number": 2, "text": "got it"}
+{"t": 274.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "attacking"}
+{"t": 322.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "got it"}
+{"t": 460.4, "from": "r0", "team": "Muse Spark FC", "number": 1, "suppressed": "Going for the ball", "reason": "repeat"}
+{"t": 476.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball's stuck against the wall, pushing"}
+{"t": 478.3, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 485.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 486.8, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 530.8, "from": "r1", "team": "Muse Spark FC", "number": 2, "suppressed": "got it", "reason": "repeat"}
+{"t": 592.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 600.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
