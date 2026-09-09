@@ -1,0 +1,515 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round four clash.",
+    "wav": "line_136ff17f25ddf017.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 1.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to take the restart directly.",
+    "wav": "line_cb1950590470be77.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 6.03,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho loses footing in the centre circle, though the self-righting routine is already kicking in.",
+    "wav": "line_011a5d27200c9e14.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 15.56,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Mbapp-E breaks clear down the right touchline with open space ahead and nobody to beat!",
+    "wav": "line_e29ac7326623621f.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 30.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Smashed home by Mbapp-E! Dynamo Datacenter take an early lead from point-blank range, opening the afternoon with real intent!",
+    "wav": "line_ed276ea08028708f.wav",
+    "dur_s": 8.23
+  },
+  {
+    "t": 45.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe strides right through the middle, advancing into dangerous territory.",
+    "wav": "line_4636cd4e50f7e62b.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 50.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A sweeping strike whistles just wide of the post!",
+    "wav": "line_5cb3e681a7db0ba2.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 59.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Yellow shirts locking Synthetic Athletic deep in their own territory here.",
+    "wav": "line_09ef290670232d22.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 65.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And Mbapp-E doubles the advantage! That is two nil to Dynamo Datacenter.",
+    "wav": "line_667bf5a946b64782.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 68.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe shouts that the ball is theirs to claim. Dynamo make their decisions on the fly, calculating every movement in real time without any sideline intervention.",
+    "wav": "line_5bd582c3b724d86f.wav",
+    "dur_s": 10.69
+  },
+  {
+    "t": 96.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho charges straight at goal.",
+    "wav": "line_473867c73c4b93f8.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 96.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho buries it! Out of nowhere, Synthetic Athletic cut the deficit in half, and we have a proper contest on our hands!",
+    "wav": "line_956f30c1ac2388fa.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 125.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Oh, an absolute disaster for Griezmatronn! Turned into their own net, adding to this season's remarkable tally of own goals, making it three one to Dynamo.",
+    "wav": "line_af16857aa30652a0.wav",
+    "dur_s": 10.08
+  },
+  {
+    "t": 148.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn calls to work it loose.",
+    "wav": "line_b96d207bec7ea1ea.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 148.58,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "But Mbapp-E pounces and bursts completely clear through the midfield.",
+    "wav": "line_f141946c153515ad.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 159.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Tucked away clinically by Mbapp-E! A four one cushion now, and Dynamo Datacenter are completely running away with this first half.",
+    "wav": "line_41fd9fb3a9466749.wav",
+    "dur_s": 9.72
+  },
+  {
+    "t": 190.44,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E overbalances along the left touchline and tumbles, but there is plenty of time to reset the gyros and stand back up.",
+    "wav": "line_088cbca5241f96d2.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 210.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn alerts Robodinho that they are moving in to clear the ball off the boundary wall.",
+    "wav": "line_87e3c72f95f43330.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 221.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E reclaims possession and drives forward steadily through the centre.",
+    "wav": "line_319353a0f9090cdb.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 231.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And that is another for Mbapp-E! Five one to Dynamo, punishing every inch of space Synthetic Athletic surrender.",
+    "wav": "line_41212d71b36a2c34.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 240.15,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn brought down by Buffon.exe.",
+    "wav": "line_c7f41102ba54142e.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 241.65,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A bit of friendly fire as the Dynamo pair collide, leaving Mbapp-E flat on the deck.",
+    "wav": "line_0740e8d9e95acdda.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 251.78,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Back on their feet and immediately down again. Mbapp-E struggling for balance in the middle.",
+    "wav": "line_81999d0c9f4b562c.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 273.62,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E breaks clear once more.",
+    "wav": "line_cab11814d721872f.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 276.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Advancing rapidly towards the target with seconds ticking away in the half.",
+    "wav": "line_59ad6e39ff6012a5.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 285.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Slotted home by Mbapp-E! That makes it six one, turning this into a real exhibition before the break.",
+    "wav": "line_488ec3c0efec4aa2.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 297.53,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo crash into each other again.",
+    "wav": "line_1b77e0b3a72954bd.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting power, but the ball rolls along the touchline.",
+    "wav": "line_fc166e55210beb84.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "It comes to rest, and that is half time at six one. Remember, the buzzer cuts power instantly, but the ball remains live until it stops moving, so any rolling shot still counts.",
+    "wav": "line_c1bf2bb2a57105d1.wav",
+    "dur_s": 11.34
+  },
+  {
+    "t": 337.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho powers down the middle.",
+    "wav": "line_9f973cbcf00bd58e.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 337.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho strikes early in the second half! A much-needed response for Synthetic Athletic, pulling it back to six two.",
+    "wav": "line_d64633fcf4e0c112.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 350.14,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn goes down near the wall.",
+    "wav": "line_45e0763de20c558f.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 353.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E calls that they are working the touchline.",
+    "wav": "line_e720f833198aab41.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 357.14,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Synthetic Athletic tangle up together.",
+    "wav": "line_19c7e76483a398ec.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 358.4,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E is through once again.",
+    "wav": "line_1418e754ce68b682.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 361.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Driving directly into the box.",
+    "wav": "line_72082f8066b88266.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 361.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "In goes another from Mbapp-E! Ruthless finishing from the Dynamo striker, making it seven two.",
+    "wav": "line_e87dbad98cc9e218.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 405.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe takes control now, carrying the magenta ball across the centre circle with measured precision.",
+    "wav": "line_2f28bc53cc990247.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 432.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn calls out to claim possession in their own third, trying to steady the ship for the red shirts.",
+    "wav": "line_538e889c95fa6309.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 449.53,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E breaks clear down the flank with only empty space in front.",
+    "wav": "line_c9f763d48e9fe0de.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 455.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E rolls it over the line again! Eight two to Dynamo Datacenter, who have looked completely in command today.",
+    "wav": "line_9e573258297dc29f.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 486.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "With just over two minutes remaining, Mbapp-E calls out that they are digging the ball off the barrier.",
+    "wav": "line_b61fae2a9373728d.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 499.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Dynamo Datacenter continuing to pin the red shirts inside their own perimeter.",
+    "wav": "line_9a16ad098b0086f7.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 506.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn shouts the intention to clear the danger away from their own net.",
+    "wav": "line_b6bfb3cf32450ea6.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 517.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Oh, Buffon.exe has nudged it into their own net! Another bizarre own goal in this high-scoring campaign, bringing Synthetic Athletic up to three against Dynamo's eight.",
+    "wav": "line_2d6cdeb650e3cdd8.wav",
+    "dur_s": 12.51
+  },
+  {
+    "t": 530.41,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho is toppled by Buffon.exe.",
+    "wav": "line_ada3c6430901c585.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 532.06,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho immediately returns the favour there.",
+    "wav": "line_a1e2fda63b2db26e.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 535.18,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel in the corner fires the magenta sphere back into the mix.",
+    "wav": "line_62c32730141f0875.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 546.91,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn goes flying after a firm challenge from Mbapp-E.",
+    "wav": "line_f8e131ee06355506.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 551.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn rights themselves and sends Mbapp-E sprawling in return.",
+    "wav": "line_1fc26ab57f5d299f.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 556.69,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho takes another heavy tumble near the corner.",
+    "wav": "line_054a0369bfa3a74d.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 560.26,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rebounded sharply off the powered panel, keeping play moving as the final minute winds down.",
+    "wav": "line_378bd069ff56e4db.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 576.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Late pressure here from Synthetic Athletic around the Dynamo box.",
+    "wav": "line_9d8fb241fc58df63.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 580.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E relieves the pressure, carrying the ball neatly out towards the left channel as the closing seconds tick away.",
+    "wav": "line_35f0f7d2dfb00e2c.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 596.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho squeezes it over the line! A late consolation for Synthetic Athletic, making it eight four with barely twenty seconds left on the clock.",
+    "wav": "line_c36f24ed53ab90bf.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, the robots drop limp, and the ball trickles wide.",
+    "wav": "line_f81c447f3dc1e50f.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, eight four to Dynamo. Real Machina meet Gemini Flash Wednesday: eight UK, nine Europe, three US East.",
+    "wav": "line_b2fc5623bfdee127.wav",
+    "dur_s": 10.14
+  }
+]

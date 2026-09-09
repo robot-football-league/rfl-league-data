@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:55:07+00:00",
+ "generated_at": "2026-09-09T12:00:47+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8886,23 +8886,6 @@
     },
     {
      "pos": 4,
-     "slug": "synthetic_athletic",
-     "name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "P": 3,
-     "W": 2,
-     "D": 0,
-     "L": 1,
-     "GF": 14,
-     "GA": 12,
-     "Pts": 6,
-     "GD": 2,
-     "prev": 4,
-     "move": 0
-    },
-    {
-     "pos": 5,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8916,10 +8899,44 @@
      "Pts": 6,
      "GD": 1,
      "prev": 7,
-     "move": 2
+     "move": 3
+    },
+    {
+     "pos": 5,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 4,
+     "W": 2,
+     "D": 0,
+     "L": 2,
+     "GF": 27,
+     "GA": 27,
+     "Pts": 6,
+     "GD": 0,
+     "prev": 8,
+     "move": 3
     },
     {
      "pos": 6,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 4,
+     "W": 2,
+     "D": 0,
+     "L": 2,
+     "GF": 18,
+     "GA": 20,
+     "Pts": 6,
+     "GD": -2,
+     "prev": 4,
+     "move": -2
+    },
+    {
+     "pos": 7,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8933,10 +8950,10 @@
      "Pts": 6,
      "GD": -6,
      "prev": 5,
-     "move": -1
+     "move": -2
     },
     {
-     "pos": 7,
+     "pos": 8,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8950,24 +8967,7 @@
      "Pts": 5,
      "GD": -1,
      "prev": 6,
-     "move": -1
-    },
-    {
-     "pos": 8,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 3,
-     "W": 1,
-     "D": 0,
-     "L": 2,
-     "GF": 19,
-     "GA": 23,
-     "Pts": 3,
-     "GD": -4,
-     "prev": 8,
-     "move": 0
+     "move": -2
     },
     {
      "pos": 9,
@@ -13063,8 +13063,209 @@
      "away_name": "Synthetic Athletic",
      "home_code": "DYD",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-09T11:00:00Z"
+     "status": "aired",
+     "score": [
+      8,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 5,
+        "second": 30.7,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 65.7,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 14,
+        "second": 96.5,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 19,
+        "second": 125.1,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": true
+       },
+       {
+        "minute": 24,
+        "second": 159.9,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 231.8,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 285.4,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 51,
+        "second": 337.4,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 361.4,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 68,
+        "second": 455.6,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 78,
+        "second": 517.5,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 89,
+        "second": 596.4,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 224,
+       "kick": 214,
+       "fall": 24,
+       "through": 23,
+       "wall": 22,
+       "near_miss": 1,
+       "buzzer": 2,
+       "ram": 2
+      },
+      "radio": [
+       {
+        "second": 1.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "Going for kickoff"
+       },
+       {
+        "second": 49.7,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 81.4,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "pushing it free"
+       },
+       {
+        "second": 121.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck against the wall, trying to free it"
+       },
+       {
+        "second": 188.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 203.6,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 256.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck on the wall, pushing it free"
+       },
+       {
+        "second": 353.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "nudging it off the wall"
+       },
+       {
+        "second": 391.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck, pushing it out"
+       },
+       {
+        "second": 447.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 473.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "clearing it off the wall"
+       },
+       {
+        "second": 490.4,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "working it free"
+       },
+       {
+        "second": 502.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 530.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the corner"
+       }
+      ],
+      "stats": {
+       "kicks": 214,
+       "falls": 24,
+       "near_misses": 1,
+       "post_hits": 0,
+       "through_balls": 23
+      },
+      "est_cost_usd": 0.4556
+     },
+     "aired_at": "2026-09-09T11:04:42Z",
+     "watch": {
+      "id": "s3-m20_dynamo_datacenter_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m20_dynamo_datacenter_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m20_dynamo_datacenter_synthetic_athletic"
+     }
     },
     {
      "n": 21,
@@ -13195,7 +13396,8 @@
      "away_name": "Synthetic Athletic",
      "home_code": "CDX",
      "away_code": "SYA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-13T11:00:00Z"
     },
     {
      "n": 33,
@@ -13820,12 +14022,28 @@
      "goals": 14
     },
     {
+     "name": "Mbapp-E",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 13
+    },
+    {
      "name": "Flash",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 13
+    },
+    {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 12
     },
     {
      "name": "Abyss",
@@ -13842,25 +14060,9 @@
      "code": "DYD",
      "color": "#f2c119",
      "goals": 11
-    },
-    {
-     "name": "Tortoise",
-     "team": "frontier_fable",
-     "team_name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "goals": 11
-    },
-    {
-     "name": "Patchford",
-     "team": "frontier_sol",
-     "team_name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "goals": 11
     }
    ],
-   "aired_count": 19,
+   "aired_count": 20,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -14820,8 +15022,8 @@
   }
  },
  "totals": {
-  "matches_aired": 56,
-  "goals": 618,
+  "matches_aired": 57,
+  "goals": 630,
   "clubs": 11
  }
 }

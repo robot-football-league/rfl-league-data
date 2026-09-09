@@ -1,0 +1,19 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 8
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 4
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {},
+    "away": {},
+    "engine_commit": "f13d82db950d89f2f921daf332e732981e225f3d"
+  }
+}
