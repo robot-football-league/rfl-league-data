@@ -1,0 +1,188 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  2,
+  5
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Muse Spark FC",
+   "code": "MSP",
+   "players": [
+    "Spark",
+    "Muse"
+   ]
+  },
+  "B": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 46.2,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 141.7,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 163.1,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 241.5,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 329.2,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 400.5,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 423.5,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 403,
+ "event_counts": {
+  "touch": 185,
+  "kick": 164,
+  "through": 23,
+  "wall": 16,
+  "near_miss": 5,
+  "ram": 3,
+  "fall": 5,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 95,
+   "kick": 87,
+   "through": 12,
+   "wall": 12,
+   "near_miss": 3,
+   "ram": 2,
+   "fall": 1
+  },
+  "half_2": {
+   "buzzer": 2,
+   "touch": 90,
+   "kick": 77,
+   "through": 11,
+   "wall": 4,
+   "ram": 1,
+   "near_miss": 2,
+   "fall": 4
+  }
+ },
+ "falls": {
+  "total": 5,
+  "by_opponent": 1,
+  "unforced": 4,
+  "by_half": {
+   "half_1": 1,
+   "half_2": 4
+  },
+  "times_s": [
+   297.5,
+   430.8,
+   497.4,
+   499.6,
+   507.0
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_muse.Wrapper object at 0x1177961e0>",
+   "falls": 0,
+   "recoveries": 0,
+   "touches": 35,
+   "decisions": 276,
+   "invalid_actions": 0,
+   "missed_deadlines": 13,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.831
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_muse.Wrapper object at 0x13017a1b0>",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 42,
+   "decisions": 283,
+   "invalid_actions": 0,
+   "missed_deadlines": 6,
+   "abandoned": 1,
+   "mean_decision_latency_s": 0.919
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "codex-city-learned-shape",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 67,
+   "decisions": 304,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "codex-city-learned-shape",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 41,
+   "decisions": 297,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 1279386,
+ "tokens_out": 4059,
+ "est_cost_usd": 0.1296
+}

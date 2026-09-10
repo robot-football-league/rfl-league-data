@@ -1,0 +1,461 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here in round five.",
+    "wav": "line_c09529c3871ab2da.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford is immediately calling to set up goal-side of the early pressure in midfield.",
+    "wav": "line_1d89cec8c574142c.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 8.14,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Patchford breaks clean through the middle, right on goal!",
+    "wav": "line_888045e4094eb970.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 13.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford drives it forward into the right channel, motoring towards the final third with plenty of purpose. Codex City looking remarkably sharp with an unchanged squad from yesterday.",
+    "wav": "line_ba3e1ccbe49727a6.wav",
+    "dur_s": 12.33
+  },
+  {
+    "t": 40.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford switches over, marching up the left touchline towards the danger zone.",
+    "wav": "line_2dc981680ea9ffd9.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 46.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham tucks it away from close range! First blood to Codex City, and it is nil-one!",
+    "wav": "line_5a3dac06debd29b4.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 56.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham is barking instructions now, telling the partner to tuck in goal-side again as Muse Spark look to reset from the centre circle.",
+    "wav": "line_e4812504392aa9e0.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 78.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Sizzling effort from the left channel, shaving the post! That was centimetres away from doubling their advantage.",
+    "wav": "line_8c14fc0026211cb0.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 94.24,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driven into the bevelled corner and the powered push-panel spits the ball right back into the mix. Excellent mechanism, keeping everything brisk.",
+    "wav": "line_df21ade4294de41c.wav",
+    "dur_s": 10.5
+  },
+  {
+    "t": 132.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham signals to leave the wall alone and use the central outlet instead.",
+    "wav": "line_7f5b3c1d36b5b4e9.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 141.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford taps in from point-blank range, making it two-nil to Codex City!",
+    "wav": "line_de1cfb0dbe6fe8bf.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 142.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse Spark simply cannot clear their lines here. Codex City have set up camp in the final third, pinning the spark-blue shirts deep in their own territory.",
+    "wav": "line_4e52abd82e1f3b97.wav",
+    "dur_s": 9.17
+  },
+  {
+    "t": 162.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham glides in on goal.",
+    "wav": "line_bfb66500b331b914.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 163.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And Turingham bundles it over the line from point-blank range! It is three-nil now to Codex City, who are running riot before the break.",
+    "wav": "line_b46a178fac78743d.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 182.17,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham slips right through the defence once again on the right channel.",
+    "wav": "line_e077b58248300dc8.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 192.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham calls out that both channels are wide open to overload this final third.",
+    "wav": "line_3c5e702caabf0241.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 202.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Complete territorial dominance from Codex City. Muse Spark FC are penned against their own boards, unable to muster any sort of reply.",
+    "wav": "line_18c1b0ddce17b5f3.wav",
+    "dur_s": 9.01
+  },
+  {
+    "t": 214.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flashed just wide from close quarters. Turingham had the angle, but it slides past the far post.",
+    "wav": "line_fb8ea6123a8c55ae.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 241.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford hammers home a fourth for Codex City! Muse Spark completely overwhelmed at the back as the deficit stretches to four.",
+    "wav": "line_1c00ca9fe753bcb1.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 259.77,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark suddenly breaks clear from deep in their own half.",
+    "wav": "line_792e1f34c234bb1a.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 265.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark marches into the centre circle.",
+    "wav": "line_85674c47dec43770.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 268.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham shouts to close down the space and keep goal-side as Spark probes forward.",
+    "wav": "line_1719ffd9b7e5293f.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 280.88,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rattled into the corner panel and launched cleanly back onto the pitch with nineteen seconds left.",
+    "wav": "line_9012977a56b06f75.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 294.28,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Whisker away from finding the corner.",
+    "wav": "line_3840e7468d462f56.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 297.52,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse tumbles to the turf.",
+    "wav": "line_888ecb93d0271a1b.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "There is the half-time buzzer, power cut, and the ball rolls on harmlessly.",
+    "wav": "line_c4508983971a6ea5.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Ball comes to rest at nil-four. For newcomers, when that buzzer sounds, power is cut immediately and the robots fold up, but the ball remains live until it stops. If it rolls in under its own steam, it counts.",
+    "wav": "line_458f3092926970c0.wav",
+    "dur_s": 13.95
+  },
+  {
+    "t": 329.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark pulls one back right on the goal line! Muse Spark FC are on the board, cutting the deficit to one-four!",
+    "wav": "line_efe8d5a4472ddf11.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 343.36,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford is played straight through on goal again from deep.",
+    "wav": "line_4fbe603c719d8929.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 349.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford strides through the midfield.",
+    "wav": "line_bf877f21efca285c.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 349.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham is calling out again, directing the coverage to rotate goal-side immediately.",
+    "wav": "line_790031f89a26bbf5.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 361.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City settling right back into their rhythm, keeping Muse Spark penned in their own half. That live decision-making setup on the Spark side just taking that fraction too long to react.",
+    "wav": "line_15631f283a2fcecd.wav",
+    "dur_s": 11.81
+  },
+  {
+    "t": 379.45,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Caromed into the corner bevel and the ram panel shoots it back into play. Relentless pressure from Codex City out wide.",
+    "wav": "line_f45734f1209c7834.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 400.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Muse bundles it in from point-blank range! Spark's teammate answers the call, and suddenly it is two-four!",
+    "wav": "line_338708976a09ca8a.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 419.36,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just wide of the post.",
+    "wav": "line_c0ac5a5623cdc626.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 422.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford barges straight through.",
+    "wav": "line_8d2cc64f171f18ce.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 423.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pinned right on the line.",
+    "wav": "line_444a15ed4e5c194e.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 423.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford stabs it home from point-blank range! Any Muse Spark resurgence is firmly squashed as Codex City make it five-two!",
+    "wav": "line_88407e752f490aef.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 430.8,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham loses balance in the middle.",
+    "wav": "line_9774b9771b5d70b8.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 433.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford calls for the first press, reminding Turingham to find the goal-side outlet as the recovery routine kicks in.",
+    "wav": "line_64468e520f1c1355.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 454.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Inches away from a sixth for Codex City. The ball skids past the upright with the goal gaping.",
+    "wav": "line_3a5920e4ff7eff15.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 497.4,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham hits the deck again.",
+    "wav": "line_55237143237782a2.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 499.63,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse charges in with a robust challenge, sending Patchford clattering to the floor.",
+    "wav": "line_8aa4147e886ec1b2.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 507.01,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City collide, Turingham down.",
+    "wav": "line_cfea133f30e3eee9.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 509.25,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford regains possession and is clean through on goal once more.",
+    "wav": "line_865ae873dae8e106.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 516.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford drives deep down the left channel, holding off pressure into the final third. Less than two minutes left now, and Codex City are simply controlling the clock.",
+    "wav": "line_722c737741f0c573.wav",
+    "dur_s": 10.42
+  },
+  {
+    "t": 535.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham shouts to stay tight and goal-side.",
+    "wav": "line_3b0b9d05fae57096.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 539.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford patiently ushers the ball back up the flank. Codex City have looked thoroughly drilled this afternoon, managing the clock with absolute composure.",
+    "wav": "line_de07467379edd557.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 578.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Into the final minute now. Patchford nudges it along the boards, winding down the remaining seconds of a commanding display. Muse Spark gave it a go in spells, but this match was won well before the break.",
+    "wav": "line_a5ec7ad689dbf39a.wav",
+    "dur_s": 12.51
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts out, and the ball trickles slowly to a halt.",
+    "wav": "line_c4474ce0f6a7831a.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City win two-five. Catch GLM against Fable Thursday, 16:00 in UK, 17:00 in Europe, 11:00 in US East.",
+    "wav": "line_031a8c55f804225a.wav",
+    "dur_s": 11.44
+  }
+]

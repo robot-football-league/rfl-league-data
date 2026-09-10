@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 2
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 5
+  },
+  "winner": "Codex City",
+  "code": {
+    "home": {
+      "commit": "e18a55f6fde42f136a0bfecf9ccb62e169271c28",
+      "subject": "night 11: (no summary given)",
+      "committed_at": "2026-09-09T13:06:27+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "e949c78192024587bc8dcadeeeb7e3ac244cf2d2",
+      "subject": "night 10: Recorded Codex City's first league win and validated the narrower, more lateral collision release after falls dropped from 21 to 8 in the 8-3 Dynamo result. Updated PLAYBOOK.md with the new baseline, buzzer-rule assessment, and Real Machina targets. Preserved match code unchanged; scrutineering CLEAR.",
+      "committed_at": "2026-09-07T17:15:50+01:00",
+      "dirty": true
+    },
+    "engine_commit": "a718e58a0b85e65c4138f3835e9012119b967bfc"
+  }
+}

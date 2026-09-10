@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 2
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 8
+  },
+  "winner": "AFC Fable",
+  "code": {
+    "home": {
+      "commit": "66310b4c289337d43a386e6600cf11b1429f4684",
+      "subject": "night 11: session ended after 3 model errors",
+      "committed_at": "2026-09-09T13:56:38+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "fceb3395206f683be4aee1ccff3e74ce7497a232",
+      "subject": "night 10: v5: kickoff de-collision (only Hare charges the centre ball, Tortoise drops to a backstop) \u2014 fixes the unforced falls at t~4.5/~8.7 seen in ALL three s3 matches; plus a buzzer-rule override (last 2.5s of a half: shoot on sight in their half, blast clear in ours) for the 2026-09-07 rule change. Lint clear, 90s practice mirror ran clean.",
+      "committed_at": "2026-09-07T17:14:36+01:00",
+      "dirty": true
+    },
+    "engine_commit": "a718e58a0b85e65c4138f3835e9012119b967bfc"
+  }
+}

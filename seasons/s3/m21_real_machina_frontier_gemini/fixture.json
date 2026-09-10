@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 4
+  },
+  "away": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 5
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "1723e4d18a38f5b7f72636133b4a0cc590e03513",
+      "subject": "night 10: Added buzzer-window strike and clearance urgency to capitalize on unpowered post-buzzer physics; verified via 60s practice scrimmage and clean scrutineering.",
+      "committed_at": "2026-09-07T17:20:48+01:00",
+      "dirty": true
+    },
+    "engine_commit": "a718e58a0b85e65c4138f3835e9012119b967bfc"
+  }
+}

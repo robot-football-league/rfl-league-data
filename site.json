@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T12:00:47+00:00",
+ "generated_at": "2026-09-10T14:05:47+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8839,14 +8839,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 4,
-     "W": 4,
+     "P": 5,
+     "W": 5,
      "D": 0,
      "L": 0,
-     "GF": 32,
-     "GA": 19,
-     "Pts": 12,
-     "GD": 13,
+     "GF": 37,
+     "GA": 23,
+     "Pts": 15,
+     "GD": 14,
      "prev": 1,
      "move": 0
     },
@@ -8856,19 +8856,53 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 4,
+     "P": 5,
      "W": 3,
      "D": 0,
-     "L": 1,
-     "GF": 36,
-     "GA": 14,
+     "L": 2,
+     "GF": 40,
+     "GA": 19,
      "Pts": 9,
-     "GD": 22,
-     "prev": 3,
-     "move": 1
+     "GD": 21,
+     "prev": 2,
+     "move": 0
     },
     {
      "pos": 3,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 5,
+     "W": 3,
+     "D": 0,
+     "L": 2,
+     "GF": 27,
+     "GA": 23,
+     "Pts": 9,
+     "GD": 4,
+     "prev": 4,
+     "move": 1
+    },
+    {
+     "pos": 4,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 5,
+     "W": 2,
+     "D": 2,
+     "L": 1,
+     "GF": 28,
+     "GA": 23,
+     "Pts": 8,
+     "GD": 5,
+     "prev": 8,
+     "move": 4
+    },
+    {
+     "pos": 5,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
@@ -8881,28 +8915,11 @@
      "GA": 19,
      "Pts": 7,
      "GD": 15,
-     "prev": 2,
-     "move": -1
+     "prev": 3,
+     "move": -2
     },
     {
-     "pos": 4,
-     "slug": "frontier_sol",
-     "name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "P": 4,
-     "W": 2,
-     "D": 0,
-     "L": 2,
-     "GF": 22,
-     "GA": 21,
-     "Pts": 6,
-     "GD": 1,
-     "prev": 7,
-     "move": 3
-    },
-    {
-     "pos": 5,
+     "pos": 6,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -8915,11 +8932,11 @@
      "GA": 27,
      "Pts": 6,
      "GD": 0,
-     "prev": 8,
-     "move": 3
+     "prev": 5,
+     "move": -1
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8932,11 +8949,11 @@
      "GA": 20,
      "Pts": 6,
      "GD": -2,
-     "prev": 4,
-     "move": -2
+     "prev": 6,
+     "move": -1
     },
     {
-     "pos": 7,
+     "pos": 8,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8949,25 +8966,8 @@
      "GA": 30,
      "Pts": 6,
      "GD": -6,
-     "prev": 5,
-     "move": -2
-    },
-    {
-     "pos": 8,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "P": 4,
-     "W": 1,
-     "D": 2,
-     "L": 1,
-     "GF": 20,
-     "GA": 21,
-     "Pts": 5,
-     "GD": -1,
-     "prev": 6,
-     "move": -2
+     "prev": 7,
+     "move": -1
     },
     {
      "pos": 9,
@@ -8975,14 +8975,14 @@
      "name": "Muse Spark FC",
      "code": "MSP",
      "color": "#0572f2",
-     "P": 4,
+     "P": 5,
      "W": 0,
      "D": 1,
-     "L": 3,
-     "GF": 22,
-     "GA": 36,
+     "L": 4,
+     "GF": 24,
+     "GA": 41,
      "Pts": 1,
-     "GD": -14,
+     "GD": -17,
      "prev": 9,
      "move": 0
     },
@@ -8992,19 +8992,19 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 4,
+     "P": 5,
      "W": 0,
      "D": 0,
-     "L": 4,
-     "GF": 13,
-     "GA": 41,
+     "L": 5,
+     "GF": 15,
+     "GA": 49,
      "Pts": 0,
-     "GD": -28,
+     "GD": -34,
      "prev": 10,
      "move": 0
     }
    ],
-   "movement_since_round": 3,
+   "movement_since_round": 4,
    "matches": [
     {
      "n": 1,
@@ -13275,8 +13275,188 @@
      "away_name": "Gemini Flash FC",
      "home_code": "RMA",
      "away_code": "GEM",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-09T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 13,
+        "second": 88.2,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 143.6,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 208.7,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 222.0,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 427.1,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 73,
+        "second": 488.9,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": true
+       },
+       {
+        "minute": 81,
+        "second": 537.6,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 571.3,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 583.0,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 270,
+       "kick": 216,
+       "wall": 53,
+       "through": 15,
+       "near_miss": 6,
+       "ram": 5,
+       "fall": 26,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 34.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 87.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Freeing it from the wall"
+       },
+       {
+        "second": 118.0,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "still working it loose from the wall"
+       },
+       {
+        "second": 163.9,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Ball is stuck near the wall, working it free."
+       },
+       {
+        "second": 206.7,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 242.7,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 292.2,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 351.5,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 399.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 448.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 484.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "pushing it toward the goal"
+       },
+       {
+        "second": 528.2,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 576.2,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       }
+      ],
+      "stats": {
+       "kicks": 216,
+       "falls": 26,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 15
+      },
+      "est_cost_usd": 0.2368
+     },
+     "aired_at": "2026-09-09T15:04:32Z",
+     "watch": {
+      "id": "s3-m21_real_machina_frontier_gemini",
+      "url": "https://4dgsx.com/watch/s3-m21_real_machina_frontier_gemini",
+      "embed_url": "https://4dgsx.com/embed/s3-m21_real_machina_frontier_gemini"
+     }
     },
     {
      "n": 22,
@@ -13286,8 +13466,174 @@
      "away_name": "Codex City",
      "home_code": "MSP",
      "away_code": "CDX",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-09T19:00:00Z"
+     "status": "aired",
+     "score": [
+      2,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 46.2,
+        "side": "away",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 141.7,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 163.1,
+        "side": "away",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 241.5,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 329.2,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 400.5,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 423.5,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 185,
+       "kick": 164,
+       "through": 23,
+       "wall": 16,
+       "near_miss": 5,
+       "ram": 3,
+       "fall": 5,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 28.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 62.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Ball lost; recovering goal-side before scanning."
+       },
+       {
+        "second": 118.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 160.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Final-third overload; both channels are live."
+       },
+       {
+        "second": 192.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Final-third overload; both channels are live."
+       },
+       {
+        "second": 223.4,
+        "team": "Muse Spark FC",
+        "number": 1,
+        "text": "turning around to find the ball"
+       },
+       {
+        "second": 276.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Danger: both players counterpress; clear through the far goal."
+       },
+       {
+        "second": 320.0,
+        "team": "Muse Spark FC",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 363.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 419.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 468.8,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 535.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 577.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Ball lost; recovering goal-side before scanning."
+       }
+      ],
+      "stats": {
+       "kicks": 164,
+       "falls": 5,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 23
+      },
+      "est_cost_usd": 0.1296
+     },
+     "aired_at": "2026-09-09T19:04:49Z",
+     "watch": {
+      "id": "s3-m22_frontier_muse_frontier_sol",
+      "url": "https://4dgsx.com/watch/s3-m22_frontier_muse_frontier_sol",
+      "embed_url": "https://4dgsx.com/embed/s3-m22_frontier_muse_frontier_sol"
+     }
     },
     {
      "n": 23,
@@ -13297,8 +13643,194 @@
      "away_name": "AFC Fable",
      "home_code": "GLM",
      "away_code": "FAB",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-10T11:00:00Z"
+     "status": "aired",
+     "score": [
+      2,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 15,
+        "second": 97.4,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": true
+       },
+       {
+        "minute": 19,
+        "second": 126.2,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 187.3,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 204.2,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 235.1,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 296.6,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 356.1,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 376.8,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": true
+       },
+       {
+        "minute": 67,
+        "second": 447.7,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 536.2,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 189,
+       "through": 22,
+       "kick": 170,
+       "near_miss": 9,
+       "wall": 18,
+       "fall": 19,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 36.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.2, +1.4, rolling across \u2014 mine, slow and steady."
+       },
+       {
+        "second": 88.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +2.5, -3.2, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 116.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -5.3, -2.2, rolling at our net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 162.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +3.4, -4.2, near still \u2014 push with me."
+       },
+       {
+        "second": 212.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -2.4, -1.4, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 250.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.0, +1.5, rolling across \u2014 dropping goal-side."
+       },
+       {
+        "second": 292.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -5.9, +2.9, near still \u2014 I'll take the bounce."
+       },
+       {
+        "second": 367.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.3, -3.3, rolling at our net, fast \u2014 dropping goal-side."
+       },
+       {
+        "second": 403.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +0.6, -0.8, rolling at our net \u2014 push with me."
+       },
+       {
+        "second": 451.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 501.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.2, +1.5, rolling at our net \u2014 I'll cut the line."
+       },
+       {
+        "second": 537.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "The moral so far: patience scores."
+       },
+       {
+        "second": 575.4,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -1.4, -0.3, near still \u2014 mine \u2014 no naps."
+       }
+      ],
+      "stats": {
+       "kicks": 170,
+       "falls": 19,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 22
+      },
+      "est_cost_usd": 0.1159
+     },
+     "aired_at": "2026-09-10T11:04:42Z",
+     "watch": {
+      "id": "s3-m23_frontier_glm_frontier_fable",
+      "url": "https://4dgsx.com/watch/s3-m23_frontier_glm_frontier_fable",
+      "embed_url": "https://4dgsx.com/embed/s3-m23_frontier_glm_frontier_fable"
+     }
     },
     {
      "n": 24,
@@ -13407,7 +13939,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "GEM",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-13T15:00:00Z"
     },
     {
      "n": 34,
@@ -13417,7 +13950,8 @@
      "away_name": "Singularity United",
      "home_code": "MSP",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-13T19:00:00Z"
     },
     {
      "n": 35,
@@ -13427,7 +13961,8 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "GLM",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-14T11:00:00Z"
     },
     {
      "n": 36,
@@ -13987,15 +14522,7 @@
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 19
-    },
-    {
-     "name": "BellingRAM",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 17
+     "goals": 22
     },
     {
      "name": "Spark",
@@ -14003,6 +14530,14 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
+     "goals": 20
+    },
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
      "goals": 17
     },
     {
@@ -14014,11 +14549,35 @@
      "goals": 15
     },
     {
+     "name": "Tortoise",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 15
+    },
+    {
+     "name": "Flash",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "goals": 15
+    },
+    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
+     "goals": 14
+    },
+    {
+     "name": "Patchford",
+     "team": "frontier_sol",
+     "team_name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
      "goals": 14
     },
     {
@@ -14030,39 +14589,15 @@
      "goals": 13
     },
     {
-     "name": "Flash",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
-     "goals": 13
-    },
-    {
      "name": "Robodinho",
      "team": "synthetic_athletic",
      "team_name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
      "goals": 12
-    },
-    {
-     "name": "Abyss",
-     "team": "frontier_deepseek",
-     "team_name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "goals": 11
-    },
-    {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 11
     }
    ],
-   "aired_count": 20,
+   "aired_count": 23,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -14643,6 +15178,66 @@
    "reasoning_tokens": 576,
    "transcript": "gaffers/frontier_sol/night_010.md",
    "bytes": 59272
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 11,
+   "season": 3,
+   "finished_at": "2026-09-09T13:03:48+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 19,
+   "summary": "Deepen shade role in both halves to fix defensive leak: shade now holds 0.70 of the way from ball to own goal when attacking (was 0.45) and 0.72 when defending (was 0.68), so one player always stays goal-side to stop through-ball counters. Lint clean; 90 s practice loaded and played with no kickoff crash.",
+   "commit": "dbae90e",
+   "spent_usd": 0.351,
+   "reasoning_turns": 19,
+   "reasoning_tokens": 10313,
+   "transcript": "gaffers/frontier_deepseek/night_011.md",
+   "bytes": 228882
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 11,
+   "season": 3,
+   "finished_at": "2026-09-09T12:02:54+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 15,
+   "summary": "Season 3 Match 21 victory review (Real Machina 4 - 5 Gemini Flash FC). Verified team.py stability, buzzer urgency mechanics, zero decision latency, and clean scrutineering pass.",
+   "commit": "1227818",
+   "spent_usd": 0.23,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_011.md",
+   "bytes": 148987
+  },
+  {
+   "club": "frontier_glm",
+   "night": 11,
+   "season": 3,
+   "finished_at": "2026-09-09T12:56:38+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 5,
+   "summary": "session ended after 3 model errors",
+   "commit": "66310b4",
+   "spent_usd": 0.118,
+   "reasoning_turns": 5,
+   "reasoning_tokens": 12019,
+   "transcript": "gaffers/frontier_glm/night_011.md",
+   "bytes": 132173
+  },
+  {
+   "club": "frontier_muse",
+   "night": 11,
+   "season": 3,
+   "finished_at": "2026-09-09T12:06:27+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "e18a55f",
+   "spent_usd": 0.497,
+   "reasoning_turns": 15,
+   "reasoning_tokens": 8794,
+   "transcript": "gaffers/frontier_muse/night_011.md",
+   "bytes": 246051
   }
  ],
  "club_reports": [
@@ -15022,8 +15617,8 @@
   }
  },
  "totals": {
-  "matches_aired": 57,
-  "goals": 630,
+  "matches_aired": 60,
+  "goals": 656,
   "clubs": 11
  }
 }

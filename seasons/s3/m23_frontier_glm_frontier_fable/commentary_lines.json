@@ -1,0 +1,560 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round five.",
+    "wav": "line_0c4776865bc99360.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to hold the line early.",
+    "wav": "line_8896e027f8a3e19a.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 3.6,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare bursts straight through into empty space!",
+    "wav": "line_0cda2b3f14698b40.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 9.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare marches right through the middle, taking it deep into the final third. GLM look completely exposed here early on.",
+    "wav": "line_4455d6df6b406d5a.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 50.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise takes over out on the left touchline, methodically grinding out the yards into midfield. Fable named an unchanged squad today, and that familiar composure is showing.",
+    "wav": "line_214627d3a066c28b.wav",
+    "dur_s": 9.95
+  },
+  {
+    "t": 72.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts across the deck, claiming the loose ball and warning against any momentary lapses. Good communication between the two.",
+    "wav": "line_357401163488f2f3.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 93.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi charges right to the mouth!",
+    "wav": "line_f50fc685e4a75ba0.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 93.84,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Off the woodwork, agonisingly close!",
+    "wav": "line_ad819cd35b51d4cc.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 97.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "It is in! An absolute calamity for Tortoise, turning it straight into the Fable net! GLM lead one-nil, completely against the run of play!",
+    "wav": "line_87d995672958b9e2.wav",
+    "dur_s": 10.69
+  },
+  {
+    "t": 115.16,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi loses balance in their own third and tumbles. Already trying to right the gyros.",
+    "wav": "line_d00ca6ac89c5d84e.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 126.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise makes amends instantly! Drilled home from two metres, and we are level at one-all!",
+    "wav": "line_633f43bad42562fd.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 127.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable staying right on the front foot now, keeping GLM pinned deep inside their own half.",
+    "wav": "line_8bcc4da9c07639e2.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 138.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls out the rolling ball in midfield, telling Hare they will drop back to cover the line.",
+    "wav": "line_cc928468c3a3f114.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 178.25,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Tortoise is clean through!",
+    "wav": "line_f0f233910837d138.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 179.04,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi topples over again, leaving the net wide open.",
+    "wav": "line_2df313e7d2309f05.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 187.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise bundles it over the line! AFC Fable turn it around completely! Two-one to the visitors, punished right at point-blank range!",
+    "wav": "line_20ff657f954bd9fd.wav",
+    "dur_s": 11.1
+  },
+  {
+    "t": 204.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare slots it into the bottom corner. That makes it three-one to AFC Fable.",
+    "wav": "line_dd4dba9afeb63bc3.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 206.38,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi takes another spill on halfway.",
+    "wav": "line_66363971fa2e892e.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 212.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare shouts out that they have the ball covered in their own third.",
+    "wav": "line_92ed3560c82e0775.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 219.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drives right to the net.",
+    "wav": "line_572d3647a1355a62.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 220.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just wide of the target from deep. A decent effort, but no danger in the end.",
+    "wav": "line_de0c38ab835363dd.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 235.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare taps it in from point-blank range. Four-one to AFC Fable.",
+    "wav": "line_3d4e1e584472c785.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 236.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Total dominance now. GLM simply cannot clear their lines, pinned deep as Fable circulate the ball at will.",
+    "wav": "line_815cb5e62bef21e9.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 271.38,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare through on goal again down the left.",
+    "wav": "line_a579b322f6da8187.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 275.0,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Skims past the upright from close range.",
+    "wav": "line_a7e4e03f3c0df287.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 280.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise shouts to drop goal-side.",
+    "wav": "line_8e4659d137654b70.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 282.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare drives to the goal mouth.",
+    "wav": "line_42058a44b40c8130.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 283.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable relentless here, suffocating the Zhipu Blue shirts inside their final third with seconds left in the half.",
+    "wav": "line_9f6716f9cb6fe922.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 296.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare converts from two metres out. That is five-one now, ruthlessly taken.",
+    "wav": "line_b2ff71c55a8d4d27.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The half-time buzzer sounds, power cuts out instantly, but the ball rolls on.",
+    "wav": "line_92d50b12d0f4e9fe.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball comes to rest, and that is half-time. For any newcomers, the buzzer completely cuts the robots' power where they stand, but play remains live until the ball stops. If it rolls in, it counts. Fable lead five-one.",
+    "wav": "line_128916695a7b3731.wav",
+    "dur_s": 14.0
+  },
+  {
+    "t": 330.6,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A quiet spell as Pu regathers. GLM ask their model for decisions touch-by-touch during the match, but today the latency seems to be costing them dearly against Fable's rigid, pre-programmed patterns.",
+    "wav": "line_a21bcc182673aa21.wav",
+    "dur_s": 13.77
+  },
+  {
+    "t": 356.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise pokes it in from point-blank range. Six-one to AFC Fable now.",
+    "wav": "line_f8f7953d240d7854.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 375.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just shaving the outside edge.",
+    "wav": "line_4c5abfd54a58d415.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 376.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another own goal by Tortoise. GLM get a second, now two-six.",
+    "wav": "line_3327b3149363ecb9.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 379.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise shouts to drop goal-side.",
+    "wav": "line_8e4659d137654b70.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 380.96,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise and Hare collide in midfield, and Tortoise goes down hard.",
+    "wav": "line_3ace1e45db3cfdc6.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 386.1,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Now Hare tangles with Tortoise, hitting the deck. A real comedy of errors there.",
+    "wav": "line_23d2de73158848b0.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 392.8,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare leaves Pu flat on the turf.",
+    "wav": "line_3d45eb7992bf9e26.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 395.68,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu returns the favour with a heavy crunch on halfway. Hare is down for the count.",
+    "wav": "line_a3e68287af231eee.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 411.62,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi is clean through on goal!",
+    "wav": "line_8bf15e510fcac5f1.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 412.01,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare wipes out Pu off the ball.",
+    "wav": "line_f429487591e62882.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 415.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi drags it inches wide of the right post.",
+    "wav": "line_1d32a9f3e8dd18af.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 421.6,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu overbalances on the edge of the box and collapses unassisted. Heavy work getting those legs reset.",
+    "wav": "line_cbd8e4b3cf61eb46.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 435.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise trundles steadily across midfield, eating up the clock with five yards of controlled possession.",
+    "wav": "line_556b9b7994a5c79a.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 447.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise slots home from close range. AFC Fable stretch the lead to seven-two.",
+    "wav": "line_07d66e9ba34a1631.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 451.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise reminds Hare to keep things tidy at the back.",
+    "wav": "line_190ab3fdaea58f00.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 456.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare accelerates into the final third, finding plenty of space.",
+    "wav": "line_e1965191d1b5f3f0.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 463.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise's long shot slides just past the far post from their own end. Not much Pu could have done about that one.",
+    "wav": "line_cd5abd57ecffcec7.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 480.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable camped out again deep.",
+    "wav": "line_92499c6256c5ee71.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 481.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A close scrape right across the face of the net. GLM survive another wave.",
+    "wav": "line_161c06009e5953a5.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 493.59,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi breaks clean through from midfield, clear track ahead to the net.",
+    "wav": "line_5ec524a88ddeec7e.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 503.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi carries it nine metres forward.",
+    "wav": "line_b45227edac2e5021.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 505.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A long-range pop misses by less than a metre. Running out of time for any sort of consolation here.",
+    "wav": "line_28882692561babeb.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 525.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise calls out the line again, orchestrating the defensive shape from the centre circle.",
+    "wav": "line_f743b14706ff2b49.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 533.92,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare misses from point-blank range.",
+    "wav": "line_e84e32174ccb7a3d.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 536.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare makes no mistake this time, tapping home right on the line. It is eight-two to AFC Fable, a commanding display.",
+    "wav": "line_2e2e8a668a45ce5f.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 571.8,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The magenta ball sits idle in the centre circle. Fable, fresh off that four-all draw with Singularity yesterday, have looked entirely untroubled tonight, while GLM remain rooted to the foot of the table.",
+    "wav": "line_e69ad287f01db6d9.wav",
+    "dur_s": 12.12
+  },
+  {
+    "t": 607.39,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare and Tortoise bump frames along the left touchline, sending Hare clattering down.",
+    "wav": "line_fbd6c25208bffc2d.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 615.69,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare knocks Pu over late on.",
+    "wav": "line_5576c1b21dd5e64f.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power is cut across the pitch, but the ball rolls",
+    "wav": "line_e6c952d21e305117.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball stops. Full time, GLM two, AFC Fable eight. Up next, DeepSeek Rovers take on Synthetic Athletic, kicking off",
+    "wav": "line_7df9a7a64e6d766e.wav",
+    "dur_s": 8.65
+  }
+]
