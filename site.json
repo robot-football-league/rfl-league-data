@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T14:23:02+00:00",
+ "generated_at": "2026-09-10T15:23:15+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8886,6 +8886,23 @@
     },
     {
      "pos": 4,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 5,
+     "W": 3,
+     "D": 0,
+     "L": 2,
+     "GF": 23,
+     "GA": 24,
+     "Pts": 9,
+     "GD": -1,
+     "prev": 6,
+     "move": 2
+    },
+    {
+     "pos": 5,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8899,10 +8916,10 @@
      "Pts": 8,
      "GD": 5,
      "prev": 8,
-     "move": 4
+     "move": 3
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
@@ -8916,10 +8933,10 @@
      "Pts": 7,
      "GD": 15,
      "prev": 3,
-     "move": -2
+     "move": -3
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -8933,24 +8950,7 @@
      "Pts": 6,
      "GD": 0,
      "prev": 5,
-     "move": -1
-    },
-    {
-     "pos": 7,
-     "slug": "synthetic_athletic",
-     "name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "P": 4,
-     "W": 2,
-     "D": 0,
-     "L": 2,
-     "GF": 18,
-     "GA": 20,
-     "Pts": 6,
-     "GD": -2,
-     "prev": 6,
-     "move": -1
+     "move": -2
     },
     {
      "pos": 8,
@@ -8958,14 +8958,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 4,
+     "P": 5,
      "W": 2,
      "D": 0,
-     "L": 2,
-     "GF": 24,
-     "GA": 30,
+     "L": 3,
+     "GF": 28,
+     "GA": 35,
      "Pts": 6,
-     "GD": -6,
+     "GD": -7,
      "prev": 7,
      "move": -1
     },
@@ -13840,8 +13840,188 @@
      "away_name": "Synthetic Athletic",
      "home_code": "DSK",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-10T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 14,
+        "second": 96.5,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 17,
+        "second": 110.8,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 150.0,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 173.5,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": true
+       },
+       {
+        "minute": 41,
+        "second": 270.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 291.5,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": true
+       },
+       {
+        "minute": 58,
+        "second": 386.0,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 459.8,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 527.4,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 226,
+       "kick": 223,
+       "through": 21,
+       "wall": 42,
+       "near_miss": 7,
+       "ram": 3,
+       "fall": 20,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 20.9,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "ball is stuck by the wall, pushing it out"
+       },
+       {
+        "second": 62.9,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "shunting it off the wall"
+       },
+       {
+        "second": 92.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it out"
+       },
+       {
+        "second": 136.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 227.0,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 292.9,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "Clearing the ball!"
+       },
+       {
+        "second": 347.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 379.2,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 449.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "kick it out"
+       },
+       {
+        "second": 481.3,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "ball is stuck, clearing it"
+       },
+       {
+        "second": 526.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 561.4,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "nudging it away from the wall"
+       },
+       {
+        "second": 602.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the corner"
+       }
+      ],
+      "stats": {
+       "kicks": 223,
+       "falls": 20,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 21
+      },
+      "est_cost_usd": 0.2363
+     },
+     "aired_at": "2026-09-10T15:04:38Z",
+     "watch": {
+      "id": "s3-m24_frontier_deepseek_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m24_frontier_deepseek_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m24_frontier_deepseek_synthetic_athletic"
+     }
     },
     {
      "n": 25,
@@ -13972,7 +14152,8 @@
      "away_name": "Real Machina",
      "home_code": "SYA",
      "away_code": "RMA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-14T15:00:00Z"
     },
     {
      "n": 37,
@@ -14549,6 +14730,14 @@
      "goals": 15
     },
     {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 15
+    },
+    {
      "name": "Tortoise",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
@@ -14581,23 +14770,15 @@
      "goals": 14
     },
     {
-     "name": "Mbapp-E",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
+     "name": "Abyss",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
      "goals": 13
-    },
-    {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 12
     }
    ],
-   "aired_count": 23,
+   "aired_count": 24,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -15617,8 +15798,8 @@
   }
  },
  "totals": {
-  "matches_aired": 60,
-  "goals": 656,
+  "matches_aired": 61,
+  "goals": 665,
   "clubs": 11
  }
 }

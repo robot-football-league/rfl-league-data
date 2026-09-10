@@ -1,0 +1,542 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round five clash.",
+    "wav": "line_ecfc81aa60f6f1e8.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss shouts immediately, claiming ownership of the loose ball in the centre circle.",
+    "wav": "line_8669b0470c838000.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 7.58,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Abyss breaks clean through the middle, three metres out with the net gaping!",
+    "wav": "line_572ea68f04a7d870.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 35.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers keeping the pressure locked on, camping deep inside Athletic territory.",
+    "wav": "line_7acb87b1f98eb23c.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 43.32,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A venomous strike from Abyss two metres out, shaving the upright by mere inches.",
+    "wav": "line_befb7dece7bb8d2d.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 56.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal calls to cover behind.",
+    "wav": "line_cedf83fbd1c9162d.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 57.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss surges three metres down the right channel.",
+    "wav": "line_05b124ec18e4566f.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 61.4,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A hurried clearance flies harmlessly wide of the target from deep.",
+    "wav": "line_c97d332119c3a2fb.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 76.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers maintain their squeeze in the final third, pinning the red shirts against the wall.",
+    "wav": "line_de79e7cd4366a4ac.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 96.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss bundles it home from point-blank range! Rovers take a deserved one-nil lead!",
+    "wav": "line_2f30b524e79c0f94.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 106.17,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Griezmatronn suddenly breaks away through the middle!",
+    "wav": "line_2390b351788cc163.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 109.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Striding into the final third now!",
+    "wav": "line_8cb85bcd185adfbb.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 110.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn slots it home! Synthetic Athletic level it instantly at one-all!",
+    "wav": "line_ce115c02806fcdd1.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 112.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal shouts out to claim the restart from the centre spot.",
+    "wav": "line_3c949d47d3548a71.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 136.27,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Fired violently back into play by the corner push-panel on the far left.",
+    "wav": "line_0f1dbde200adc6bb.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 149.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss powers straight towards goal.",
+    "wav": "line_3d8d6ccb5c17e1ff.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 150.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss finishes it from two metres out! DeepSeek Rovers regain the lead, two goals to one!",
+    "wav": "line_27df545037b061f3.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 169.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flashing just wide from point-blank range!",
+    "wav": "line_3856feaa2553e08f.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 173.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Oh dear, Signal turns it into the Rovers net! An own goal squares it at two-two!",
+    "wav": "line_28e62d8e10525649.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 195.6,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn simply folds over in midfield.",
+    "wav": "line_51a75f22c311ee82.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 199.53,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss is tumbled over by Griezmatronn in a firm collision near the touchline.",
+    "wav": "line_90d2004cae3e5954.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 207.26,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho hit and sent sprawling.",
+    "wav": "line_42fc3d453473ceb5.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 209.03,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho returns the favour, clattering Abyss down by the right wall.",
+    "wav": "line_f3debcd8061ae310.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 214.7,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Signal suddenly breaks loose down the right, clean through on goal!",
+    "wav": "line_9c172b952e0ae24f.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 219.48,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Signal shoots from point-blank, scraping just wide of the post!",
+    "wav": "line_e71ff0f8f12dd425.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 227.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls out loudly, demanding the ball over in the left channel.",
+    "wav": "line_e921d4171254d50c.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 261.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho drives the magenta ball briskly up the left channel into midfield.",
+    "wav": "line_71fd74991882f0e3.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 270.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho strikes cleanly from two metres out! Synthetic Athletic lead three-two!",
+    "wav": "line_99484971a26f4fe0.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 291.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho inadvertently knocks it into their own net! It is three-three right on half time!",
+    "wav": "line_e9f0d16007c12abd.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out instantly, but the ball rolls freely.",
+    "wav": "line_1d488affec70846e.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "The ball settles at three-all. Remember, the buzzer cuts power mid-stride, but any moving ball remains live and counts if it rolls over the line. A breathless half.",
+    "wav": "line_0fe5c23431a3c8f9.wav",
+    "dur_s": 10.37
+  },
+  {
+    "t": 329.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls out immediately to claim possession as play resumes in midfield.",
+    "wav": "line_ac7072bd6966d4a2.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 338.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A whistling effort from deep that misses the mark by a fraction of a metre.",
+    "wav": "line_57bba3e267a77451.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 354.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "DeepSeek Rovers pressing high again, penning the red shirts in.",
+    "wav": "line_b63f85546ae22d47.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 359.72,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho clattered down by Abyss.",
+    "wav": "line_c0c9094fe21bca91.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 360.52,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates collide on the right, and Signal ends up flat on the turf.",
+    "wav": "line_3f84ab37be5a4825.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 370.13,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho loses footing and topples over.",
+    "wav": "line_e362b012e9679678.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 370.69,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Abyss pounces on it, totally unattended down the right flank four metres out!",
+    "wav": "line_9a8b10022d766ecc.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 386.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Signal bundles it home from the goal mouth! Rovers edge ahead, four-three!",
+    "wav": "line_112936dccac80743.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 387.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers maintain the pressure, swarming the Athletic half once again.",
+    "wav": "line_8bc763074a636e84.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 394.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal shouts out to take command of the loose ball inside the final third.",
+    "wav": "line_05ed8b059ed26ce9.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 412.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho marches steadily along the left touchline, bringing play back into midfield.",
+    "wav": "line_4f58978987f5f8b8.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 420.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A cracking effort from Robodinho two metres out, whizzing narrowly past the target!",
+    "wav": "line_bd46e752eb1e728e.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 446.15,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The powered push-panel smacks the ball straight back off the left wall.",
+    "wav": "line_010763546138a636.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 459.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho scrambles it over from point-blank range! Four-four, and nothing between them!",
+    "wav": "line_6f45143177b5abd0.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 479.56,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Push-panel fires the ball clear.",
+    "wav": "line_f1027fc1ca76443a.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 480.5,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Signal shouts out for it.",
+    "wav": "line_25b3888ecd6d50a5.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 481.89,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Griezmatronn clumsily hits the floor three metres out, but will be up shortly.",
+    "wav": "line_592a8ce575765758.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 496.76,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Abyss breaks through the middle with only two minutes remaining!",
+    "wav": "line_5fbefe123d746d20.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 501.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Abyss carries the ball seven metres across the centre circle as precious seconds tick away.",
+    "wav": "line_7b6c5beac194dd33.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 510.24,
+    "kind": "collision",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "A blue-on-blue collision as Signal tumbles into Abyss.",
+    "wav": "line_43b1e8af4da86650.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 516.57,
+    "kind": "collision",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "They collide once more, and this time Abyss hits the deck on the touchline.",
+    "wav": "line_8c7a370d990e94ac.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 527.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Robodinho charges clean on goal!",
+    "wav": "line_2697e1885e117acc.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 527.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho lashes it into the net! Synthetic Athletic lead five-four with ninety seconds to go!",
+    "wav": "line_e0a473edd254819e.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 542.5,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Griezmatronn calls out to manage the clearance out of the corner.",
+    "wav": "line_35cd46b356c62d80.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 558.11,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Abyss topples over awkwardly, a desperate blow for Rovers with fifty-nine seconds left.",
+    "wav": "line_8e0c362df40ceb4e.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 580.16,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Inches away from a late leveller, just clipping wide of the post!",
+    "wav": "line_47b0e42b17a2ae78.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 587.6,
+    "kind": "tackle",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Signal crashes into Robodinho with thirty seconds left, dumping the red shirt to the ground!",
+    "wav": "line_0f2a3e1660b82628.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out, and the ball trickles harmlessly on the",
+    "wav": "line_c912181a44f7bb52.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "It stops, cementing a 5-4 Synthetic Athletic win. Up next, Singularity United face Dynamo Datacenter on Thursday at eight in",
+    "wav": "line_4fc17a7568e3b31a.wav",
+    "dur_s": 11.16
+  }
+]

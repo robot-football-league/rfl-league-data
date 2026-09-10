@@ -2244,6 +2244,92 @@
     ]
    },
    "dir": "runs/league/s3/m23_frontier_glm_frontier_fable"
+  },
+  {
+   "fixture": 24,
+   "home": "frontier_deepseek",
+   "away": "synthetic_athletic",
+   "score": [
+    4,
+    5
+   ],
+   "goals": [
+    {
+     "t": 96.5,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 110.8,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 150.0,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 173.5,
+     "team": "B",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 270.8,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 291.5,
+     "team": "A",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 386.0,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 459.8,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 527.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2363,
+   "players": {
+    "home": [
+     "Abyss",
+     "Signal"
+    ],
+    "away": [
+     "Griezmatronn",
+     "Robodinho"
+    ]
+   },
+   "dir": "runs/league/s3/m24_frontier_deepseek_synthetic_athletic"
   }
  ]
 }

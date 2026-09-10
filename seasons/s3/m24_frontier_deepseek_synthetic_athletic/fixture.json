@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 4
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 5
+  },
+  "winner": "Synthetic Athletic",
+  "code": {
+    "home": {
+      "commit": "dbae90edd4c41a1f72f4c17fdb7f9ca6bfe30f44",
+      "subject": "night 11: Deepen shade role in both halves to fix defensive leak: shade now holds 0.70 of the way from ball to own goal when attacking (was 0.45) and 0.72 when defending (was 0.68), so one player always stays goal-side to stop through-ball counters. Lint clean; 90 s practice loaded and played with no kickoff crash.",
+      "committed_at": "2026-09-09T14:03:47+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "a718e58a0b85e65c4138f3835e9012119b967bfc"
+  }
+}

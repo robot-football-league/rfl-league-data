@@ -1,0 +1,168 @@
+{"t": 0.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 1.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "Going for the ball"}
+{"t": 4.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 6.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 12.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 14.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 20.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball is stuck by the wall, pushing it out"}
+{"t": 24.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 32.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 34.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 40.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 49.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 52.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 52.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the corner", "reason": "cooldown"}
+{"t": 56.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 58.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 62.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 62.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "shunting it off the wall"}
+{"t": 70.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it away from the wall", "reason": "cooldown"}
+{"t": 75.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 78.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 82.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 83.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "prying it out"}
+{"t": 90.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 92.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it out"}
+{"t": 94.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 96.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 112.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 118.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 120.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 126.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 128.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 130.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 132.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 134.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 136.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 150.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 154.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 156.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 166.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 174.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 204.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 206.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 208.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 217.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 227.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 233.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 241.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 243.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 245.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 255.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 257.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 269.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 274.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 278.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 280.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 282.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 284.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 286.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 288.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 290.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 292.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "Clearing the ball!"}
+{"t": 295.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 297.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 329.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 333.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it"}
+{"t": 335.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 336.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck by the wall, pushing it free", "reason": "cooldown"}
+{"t": 338.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 341.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 347.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 347.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 349.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it from the wall", "reason": "repeat"}
+{"t": 353.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 356.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 361.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "still working it off the wall"}
+{"t": 365.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it off the wall", "reason": "repeat"}
+{"t": 370.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 372.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 374.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 376.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 379.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 381.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 392.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 394.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 398.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 400.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 402.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 404.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 423.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 425.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 425.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck against the wall, clearing it"}
+{"t": 427.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 431.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 431.8, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck, pushing it free", "reason": "cooldown"}
+{"t": 433.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 438.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing from the corner"}
+{"t": 440.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the stuck ball", "reason": "cooldown"}
+{"t": 446.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball stuck against the wall, pushing it out", "reason": "cooldown"}
+{"t": 448.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it out of the corner", "reason": "cooldown"}
+{"t": 449.0, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "kick it out"}
+{"t": 451.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it"}
+{"t": 452.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "nudging it along the wall", "reason": "cooldown"}
+{"t": 455.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "getting it unstuck", "reason": "cooldown"}
+{"t": 458.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "shoving it free", "reason": "cooldown"}
+{"t": 459.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it out", "reason": "cooldown"}
+{"t": 461.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 468.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 470.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 477.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 480.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 481.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball is stuck, clearing it"}
+{"t": 488.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 490.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 494.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 502.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 504.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 511.1, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 512.5, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 514.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 516.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "ball is stuck, pushing it loose", "reason": "cooldown"}
+{"t": 519.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 520.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 526.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 527.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 528.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 529.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 531.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 541.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 542.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner"}
+{"t": 543.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 546.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 548.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 550.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 552.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 557.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 559.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "repeat"}
+{"t": 561.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "nudging it away from the wall"}
+{"t": 564.3, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 565.6, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "nudging it out from the corner", "reason": "cooldown"}
+{"t": 572.1, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 573.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing it from the wall"}
+{"t": 582.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 591.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it along the wall"}
+{"t": 593.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the corner", "reason": "cooldown"}
+{"t": 594.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 600.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 602.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner"}
+{"t": 604.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 605.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "moving it off the wall"}
+{"t": 607.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "getting it unstuck", "reason": "cooldown"}
+{"t": 607.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 608.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 609.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 610.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 610.5, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing the ball from the corner", "reason": "cooldown"}
+{"t": 611.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 612.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it from the corner", "reason": "cooldown"}
+{"t": 612.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "getting it unstuck", "reason": "cooldown"}
+{"t": 613.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 613.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "unsticking from the wall", "reason": "cooldown"}
+{"t": 615.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 615.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it from the wall"}
+{"t": 615.9, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "kick it out of the corner"}
+{"t": 617.4, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 618.5, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it away from the wall", "reason": "cooldown"}
+{"t": 618.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it", "reason": "cooldown"}
