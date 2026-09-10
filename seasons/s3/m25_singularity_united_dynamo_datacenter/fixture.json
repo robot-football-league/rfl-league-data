@@ -1,0 +1,19 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 3
+  },
+  "away": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 8
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {},
+    "away": {},
+    "engine_commit": "7167481b946b2ff0e9f347c9a152fdbfa3c310dd"
+  }
+}

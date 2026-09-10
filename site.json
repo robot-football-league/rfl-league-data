@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T18:56:56+00:00",
+ "generated_at": "2026-09-10T19:57:08+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8869,6 +8869,23 @@
     },
     {
      "pos": 3,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 5,
+     "W": 3,
+     "D": 0,
+     "L": 2,
+     "GF": 35,
+     "GA": 30,
+     "Pts": 9,
+     "GD": 5,
+     "prev": 5,
+     "move": 2
+    },
+    {
+     "pos": 4,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8882,10 +8899,10 @@
      "Pts": 9,
      "GD": 4,
      "prev": 4,
-     "move": 1
+     "move": 0
     },
     {
-     "pos": 4,
+     "pos": 5,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8899,10 +8916,10 @@
      "Pts": 9,
      "GD": -1,
      "prev": 6,
-     "move": 2
+     "move": 1
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8916,41 +8933,24 @@
      "Pts": 8,
      "GD": 5,
      "prev": 8,
-     "move": 3
+     "move": 2
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 4,
+     "P": 5,
      "W": 2,
      "D": 1,
-     "L": 1,
-     "GF": 34,
-     "GA": 19,
-     "Pts": 7,
-     "GD": 15,
-     "prev": 3,
-     "move": -3
-    },
-    {
-     "pos": 7,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 4,
-     "W": 2,
-     "D": 0,
      "L": 2,
-     "GF": 27,
+     "GF": 37,
      "GA": 27,
-     "Pts": 6,
-     "GD": 0,
-     "prev": 5,
-     "move": -2
+     "Pts": 7,
+     "GD": 10,
+     "prev": 3,
+     "move": -4
     },
     {
      "pos": 8,
@@ -14031,8 +14031,202 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "SGU",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-10T19:00:00Z"
+     "status": "aired",
+     "score": [
+      3,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 3,
+        "second": 23.1,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 46.4,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 15,
+        "second": 100.1,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 30,
+        "second": 198.5,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 32,
+        "second": 215.6,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 252.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 61,
+        "second": 406.0,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 439.8,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 74,
+        "second": 496.1,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 78,
+        "second": 522.0,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 93,
+        "second": 619.9,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 229,
+       "through": 19,
+       "kick": 226,
+       "fall": 35,
+       "near_miss": 5,
+       "wall": 33,
+       "buzzer": 2,
+       "ram": 3
+      },
+      "radio": [
+       {
+        "second": 5.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "Going for the ball!"
+       },
+       {
+        "second": 23.7,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 140.0,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "moving it out"
+       },
+       {
+        "second": 157.1,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "getting it unstuck from the wall"
+       },
+       {
+        "second": 241.3,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 249.7,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got it, pushing it out"
+       },
+       {
+        "second": 344.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing it out"
+       },
+       {
+        "second": 362.7,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "helping clear it"
+       },
+       {
+        "second": 389.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "getting it away from the corner"
+       },
+       {
+        "second": 409.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 432.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "helping push it off the wall"
+       },
+       {
+        "second": 486.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "attacking"
+       },
+       {
+        "second": 545.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "helping dig it out"
+       },
+       {
+        "second": 578.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "got it, freeing it from the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 226,
+       "falls": 35,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": 0.4386
+     },
+     "aired_at": "2026-09-10T19:04:37Z",
+     "watch": {
+      "id": "s3-m25_singularity_united_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m25_singularity_united_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m25_singularity_united_dynamo_datacenter"
+     }
     },
     {
      "n": 26,
@@ -14163,7 +14357,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "FAB",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-14T19:00:00Z"
     },
     {
      "n": 38,
@@ -14714,6 +14909,22 @@
      "goals": 20
     },
     {
+     "name": "Mbapp-E",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 18
+    },
+    {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 17
+    },
+    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -14754,31 +14965,15 @@
      "goals": 15
     },
     {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
      "goals": 14
-    },
-    {
-     "name": "Patchford",
-     "team": "frontier_sol",
-     "team_name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "goals": 14
-    },
-    {
-     "name": "Abyss",
-     "team": "frontier_deepseek",
-     "team_name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "goals": 13
     }
    ],
-   "aired_count": 24,
+   "aired_count": 25,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -15798,8 +15993,8 @@
   }
  },
  "totals": {
-  "matches_aired": 61,
-  "goals": 665,
+  "matches_aired": 62,
+  "goals": 676,
   "clubs": 11
  }
 }

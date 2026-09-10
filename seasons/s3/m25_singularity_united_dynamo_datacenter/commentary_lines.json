@@ -1,0 +1,560 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round five, Singularity United against Dynamo Datacenter.",
+    "wav": "line_5753ddc164369a2a.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 5.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls for the ball.",
+    "wav": "line_8d068282e0679704.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 7.76,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe is through on goal!",
+    "wav": "line_18affa36f3df9f6d.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 10.38,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "And down goes Buffon.exe unaided. Gyros scrambled, but getting back up.",
+    "wav": "line_f3a9c62a71a60327.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 17.44,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A sweeping effort flashes just wide of the target.",
+    "wav": "line_b1cc0c6409e8a7e6.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 23.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Mbapp-E tucks it away from close range! Dynamo Datacenter draw first blood, making the breakthrough in yellow to make it one-nil!",
+    "wav": "line_ac099ce450a62164.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 36.75,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Singularity teammates bump into each other.",
+    "wav": "line_a4ba71d81997c38b.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 39.04,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "BellingRAM leaves Mbapp-E sprawling across the carpet with a firm challenge.",
+    "wav": "line_13eaca3f40aa96b3.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 45.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid drives through the middle.",
+    "wav": "line_6fc21cfb13b2ddd6.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 45.86,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe crunches into BellingRAM.",
+    "wav": "line_341928c8a96d59e9.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 46.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid slots it home! An instant response from Singularity United, levelling the score at one-one!",
+    "wav": "line_bce8386cc56fc9a3.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 76.09,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E arrives with a solid challenge to deck Haalandroid.",
+    "wav": "line_1fec55ea7145c6f9.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 81.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Dynamo keep applying heavy pressure.",
+    "wav": "line_864eb4e05930431f.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 83.06,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E steps in again, knocking BellingRAM off balance in their defensive third.",
+    "wav": "line_078f7deb3ebd23a9.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 98.13,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe is clean through here!",
+    "wav": "line_1ff9ca57ed6ae7c8.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 100.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Relentless pressure from the visitors.",
+    "wav": "line_09716adf61c11fb4.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 100.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe finishes it right on the line! Dynamo Datacenter retake the lead, making it two-one!",
+    "wav": "line_31ecb4286dc0f9bd.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 132.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe calls out that they are clearing the ball away from the touchline.",
+    "wav": "line_885543592369fc4b.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 141.05,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A slight wobble and Buffon.exe hits the deck without any contact.",
+    "wav": "line_306355177971c2f7.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 147.17,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A tangle of sky blue limbs.",
+    "wav": "line_40c2e75160d7811d.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 148.5,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid steps across and sends Mbapp-E clattering to the floor.",
+    "wav": "line_236490beff06615a.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 157.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just inches wide of the post!",
+    "wav": "line_0c7bb78ea41b9c3c.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 160.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Singularity United have set up camp in the attacking third now, testing Dynamo's resolve as both frozen squads trade blows.",
+    "wav": "line_599ba8ceef31377b.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 195.79,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Haalandroid is clean through!",
+    "wav": "line_828517c52ab1d7c3.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 198.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid marches right to goal!",
+    "wav": "line_2c0edc60dc000e43.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 198.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Haalandroid scores! It is level again at two-two, a clinical finish right under the bar!",
+    "wav": "line_97bcf212ef8468e5.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 211.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe motors forward through the centre into the final third.",
+    "wav": "line_2b16e198e1e1af67.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 215.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe scores again! Dynamo edge ahead three-two in this frantic opening half!",
+    "wav": "line_53fa3d6a4505092c.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 220.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E shouts out claiming possession in midfield as Dynamo settle back into their shape.",
+    "wav": "line_a8c6f073735c6f48.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 238.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe guides the magenta ball along the right touchline, making steady ground into the attacking end.",
+    "wav": "line_1122caf5ebdad604.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 251.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe approaches the goal mouth.",
+    "wav": "line_afc52ae71975e3d9.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 252.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe turns it in! A hat-trick makes it two-four to Dynamo.",
+    "wav": "line_eb05e6332a9c469a.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 252.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo Datacenter have pinned Singularity back deep, suffocating any attempt to build from the back.",
+    "wav": "line_5c31f0f679bd2f76.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 275.97,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Mbapp-E loses footing in the middle of the park and tips over, but the actuators are already whirring to right the posture.",
+    "wav": "line_c16a90872558d01e.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, the ball rolls on.",
+    "wav": "line_04e34301e7abcc2d.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 300.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Mbapp-E had called to prise it off the wall.",
+    "wav": "line_b668720cb4e66f76.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball comes to rest, so that is half time, Singularity two, Dynamo four. Remember, the buzzer cuts power dead, but any moving ball remains live and counts if it rolls in. Neither side rewriting code, but Dynamo hold the cards.",
+    "wav": "line_67a96e8feccb5d1f.wav",
+    "dur_s": 15.47
+  },
+  {
+    "t": 342.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A stinging drive whistles past the post from two metres out. Singularity looking to chip away at this two-goal deficit early in the second period.",
+    "wav": "line_13afdc8b05e5019f.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 362.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "BellingRAM calls to work the wall.",
+    "wav": "line_cc55e32dec10679e.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 365.53,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another clumsy Singularity collision out wide.",
+    "wav": "line_1daa096d535b86a3.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 368.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM recovers to dump Buffon.exe onto the carpet over on the right touchline.",
+    "wav": "line_d114aba034409ed6.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 377.06,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "BellingRAM topples over unaided near their own goal line, spending a few moments recalibrating before getting back up.",
+    "wav": "line_ad5f964a18acc475.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 392.49,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram triggers with a clatter, firing the ball back out toward midfield.",
+    "wav": "line_1468387da416430c.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 401.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM shouts their intention to clear the corner area.",
+    "wav": "line_c9e71daef6ab24a6.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 406.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E punishes them from two metres out! Dynamo Datacenter extend their lead to five-two, giving Singularity United an enormous mountain to climb.",
+    "wav": "line_d0b5f302f6e6ad70.wav",
+    "dur_s": 10.01
+  },
+  {
+    "t": 433.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Haalandroid calls out, trying to work the ball away from the boards.",
+    "wav": "line_2b2ef247dd736bb4.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 439.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E slides another one into the net! That is six-two to Dynamo Datacenter, running riot down the right channel now.",
+    "wav": "line_1bb247a67691aa0c.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 462.36,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A whisker away from seven, clipping the paint on its way past.",
+    "wav": "line_750bf9ee45680a61.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 468.63,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel fires once more, punching the magenta ball off the wall.",
+    "wav": "line_76108c33a0447ac7.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 475.52,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM breaks clean away down the right, with open turf ahead.",
+    "wav": "line_243ce028e8fc6525.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 496.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid charges towards the goal.",
+    "wav": "line_d7c7794de951e847.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 496.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid tucks it away from point-blank range! Singularity United pull one back, making it three-six, but the clock is ticking down fast.",
+    "wav": "line_f2e749604b8a9f3d.wav",
+    "dur_s": 8.15
+  },
+  {
+    "t": 522.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Mbapp-E replies instantly! Dynamo Datacenter restore the cushion at three-seven.",
+    "wav": "line_d40bd63668b60acf.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 522.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E drives straight into the goal mouth, carving through the defence with total authority.",
+    "wav": "line_01b21a99834ea9c3.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 540.89,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The corner ram fires the ball clear of the danger zone.",
+    "wav": "line_c96849d1b9e1f90a.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 545.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe calls out to offer support, looking to dig the ball out of their own third with just over a minute left on the clock.",
+    "wav": "line_a07fd714d3912687.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 565.24,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM gets a clear sight of goal along the right touchline as we enter the final minute.",
+    "wav": "line_556e5343b9f26ab8.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 601.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe carries the ball forward through the centre circle, chewing up precious final seconds.",
+    "wav": "line_b0e713464bc84876.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 608.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe skims an effort wide of the upright with only moments remaining.",
+    "wav": "line_35caf47cfe16d81c.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buzzer sounds, the ball rolls toward goal.",
+    "wav": "line_46228dfc14446228.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 619.9,
+    "kind": "buzzer_goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And it rolls in! Mbapp-E scores after the buzzer, three-eight!",
+    "wav": "line_48918598452fbba6.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 619.9,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, three-eight to Dynamo. Codex City versus Real Machina next, Friday twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_1d684245d69ded91.wav",
+    "dur_s": 7.94
+  }
+]
