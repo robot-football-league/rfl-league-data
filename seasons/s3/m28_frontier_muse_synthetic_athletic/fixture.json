@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 5
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 5
+  },
+  "winner": "draw",
+  "code": {
+    "home": {
+      "commit": "c6da8fb4c02facaf12e3db37c0d556292cedbccf",
+      "subject": "night 12: (no summary given)",
+      "committed_at": "2026-09-10T21:02:58+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "eef37bc7755f64fdc608ab4edecd68b6c8e39445"
+  }
+}

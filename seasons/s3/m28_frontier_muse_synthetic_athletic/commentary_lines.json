@@ -1,0 +1,452 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here in round six.",
+    "wav": "line_553d98b35ad0b89e.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 2.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse gives a loud shout, claiming that loose ball early. Muse Spark's gaffer decided to change absolutely nothing coming into this match, backing the system to finally turn their fortunes around after that heavy run of defeats.",
+    "wav": "line_91673c165318ff64.wav",
+    "dur_s": 15.02
+  },
+  {
+    "t": 19.75,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho slips clean through on goal on the right channel, completely untracked with only the net ahead!",
+    "wav": "line_6d87690c725cf4f1.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 28.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Synthetic Athletic are turning the screw now, keeping Spark and Muse trapped deep in their own territory. Remember, Athletic are a frozen club with no gaffer at all, playing the exact same code they had on day one, but it is causing real problems.",
+    "wav": "line_895363984a9a6550.wav",
+    "dur_s": 17.89
+  },
+  {
+    "t": 53.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho calls out to Griezmatronn, signalling control over on the left flank.",
+    "wav": "line_774f63a60d5779f4.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 60.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And against the run of play, Muse strikes! A clinical finish right in front of goal to break the deadlock and put Muse Spark FC in front!",
+    "wav": "line_cafa5ff98faa8c26.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 84.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Synthetic Athletic hit straight back! Robodinho pounces from point-blank range and hammers it home. That is fifteen for the season now, and we are level at one apiece!",
+    "wav": "line_58099c21b6b79dc4.wav",
+    "dur_s": 11.21
+  },
+  {
+    "t": 118.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn shouts a warning, moving to clear the danger.",
+    "wav": "line_cad92219555c1107.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 123.36,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho breaks clear through the middle with acres of space!",
+    "wav": "line_124b9a5d43c933e5.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 127.72,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just past the upright!",
+    "wav": "line_fa49093467e416d4.wav",
+    "dur_s": 1.25
+  },
+  {
+    "t": 128.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho scrambles it over the line! Synthetic Athletic lead two-one!",
+    "wav": "line_448491ebac115a85.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 128.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "That was a relentless five-second charge right down the spine of the pitch from Robodinho to create the opening.",
+    "wav": "line_0af79d4e4ed8ddaf.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 143.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Another drive from Robodinho.",
+    "wav": "line_1f8972bf04dca2ac.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 143.4,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches away from a third! Robodinho strikes from point-blank range, but it ricochets agonizingly wide of the target.",
+    "wav": "line_b50be4feba0b9c53.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 178.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A heart-in-mouth moment at the back as the ball rattles the woodwork.",
+    "wav": "line_394a34994648bd23.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 189.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse calls out to settle the defense, confirming possession has been secured in the corner.",
+    "wav": "line_0da1e85fa50a4782.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 206.19,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark is through on the right touchline with open goal ahead!",
+    "wav": "line_96fe55aea83c3eec.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 211.56,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flashes wide of the net!",
+    "wav": "line_705d255b3eede205.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 213.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark regains it, surging forward.",
+    "wav": "line_678d9fde0e79b053.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 213.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Spark buries it! We are all square at two-two!",
+    "wav": "line_b275f479079ae698.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 214.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A sustained spell of pressure in the final third pays off handsomely. Muse Spark have really pinned the red shirts against their own back wall here.",
+    "wav": "line_4ee1a1d828b22dab.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 231.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark shouts across to Muse, signalling an aggressive press high up the pitch as they look to capitalize on the momentum.",
+    "wav": "line_559a098489c2082f.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 256.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark scores again! Muse Spark take the lead at three-two!",
+    "wav": "line_909fffafebcc989e.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 257.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Complete dominance right now from the spark-blues, refusing to give Synthetic Athletic a single moment of respite.",
+    "wav": "line_75744ecb39a14327.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 271.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho drives forward with pace.",
+    "wav": "line_ece4351afa20d0e6.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 271.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "A hat-trick for Robodinho! Synthetic Athletic find the answer almost instantly, bundling it home from point-blank range to make it three-three!",
+    "wav": "line_58dc735130cbe873.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 291.44,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Griezmatronn strikes just wide!",
+    "wav": "line_190254a2f247a746.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 292.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn turns it home! What a frantic end to the half as Synthetic Athletic edge ahead, four goals to three!",
+    "wav": "line_addbd10d4853b63f.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "There goes the half-time buzzer, cutting all power, but the ball rolls on.",
+    "wav": "line_b47a4bcc8654abdd.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ball finally rolls to a halt. For those new to robot football, that buzzer completely cuts power to the machines mid-stride, but play continues while the ball travels\u2014any goal scored before it stops counts. At the break, Synthetic Athletic lead four-three.",
+    "wav": "line_bebf0d45c6d90273.wav",
+    "dur_s": 16.17
+  },
+  {
+    "t": 334.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark calls out to Muse along the right touchline, battling to work the ball out from deep in their own half.",
+    "wav": "line_3ac8b18715726015.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 356.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho tucks it away on the left channel to make it five-three to Synthetic Athletic! Clinical work from the red shirt to extend their cushion.",
+    "wav": "line_a057a220f52e57a0.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 391.05,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse breaks clean through on goal through the centre!",
+    "wav": "line_bdbca0715023c991.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 396.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse carries the ball along the right channel, trying to carve out an angle against an organized Athletic defense.",
+    "wav": "line_89a6273e89a4868b.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 415.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Fourteen seconds of territorial pressure here from the spark-blues, but Synthetic Athletic are standing firm in front of their goal line.",
+    "wav": "line_4598307fc88f4759.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 439.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark slots it home! The deficit is cut to one, it is four-five and game on!",
+    "wav": "line_bb19177c1d6bcf32.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 443.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse signals immediate intent to chase down the restart in the centre circle.",
+    "wav": "line_8647b33463450f72.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 458.13,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner ram fires it clear.",
+    "wav": "line_501ac2dd4d6a207a.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 459.62,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse loses footing on the turn and goes down, but the recovery routine kicks in.",
+    "wav": "line_1d6f93d32385b3e0.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 467.05,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "The push-panel launches it back.",
+    "wav": "line_b23d49f1a771e4f6.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 469.12,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Muse takes another heavy tumble near their own goal with time slipping away. Two and a half minutes left, and Muse Spark need every second they can get.",
+    "wav": "line_e0a910860b936494.wav",
+    "dur_s": 10.45
+  },
+  {
+    "t": 507.2,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Griezmatronn calls out while bracing off the side wall, looking to hold the midfield line.",
+    "wav": "line_b31a00589aec1ac4.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 521.8,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Another violent shove from the corner panel sends the ball back into the fray.",
+    "wav": "line_b64505ae8f9578dc.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 530.51,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Griezmatronn hits the turf in the defensive third! Less than ninety seconds left on the clock for Synthetic Athletic to hold on.",
+    "wav": "line_dacbe8c22efda05c.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 544.16,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Spark shoots just wide!",
+    "wav": "line_5321861ad4dec92c.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 545.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark scores! An equalizer in the final minute, and it is five-five!",
+    "wav": "line_b534adc8bfd885f3.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 547.02,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Griezmatronn goes down in the centre circle after the restart. Dramatic scenes here in the dying seconds as both sides chase a winner.",
+    "wav": "line_449a58281c583423.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 579.15,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Muse breaks through from deep! Thirty-eight seconds remaining, and Muse has open space right down the channel with the net in sight!",
+    "wav": "line_39ba5a4f84ceb788.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "The full-time buzzer sounds, cutting all power, but the ball trickles slowly through",
+    "wav": "line_c21b9c91bbb2ecf7.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "It finishes 5-5, points shared. Next: GLM meets Dynamo Datacenter Saturday at twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_82b266406eddfc2c.wav",
+    "dur_s": 9.35
+  }
+]

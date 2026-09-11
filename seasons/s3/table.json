@@ -2644,6 +2644,99 @@
     ]
    },
    "dir": "runs/league/s3/m27_frontier_gemini_frontier_fable"
+  },
+  {
+   "fixture": 28,
+   "home": "frontier_muse",
+   "away": "synthetic_athletic",
+   "score": [
+    5,
+    5
+   ],
+   "goals": [
+    {
+     "t": 60.1,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 84.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 128.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 213.8,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 256.4,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 271.7,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 292.7,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 356.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 439.8,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 545.0,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.3589,
+   "players": {
+    "home": [
+     "Spark",
+     "Muse"
+    ],
+    "away": [
+     "Griezmatronn",
+     "Robodinho"
+    ]
+   },
+   "dir": "runs/league/s3/m28_frontier_muse_synthetic_athletic"
   }
  ]
 }
