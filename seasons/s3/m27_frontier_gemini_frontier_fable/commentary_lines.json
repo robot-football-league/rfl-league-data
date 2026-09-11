@@ -1,0 +1,560 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway on the painted pitch.",
+    "wav": "line_cb941dca9db9d5cd.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash is calling immediately to press right onto the ball, setting the tone for the league leaders early on.",
+    "wav": "line_3d2e7e6daa9b8206.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 11.49,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark slips clean through on the right channel, nobody between them and the net, a real opening here!",
+    "wav": "line_88e70a1660a3a0ea.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 24.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just past the far post!",
+    "wav": "line_2bb0c1498b1a116a.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 26.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Gemini Flash keeping them penned deep in their own territory. Both managers chose to change nothing this week, but it is Flash and Spark dictating all the territory so far.",
+    "wav": "line_cd4db27f3500e726.wav",
+    "dur_s": 10.24
+  },
+  {
+    "t": 40.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash drives it home from close range! The league leaders draw first blood, one-nil to Gemini Flash!",
+    "wav": "line_4b150666ba9e8a47.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 45.74,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A bit of a muddle there for Fable as Tortoise and Hare tumble into one another in the centre circle, leaving Tortoise flat on the deck.",
+    "wav": "line_eb905a386954d69a.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 64.78,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash leaves Hare sprawling in the channel with a heavy challenge.",
+    "wav": "line_8603b8625c9b20b3.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 70.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Tortoise inadvertently turns it into the net, making it two-nil to Gemini Flash.",
+    "wav": "line_d1bb02e39166e294.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 71.4,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare gets straight back up and calls across to Tortoise, demanding they reset and refuse to let themselves get bypassed again.",
+    "wav": "line_06da5437de2cbd70.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 98.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark gathers the magenta ball nicely, trundling three metres up the left channel to regain the centre circle.",
+    "wav": "line_79df034758523cc9.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 110.6,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flashing just wide of the target.",
+    "wav": "line_5bb05d8ae1879c00.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 113.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark pounces right on the goal line to poke it in! Three-nil to Gemini Flash now, cruising along comfortably.",
+    "wav": "line_4eedc7481c73915a.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 131.35,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark is clear down the right touchline once again.",
+    "wav": "line_438b9b41366346ba.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 135.87,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner panel punches it clear.",
+    "wav": "line_41fca1e9cee0f5e5.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 139.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash applying all the pressure.",
+    "wav": "line_99a836cf3825c4d9.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 141.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise calls out the ball's coordinates, warning Hare to track back on the goal side.",
+    "wav": "line_0039bb67c9d683e2.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 148.64,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another clatter off the bevelled corner, and that powered push-panel shoots the ball right back out into the final third.",
+    "wav": "line_c036cdffc8dfd26b.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 181.92,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Point-blank range, but the deflection drifts harmlessly wide of the post. Fable survive that scramble.",
+    "wav": "line_e32bd154b87472cb.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 200.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Hare unfortunately deflects it over their own line. That is an own goal, extending the lead to four-nil.",
+    "wav": "line_272dbd125d6b386a.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 205.85,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark simply overbalances in midfield, waiting on the righting sequence.",
+    "wav": "line_3f088ff9f3d3913b.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 210.28,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark crunches into Hare along the flank.",
+    "wav": "line_7ada2b9d6b206e5f.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 214.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls out the shot.",
+    "wav": "line_d8637dea734bb695.wav",
+    "dur_s": 1.36
+  },
+  {
+    "t": 216.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Tortoise taps it home from the doorstep! AFC Fable are on the board at four goals to one.",
+    "wav": "line_5c0473561d725f57.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 222.77,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare is suddenly clean through the middle.",
+    "wav": "line_831e7e506dd696e6.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 226.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare advances into the final third.",
+    "wav": "line_ec43a5cafdc92ab7.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 227.42,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark takes an awkward step and tumbles down unassisted, leaving the motors to heave them back upright.",
+    "wav": "line_c3b4b8906d53231a.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 256.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Tortoise bundles it across the line again! That is two in quick succession for Fable, narrowing the deficit to four goals to two.",
+    "wav": "line_a88f231b2f3ddb36.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 285.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark is shouting for immediate pressure on the ball deep in their own third.",
+    "wav": "line_51e7da48550ea8fd.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 293.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare tucks it away right on the brink of half time! A third for Fable, and suddenly it is four-three!",
+    "wav": "line_92f19912c0736591.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "There goes the buzzer, power cut, but the ball rolls harmlessly in midfield.",
+    "wav": "line_47e5454797d85415.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "The ball stops, confirming four-three at the break. Remember, the buzzer cuts total power, but like basketball, any ball in flight remains completely live until it comes to rest. If it rolls in, it counts.",
+    "wav": "line_e1eba75d84771c9a.wav",
+    "dur_s": 13.85
+  },
+  {
+    "t": 324.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark surges right back up the pitch, driving the ball purposefully into the final third.",
+    "wav": "line_2ad4e53cbfe1eff8.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 334.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash slots it neatly into the corner! A vital breathing space restored for Gemini Flash, making it five-three.",
+    "wav": "line_618089fbca3a4dfc.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 354.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash strikes again from point-blank range! A quickfire double, and the league leaders pull away to six-three.",
+    "wav": "line_e2aef831fb5af51e.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 363.09,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark steps in firmly to knock Tortoise off their stride.",
+    "wav": "line_b4204d4babb7802c.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 367.72,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable collide again, Hare down.",
+    "wav": "line_c760e83554c0b198.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 370.53,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash loses footing in the centre circle, but the recovery routine kicks in smoothly.",
+    "wav": "line_e85aaaec4942347f.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 381.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise drives directly toward goal.",
+    "wav": "line_acadd132a75710b7.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 383.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Fired just wide of the upright from close range.",
+    "wav": "line_6fcb366502e40bc2.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 389.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare makes a sharp vocal call, claiming the loose ball in the goal mouth and telling Tortoise to stay awake.",
+    "wav": "line_56a166e60c186b50.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 413.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A sustained spell of pressure here from Fable, holding Gemini Flash pinned deep inside their own defensive corridor for eleven seconds.",
+    "wav": "line_9761fe6b631de386.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 430.5,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash breaks clean away from midfield on the counter, with an open path toward goal.",
+    "wav": "line_18e20298cc87e6e5.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 439.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just slips past the frame.",
+    "wav": "line_548d4112d64ab1b0.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 440.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And a desperate attempt to clear ends in disaster as Hare deflects it into their own net! Seven-three to Gemini Flash now.",
+    "wav": "line_a99127c0489e662a.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 461.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare calls out once more, taking responsibility for the loose ball near the goal mouth.",
+    "wav": "line_15d0f528c2b1e1c2.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 486.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash and Spark controlling play.",
+    "wav": "line_f40a60c76ff0ad38.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 488.51,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Punched back into play by the corner panel, keeping the rhythm going.",
+    "wav": "line_bd4131877148be18.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 497.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drives forward through the centre circle with purpose.",
+    "wav": "line_b2b164c0c10273a2.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 501.85,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare breaks completely free through the middle, nobody in front of them to block the attempt.",
+    "wav": "line_9b6e81f0a227f6ab.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 516.23,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise clatters into Spark on the touchline, a solid defensive challenge to win possession back.",
+    "wav": "line_425edab68080367e.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 528.92,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash dumps Tortoise to the turf.",
+    "wav": "line_37efb512fc899d43.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 531.17,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise replies with a fierce hit.",
+    "wav": "line_53ed59c3a70adc16.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 533.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare calls for the ball.",
+    "wav": "line_d6e633e7b70f7b88.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 536.27,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash and Spark collide in defence.",
+    "wav": "line_feba5bc11e0c6b0a.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 538.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Hare capitalises on the chaos to pull one back, making it seven goals to four.",
+    "wav": "line_1be8b76d779a9150.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 540.16,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark takes another tumble in the centre circle without a touch, but is already executing the rise routine.",
+    "wav": "line_039bea74b89cd2aa.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 563.6,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Into the final minute now. Both sides stuck to their tried and tested setups today, but Gemini Flash's clinical finishing in front of the walls has proved the difference.",
+    "wav": "line_f7e6023e5cb902bf.wav",
+    "dur_s": 9.9
+  },
+  {
+    "t": 586.95,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner push-panel springs out to launch the magenta ball away from the bevelled corner once again.",
+    "wav": "line_56e4b8ae42c4f12d.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 610.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash adds an eighth from point-blank range, sealing a dominant performance for Gemini Flash.",
+    "wav": "line_ea9b039066b7f3a8.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out, and the ball rolls safely in midfield.",
+    "wav": "line_b8667d70dad7b973.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, 8-4. Next, Muse Spark play Synthetic Athletic Friday at 20:00 UK, 21:00 Europe, 15:00 US East.",
+    "wav": "line_cd9178f3917a2144.wav",
+    "dur_s": 8.99
+  }
+]

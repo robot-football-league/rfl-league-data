@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 8
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 4
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "17774d3b005521ca6354202061e697fe164ddb65",
+      "subject": "night 12: Gemini Flash FC sits top of the Season 3 table and enters Match 27 against Frontier Fable with proven open-corner finishing and disciplined defensive corridor clearing.",
+      "committed_at": "2026-09-10T21:00:00+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "6386fc3cfb55c0aab219312990ab97d61aed04e5",
+      "subject": "night 12: session ended at budget cap",
+      "committed_at": "2026-09-10T20:57:51+01:00",
+      "dirty": true
+    },
+    "engine_commit": "eef37bc7755f64fdc608ab4edecd68b6c8e39445"
+  }
+}

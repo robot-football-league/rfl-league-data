@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T14:54:16+00:00",
+ "generated_at": "2026-09-11T15:54:29+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8839,14 +8839,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 5,
-     "W": 5,
+     "P": 6,
+     "W": 6,
      "D": 0,
      "L": 0,
-     "GF": 37,
-     "GA": 23,
-     "Pts": 15,
-     "GD": 14,
+     "GF": 45,
+     "GA": 27,
+     "Pts": 18,
+     "GD": 18,
      "prev": 1,
      "move": 0
     },
@@ -8924,14 +8924,14 @@
      "name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "P": 5,
+     "P": 6,
      "W": 2,
      "D": 2,
-     "L": 1,
-     "GF": 28,
-     "GA": 23,
+     "L": 2,
+     "GF": 32,
+     "GA": 31,
      "Pts": 8,
-     "GD": 5,
+     "GD": 1,
      "prev": 6,
      "move": 0
     },
@@ -14448,8 +14448,209 @@
      "away_name": "AFC Fable",
      "home_code": "GEM",
      "away_code": "FAB",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-11T15:00:00Z"
+     "status": "aired",
+     "score": [
+      8,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 6,
+        "second": 40.6,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 11,
+        "second": 70.9,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": true
+       },
+       {
+        "minute": 17,
+        "second": 113.1,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 30,
+        "second": 200.7,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": true
+       },
+       {
+        "minute": 32,
+        "second": 216.2,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 256.0,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 293.2,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 334.4,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 354.5,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 440.3,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": true
+       },
+       {
+        "minute": 81,
+        "second": 538.7,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 92,
+        "second": 610.5,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 236,
+       "kick": 210,
+       "through": 16,
+       "near_miss": 5,
+       "fall": 26,
+       "wall": 34,
+       "ram": 4,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 38.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.9, +1.6, near still \u2014 mine, slow and steady."
+       },
+       {
+        "second": 81.7,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -1.7, +4.5, rolling at our net, fast \u2014 dropping goal-side."
+       },
+       {
+        "second": 118.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 164.9,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +1.4, +1.6, rolling at their net, fast \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 203.7,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -0.1, +0.1, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 250.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 293.7,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "The moral so far: patience scores."
+       },
+       {
+        "second": 367.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -0.8, -0.7, near still \u2014 dropping back."
+       },
+       {
+        "second": 405.5,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 444.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 494.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 533.7,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -5.7, +0.5, rolling across \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 577.9,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       }
+      ],
+      "stats": {
+       "kicks": 210,
+       "falls": 26,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 16
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-11T15:04:35Z",
+     "watch": {
+      "id": "s3-m27_frontier_gemini_frontier_fable",
+      "url": "https://4dgsx.com/watch/s3-m27_frontier_gemini_frontier_fable",
+      "embed_url": "https://4dgsx.com/embed/s3-m27_frontier_gemini_frontier_fable"
+     }
     },
     {
      "n": 28,
@@ -14580,7 +14781,8 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "GEM",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-15T15:00:00Z"
     },
     {
      "n": 40,
@@ -15108,7 +15310,15 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "goals": 20
+     "goals": 21
+    },
+    {
+     "name": "Flash",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "goals": 19
     },
     {
      "name": "CR-7000",
@@ -15143,27 +15353,19 @@
      "goals": 17
     },
     {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 15
-    },
-    {
      "name": "Tortoise",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "goals": 15
+     "goals": 17
     },
     {
-     "name": "Flash",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
      "goals": 15
     },
     {
@@ -15175,7 +15377,7 @@
      "goals": 15
     }
    ],
-   "aired_count": 26,
+   "aired_count": 27,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -16270,8 +16472,8 @@
   }
  },
  "totals": {
-  "matches_aired": 63,
-  "goals": 688,
+  "matches_aired": 64,
+  "goals": 700,
   "clubs": 11
  }
 }
