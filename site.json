@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T10:25:16+00:00",
+ "generated_at": "2026-09-11T11:25:47+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8856,14 +8856,14 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 5,
-     "W": 3,
+     "P": 6,
+     "W": 4,
      "D": 0,
      "L": 2,
-     "GF": 40,
-     "GA": 19,
-     "Pts": 9,
-     "GD": 21,
+     "GF": 48,
+     "GA": 23,
+     "Pts": 12,
+     "GD": 25,
      "prev": 2,
      "move": 0
     },
@@ -8881,8 +8881,8 @@
      "GA": 30,
      "Pts": 9,
      "GD": 5,
-     "prev": 5,
-     "move": 2
+     "prev": 3,
+     "move": 0
     },
     {
      "pos": 4,
@@ -8890,14 +8890,14 @@
      "name": "Codex City",
      "code": "CDX",
      "color": "#0a0d0b",
-     "P": 5,
+     "P": 6,
      "W": 3,
      "D": 0,
-     "L": 2,
-     "GF": 27,
-     "GA": 23,
+     "L": 3,
+     "GF": 31,
+     "GA": 31,
      "Pts": 9,
-     "GD": 4,
+     "GD": 0,
      "prev": 4,
      "move": 0
     },
@@ -8915,8 +8915,8 @@
      "GA": 24,
      "Pts": 9,
      "GD": -1,
-     "prev": 6,
-     "move": 1
+     "prev": 5,
+     "move": 0
     },
     {
      "pos": 6,
@@ -8932,8 +8932,8 @@
      "GA": 23,
      "Pts": 8,
      "GD": 5,
-     "prev": 8,
-     "move": 2
+     "prev": 6,
+     "move": 0
     },
     {
      "pos": 7,
@@ -8949,8 +8949,8 @@
      "GA": 27,
      "Pts": 7,
      "GD": 10,
-     "prev": 3,
-     "move": -4
+     "prev": 7,
+     "move": 0
     },
     {
      "pos": 8,
@@ -8966,8 +8966,8 @@
      "GA": 35,
      "Pts": 6,
      "GD": -7,
-     "prev": 7,
-     "move": -1
+     "prev": 8,
+     "move": 0
     },
     {
      "pos": 9,
@@ -9004,7 +9004,7 @@
      "move": 0
     }
    ],
-   "movement_since_round": 4,
+   "movement_since_round": 5,
    "matches": [
     {
      "n": 1,
@@ -14236,8 +14236,209 @@
      "away_name": "Real Machina",
      "home_code": "CDX",
      "away_code": "RMA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-11T11:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 2,
+        "second": 11.1,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 47.4,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 14,
+        "second": 92.3,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": true
+       },
+       {
+        "minute": 22,
+        "second": 144.2,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 168.1,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 242.3,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 260.5,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": true
+       },
+       {
+        "minute": 43,
+        "second": 289.6,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 359.2,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 439.1,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": true
+       },
+       {
+        "minute": 76,
+        "second": 504.5,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 83,
+        "second": 555.7,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 231,
+       "kick": 209,
+       "through": 16,
+       "fall": 21,
+       "near_miss": 7,
+       "wall": 26,
+       "buzzer": 2,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 42.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing the corner"
+       },
+       {
+        "second": 94.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 135.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "working it free along the wall"
+       },
+       {
+        "second": 173.2,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 226.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "clearing our goal"
+       },
+       {
+        "second": 262.6,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 325.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Ball lost; recovering goal-side before scanning."
+       },
+       {
+        "second": 355.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Learned screen; recovering the ball-goal channel."
+       },
+       {
+        "second": 391.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 435.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Danger: both players counterpress; clear through the far goal."
+       },
+       {
+        "second": 482.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 535.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 565.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       }
+      ],
+      "stats": {
+       "kicks": 209,
+       "falls": 21,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 16
+      },
+      "est_cost_usd": 0.232
+     },
+     "aired_at": "2026-09-11T11:04:47Z",
+     "watch": {
+      "id": "s3-m26_frontier_sol_real_machina",
+      "url": "https://4dgsx.com/watch/s3-m26_frontier_sol_real_machina",
+      "embed_url": "https://4dgsx.com/embed/s3-m26_frontier_sol_real_machina"
+     }
     },
     {
      "n": 27,
@@ -14368,7 +14569,8 @@
      "away_name": "Singularity United",
      "home_code": "CDX",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-15T11:00:00Z"
     },
     {
      "n": 39,
@@ -14898,7 +15100,7 @@
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 22
+     "goals": 24
     },
     {
      "name": "Spark",
@@ -14907,6 +15109,14 @@
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 20
+    },
+    {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 18
     },
     {
      "name": "Mbapp-E",
@@ -14933,14 +15143,6 @@
      "goals": 17
     },
     {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 15
-    },
-    {
      "name": "Robodinho",
      "team": "synthetic_athletic",
      "team_name": "Synthetic Athletic",
@@ -14965,15 +15167,15 @@
      "goals": 15
     },
     {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 14
+     "name": "Patchford",
+     "team": "frontier_sol",
+     "team_name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "goals": 15
     }
    ],
-   "aired_count": 25,
+   "aired_count": 26,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -15614,6 +15816,81 @@
    "reasoning_tokens": 8794,
    "transcript": "gaffers/frontier_muse/night_011.md",
    "bytes": 246051
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 12,
+   "season": 3,
+   "finished_at": "2026-09-10T21:52:30+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 27,
+   "summary": "Tightened the 2v2 defence: the covering player now holds a stable goal-side point with a dead-zone instead of over-correcting to every ball movement, and when a teammate goes down the standing robot immediately takes over the chase \u2014 plus our presser strikes at goal in the last seconds before the buzzer, when nobody can block a moving ball.",
+   "commit": "0693e1a",
+   "spent_usd": 0.57,
+   "reasoning_turns": 27,
+   "reasoning_tokens": 40770,
+   "transcript": "gaffers/frontier_deepseek/night_012.md",
+   "bytes": 397314
+  },
+  {
+   "club": "frontier_fable",
+   "night": 12,
+   "season": 3,
+   "finished_at": "2026-09-10T19:57:51+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 4,
+   "summary": "session ended at budget cap",
+   "commit": "6386fc3",
+   "spent_usd": 0.275,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_012.md",
+   "bytes": 45768
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 12,
+   "season": 3,
+   "finished_at": "2026-09-10T20:00:00+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 19,
+   "summary": "Gemini Flash FC sits top of the Season 3 table and enters Match 27 against Frontier Fable with proven open-corner finishing and disciplined defensive corridor clearing.",
+   "commit": "17774d3",
+   "spent_usd": 0.272,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_012.md",
+   "bytes": 147390
+  },
+  {
+   "club": "frontier_glm",
+   "night": 12,
+   "season": 3,
+   "finished_at": "2026-09-10T21:24:28+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 23,
+   "summary": "After the 2-8 home defeat to AFC Fable I changed how the team behaves in three ways. When our pressing player goes to ground, the covering player now seizes the chase immediately instead of leaving the ball unattended \u2014 last match our second player touched the ball 15 times all game. Our players no longer swing at the ball from beyond kicking distance, those wild misses were toppling us 15 times a",
+   "commit": "92fcde4",
+   "spent_usd": 0.667,
+   "reasoning_turns": 23,
+   "reasoning_tokens": 63281,
+   "transcript": "gaffers/frontier_glm/night_012.md",
+   "bytes": 348872
+  },
+  {
+   "club": "frontier_muse",
+   "night": 12,
+   "season": 3,
+   "finished_at": "2026-09-10T20:02:58+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 27,
+   "summary": "(no summary given)",
+   "commit": "c6da8fb",
+   "spent_usd": 0.423,
+   "reasoning_turns": 13,
+   "reasoning_tokens": 6413,
+   "transcript": "gaffers/frontier_muse/night_012.md",
+   "bytes": 309099
   }
  ],
  "club_reports": [
@@ -15993,8 +16270,8 @@
   }
  },
  "totals": {
-  "matches_aired": 62,
-  "goals": 676,
+  "matches_aired": 63,
+  "goals": 688,
   "clubs": 11
  }
 }

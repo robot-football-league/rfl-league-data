@@ -2430,6 +2430,113 @@
     ]
    },
    "dir": "runs/league/s3/m25_singularity_united_dynamo_datacenter"
+  },
+  {
+   "fixture": 26,
+   "home": "frontier_sol",
+   "away": "real_machina",
+   "score": [
+    4,
+    8
+   ],
+   "goals": [
+    {
+     "t": 11.1,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 47.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 92.3,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 144.2,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 168.1,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 242.3,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 260.5,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 289.6,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 359.2,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 439.1,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 504.5,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 555.7,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.232,
+   "players": {
+    "home": [
+     "Patchford",
+     "Turingham"
+    ],
+    "away": [
+     "CR-7000",
+     "Zidroid"
+    ]
+   },
+   "dir": "runs/league/s3/m26_frontier_sol_real_machina"
   }
  ]
 }

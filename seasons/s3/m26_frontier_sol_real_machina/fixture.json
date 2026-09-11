@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 4
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 8
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {
+      "commit": "e949c78192024587bc8dcadeeeb7e3ac244cf2d2",
+      "subject": "night 10: Recorded Codex City's first league win and validated the narrower, more lateral collision release after falls dropped from 21 to 8 in the 8-3 Dynamo result. Updated PLAYBOOK.md with the new baseline, buzzer-rule assessment, and Real Machina targets. Preserved match code unchanged; scrutineering CLEAR.",
+      "committed_at": "2026-09-07T17:15:50+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "eef37bc7755f64fdc608ab4edecd68b6c8e39445"
+  }
+}
