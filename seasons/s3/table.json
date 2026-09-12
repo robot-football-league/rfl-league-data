@@ -2737,6 +2737,106 @@
     ]
    },
    "dir": "runs/league/s3/m28_frontier_muse_synthetic_athletic"
+  },
+  {
+   "fixture": 29,
+   "home": "frontier_glm",
+   "away": "dynamo_datacenter",
+   "score": [
+    1,
+    10
+   ],
+   "goals": [
+    {
+     "t": 45.9,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 62.0,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 107.8,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 133.2,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 157.5,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 251.8,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 376.9,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 395.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 415.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 449.2,
+     "team": "B",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 571.0,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.3515,
+   "players": {
+    "home": [
+     "Zhi",
+     "Pu"
+    ],
+    "away": [
+     "Mbapp-E",
+     "Buffon.exe"
+    ]
+   },
+   "dir": "runs/league/s3/m29_frontier_glm_dynamo_datacenter"
   }
  ]
 }

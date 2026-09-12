@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 1
+  },
+  "away": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 10
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {
+      "commit": "92fcde40c9080b5de7ce9370c59cfd23afabf360",
+      "subject": "night 12: After the 2-8 home defeat to AFC Fable I changed how the team behaves in three ways. When our pressing player goes to ground, the covering player now seizes the chase immediately instead of leaving the ball unattended \u2014 last match our second player touched the ball 15 times all game. Our players no longer swing at the ball from beyond kicking distance, those wild misses were toppling us 15 times a",
+      "committed_at": "2026-09-10T22:24:28+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "4e91e9af99e2ed780358866643cc7a902ca9e940"
+  }
+}

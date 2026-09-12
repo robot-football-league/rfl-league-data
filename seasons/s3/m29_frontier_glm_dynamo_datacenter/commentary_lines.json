@@ -1,0 +1,560 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round six as GLM FC in blue take on Dynamo Datacenter in yellow. Five minutes on the clock.",
+    "wav": "line_66997af97838e8fa.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 8.59,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe breaks clean through the middle here, right on goal with nobody in blue to challenge!",
+    "wav": "line_e3978645faa69082.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 18.67,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi loses footing and goes down in the corner.",
+    "wav": "line_0bfeaa9418d45451.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 22.36,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The push-panel fires it out. GLM have completely reworked their defensive cover this week.",
+    "wav": "line_41c6c00ce833f2bc.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 28.57,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E crunches in and Zhi hits the turf.",
+    "wav": "line_d93a335825cb96ab.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 31.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flashed inches wide of the post!",
+    "wav": "line_0604f9ac7edd7169.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 33.35,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi gets back up and clatters into Buffon.exe just two metres from goal.",
+    "wav": "line_1f569fecc43624d4.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 40.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls out to pry the ball off the boards.",
+    "wav": "line_467d522e3bfb94db.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 44.4,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E drags it just wide!",
+    "wav": "line_62be31781a49efcd.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 45.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "There is the breakthrough! Mbapp-E snatches the loose ball two metres out and stabs it home! Dynamo Datacenter take the lead, one nil, and GLM's early resistance is broken!",
+    "wav": "line_91e475484c65919d.wav",
+    "dur_s": 11.26
+  },
+  {
+    "t": 61.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Mbapp-E surges straight down the middle!",
+    "wav": "line_41fd75e6978819ee.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 62.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Two in a flash! Mbapp-E walks it right to the mouth of the goal and doubles the advantage. Two nil to Dynamo, and GLM look completely overwhelmed already.",
+    "wav": "line_e7478d500538c05c.wav",
+    "dur_s": 12.04
+  },
+  {
+    "t": 91.55,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ram-panel thumps it clear.",
+    "wav": "line_28dbc6caf0de7276.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 93.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi signals to Pu that they need to work the ball away from the perimeter boards before Dynamo swarm them again.",
+    "wav": "line_40ce621bfd058e4d.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 107.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Heavy Dynamo pressure in blue territory.",
+    "wav": "line_1785855ead28056f.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 107.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And Mbapp-E makes it three! A first-half hat-trick for the yellow forward, tapping in from point-blank range while GLM stood frozen. Three nil to Dynamo.",
+    "wav": "line_3cad1b6d89e1386f.wav",
+    "dur_s": 12.46
+  },
+  {
+    "t": 133.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "It is four! Buffon.exe joins the rout from close range. GLM are being thoroughly dismantled out here, four nil down with plenty still to play.",
+    "wav": "line_7b3f577f01c3f356.wav",
+    "dur_s": 9.59
+  },
+  {
+    "t": 143.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe marches through midfield unchallenged, driving straight at the heart of the blue defense once more.",
+    "wav": "line_8a97b5c141e812e0.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 150.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "An ambitious strike from distance skitters wide of the left upright.",
+    "wav": "line_2d79e4cf4cd569d8.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 157.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Five nil! Mbapp-E pokes it in at the goal mouth again. A fourth goal of the half for Mbapp-E, and Dynamo Datacenter are running riot on this pitch.",
+    "wav": "line_22e9965206ad3d05.wav",
+    "dur_s": 10.61
+  },
+  {
+    "t": 173.55,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe tumbles to the deck.",
+    "wav": "line_debf298e3efa00b3.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 173.76,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E is in behind again!",
+    "wav": "line_292af08a77110a24.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 173.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi shouts across to help pry that ball loose off the side wall.",
+    "wav": "line_0143c86d92ea5e79.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 179.2,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe recovers and sends Pu sprawling to the turf.",
+    "wav": "line_bfe89add4ff730a9.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 183.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E motors along the touchline.",
+    "wav": "line_fe699e5a0c9417f9.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 184.28,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Slashed wide of the near post from the angle.",
+    "wav": "line_cc61961cc5270a54.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 188.96,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu topples over unaided on the left, and that new handover routine their gaffer drew up has simply not produced any answers out here.",
+    "wav": "line_9bcc126e6b6bd5c3.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 206.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Yellow shirts suffocating the blue third.",
+    "wav": "line_278bfd97cd1a0f5c.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 207.99,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The powered corner panel does its job, firing the magenta ball back into traffic before anyone can settle on it.",
+    "wav": "line_a8bd69ba9527b57f.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 232.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi finally carries possession forward for GLM, stepping through their own third.",
+    "wav": "line_e8f5d1e4f01c8e21.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 237.12,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A rare opening for GLM as Zhi threads it straight through the center, clean into space!",
+    "wav": "line_655835e6c3206dc6.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 246.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe calls out to boot the ball away from immediate danger.",
+    "wav": "line_f8cc0b350902d117.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 251.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Pu pulls one back for GLM! Snapping onto the rebound from close range to tuck it into the right corner. They are on the board at last, one goal to five.",
+    "wav": "line_a9d2f2c724d0b78f.wav",
+    "dur_s": 10.32
+  },
+  {
+    "t": 268.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E clips it agonisingly wide.",
+    "wav": "line_c1112dff69f5edf2.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 270.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E signals to grind the play along the barrier and pin GLM into the final thirty seconds of the half.",
+    "wav": "line_10e4944c2092a54a.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting all power.",
+    "wav": "line_4335621236c7186d.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 300.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball slows in the blue half with all four robots collapsed.",
+    "wav": "line_a39a6a79e108396f.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball comes to rest, and that is half time: GLM one, Dynamo five. For anyone new, the buzzer instantly cuts robot power, but the ball remains live until it stops. If it rolls in, it counts.",
+    "wav": "line_66f627d9be5bd7a0.wav",
+    "dur_s": 13.95
+  },
+  {
+    "t": 339.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Back underway in the second period, and Mbapp-E is already barking instructions to clear the area and reset the yellow lines.",
+    "wav": "line_afab421ad179641a.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 362.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe steadily walks the ball across the halfway stripe, operating with that same mechanical precision Dynamo have shown all season.",
+    "wav": "line_12548b9664193812.wav",
+    "dur_s": 8.99
+  },
+  {
+    "t": 371.6,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A stinging effort whistles just past the post into the side netting.",
+    "wav": "line_ac0522db7525d6fc.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 376.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Oh, an own goal from Zhi! In trying to clear off the line, the defender redirects it straight into the net. One six.",
+    "wav": "line_0491924260d23689.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 383.49,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E takes an awkward tumble in the centre circle, perfectly balanced until the feet caught the seam.",
+    "wav": "line_e1fab752cf968e34.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 395.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe makes it seven! Sweeping in from the right flank to guide it home. A commanding lead for Dynamo Datacenter, cruising at seven one.",
+    "wav": "line_9ad3f189efed0639.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 415.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Another for Buffon.exe, tapping it over the line from point-blank range. That makes eight for Dynamo, who are simply far too sharp around the goal mouth.",
+    "wav": "line_32e6400b24fbb4dc.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 434.19,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E through on goal again!",
+    "wav": "line_06f11c7767500329.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 436.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Mbapp-E carries down the left, probing for another angle against an utterly deflated GLM side.",
+    "wav": "line_6b71a77f492d8717.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 447.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Whistled harmlessly wide of the target.",
+    "wav": "line_1c09095ff5af5a8f.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 449.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "It is another own goal, this time deflected in off Pu! Calamity in the GLM box, everything that could go wrong has gone wrong for the blue shirts. It is one nine.",
+    "wav": "line_177762486fd4b222.wav",
+    "dur_s": 10.74
+  },
+  {
+    "t": 472.1,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Dynamo Datacenter have never changed their software since match one, and displays like this show why. Ruthless, structured, and completely unfazed by anything GLM try to conjure up.",
+    "wav": "line_21623179991483c0.wav",
+    "dur_s": 12.7
+  },
+  {
+    "t": 495.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe charges up the wing.",
+    "wav": "line_ee8f8df51b82de7a.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 496.99,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Centred across for Mbapp-E, completely alone in front of the net!",
+    "wav": "line_13a4a19d53205379.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 503.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Scuffed wide from two metres out. Even Dynamo can afford a little profligacy with this sort of cushion as the clock ticks down under two minutes.",
+    "wav": "line_a753b980d95005fa.wav",
+    "dur_s": 9.41
+  },
+  {
+    "t": 520.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E calls out to work the ball clear of the boards. No panic from the yellow shirts, simply managing the closing stages.",
+    "wav": "line_51bc98667db26447.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 543.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe calmly steps forward through the centre circle, keeping possession ticking over into the final seventy seconds.",
+    "wav": "line_b44156b78683521b.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 556.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Skims just wide of the post.",
+    "wav": "line_16dd8b08c9e153af.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 557.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi calls to clear the wall.",
+    "wav": "line_a5ac3bf9260c3e70.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 559.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Yellow shirts hem GLM into their own goal mouth, hunting double figures before the clock expires.",
+    "wav": "line_5f1c9bc7d5b72156.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 571.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And there is double figures, but it is a third own goal of the day! Zhi turns it in inadvertently at the near post. A miserable afternoon for GLM, ten goals to one.",
+    "wav": "line_033554606314324b.wav",
+    "dur_s": 12.04
+  },
+  {
+    "t": 594.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Just seconds left on the clock now. GLM will have plenty of soul-searching to do after this one, still stranded without a point this season.",
+    "wav": "line_c620748c0f04d0a2.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, the power drops, and the ball slowly rolls harmlessly wide.",
+    "wav": "line_9dbcde007c101c74.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time: GLM one, Dynamo ten. Rovers meet Singularity on Saturday, sixteen UK, seventeen Europe, eleven US East.",
+    "wav": "line_6340588f16c6dfaf.wav",
+    "dur_s": 9.48
+  }
+]

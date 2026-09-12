@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T22:54:26+00:00",
+ "generated_at": "2026-09-12T12:47:24+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8869,6 +8869,23 @@
     },
     {
      "pos": 3,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 6,
+     "W": 4,
+     "D": 0,
+     "L": 2,
+     "GF": 45,
+     "GA": 31,
+     "Pts": 12,
+     "GD": 14,
+     "prev": 3,
+     "move": 0
+    },
+    {
+     "pos": 4,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8882,24 +8899,7 @@
      "Pts": 10,
      "GD": -1,
      "prev": 5,
-     "move": 2
-    },
-    {
-     "pos": 4,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 5,
-     "W": 3,
-     "D": 0,
-     "L": 2,
-     "GF": 35,
-     "GA": 30,
-     "Pts": 9,
-     "GD": 5,
-     "prev": 3,
-     "move": -1
+     "move": 1
     },
     {
      "pos": 5,
@@ -8992,14 +8992,14 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 5,
+     "P": 6,
      "W": 0,
      "D": 0,
-     "L": 5,
-     "GF": 15,
-     "GA": 49,
+     "L": 6,
+     "GF": 16,
+     "GA": 59,
      "Pts": 0,
-     "GD": -34,
+     "GD": -43,
      "prev": 10,
      "move": 0
     }
@@ -14858,8 +14858,202 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "GLM",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-12T11:00:00Z"
+     "status": "aired",
+     "score": [
+      1,
+      10
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 45.9,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 9,
+        "second": 62.0,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 107.8,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 133.2,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 157.5,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 251.8,
+        "side": "home",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 376.9,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": true
+       },
+       {
+        "minute": 59,
+        "second": 395.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 415.4,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 67,
+        "second": 449.2,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": true
+       },
+       {
+        "minute": 86,
+        "second": 571.0,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 212,
+       "through": 23,
+       "kick": 200,
+       "wall": 27,
+       "fall": 8,
+       "ram": 3,
+       "near_miss": 9,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 40.0,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck, pushing it out"
+       },
+       {
+        "second": 43.0,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "freeing the stuck ball"
+       },
+       {
+        "second": 93.5,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "pushing free from the wall"
+       },
+       {
+        "second": 160.2,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "freeing the ball"
+       },
+       {
+        "second": 176.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing the ball along the wall"
+       },
+       {
+        "second": 246.3,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing it away from our goal"
+       },
+       {
+        "second": 253.8,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "prying it free"
+       },
+       {
+        "second": 274.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "helping push it in"
+       },
+       {
+        "second": 276.4,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 351.4,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing it away"
+       },
+       {
+        "second": 520.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 556.4,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 568.2,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "pushing it free from the wall"
+       },
+       {
+        "second": 596.8,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "pushing it off the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 200,
+       "falls": 8,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 23
+      },
+      "est_cost_usd": 0.3515
+     },
+     "aired_at": "2026-09-12T11:04:44Z",
+     "watch": {
+      "id": "s3-m29_frontier_glm_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m29_frontier_glm_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m29_frontier_glm_dynamo_datacenter"
+     }
     },
     {
      "n": 30,
@@ -14990,7 +15184,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "RMA",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-16T11:00:00Z"
     },
     {
      "n": 42,
@@ -15493,6 +15688,14 @@
      "goals": 24
     },
     {
+     "name": "Mbapp-E",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 22
+    },
+    {
      "name": "Spark",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
@@ -15525,14 +15728,6 @@
      "goals": 18
     },
     {
-     "name": "Mbapp-E",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 18
-    },
-    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -15549,23 +15744,23 @@
      "goals": 17
     },
     {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 17
+    },
+    {
      "name": "Tortoise",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
      "goals": 17
-    },
-    {
-     "name": "Patchford",
-     "team": "frontier_sol",
-     "team_name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "goals": 15
     }
    ],
-   "aired_count": 28,
+   "aired_count": 29,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -16660,8 +16855,8 @@
   }
  },
  "totals": {
-  "matches_aired": 65,
-  "goals": 710,
+  "matches_aired": 66,
+  "goals": 721,
   "clubs": 11
  }
 }
