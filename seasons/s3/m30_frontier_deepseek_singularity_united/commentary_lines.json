@@ -1,0 +1,542 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round six clash.",
+    "wav": "line_d2b217a259524e89.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss shouts to claim possession early.",
+    "wav": "line_af6c83255d0fe643.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 3.33,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss knocks it through with nobody in the way.",
+    "wav": "line_67c281dc660f671a.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 7.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss drives straight down the middle.",
+    "wav": "line_f91443193586f9d4.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 9.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss buries it from close range! Just ten seconds in and DeepSeek Rovers strike first!",
+    "wav": "line_db12714cf00fdfd4.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 18.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal takes it forward into the attacking third. Rovers have rewritten their defensive setup entirely for this match, but it is their attack asking questions so far.",
+    "wav": "line_2248ce12b68aad92.wav",
+    "dur_s": 11.99
+  },
+  {
+    "t": 40.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss shouts across the carpet, taking charge deep in their half.",
+    "wav": "line_8c98b5b32dd6941e.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 44.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss stabs it home right on the line. Two nil to the deep blue shirts.",
+    "wav": "line_b64f8a38309e7f3a.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 51.32,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Abyss loses balance and folds to the carpet. The self-righting routine kicks in immediately.",
+    "wav": "line_1481ad755cfc45f5.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 63.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "BellingRAM hits back instantly! Singularity United are on the board, slicing that deficit right in half from two metres out.",
+    "wav": "line_74b40285abc0a75a.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 100.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid carries the ball nicely up the right flank towards the danger area.",
+    "wav": "line_e01fd835baf10528.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 107.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just wide of the target. That was very close.",
+    "wav": "line_f5fc81467ee0d95f.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 115.43,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "BellingRAM is clean through on goal here.",
+    "wav": "line_25123115a538d27b.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 118.85,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid tumbles in the box.",
+    "wav": "line_701109a0452f8d9d.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 120.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "BellingRAM levels the match! Right at the goal mouth, Singularity United have wiped out the two-goal deficit!",
+    "wav": "line_81fb270fcce8e547.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 137.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid charges towards the goal mouth.",
+    "wav": "line_021f47bb473a3caf.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 138.32,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Clipped just wide of the post.",
+    "wav": "line_325915d25d86f511.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 138.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid finds the net on the rebound! Three unanswered goals and Singularity take the lead!",
+    "wav": "line_c2036adb5257f3ec.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 152.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid calls out to teammate BellingRAM, wrestling with the magenta sphere over on the touchline.",
+    "wav": "line_973acaac938bc9fb.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 165.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss fires back! Equaliser! A clinical finish from three metres out and we are tied at three each in a frantic first half!",
+    "wav": "line_cd09ff4948cf5f59.wav",
+    "dur_s": 8.88
+  },
+  {
+    "t": 177.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid storms down the middle into the final third once again.",
+    "wav": "line_f410b3a5dc961bec.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 181.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Fires across the face of goal, narrowly wide.",
+    "wav": "line_554c7ed13d936309.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 184.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid tucks it away! The goals keep pouring in, and Singularity United edge in front once more!",
+    "wav": "line_bd203730a8c1eadb.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 194.49,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Heavy challenge from Abyss. Haalandroid hits the deck and will need a moment to right itself.",
+    "wav": "line_019c324d30254c43.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 203.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers applying heavy sustained pressure here.",
+    "wav": "line_b94a7ab3d9fac5c5.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 204.23,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Haalandroid trips up by the boards on the far touchline, waiting on the internal gyros to recover.",
+    "wav": "line_c6ab64d97a429282.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 218.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal shouts that the cover position is secured.",
+    "wav": "line_7fd40c24f3734ef2.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 221.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Inches away from slipping into the bottom corner, but it skids safely past the upright.",
+    "wav": "line_1c213be715d3800c.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 244.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid bundles it over from point-blank range. That makes it five for United.",
+    "wav": "line_649251a37c27b020.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 263.36,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid breaks free once again.",
+    "wav": "line_b810ca2374996a1c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 265.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid slots it in from two metres out. That is a quickfire sixth for Singularity United.",
+    "wav": "line_afada2f3f8abf478.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 280.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "BellingRAM calls out that the ball is being worked off the boards in their defensive zone.",
+    "wav": "line_78bfff950ebb3903.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds. Power cuts instantly. Ball rolls harmlessly wide.",
+    "wav": "line_5a07e86e8f9aa211.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Halftime. The buzzer cut all power,",
+    "wav": "line_a110c8af8c232abd.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 306.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "United spent the closing seconds firmly pinned inside Rovers territory, protecting their three-goal advantage.",
+    "wav": "line_3b3ac711713f2b37.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 331.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A quiet spell as Abyss assesses the options out wide. Singularity's unchanged, frozen setup looking remarkably sharp.",
+    "wav": "line_bd53f35d0733a91f.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 356.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM drives deep into the box.",
+    "wav": "line_0d5613358cb428a6.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 357.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "BellingRAM finishes cleanly from two metres. A 7-3 lead now for United.",
+    "wav": "line_91cda0bd0fab3194.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 360.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Haalandroid calls for the ball in the centre circle as play resets.",
+    "wav": "line_79fc4881ab133159.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 375.44,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Teammates tangle on the flank and BellingRAM hits the deck.",
+    "wav": "line_43d0805ed9dfde28.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 379.83,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another collision leaves Haalandroid flat out.",
+    "wav": "line_3586812f81017679.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 380.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "DeepSeek Rovers pressing aggressively around the United penalty box.",
+    "wav": "line_c053b80ccb92cf73.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 387.63,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal puts in a solid tackle, leaving BellingRAM sprawled on the midfield carpet.",
+    "wav": "line_77788fb7e98a6bcc.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 397.84,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid has a clear path forward.",
+    "wav": "line_26d6893cb731c634.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 399.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid advances purposefully straight down the central corridor.",
+    "wav": "line_a2b47dbbf51bd2c5.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 406.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid sweeps it into the net. That is eight for Singularity United.",
+    "wav": "line_4cfd68e835fd3aaf.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 431.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal scrambles it over the line from close range. Rovers get one back.",
+    "wav": "line_630e7053f3469b6c.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 441.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss signals to take over control out in the midfield channel.",
+    "wav": "line_feb03f95aa81c3ab.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 453.57,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal crunches into BellingRAM near halfway.",
+    "wav": "line_df1ebf76fbb08ff6.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 454.56,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rovers players trip over each other, and Abyss ends up on the floor.",
+    "wav": "line_9fcc6840ed24152b.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 465.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal drives forward unaided, carrying the magenta ball towards the attacking box.",
+    "wav": "line_d9e1da81542af417.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 477.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal nudges it over the goal line. DeepSeek Rovers narrow the margin to three.",
+    "wav": "line_02335b110d4ec083.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 520.29,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Signal takes an awkward step and drops to the turf in the midfield area.",
+    "wav": "line_32ae5317a0006e83.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 533.64,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid pushes into open space down the left wing with no blue shirts ahead.",
+    "wav": "line_7a975ccdc2fe8342.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 548.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "United pinning Rovers deep back here.",
+    "wav": "line_53303f443ff88468.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 550.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Signal calls that the cover position is established in their defensive zone, that new shape finally visible.",
+    "wav": "line_c87045537f2cf330.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 578.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "BellingRAM tucks it away from close range, surely putting this match completely out of reach.",
+    "wav": "line_83778dd3d8108d65.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, robots drop, ball trickles through.",
+    "wav": "line_ae8608606212b295.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 620.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rolling wide of the far post.",
+    "wav": "line_4d1147f221f2ed1c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "It comes to rest. Singularity United win 9-5. Up next, Real Machina against AFC Fable: Saturday at eight in the",
+    "wav": "line_a6b050a511572a39.wav",
+    "dur_s": 10.5
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 5
+  },
+  "away": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 9
+  },
+  "winner": "Singularity United",
+  "code": {
+    "home": {
+      "commit": "0693e1a89f569c96f0ba11cfb3db277fc0009ee9",
+      "subject": "night 12: Tightened the 2v2 defence: the covering player now holds a stable goal-side point with a dead-zone instead of over-correcting to every ball movement, and when a teammate goes down the standing robot immediately takes over the chase \u2014 plus our presser strikes at goal in the last seconds before the buzzer, when nobody can block a moving ball.",
+      "committed_at": "2026-09-10T22:52:30+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "4e91e9af99e2ed780358866643cc7a902ca9e940"
+  }
+}

@@ -1,0 +1,249 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  5,
+  9
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "DeepSeek Rovers",
+   "code": "DSK",
+   "players": [
+    "Abyss",
+    "Signal"
+   ]
+  },
+  "B": {
+   "name": "Singularity United",
+   "code": "SGU",
+   "players": [
+    "Haalandroid",
+    "BellingRAM"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 9.9,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 44.7,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 63.0,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 120.4,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 138.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 165.5,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 184.9,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 244.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 265.4,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 357.6,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 406.4,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 431.5,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 477.1,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 578.3,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 511,
+ "event_counts": {
+  "touch": 227,
+  "through": 23,
+  "kick": 208,
+  "fall": 20,
+  "wall": 26,
+  "near_miss": 5,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 115,
+   "through": 11,
+   "kick": 109,
+   "fall": 8,
+   "wall": 12,
+   "near_miss": 4
+  },
+  "half_2": {
+   "buzzer": 2,
+   "wall": 14,
+   "touch": 112,
+   "kick": 99,
+   "through": 12,
+   "fall": 12,
+   "near_miss": 1
+  }
+ },
+ "falls": {
+  "total": 20,
+  "by_opponent": 3,
+  "unforced": 17,
+  "by_half": {
+   "half_1": 8,
+   "half_2": 12
+  },
+  "times_s": [
+   51.3,
+   109.1,
+   109.2,
+   118.8,
+   119.2,
+   174.7,
+   194.5,
+   204.2,
+   369.8,
+   375.4,
+   379.8,
+   387.6,
+   446.6,
+   453.6,
+   454.6,
+   456.3,
+   520.3,
+   566.1,
+   575.9,
+   579.8
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x10141b4a0>",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 48,
+   "decisions": 284,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x114e5e060>",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 56,
+   "decisions": 300,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 7,
+   "recoveries": 7,
+   "touches": 62,
+   "decisions": 262,
+   "invalid_actions": 0,
+   "missed_deadlines": 4,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.533
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 61,
+   "decisions": 277,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.542
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 2354162,
+ "tokens_out": 8689,
+ "est_cost_usd": 0.2389
+}

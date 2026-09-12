@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T12:47:24+00:00",
+ "generated_at": "2026-09-12T16:17:31+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8886,6 +8886,23 @@
     },
     {
      "pos": 4,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 6,
+     "W": 3,
+     "D": 1,
+     "L": 2,
+     "GF": 46,
+     "GA": 32,
+     "Pts": 10,
+     "GD": 14,
+     "prev": 7,
+     "move": 3
+    },
+    {
+     "pos": 5,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8899,10 +8916,10 @@
      "Pts": 10,
      "GD": -1,
      "prev": 5,
-     "move": 1
+     "move": 0
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8916,10 +8933,10 @@
      "Pts": 9,
      "GD": 0,
      "prev": 4,
-     "move": -1
+     "move": -2
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8933,24 +8950,7 @@
      "Pts": 8,
      "GD": 1,
      "prev": 6,
-     "move": 0
-    },
-    {
-     "pos": 7,
-     "slug": "singularity_united",
-     "name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "P": 5,
-     "W": 2,
-     "D": 1,
-     "L": 2,
-     "GF": 37,
-     "GA": 27,
-     "Pts": 7,
-     "GD": 10,
-     "prev": 7,
-     "move": 0
+     "move": -1
     },
     {
      "pos": 8,
@@ -8958,14 +8958,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 5,
+     "P": 6,
      "W": 2,
      "D": 0,
-     "L": 3,
-     "GF": 28,
-     "GA": 35,
+     "L": 4,
+     "GF": 33,
+     "GA": 44,
      "Pts": 6,
-     "GD": -7,
+     "GD": -11,
      "prev": 8,
      "move": 0
     },
@@ -15063,8 +15063,222 @@
      "away_name": "Singularity United",
      "home_code": "DSK",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-12T15:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      9
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 1,
+        "second": 9.9,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 44.7,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 9,
+        "second": 63.0,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 120.4,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 138.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 165.5,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 184.9,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 244.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 265.4,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 357.6,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 61,
+        "second": 406.4,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 431.5,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 477.1,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 578.3,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 227,
+       "through": 23,
+       "kick": 208,
+       "fall": 20,
+       "wall": 26,
+       "near_miss": 5,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 28.8,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "Digging it out!"
+       },
+       {
+        "second": 50.2,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "Clear shot!"
+       },
+       {
+        "second": 117.2,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 166.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 208.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 258.6,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "working it along the wall"
+       },
+       {
+        "second": 280.3,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "Freeing the ball from the wall."
+       },
+       {
+        "second": 335.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 369.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 421.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 490.6,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 533.0,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "helping pry it out"
+       },
+       {
+        "second": 578.8,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       }
+      ],
+      "stats": {
+       "kicks": 208,
+       "falls": 20,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 23
+      },
+      "est_cost_usd": 0.2389
+     },
+     "aired_at": "2026-09-12T15:04:49Z",
+     "watch": {
+      "id": "s3-m30_frontier_deepseek_singularity_united",
+      "url": "https://4dgsx.com/watch/s3-m30_frontier_deepseek_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s3-m30_frontier_deepseek_singularity_united"
+     }
     },
     {
      "n": 31,
@@ -15195,7 +15409,8 @@
      "away_name": "Singularity United",
      "home_code": "SYA",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-16T15:00:00Z"
     },
     {
      "n": 43,
@@ -15688,12 +15903,28 @@
      "goals": 24
     },
     {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 22
+    },
+    {
      "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
      "goals": 22
+    },
+    {
+     "name": "BellingRAM",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 21
     },
     {
      "name": "Spark",
@@ -15728,22 +15959,6 @@
      "goals": 18
     },
     {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 17
-    },
-    {
-     "name": "BellingRAM",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 17
-    },
-    {
      "name": "Buffon.exe",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
@@ -15760,7 +15975,7 @@
      "goals": 17
     }
    ],
-   "aired_count": 29,
+   "aired_count": 30,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -16855,8 +17070,8 @@
   }
  },
  "totals": {
-  "matches_aired": 66,
-  "goals": 721,
+  "matches_aired": 67,
+  "goals": 735,
   "clubs": 11
  }
 }
