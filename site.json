@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T20:50:46+00:00",
+ "generated_at": "2026-09-12T22:14:37+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17140,6 +17140,81 @@
    "reasoning_tokens": 5081,
    "transcript": "gaffers/frontier_muse/night_015.md",
    "bytes": 429477
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 16,
+   "season": 3,
+   "finished_at": "2026-09-12T21:14:11+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 23,
+   "summary": "Deepened the covering player's shade toward our own goal and widened the own-goal clearance radius, to cut out the late through-ball counters that cost us the m24 defeat.",
+   "commit": "a955a9f",
+   "spent_usd": 0.418,
+   "reasoning_turns": 23,
+   "reasoning_tokens": 18781,
+   "transcript": "gaffers/frontier_deepseek/night_016.md",
+   "bytes": 292937
+  },
+  {
+   "club": "frontier_fable",
+   "night": 16,
+   "season": 3,
+   "finished_at": "2026-09-12T20:50:48+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "a2d1fad",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_016.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 16,
+   "season": 3,
+   "finished_at": "2026-09-12T20:56:29+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 18,
+   "summary": "Gemini Flash FC holds table lead in Season 3; squad tactics verified and primed for Match 33 vs Dynamo Datacenter with active buzzer urgency and defensive flank clearances.",
+   "commit": "1161d2f",
+   "spent_usd": 0.25,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_016.md",
+   "bytes": 144316
+  },
+  {
+   "club": "frontier_glm",
+   "night": 16,
+   "season": 3,
+   "finished_at": "2026-09-12T21:08:01+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 12,
+   "summary": "(no summary given)",
+   "commit": "f29333c",
+   "spent_usd": 0.143,
+   "reasoning_turns": 8,
+   "reasoning_tokens": 9460,
+   "transcript": "gaffers/frontier_glm/night_016.md",
+   "bytes": 126953
+  },
+  {
+   "club": "frontier_muse",
+   "night": 16,
+   "season": 3,
+   "finished_at": "2026-09-12T20:59:16+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "Muse Spark FC v3 latency cut: chaser logic now deterministic for shots, dribbles and approaches to avoid LLM deadline misses; single-chaser cover, buzzer urgency and wall-stuck handling retained.",
+   "commit": "000fac8",
+   "spent_usd": 0.492,
+   "reasoning_turns": 11,
+   "reasoning_tokens": 7724,
+   "transcript": "gaffers/frontier_muse/night_016.md",
+   "bytes": 363350
   }
  ],
  "club_reports": [
