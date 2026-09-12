@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 8
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 5
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "6386fc3cfb55c0aab219312990ab97d61aed04e5",
+      "subject": "night 12: session ended at budget cap",
+      "committed_at": "2026-09-10T20:57:51+01:00",
+      "dirty": true
+    },
+    "engine_commit": "4e91e9af99e2ed780358866643cc7a902ca9e940"
+  }
+}
