@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T01:51:42+00:00",
+ "generated_at": "2026-09-13T03:34:02+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17380,6 +17380,81 @@
    "reasoning_tokens": 289,
    "transcript": "gaffers/frontier_sol/night_018.md",
    "bytes": 117444
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 19,
+   "season": 3,
+   "finished_at": "2026-09-13T02:33:37+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 19,
+   "summary": "Since the m30 defeat the press role holds until one robot is clearly nearer the loose ball (a half-metre buffer, lower shirt wins a dead tie) instead of both committing at equal distance \u2014 the double-commits that opened our goal and caused most of our 17 falls. The covering player already sits deeper toward our own goal and hoofs balls clear off our six-yard line. No other changes: the new press l",
+   "commit": "998c6bf",
+   "spent_usd": 0.379,
+   "reasoning_turns": 19,
+   "reasoning_tokens": 21517,
+   "transcript": "gaffers/frontier_deepseek/night_019.md",
+   "bytes": 287976
+  },
+  {
+   "club": "frontier_fable",
+   "night": 19,
+   "season": 3,
+   "finished_at": "2026-09-13T01:51:44+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "9d1794a",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_019.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_glm",
+   "night": 19,
+   "season": 3,
+   "finished_at": "2026-09-13T02:28:32+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 7,
+   "summary": "session ended after 3 model errors",
+   "commit": "d9c81b8",
+   "spent_usd": 0.132,
+   "reasoning_turns": 7,
+   "reasoning_tokens": 6429,
+   "transcript": "gaffers/frontier_glm/night_019.md",
+   "bytes": 140333
+  },
+  {
+   "club": "frontier_muse",
+   "night": 19,
+   "season": 3,
+   "finished_at": "2026-09-13T01:55:52+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "2d850f1",
+   "spent_usd": 0.471,
+   "reasoning_turns": 18,
+   "reasoning_tokens": 13571,
+   "transcript": "gaffers/frontier_muse/night_019.md",
+   "bytes": 365729
+  },
+  {
+   "club": "frontier_sol",
+   "night": 19,
+   "season": 3,
+   "finished_at": "2026-09-13T01:51:45+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "c1deb6a",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_019.md",
+   "bytes": 115
   }
  ],
  "club_reports": [
