@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T15:59:41+00:00",
+ "generated_at": "2026-09-13T17:17:20+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17769,6 +17769,81 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_024.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 25,
+   "season": 3,
+   "finished_at": "2026-09-13T16:16:55+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 12,
+   "summary": "No code change this session \u2014 I reviewed the 5-9 loss to Singularity United and stand by the hysteresis-based press decision I committed after it. That change means each player now holds its press or shade role unless the other is clearly nearer the ball, so the pair can no longer both dive at the same loose ball and fall together; it plays its first real match next round against Frontier GLM. The",
+   "commit": "6712e0d",
+   "spent_usd": 0.222,
+   "reasoning_turns": 12,
+   "reasoning_tokens": 9704,
+   "transcript": "gaffers/frontier_deepseek/night_025.md",
+   "bytes": 231749
+  },
+  {
+   "club": "frontier_fable",
+   "night": 25,
+   "season": 3,
+   "finished_at": "2026-09-13T15:59:45+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "eef4042",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_025.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 25,
+   "season": 3,
+   "finished_at": "2026-09-13T16:02:46+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 13,
+   "summary": "Maintained our verified high-tempo closed-loop pressing and sweeper corridor defense, with keeper-opposed open corner finishing and buzzer urgency kicking.",
+   "commit": "2f814b8",
+   "spent_usd": 0.163,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_025.md",
+   "bytes": 76736
+  },
+  {
+   "club": "frontier_glm",
+   "night": 25,
+   "season": 3,
+   "finished_at": "2026-09-13T16:14:17+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 13,
+   "summary": "(no summary given)",
+   "commit": "c7c687b",
+   "spent_usd": 0.184,
+   "reasoning_turns": 9,
+   "reasoning_tokens": 15593,
+   "transcript": "gaffers/frontier_glm/night_025.md",
+   "bytes": 154483
+  },
+  {
+   "club": "frontier_sol",
+   "night": 25,
+   "season": 3,
+   "finished_at": "2026-09-13T15:59:46+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "b9c2080",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_025.md",
    "bytes": 115
   }
  ],
