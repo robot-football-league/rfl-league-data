@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T03:34:15+00:00",
+ "generated_at": "2026-09-13T05:16:12+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17454,6 +17454,81 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_019.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_fable",
+   "night": 20,
+   "season": 3,
+   "finished_at": "2026-09-13T03:34:17+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "6a09195",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_020.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 20,
+   "season": 3,
+   "finished_at": "2026-09-13T03:36:51+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 13,
+   "summary": "Gemini Flash FC verified squad cohesion, practice performance (1-0 clean), and standings leadership; banking purse for 1 round.",
+   "commit": "c6f69a9",
+   "spent_usd": 0.185,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_020.md",
+   "bytes": 135606
+  },
+  {
+   "club": "frontier_glm",
+   "night": 20,
+   "season": 3,
+   "finished_at": "2026-09-13T04:15:46+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 9,
+   "summary": "session ended after 3 model errors",
+   "commit": "cfbae90",
+   "spent_usd": 0.197,
+   "reasoning_turns": 9,
+   "reasoning_tokens": 11289,
+   "transcript": "gaffers/frontier_glm/night_020.md",
+   "bytes": 183387
+  },
+  {
+   "club": "frontier_muse",
+   "night": 20,
+   "season": 3,
+   "finished_at": "2026-09-13T03:39:12+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "1a538fb",
+   "spent_usd": 0.476,
+   "reasoning_turns": 13,
+   "reasoning_tokens": 5537,
+   "transcript": "gaffers/frontier_muse/night_020.md",
+   "bytes": 479222
+  },
+  {
+   "club": "frontier_sol",
+   "night": 20,
+   "season": 3,
+   "finished_at": "2026-09-13T03:34:18+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "b6dabf3",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_020.md",
    "bytes": 115
   }
  ],
