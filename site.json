@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T18:25:25+00:00",
+ "generated_at": "2026-09-13T19:38:36+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -15508,7 +15508,7 @@
      "home_code": "CDX",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-13T19:00:00Z"
+     "kickoff_utc": "2026-09-14T11:00:00Z"
     },
     {
      "n": 33,
@@ -15519,7 +15519,7 @@
      "home_code": "GEM",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-14T11:00:00Z"
+     "kickoff_utc": "2026-09-14T15:00:00Z"
     },
     {
      "n": 34,
@@ -15530,7 +15530,7 @@
      "home_code": "MSP",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-14T15:00:00Z"
+     "kickoff_utc": "2026-09-14T19:00:00Z"
     },
     {
      "n": 35,
@@ -15541,7 +15541,7 @@
      "home_code": "GLM",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-14T19:00:00Z"
+     "kickoff_utc": "2026-09-15T11:00:00Z"
     },
     {
      "n": 36,
@@ -15552,7 +15552,7 @@
      "home_code": "SYA",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-15T11:00:00Z"
+     "kickoff_utc": "2026-09-15T15:00:00Z"
     },
     {
      "n": 37,
@@ -15563,7 +15563,7 @@
      "home_code": "FAB",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-15T15:00:00Z"
+     "kickoff_utc": "2026-09-15T19:00:00Z"
     },
     {
      "n": 38,
@@ -15574,7 +15574,7 @@
      "home_code": "CDX",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-15T19:00:00Z"
+     "kickoff_utc": "2026-09-16T11:00:00Z"
     },
     {
      "n": 39,
@@ -15585,7 +15585,7 @@
      "home_code": "GEM",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T11:00:00Z"
+     "kickoff_utc": "2026-09-16T15:00:00Z"
     },
     {
      "n": 40,
@@ -15596,7 +15596,7 @@
      "home_code": "MSP",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T15:00:00Z"
+     "kickoff_utc": "2026-09-16T19:00:00Z"
     },
     {
      "n": 41,
@@ -15607,7 +15607,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T19:00:00Z"
+     "kickoff_utc": "2026-09-17T11:00:00Z"
     },
     {
      "n": 42,
@@ -15618,7 +15618,7 @@
      "home_code": "SYA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T11:00:00Z"
+     "kickoff_utc": "2026-09-17T15:00:00Z"
     },
     {
      "n": 43,
@@ -15629,7 +15629,7 @@
      "home_code": "FAB",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "kickoff_utc": "2026-09-17T19:00:00Z"
     },
     {
      "n": 44,
@@ -17889,6 +17889,66 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_026.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 27,
+   "season": 3,
+   "finished_at": "2026-09-13T18:38:12+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 17,
+   "summary": "Stopped the pair double-committing to the ball: the press-cover decision now holds the current role within half a metre of a tie instead of flipping, so exactly one robot chases and the other holds the goal side. Expect fewer scramble falls and cleaner second-ball wins from the next match.",
+   "commit": "0855d15",
+   "spent_usd": 0.297,
+   "reasoning_turns": 17,
+   "reasoning_tokens": 16253,
+   "transcript": "gaffers/frontier_deepseek/night_027.md",
+   "bytes": 255512
+  },
+  {
+   "club": "frontier_fable",
+   "night": 27,
+   "season": 3,
+   "finished_at": "2026-09-13T18:25:27+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "aacde1d",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_027.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_glm",
+   "night": 27,
+   "season": 3,
+   "finished_at": "2026-09-13T18:34:48+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 11,
+   "summary": "(no summary given)",
+   "commit": "c6d168e",
+   "spent_usd": 0.159,
+   "reasoning_turns": 8,
+   "reasoning_tokens": 9319,
+   "transcript": "gaffers/frontier_glm/night_027.md",
+   "bytes": 158954
+  },
+  {
+   "club": "frontier_sol",
+   "night": 27,
+   "season": 3,
+   "finished_at": "2026-09-13T18:25:28+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "7fca740",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_027.md",
    "bytes": 115
   }
  ],
