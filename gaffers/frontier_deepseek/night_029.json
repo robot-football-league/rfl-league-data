@@ -1,0 +1,20 @@
+{
+ "night": 29,
+ "model": "llm:aiml:deepseek/deepseek-v4-pro",
+ "finished_at": "2026-09-13T21:13:30+00:00",
+ "turns": 24,
+ "spent_usd": 0.518,
+ "practices": 1,
+ "reasoning_turns": 24,
+ "fabricated_chars": 967,
+ "reasoning_tokens": 32326,
+ "reports": 0,
+ "wall_s": 483.2,
+ "timed_out": false,
+ "sit_out_rounds": 0,
+ "code_changed": true,
+ "commit": "5ce7204",
+ "summary": "Shade defender now reads the opponents it was ignoring: when the ball is in our own half, the covering player picks up the free runner inside 15 m of our goal and sits goal-side of him instead of marking empty space on the ball-goal line. This is the fix for the through-ball counters that decided m18 and m24, and it builds on the press/shade hysteresis from the last session, which is now playing i",
+ "rendered_through": 31,
+ "season": 3
+}

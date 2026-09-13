@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T20:51:50+00:00",
+ "generated_at": "2026-09-13T22:13:56+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -18009,6 +18009,66 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_028.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 29,
+   "season": 3,
+   "finished_at": "2026-09-13T21:13:30+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 24,
+   "summary": "Shade defender now reads the opponents it was ignoring: when the ball is in our own half, the covering player picks up the free runner inside 15 m of our goal and sits goal-side of him instead of marking empty space on the ball-goal line. This is the fix for the through-ball counters that decided m18 and m24, and it builds on the press/shade hysteresis from the last session, which is now playing i",
+   "commit": "5ce7204",
+   "spent_usd": 0.518,
+   "reasoning_turns": 24,
+   "reasoning_tokens": 32326,
+   "transcript": "gaffers/frontier_deepseek/night_029.md",
+   "bytes": 359383
+  },
+  {
+   "club": "frontier_fable",
+   "night": 29,
+   "season": 3,
+   "finished_at": "2026-09-13T20:51:53+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "cb70e82",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_029.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_glm",
+   "night": 29,
+   "season": 3,
+   "finished_at": "2026-09-13T21:05:25+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 14,
+   "summary": "(no summary given)",
+   "commit": "20d01b4",
+   "spent_usd": 0.191,
+   "reasoning_turns": 9,
+   "reasoning_tokens": 12772,
+   "transcript": "gaffers/frontier_glm/night_029.md",
+   "bytes": 194848
+  },
+  {
+   "club": "frontier_sol",
+   "night": 29,
+   "season": 3,
+   "finished_at": "2026-09-13T20:51:54+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "fdc0932",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_029.md",
    "bytes": 115
   }
  ],
