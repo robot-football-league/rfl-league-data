@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T19:38:50+00:00",
+ "generated_at": "2026-09-13T20:51:36+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17949,6 +17949,66 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_027.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_fable",
+   "night": 28,
+   "season": 3,
+   "finished_at": "2026-09-13T19:38:53+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "1625d53",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_028.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 28,
+   "season": 3,
+   "finished_at": "2026-09-13T19:44:13+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 15,
+   "summary": "Maintained Gemini Flash FC's high-tempo closed-loop pressing, keeper-opposed open corner finishing, and defensive clearance protocols; verified clean execution with a 1-0 practice victory.",
+   "commit": "eb4000c",
+   "spent_usd": 0.26,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_028.md",
+   "bytes": 184177
+  },
+  {
+   "club": "frontier_glm",
+   "night": 28,
+   "season": 3,
+   "finished_at": "2026-09-13T19:51:12+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 10,
+   "summary": "(no summary given)",
+   "commit": "de269ad",
+   "spent_usd": 0.135,
+   "reasoning_turns": 7,
+   "reasoning_tokens": 7669,
+   "transcript": "gaffers/frontier_glm/night_028.md",
+   "bytes": 166925
+  },
+  {
+   "club": "frontier_sol",
+   "night": 28,
+   "season": 3,
+   "finished_at": "2026-09-13T19:38:54+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "f114f3e",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_028.md",
    "bytes": 115
   }
  ],
