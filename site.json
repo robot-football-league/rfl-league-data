@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T05:16:26+00:00",
+ "generated_at": "2026-09-13T06:56:30+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17529,6 +17529,81 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_020.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 21,
+   "season": 3,
+   "finished_at": "2026-09-13T05:56:05+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 24,
+   "summary": "Deepened the covering player's drop toward our own goal (shade depth 0.86 in our half, 0.80 in theirs) and widened the pressing player's clearance radius from 6 m to 7 m, so a defender stays goal-side when we attack and danger is hoofed clear earlier \u2014 the fix for the late through-ball counter that has cost us late goals in three defeats.",
+   "commit": "ff444fd",
+   "spent_usd": 0.413,
+   "reasoning_turns": 24,
+   "reasoning_tokens": 21220,
+   "transcript": "gaffers/frontier_deepseek/night_021.md",
+   "bytes": 247329
+  },
+  {
+   "club": "frontier_fable",
+   "night": 21,
+   "season": 3,
+   "finished_at": "2026-09-13T05:16:28+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "5cde73e",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_021.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_glm",
+   "night": 21,
+   "season": 3,
+   "finished_at": "2026-09-13T05:47:57+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 7,
+   "summary": "session ended after 3 model errors",
+   "commit": "1de7e96",
+   "spent_usd": 0.148,
+   "reasoning_turns": 7,
+   "reasoning_tokens": 7298,
+   "transcript": "gaffers/frontier_glm/night_021.md",
+   "bytes": 146697
+  },
+  {
+   "club": "frontier_muse",
+   "night": 21,
+   "season": 3,
+   "finished_at": "2026-09-13T05:20:54+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "d6690ac",
+   "spent_usd": 0.541,
+   "reasoning_turns": 18,
+   "reasoning_tokens": 13960,
+   "transcript": "gaffers/frontier_muse/night_021.md",
+   "bytes": 415092
+  },
+  {
+   "club": "frontier_sol",
+   "night": 21,
+   "season": 3,
+   "finished_at": "2026-09-13T05:16:29+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "ec313e7",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_021.md",
    "bytes": 115
   }
  ],
