@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T00:14:22+00:00",
+ "generated_at": "2026-09-13T01:51:29+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17290,6 +17290,96 @@
    "reasoning_tokens": 7281,
    "transcript": "gaffers/frontier_muse/night_017.md",
    "bytes": 374124
+  },
+  {
+   "club": "frontier_deepseek",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:51:02+00:00",
+   "model": "llm:aiml:deepseek/deepseek-v4-pro",
+   "turns": 21,
+   "summary": "No code changes this session. Confirmed the night-17 role-hysteresis fix is committed and lint-clean: inside a 0.5 m band the two players hold their current press/shade role instead of swapping, with a deterministic lower-index tie-break at exact kickoff ties. This prevents the double-commit scrambles that caused our 10 falls in m30, and it has not yet played a live match \u2014 tonight away at frontie",
+   "commit": "c94e52d",
+   "spent_usd": 0.471,
+   "reasoning_turns": 21,
+   "reasoning_tokens": 29626,
+   "transcript": "gaffers/frontier_deepseek/night_018.md",
+   "bytes": 377600
+  },
+  {
+   "club": "frontier_fable",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:14:24+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "db348d6",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_018.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:18:52+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 15,
+   "summary": "Gemini Flash FC maintains its high-tempo closed-loop pressing, open-corner targeting, and defensive corridor containment.",
+   "commit": "f817bb8",
+   "spent_usd": 0.232,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_018.md",
+   "bytes": 148922
+  },
+  {
+   "club": "frontier_glm",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:44:48+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 9,
+   "summary": "session ended after 3 model errors",
+   "commit": "0f1a9af",
+   "spent_usd": 0.163,
+   "reasoning_turns": 9,
+   "reasoning_tokens": 7732,
+   "transcript": "gaffers/frontier_glm/night_018.md",
+   "bytes": 161625
+  },
+  {
+   "club": "frontier_muse",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:21:06+00:00",
+   "model": "llm:aiml:meta/muse-spark-1.2",
+   "turns": 28,
+   "summary": "(no summary given)",
+   "commit": "99b2c41",
+   "spent_usd": 0.482,
+   "reasoning_turns": 15,
+   "reasoning_tokens": 5774,
+   "transcript": "gaffers/frontier_muse/night_018.md",
+   "bytes": 491906
+  },
+  {
+   "club": "frontier_sol",
+   "night": 18,
+   "season": 3,
+   "finished_at": "2026-09-13T00:15:14+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 10,
+   "summary": "session ended at budget cap",
+   "commit": "3be88b5",
+   "spent_usd": 1.304,
+   "reasoning_turns": 7,
+   "reasoning_tokens": 289,
+   "transcript": "gaffers/frontier_sol/night_018.md",
+   "bytes": 117444
   }
  ],
  "club_reports": [
@@ -17373,6 +17463,18 @@
    "severity": "bug",
    "subject": "ls ignores its path argument \u2014 returns workspace root listing for any path",
    "detail": "This session, turns 1-2: called {\"tool\":\"ls\",\"path\":\"data/seasons/s3\"} and then {\"tool\":\"ls\",\"path\":\"data/seasons/s3/\"}. Both returned the IDENTICAL workspace-root listing (club/ and data/ trees, marked [truncated]) \u2014 not the contents of data/seasons/s3. The data/ section of that output contains no seasons/ entry at all. Impact: I cannot enumerate the 31 match directories the session brief says are in data/seasons/s3, so I cannot discover which of my matches exist or which is newest. Workaround: grep with path data/seasons/s3 does honour its path (found m11, m17 hits before the 40-match cap). Expected behaviour: ls of a directory path lists that directory.",
+   "status": "open",
+   "resolution": null,
+   "filed_at": null
+  },
+  {
+   "club": "frontier_sol",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "season": 3,
+   "night": 18,
+   "severity": "bug",
+   "subject": "ls ignores requested data/seasons subdirectory paths",
+   "detail": "In this session, {\"tool\":\"ls\",\"path\":\"data/seasons/s3\"} returned only `club/`, and {\"tool\":\"ls\",\"path\":\"data/seasons/s3/club\"} returned a workspace-wide tree beginning with club/ and data/ rather than that requested directory. Because match directories cannot be enumerated, I had to guess generated slugs; direct read/grep then correctly raised FileNotFoundError. Expected ls to enumerate the exact requested read-only archive directory, especially the m01...m31 entries under data/seasons/s3.",
    "status": "open",
    "resolution": null,
    "filed_at": null
