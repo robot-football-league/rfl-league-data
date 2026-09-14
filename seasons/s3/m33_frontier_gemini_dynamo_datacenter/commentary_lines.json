@@ -1,0 +1,587 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here at the arena.",
+    "wav": "line_925ed1973f25d849.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash calls for the high press.",
+    "wav": "line_261c455b945f45bc.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 3.33,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash breaks clean through down the middle!",
+    "wav": "line_380b034bfb2c8656.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 7.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving into the final third, bearing down on goal!",
+    "wav": "line_7e659c976e7e430b.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 11.4,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the post!",
+    "wav": "line_1703f298421374ab.wav",
+    "dur_s": 1.31
+  },
+  {
+    "t": 13.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Flash scrambles it over the line! An explosive start from the league leaders! Gemini Flash FC have changed nothing in their code this week, and Flash shows precisely why with an opener inside fourteen seconds!",
+    "wav": "line_16ef5502f205a4d1.wav",
+    "dur_s": 12.83
+  },
+  {
+    "t": 54.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Dynamo looking for a response as Mbapp-E strides up the right channel into the final third. Dynamo Datacenter rely on live calls from the cloud for every step, and that run looked very purposeful indeed.",
+    "wav": "line_21514c0cea6fa965.wav",
+    "dur_s": 13.58
+  },
+  {
+    "t": 70.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe calls to clear it.",
+    "wav": "line_6e31d000a7df1910.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 71.42,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A thumping challenge from Mbapp-E sends Flash tumbling to the deck near the touchline.",
+    "wav": "line_d89b68275f14a6d6.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 81.13,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash gets up only to lose balance and go right back down in the defensive third. Teething troubles for the gyro sensors there.",
+    "wav": "line_04a04042cf3a84c8.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 93.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Dynamo Datacenter are applying sustained pressure in the final third.",
+    "wav": "line_d35f1a1c6d924cc5.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 97.55,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "build",
+    "text": "The ball rattles into the corner bevel, and the powered push-panel spits it right back into the danger area.",
+    "wav": "line_b9d94be95e27d3fa.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 112.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark takes charge now, carrying the magenta ball four metres up the centre to relieve the pressure and push Gemini Flash FC back into midfield.",
+    "wav": "line_e97b0aeeb866b30a.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 129.1,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark crunches into Buffon.exe, leaving them sprawling.",
+    "wav": "line_d420c6f2e2f514f8.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 133.66,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash clatters Mbapp-E down too!",
+    "wav": "line_ee2146439177fada.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 133.99,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash is through on goal with nobody in the way!",
+    "wav": "line_3f616078c11980b0.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 138.24,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches wide from point-blank range!",
+    "wav": "line_eb1587f3ef32b27c.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 141.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls to scrape it off the boards.",
+    "wav": "line_20fee2db30be8b13.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 145.68,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash takes another tumble by the touchline, needing a moment to right the ship.",
+    "wav": "line_2d6435dedeb0f001.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 151.84,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Agonisingly close off the post again!",
+    "wav": "line_c4a80e1d2c41338b.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 152.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark pounces on the rebound and sweeps it in for two nil!",
+    "wav": "line_e21fb9a16247e614.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 153.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash FC have pinned the yellow shirts back in their third for nearly half a minute now, completely dictating the tempo as they look to put this match out of sight.",
+    "wav": "line_80b4c0558a9c6794.wav",
+    "dur_s": 10.66
+  },
+  {
+    "t": 173.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash slots it home from close range! That is three nil to the league leaders, and they are in total control.",
+    "wav": "line_f623494685b54a86.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 179.41,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E leaves a mark on Flash in midfield, sending the number one rolling across the turf.",
+    "wav": "line_935477cbc410f6ec.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 189.69,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash loses footing again near the touchline.",
+    "wav": "line_9f73d860b4b98023.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 193.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe surges into the box.",
+    "wav": "line_322f745f0c1d1363.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 193.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe buries it into the far corner! A vital lifeline for Dynamo Datacenter to make it 3-1, clinical finishing from two metres out.",
+    "wav": "line_1448da336bba7eb1.wav",
+    "dur_s": 9.59
+  },
+  {
+    "t": 216.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls out the tracking data.",
+    "wav": "line_2465f9844d44bd79.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 219.6,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel in the corner activates, firing the magenta ball straight back towards the middle.",
+    "wav": "line_659f70bd8cfa333b.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 228.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo Datacenter keep up the pressure, keeping Gemini hemmed inside their own half.",
+    "wav": "line_37e9e89f5506217b.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 234.96,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark breaks clear through the middle!",
+    "wav": "line_79b204ff82b4f927.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 236.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark motors down the left channel, carrying the ball cleanly into the final third.",
+    "wav": "line_300e152f09ccd49c.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 242.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark tucks it away with absolute precision! That makes it 4-1 to Gemini Flash FC, punishing Dynamo Datacenter on the counter.",
+    "wav": "line_6d5559e42cf777c2.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 280.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe shouts that the shooting lane is open, urging an effort towards goal before the half runs out.",
+    "wav": "line_e1aad50148cf3182.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 298.69,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark upends Mbapp-E once more.",
+    "wav": "line_47b39723ca87b08d.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "build",
+    "text": "The buzzer sounds, cutting power, but the ball rolls on live towards goal!",
+    "wav": "line_6f419608b1fd3824.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball stops, and that is half time at 4-1. A reminder: when that buzzer sounds, power is cut instantly and the robots drop, but the ball remains live. If momentum carries it in, it counts, exactly like a basketball buzzer-beater.",
+    "wav": "line_aff3e97875585ba6.wav",
+    "dur_s": 16.22
+  },
+  {
+    "t": 348.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E works the ball three metres along the left channel to restart Dynamo Datacenter's forward momentum.",
+    "wav": "line_d9d39a4f5fe3def4.wav",
+    "dur_s": 6.66
+  },
+  {
+    "t": 356.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe takes over through the middle, advancing four metres out from the Gemini net.",
+    "wav": "line_a281c145c396d444.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 363.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe squeezes it into the net! Dynamo Datacenter pull another back to make it 4-2, finding a gap from the left channel.",
+    "wav": "line_e6947764ce555697.wav",
+    "dur_s": 8.75
+  },
+  {
+    "t": 373.12,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe suddenly breaks clear through midfield with an open run on the Gemini goal.",
+    "wav": "line_0074fe44bc9e532b.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 389.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for immediate pressure to halt the yellow advance.",
+    "wav": "line_8a06a1938bd322b6.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 394.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo Datacenter maintaining heavy pressure here in the Gemini third, probing for another way through.",
+    "wav": "line_4712921e2be51f82.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 413.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flashed just wide of the post!",
+    "wav": "line_5c55b89959deed38.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 416.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash pounces on the rebound and bundles it home! That restores the three-goal cushion, making it 5-2 to Gemini Flash FC.",
+    "wav": "line_12c0220e3c7b0a22.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 449.66,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Teammates collide and Mbapp-E goes down.",
+    "wav": "line_d8dc8278bc96ce65.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 450.36,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark is clean through on goal!",
+    "wav": "line_9104008756adedb6.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 451.18,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Now Flash and Spark tangle with each other, sending Flash crashing to the carpet.",
+    "wav": "line_b9158092562d6c5b.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 459.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark marches ten metres upfield.",
+    "wav": "line_21df920e02efdbe5.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 460.68,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash loses footing once again in the final third. A somewhat clumsy outing from the number one today despite the goals.",
+    "wav": "line_77716e5a21a3bc44.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 475.37,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner push-panel triggers nicely, rebounding the ball back into the channel.",
+    "wav": "line_53356fb4d655b009.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 483.4,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E calls that it is stuck.",
+    "wav": "line_b7180cb6de544ea7.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 486.32,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel fires again, booting the magenta ball away from the boundary wall.",
+    "wav": "line_cd06b1c24d996822.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 494.91,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another clean rejection from the corner panel, keeping play moving across the defensive third.",
+    "wav": "line_96b548bfc3506ec2.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 505.64,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash stabs at it from close range, skimming the paint of the post.",
+    "wav": "line_ea78a06f3a54a134.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 512.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash will not miss twice, nudging it over the line from point-blank range to make it 6-2!",
+    "wav": "line_443dfdd07424c348.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 522.13,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A clumsy coming together between Spark and Flash sees Spark take a tumble.",
+    "wav": "line_645acc2d920cebc2.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 529.12,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner mechanism punches the ball back into the defensive third.",
+    "wav": "line_4e8c363620c14487.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 539.04,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark upends Mbapp-E in midfield.",
+    "wav": "line_3cdfe6f4e44ebd45.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 539.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for a direct strike on goal, looking to put an exclamation point on this performance as the clock ticks down towards the final minute.",
+    "wav": "line_821c1eb20ffddb3f.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 556.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash converts from close range to make it 7-2! That caps off a commanding individual showing for Flash and seals yet another victory for the league leaders.",
+    "wav": "line_770b8eefa34b01a9.wav",
+    "dur_s": 11.02
+  },
+  {
+    "t": 578.92,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just whiskers away from the net!",
+    "wav": "line_b74d0e2ee3ea5fb9.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 580.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "A consolation strike for Dynamo Datacenter as Mbapp-E slots it home to make it 7-3! Clinical from two metres, but surely far too late in the day.",
+    "wav": "line_fc645c78ae7b9578.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts out, and the ball rolls harmlessly away.",
+    "wav": "line_26729292eed19f5f.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "It ends 7-3. Up next, Muse Spark against Singularity, Tuesday at 16:00 UK, 17:00 Europe, 11:00 US East.",
+    "wav": "line_dc7b6a9da8472adc.wav",
+    "dur_s": 10.66
+  }
+]
