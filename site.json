@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T13:25:53+00:00",
+ "generated_at": "2026-09-14T16:24:06+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8869,6 +8869,23 @@
     },
     {
      "pos": 3,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 7,
+     "W": 4,
+     "D": 1,
+     "L": 2,
+     "GF": 40,
+     "GA": 32,
+     "Pts": 13,
+     "GD": 8,
+     "prev": 5,
+     "move": 2
+    },
+    {
+     "pos": 4,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -8882,10 +8899,10 @@
      "Pts": 12,
      "GD": 14,
      "prev": 3,
-     "move": 0
+     "move": -1
     },
     {
-     "pos": 4,
+     "pos": 5,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
@@ -8899,24 +8916,7 @@
      "Pts": 10,
      "GD": 14,
      "prev": 4,
-     "move": 0
-    },
-    {
-     "pos": 5,
-     "slug": "synthetic_athletic",
-     "name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "P": 6,
-     "W": 3,
-     "D": 1,
-     "L": 2,
-     "GF": 28,
-     "GA": 29,
-     "Pts": 10,
-     "GD": -1,
-     "prev": 5,
-     "move": 0
+     "move": -1
     },
     {
      "pos": 6,
@@ -8924,14 +8924,14 @@
      "name": "Codex City",
      "code": "CDX",
      "color": "#0a0d0b",
-     "P": 6,
+     "P": 7,
      "W": 3,
      "D": 0,
-     "L": 3,
-     "GF": 31,
-     "GA": 31,
+     "L": 4,
+     "GF": 34,
+     "GA": 43,
      "Pts": 9,
-     "GD": 0,
+     "GD": -9,
      "prev": 6,
      "move": 0
     },
@@ -15507,8 +15507,230 @@
      "away_name": "Synthetic Athletic",
      "home_code": "CDX",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-14T15:00:00Z"
+     "status": "aired",
+     "score": [
+      3,
+      12
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 2,
+        "second": 12.1,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 4,
+        "second": 23.4,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 45.5,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 134.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 185.5,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 280.2,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 333.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 51,
+        "second": 342.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 356.0,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 56,
+        "second": 370.5,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 413.6,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 535.9,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 84,
+        "second": 558.3,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 573.5,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 586.1,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 215,
+       "kick": 189,
+       "through": 26,
+       "wall": 21,
+       "ram": 1,
+       "fall": 12,
+       "near_miss": 6,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 32.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 73.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "pushing it along the wall"
+       },
+       {
+        "second": 118.9,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 165.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing it free"
+       },
+       {
+        "second": 237.7,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 273.2,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing it from the corner"
+       },
+       {
+        "second": 329.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Ball lost; recovering goal-side before scanning."
+       },
+       {
+        "second": 395.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Final-third overload; both channels are live."
+       },
+       {
+        "second": 432.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it down the wall"
+       },
+       {
+        "second": 465.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 497.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 534.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "unsticking from the wall"
+       },
+       {
+        "second": 581.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Rotating close and goal-side of first pressure."
+       }
+      ],
+      "stats": {
+       "kicks": 189,
+       "falls": 12,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 26
+      },
+      "est_cost_usd": 0.233
+     },
+     "aired_at": "2026-09-14T15:04:54Z",
+     "watch": {
+      "id": "s3-m32_frontier_sol_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m32_frontier_sol_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m32_frontier_sol_synthetic_athletic"
+     }
     },
     {
      "n": 33,
@@ -15639,7 +15861,8 @@
      "away_name": "GLM FC",
      "home_code": "CDX",
      "away_code": "GLM",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-18T15:00:00Z"
     },
     {
      "n": 45,
@@ -16112,6 +16335,14 @@
      "goals": 27
     },
     {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 25
+    },
+    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -16152,14 +16383,6 @@
      "goals": 21
     },
     {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 19
-    },
-    {
      "name": "Tortoise",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
@@ -16184,7 +16407,7 @@
      "goals": 17
     }
    ],
-   "aired_count": 31,
+   "aired_count": 32,
    "total_matches": 90,
    "complete": false,
    "slots": [
@@ -18950,8 +19173,8 @@
   }
  },
  "totals": {
-  "matches_aired": 68,
-  "goals": 748,
+  "matches_aired": 69,
+  "goals": 763,
   "clubs": 11
  }
 }

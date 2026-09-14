@@ -1,0 +1,533 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round seven.",
+    "wav": "line_f96f29d897409957.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford shouts across, directing Turingham into position to meet the pressure.",
+    "wav": "line_30d2a6af287a8829.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 5.75,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Turingham breaks clean through the middle, nothing between them and the net!",
+    "wav": "line_a10e4d58e60f105d.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 12.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Carried right to the goalmouth!",
+    "wav": "line_aff46b7e4959474e.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 12.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham slots it home from point-blank range! An absolute lightning start for Codex City, and they lead one-nil!",
+    "wav": "line_1066260298ae6223.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 23.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Synthetic Athletic hit straight back! Robodinho pounces at the goalmouth and levels the match at one-all!",
+    "wav": "line_fcb749a5ce19eec8.wav",
+    "dur_s": 7.52
+  },
+  {
+    "t": 45.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turnaround complete! Robodinho strikes again from two metres out, and Synthetic Athletic lead two goals to one!",
+    "wav": "line_3294e156aaf12ecd.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 62.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho calls out to clear the line on the right touchline. Synthetic Athletic have no gaffer pulling the strings, relying entirely on their built-in model calls on the fly.",
+    "wav": "line_9e3efcb7fd8c41ab.wav",
+    "dur_s": 11.16
+  },
+  {
+    "t": 82.06,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner push-panel fires it out.",
+    "wav": "line_b1d3eae601769e48.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 83.58,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford topples over unaided.",
+    "wav": "line_47092d46bc105128.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 83.72,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates collide; Griezmatronn goes down.",
+    "wav": "line_d6ee5e9365e7a5ef.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 84.77,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Robodinho joins them on the deck. A complete tangle in red.",
+    "wav": "line_4e5f55d160678c36.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 93.3,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Up they get, only to collide once again. Griezmatronn hits the turf four metres out.",
+    "wav": "line_e5199ff434b5d802.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 107.27,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Another collision between teammates in red.",
+    "wav": "line_418260a8b01e3de0.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 111.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Turingham drives forward through the centre, carrying the ball three metres from goal.",
+    "wav": "line_29202fbb5b5c7d63.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 118.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Codex City have set up camp in the final third, pinning the red shirts right back against their wall.",
+    "wav": "line_88df60bee03d5e93.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 132.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford warns of counterpressure.",
+    "wav": "line_32cfcc100680af1b.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 133.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the post!",
+    "wav": "line_1703f298421374ab.wav",
+    "dur_s": 1.41
+  },
+  {
+    "t": 134.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And punished immediately! Robodinho turns it in from point-blank range to make it 3-1 to Synthetic Athletic.",
+    "wav": "line_af9f4411503ebb4e.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 156.35,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford breaks through the middle with green grass ahead.",
+    "wav": "line_affd2b5e5553410c.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 166.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Drives into the right channel.",
+    "wav": "line_99404e86d4aa5c48.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 167.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Codex City are camping in the final third again. Their gaffer changed nothing about how they play this week, sticking purely to their handwritten code.",
+    "wav": "line_fdbfa64f2cead09d.wav",
+    "dur_s": 9.72
+  },
+  {
+    "t": 185.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn tucks it away from two metres out. Synthetic Athletic stretch the lead to 4-1.",
+    "wav": "line_e94756267485b6c2.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 202.65,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Patchford loses balance four metres out, but the self-righting routine kicks in.",
+    "wav": "line_233ac3638ff16695.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 213.66,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Down goes Patchford again in the final third, struggling to keep footing on the turn.",
+    "wav": "line_e681f90c9abcf8f8.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 237.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford calls out to screen the play and clear downfield.",
+    "wav": "line_5c0e4f9bce37b8b5.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 251.15,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho breaks clear through the centre with nobody in front.",
+    "wav": "line_91a2e0f35cc734ca.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 280.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho finishes it off from the goalmouth. That is 5-1 to Synthetic Athletic.",
+    "wav": "line_0c5a0e6aafb2220b.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 297.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pushed just wide.",
+    "wav": "line_7cc70c6a6d88983c.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts, ball rolling.",
+    "wav": "line_1821a76186414166.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 302.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham's last call rings out.",
+    "wav": "line_8c1a35302b1295ef.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball stops, and that is half-time. For newcomers, the buzzer cuts power instantly to all robots, but the ball remains live until it stops moving. If it rolls in, it counts. It stands Codex City 1, Synthetic Athletic 5.",
+    "wav": "line_83cfff8a1e018deb.wav",
+    "dur_s": 15.62
+  },
+  {
+    "t": 327.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn drives through the middle into the danger area.",
+    "wav": "line_8e8a7556bc0e2d3e.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 333.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho tucks it away from point-blank range. 6-1 now to Synthetic Athletic.",
+    "wav": "line_aa7104050c2492a0.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 342.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho strikes again from two metres. 7-1 to Synthetic Athletic.",
+    "wav": "line_e71d9669abd71bed.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 351.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho marches straight through the centre once more.",
+    "wav": "line_259d44ce3b66a6ad.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 356.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn finishes from two metres out. It is 8-1 now for Synthetic Athletic.",
+    "wav": "line_03e7506aaf58c267.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 369.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Off target at the goalmouth.",
+    "wav": "line_bf71b941d9810d11.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 370.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn pounces on the rebound and converts. Synthetic Athletic lead 9-1.",
+    "wav": "line_b2e9687e60709d54.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 390.83,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham manages to slip clear through the midfield with open space ahead.",
+    "wav": "line_7cfeb355f98d0e45.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 400.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho calls out to clear the danger.",
+    "wav": "line_2e62b6e4b475ae9a.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 404.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City sustain pressure deep in the final third.",
+    "wav": "line_c8e76d7c3d8cc8b1.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 413.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford drives inside.",
+    "wav": "line_6f2f00ef018e19c0.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 413.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford finds the net from two metres out. Codex City pull one back to make it 2-9.",
+    "wav": "line_978c7da7257c631f.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 427.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A close effort slips past the post on the right channel.",
+    "wav": "line_a16b6bcc9a18bc44.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 437.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Synthetic Athletic spend seventeen seconds pressing Codex City deep in their box.",
+    "wav": "line_aee5506005c091e1.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 454.88,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another shot drifts narrowly wide in the defensive third.",
+    "wav": "line_335f2118fc76f725.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 463.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Griezmatronn shouts to peel the ball away from the perimeter wall.",
+    "wav": "line_0066a92ccfb97010.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 504.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho takes it up the right flank into the box.",
+    "wav": "line_74657c2b37323cd5.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 507.91,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford breaks through from deep, finding space in behind.",
+    "wav": "line_1654d664cc87db22.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 518.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Griezmatronn calls out to push off the perimeter boards in midfield.",
+    "wav": "line_87635cff42facd32.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 534.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Narrowly wide of the net.",
+    "wav": "line_c9ddc224d140b998.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 535.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham converts from point-blank range. That makes it Codex City 3, Synthetic Athletic 9.",
+    "wav": "line_fd121cdb431dff49.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 557.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn carries inside.",
+    "wav": "line_9f07e327c922bbc5.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 558.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn slots home from two metres out. Synthetic Athletic reach double figures at 10-3.",
+    "wav": "line_bc96ad94206a636d.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 573.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn scores again from two metres. 11-3 to Synthetic Athletic.",
+    "wav": "line_65105945367d4eef.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 586.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn taps in another from point-blank range to make it 12-3.",
+    "wav": "line_48a407b23f1845aa.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, robots collapse, and the ball slowly rolls through the defensive third.",
+    "wav": "line_8982347366f10c08.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball stops, finishing Codex City 3, Synthetic Athletic 12. Up next, Gemini Flash against Dynamo Datacenter on Monday, twenty",
+    "wav": "line_c942a9c2f8b297bd.wav",
+    "dur_s": 10.97
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 3
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 12
+  },
+  "winner": "Synthetic Athletic",
+  "code": {
+    "home": {
+      "commit": "805912da26de8491a2fbd0ff1eb231ab4a016d0d",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:26+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "85289d71c2d924dfc975c1c960f98ff8d3e7f3f4"
+  }
+}
