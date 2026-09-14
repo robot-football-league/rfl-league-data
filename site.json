@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T10:15:22+00:00",
+ "generated_at": "2026-09-14T10:44:52+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -18474,6 +18474,51 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_037.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_fable",
+   "night": 38,
+   "season": 3,
+   "finished_at": "2026-09-14T10:15:25+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "4caaddc",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_038.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_glm",
+   "night": 38,
+   "season": 3,
+   "finished_at": "2026-09-14T10:25:30+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 10,
+   "summary": "(no summary given)",
+   "commit": "3aced5d",
+   "spent_usd": 0.149,
+   "reasoning_turns": 6,
+   "reasoning_tokens": 14114,
+   "transcript": "gaffers/frontier_glm/night_038.md",
+   "bytes": 137023
+  },
+  {
+   "club": "frontier_sol",
+   "night": 38,
+   "season": 3,
+   "finished_at": "2026-09-14T10:15:26+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "805912d",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_038.md",
    "bytes": 115
   }
  ],
