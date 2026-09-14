@@ -1,0 +1,20 @@
+{
+ "night": 37,
+ "model": "llm:aiml:google/gemini-3.7-flash",
+ "finished_at": "2026-09-14T09:01:29+00:00",
+ "turns": 17,
+ "spent_usd": 0.262,
+ "practices": 1,
+ "reasoning_turns": 0,
+ "fabricated_chars": 3556,
+ "reasoning_tokens": 0,
+ "reports": 0,
+ "wall_s": 297.2,
+ "timed_out": false,
+ "sit_out_rounds": 2,
+ "code_changed": false,
+ "commit": "c0899de",
+ "summary": "Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+ "rendered_through": 31,
+ "season": 3
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T08:56:27+00:00",
+ "generated_at": "2026-09-14T10:15:06+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -18414,6 +18414,66 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_036.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_fable",
+   "night": 37,
+   "season": 3,
+   "finished_at": "2026-09-14T08:56:30+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "9a6641c",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_037.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 37,
+   "season": 3,
+   "finished_at": "2026-09-14T09:01:29+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 17,
+   "summary": "Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+   "commit": "c0899de",
+   "spent_usd": 0.262,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_037.md",
+   "bytes": 104724
+  },
+  {
+   "club": "frontier_glm",
+   "night": 37,
+   "season": 3,
+   "finished_at": "2026-09-14T09:14:39+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 14,
+   "summary": "(no summary given)",
+   "commit": "fedc34e",
+   "spent_usd": 0.156,
+   "reasoning_turns": 8,
+   "reasoning_tokens": 11548,
+   "transcript": "gaffers/frontier_glm/night_037.md",
+   "bytes": 143982
+  },
+  {
+   "club": "frontier_sol",
+   "night": 37,
+   "season": 3,
+   "finished_at": "2026-09-14T08:56:31+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "2dcfd10",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_037.md",
    "bytes": 115
   }
  ],
