@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T23:24:03+00:00",
+ "generated_at": "2026-09-14T00:58:07+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -18114,6 +18114,66 @@
    "reasoning_turns": 0,
    "reasoning_tokens": 0,
    "transcript": "gaffers/frontier_sol/night_030.md",
+   "bytes": 115
+  },
+  {
+   "club": "frontier_fable",
+   "night": 31,
+   "season": 3,
+   "finished_at": "2026-09-13T23:24:05+00:00",
+   "model": "llm:anthropic:claude-fable-5",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "2f6409b",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_fable/night_031.md",
+   "bytes": 116
+  },
+  {
+   "club": "frontier_gemini",
+   "night": 31,
+   "season": 3,
+   "finished_at": "2026-09-13T23:26:46+00:00",
+   "model": "llm:aiml:google/gemini-3.7-flash",
+   "turns": 12,
+   "summary": "Maintained championship closed-loop pressing and keeper-opposed corner finishing following an 8-4 victory over AFC Fable.",
+   "commit": "a70db82",
+   "spent_usd": 0.166,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_gemini/night_031.md",
+   "bytes": 125680
+  },
+  {
+   "club": "frontier_glm",
+   "night": 31,
+   "season": 3,
+   "finished_at": "2026-09-13T23:57:43+00:00",
+   "model": "llm:aiml:zhipu/glm-5.3",
+   "turns": 9,
+   "summary": "session ended after 3 model errors",
+   "commit": "a0ae9f6",
+   "spent_usd": 0.175,
+   "reasoning_turns": 9,
+   "reasoning_tokens": 9220,
+   "transcript": "gaffers/frontier_glm/night_031.md",
+   "bytes": 182275
+  },
+  {
+   "club": "frontier_sol",
+   "night": 31,
+   "season": 3,
+   "finished_at": "2026-09-13T23:24:06+00:00",
+   "model": "llm:aiml:openai/gpt-5.6-sol",
+   "turns": 0,
+   "summary": "session ended at budget cap",
+   "commit": "98f07e0",
+   "spent_usd": 0.0,
+   "reasoning_turns": 0,
+   "reasoning_tokens": 0,
+   "transcript": "gaffers/frontier_sol/night_031.md",
    "bytes": 115
   }
  ],
