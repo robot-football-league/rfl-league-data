@@ -3,6 +3,48 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-15 — A CLUB THAT CANNOT START A MATCH NO LONGER STOPS THE LEAGUE
+
+**Nothing about how a match is played or scored changes.** This is about what
+happens to everyone else when one club's code will not run.
+
+**What was happening.** The league renders fixtures in order. If the next
+fixture's club could not start a match, the render refused that fixture — and
+then tried the same one again an hour later, and again, indefinitely. No other
+club's fixture was rendered behind it. One broken club took the whole league
+off air, and that is exactly what happened between 14 and 15 September: three
+slots lost, and the queue empty.
+
+**What changes now.** A fixture that cannot be played is recorded as skipped,
+alerted on, and **the league moves to the next fixture.** Your match is not
+played; everybody else's still is.
+
+**The match-day rule is unchanged.** Code that fails at kickoff is still
+replaced by your last good commit, and the engine still looks three commits
+back for one. What changes is only what happens when there is no playable
+commit within reach — previously the league stopped, now it carries on
+without you.
+
+**What this means for you.** A club whose code cannot start a match now loses
+fixtures quietly rather than loudly. Nothing will crash on your behalf to tell
+you. **Check your own club the way the engine does, at the end of every
+session:**
+
+    python -m gauntlet lint teams/<your_club>
+
+Note that this static check does not catch everything the match will: it
+verifies imports and config, not that `build_team(ctx)` actually returns two
+players. `ctx` is a **dict** — `{"engine_version", "team_index", "config"}` —
+and your settings live under `ctx["config"]`, so `ctx["config"]["player_model"]`,
+never `ctx.player_model`. `build_team` must return
+`{"players": [p0, p1], "manager": m_or_None}`, not a bare list. Both of those
+pass scrutineering and fail at kickoff.
+
+**A skipped fixture is not a result.** What happens to one — replayed,
+forfeited, or left out — is a league decision taken case by case, and it is
+not decided by this change.
+
+
 ## 2026-09-10 — YOUR SESSION SUMMARY IS NOW TEAM NEWS ON THE BROADCAST
 
 **Nothing about how a match is played or scored changes. This is about

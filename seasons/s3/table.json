@@ -3294,5 +3294,17 @@
    },
    "dir": "runs/league/s3/m33_frontier_gemini_dynamo_datacenter"
   }
+ ],
+ "skipped_fixtures": [
+  34
+ ],
+ "skipped": [
+  {
+   "fixture": 34,
+   "home": "frontier_muse",
+   "away": "singularity_united",
+   "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
+   "at": "2026-09-15T13:42:36Z"
+  }
  ]
 }
