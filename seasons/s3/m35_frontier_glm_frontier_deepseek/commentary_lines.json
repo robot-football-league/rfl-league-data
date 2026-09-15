@@ -1,0 +1,479 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here in round seven.",
+    "wav": "line_e62775bbefcd88b8.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls for the early touch.",
+    "wav": "line_e9403bc858a96e12.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 3.2,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Signal slips clean through the middle, utterly unmarked with nobody between them and the net!",
+    "wav": "line_24dc213f23e19025.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 15.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Signal tucks it away right on the goal mouth! An immediate breakthrough for DeepSeek Rovers, leading one-nil!",
+    "wav": "line_3adcfe30779cf3dc.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 59.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi has ambitious thoughts from deep, shouting intent to go for goal. Meanwhile, DeepSeek have restructured their defensive cover this week to snuff out those very through-balls.",
+    "wav": "line_2b92cc6e3fb0049f.wav",
+    "dur_s": 11.86
+  },
+  {
+    "t": 73.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Signal surges forward on a tremendous ten-metre run down the left channel, carrying all the way into the danger zone point-blank.",
+    "wav": "line_df59bad1d607b4da.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 93.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers setting up camp now in the final third, pinning GLM right against their own line.",
+    "wav": "line_cee34de099bdc4f7.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 99.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Disaster for Zhi, inadvertently turning it into the net at point-blank range! A cruel own goal, and DeepSeek Rovers double their advantage to two-nil.",
+    "wav": "line_0039830f691007ad.wav",
+    "dur_s": 11.7
+  },
+  {
+    "t": 126.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls to clear it.",
+    "wav": "line_bac0bea890113c5a.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 128.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zhi redeems the error instantly, bundling it home to make it one-two! Game on!",
+    "wav": "line_939913873afbd76d.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 133.78,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss loses balance in the centre circle.",
+    "wav": "line_7302c3e42ea4343c.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 138.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi takes charge, driving through the middle into the attacking third and looking for an opening.",
+    "wav": "line_211e25ffd59faedb.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 155.42,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Signal launches a ball straight through from deep, completely slicing GLM apart with nobody back to stop them!",
+    "wav": "line_96183e7944dbf864.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 173.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls out that the cover is in position along the touchline.",
+    "wav": "line_fc4d558c904b326e.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 179.93,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Blue-on-blue collision, and Zhi hits the deck.",
+    "wav": "line_0dca4e5d3a30ff09.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 183.6,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi bounces back up and puts in a firm challenge on Abyss.",
+    "wav": "line_6502d93a4f926364.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 190.3,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi wobbles and takes another tumble in midfield.",
+    "wav": "line_337c73c02d322410.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 194.3,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Another crunching clash in the centre as Zhi steps in and leaves Signal sprawling on the turf.",
+    "wav": "line_4ea98d66464ef851.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 216.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss is sharpest to the loose ball, prodding it home from two metres out! DeepSeek restore their cushion, leading three-one.",
+    "wav": "line_823b8bfb60c52ce0.wav",
+    "dur_s": 8.75
+  },
+  {
+    "t": 230.29,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss breaks clean through the right channel.",
+    "wav": "line_b3f9de34816ffbce.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 233.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss drives deep inside the box.",
+    "wav": "line_9ffe4f44d3403f5b.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 234.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss buries it into the near corner! That is two in rapid succession for Abyss, making it four-one to DeepSeek.",
+    "wav": "line_a776ddf684bd7ac8.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 258.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu informs the pitch they are working hard to pry the ball off the touchline wall.",
+    "wav": "line_ac87ac4b9ebd5f98.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 270.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "DeepSeek suffocating GLM in their own territory here, hemming them in as the half draws to a close.",
+    "wav": "line_b9ff213190d3638d.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 283.21,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner push-panel triggers with a thud, firing the ball back into the mix.",
+    "wav": "line_856d9b015fcc1936.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 294.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just wide of the target with five seconds left.",
+    "wav": "line_341898e361d26e23.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts, and the ball trickles near goal.",
+    "wav": "line_c0cbe2eb376d758c.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "It finally comes to rest, so that is half time at one-four. For new viewers, the buzzer completely cuts power to the robots, but the ball remains live until it stops moving and any goal during that roll counts.",
+    "wav": "line_97850ec5c7693c51.wav",
+    "dur_s": 14.21
+  },
+  {
+    "t": 331.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss calls claim on the ball out wide on the touchline. GLM, who changed nothing in their code this week, have plenty of thinking to do.",
+    "wav": "line_03a24907e7ed34ab.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 355.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal trots forward three metres, advancing easily into the final third.",
+    "wav": "line_61e727c6b5f8eeeb.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 362.77,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal threads another through-ball clean on goal, finding space effortlessly down the left.",
+    "wav": "line_e2710313768e9cc7.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 378.1,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Ram panel kicks it out.",
+    "wav": "line_e8408c64975a104c.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 378.19,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal loses footing on the turn and goes down, but self-righting routines kick in.",
+    "wav": "line_bfa186fe6819d70e.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 389.45,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi steps in to dispossess Signal firmly.",
+    "wav": "line_bd46e5e64d62ffe8.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 393.34,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal retaliates immediately, returning the favour in midfield and leaving Zhi flat on the turf.",
+    "wav": "line_71dc3c26d3327df3.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 412.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A snapshot flashes just inches past the upright from point-blank range.",
+    "wav": "line_b424bf956c1a6f9a.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 420.66,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi tries to thread one through from deep, but that new defensive shading from DeepSeek is right there to shut down the corridor.",
+    "wav": "line_67560e46d932fb87.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 443.6,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Fired back out into play off the corner ram panel.",
+    "wav": "line_b1fb5eb5d9157b85.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 459.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi calls out that the ball is trapped against the side wall.",
+    "wav": "line_fef39eef7aa23c35.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 465.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "DeepSeek keeping the pressure clamped down, keeping GLM pinned inside their own box.",
+    "wav": "line_2e4b9b84ef092855.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 473.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Another nightmare moment for Zhi! A deflection trickles across their own line, and that is a second own goal of the afternoon. Five-one to DeepSeek.",
+    "wav": "line_b2c3b6ef54c1034f.wav",
+    "dur_s": 10.08
+  },
+  {
+    "t": 507.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Pu pulls one back for GLM FC! A neat finish from three metres out into the bottom corner, bringing the score to two-five.",
+    "wav": "line_e60491156d2e65c4.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 519.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls for the ball.",
+    "wav": "line_8e1c942c2ff7474b.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 521.24,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Drifting narrowly wide of the post.",
+    "wav": "line_8a2dd00457b0b268.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 522.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Unbelievable, Pu turns it into their own net! That makes three own goals conceded by GLM today, making it two-six.",
+    "wav": "line_3000afa04bd59da7.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 530.05,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss crunches in with a solid challenge, leaving Pu on the deck.",
+    "wav": "line_4afd93691693ac12.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 537.51,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Pu clatters Abyss straight back down.",
+    "wav": "line_e8587d5a7408046f.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 537.86,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "And now Signal tumbles over completely unassisted, giving both repair routines plenty of work.",
+    "wav": "line_b8027177a4dffb55.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 568.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss taps it in from point-blank range! A hat-trick for Abyss, and DeepSeek Rovers stretch the scoreline to seven-two.",
+    "wav": "line_1109ae1216c3c2dd.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 577.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal drives right back into the box with forty seconds remaining.",
+    "wav": "line_419e351aea862102.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 600.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Scrapes just past the woodwork as the clock ticks down inside the final twenty seconds.",
+    "wav": "line_d69e1393f0aede2f.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts out, and the ball slowly rolls through midfield.",
+    "wav": "line_4e809955f6d1f08c.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Ball stops, full time: two-seven to DeepSeek. Join us Tuesday at eight UK, nine Europe, three US East.",
+    "wav": "line_a4a9b3875f0f5cb6.wav",
+    "dur_s": 9.43
+  }
+]
