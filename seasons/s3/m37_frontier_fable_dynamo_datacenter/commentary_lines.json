@@ -1,0 +1,470 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round eight.",
+    "wav": "line_cdfefa10d8c97e03.wav",
+    "dur_s": 1.46
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to hold their own half.",
+    "wav": "line_0fd3be6c36f200f5.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 3.81,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare bursts straight through the middle! Nothing between them and the goal!",
+    "wav": "line_bbf76f770ab49a45.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 47.68,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Fired wide of the post from deep.",
+    "wav": "line_367c7cf4a05a08a8.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 51.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "An absolute calamity for Fable! Tortoise inadvertently knocks it into their own net, and Dynamo Datacenter lead one-nil!",
+    "wav": "line_2ec2403952da0957.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 74.14,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Tortoise is clean through from deep!",
+    "wav": "line_03622585fd5b490c.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 77.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise charges four metres up the right touchline, carrying it into midfield.",
+    "wav": "line_a621663972686eca.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 86.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts that the ball is tracking towards the net and drops goal-side.",
+    "wav": "line_3185aaf1d7e59c94.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 91.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise drives right to the byline!",
+    "wav": "line_c2ef3c87bda8ff9d.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 93.68,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches away from the target! Just misses the right upright from two metres out.",
+    "wav": "line_c2d928d2ac780cb5.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 107.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Sustained pressure here from Fable, pinning the Datacenter pair deep inside their own box.",
+    "wav": "line_1ae7367d81ef80c4.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 112.91,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The push-panel fires it clear.",
+    "wav": "line_990e6cce7710d8a9.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 115.37,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe takes a heavy tumble.",
+    "wav": "line_6a317a58c8dfefe6.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 115.43,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare goes down in the collision as well, both robots sprawling out near the corner.",
+    "wav": "line_9c2f74a43969ea29.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 134.96,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Shaved the woodwork! Dynamo nearly extend the lead.",
+    "wav": "line_5a7828cb27810b4b.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 138.78,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Mbapp-E loses footing in midfield and clatters down onto the turf, waiting to right themselves.",
+    "wav": "line_39cb63507e5b02bf.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 146.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to cut the line.",
+    "wav": "line_54816c548e23220a.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 148.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe breaks into the box!",
+    "wav": "line_24834d15aa9b8392.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 150.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe tucks it away from point-blank range! Clinical finish, and Dynamo double their advantage to two-nil.",
+    "wav": "line_933551b68935e510.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 192.3,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Hare is completely unmarked and through down the right flank!",
+    "wav": "line_c49ea49694a829f0.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 197.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drives right into the mouth!",
+    "wav": "line_b13751d7925dca6a.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 197.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare buries it! That is a lifeline for AFC Fable, cutting the deficit to two-one!",
+    "wav": "line_3be823087bdd2254.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 210.0,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare loses balance and topples in midfield.",
+    "wav": "line_d6ec4406c095e4bf.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 213.36,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A messy mix-up as Tortoise collides with teammate Hare and hits the deck.",
+    "wav": "line_fa22d3556e090c26.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 219.89,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare stumbles again in their own third, legs buckling as Dynamo press high.",
+    "wav": "line_768a39d8aeb37f7c.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 228.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe pounces on the chaos and slots home to make it three-one.",
+    "wav": "line_68e26ea70b89a3a9.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 229.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo firmly camped in attack.",
+    "wav": "line_bce650f8e5fbd074.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 229.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare calls out with defiance, telling their partner they will not get beaten twice.",
+    "wav": "line_80693a7aaa752e89.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 250.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise marches forward along the right touchline, attempting to build some momentum before the break.",
+    "wav": "line_dfb96ce1ad684284.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 278.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A deflection skims past.",
+    "wav": "line_94d0a8b2dca337f4.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 279.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Buffon.exe sweeps in the rebound! A first-half hat-trick, making it four-one to Datacenter.",
+    "wav": "line_b26c8bb959a9fa96.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, the robots drop, and the ball trickles wide.",
+    "wav": "line_da942c61f562a807.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Four-one at the break. Remember, on that buzzer the electricity cuts entirely and every robot drops cold, but the ball remains live until it stops. Had that rolled in, it would have counted.",
+    "wav": "line_df52dfe40f654571.wav",
+    "dur_s": 12.93
+  },
+  {
+    "t": 338.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E calls that they are working the ball away from the touchline.",
+    "wav": "line_41e6b490deec8314.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 349.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise powers right through the middle!",
+    "wav": "line_8d59710085cf2e15.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 349.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise strolls right to the line and taps it in! AFC Fable pull one back, it is two-four.",
+    "wav": "line_ba9c108a0d6b99ab.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 374.4,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A rare breather as Hare regroups. Fable's gaffer touched nothing between matches, keeping total faith in this setup despite the heavy loss to Real Machina on Saturday.",
+    "wav": "line_348ca8b7dc07d407.wav",
+    "dur_s": 12.54
+  },
+  {
+    "t": 399.42,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Hare is through on goal!",
+    "wav": "line_1ae62a1cee4d2a9b.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 400.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E shouts across that the defensive wall is cleared.",
+    "wav": "line_0513465dbdbca8a3.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 417.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Oh, what a bizarre twist! Buffon.exe diverts it into their own net, and suddenly it is three-four! Game well and truly on!",
+    "wav": "line_ecfcbffcc6376408.wav",
+    "dur_s": 9.12
+  },
+  {
+    "t": 450.0,
+    "kind": "clock",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Two and a half minutes left on the clock. Fable trail by one and have all the momentum right now.",
+    "wav": "line_f28156ef5df33b82.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 465.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls for patience, shouting that they have the angle to advance.",
+    "wav": "line_2b4fd16986f83fc5.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 477.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Dynamo apply heavy pressure here, desperate to kill off the clock.",
+    "wav": "line_5aafcca18585f2d3.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 482.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Tortoise shrugs off the challenge and brings it across the halfway line.",
+    "wav": "line_0096c1c99b9613ac.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 491.76,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Tortoise hits it on the turn, but it skims just wide of the post!",
+    "wav": "line_5ebe5fb5033c9cc3.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 514.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "They have levelled it! Tortoise hammers it home from point-blank range, and Fable come from three down to make it four-four!",
+    "wav": "line_b8172f61ba0a31d8.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 525.5,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Hare signals urgently to drop back and protect the net with ninety seconds remaining.",
+    "wav": "line_e4576fa3083597aa.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 546.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Hare strides through the centre circle, looking for a dramatic winner.",
+    "wav": "line_608da41b0bea252f.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 551.91,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Buffon.exe is clean through into the final third! A massive chance late on!",
+    "wav": "line_279a0921e358ef8b.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 584.5,
+    "kind": "color",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Thirty seconds left on the clock. Both sides completely spent as the ball rolls harmlessly in the defensive third.",
+    "wav": "line_7e685cb5749916ba.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out, and the ball slowly rolls harmlessly away.",
+    "wav": "line_cff57656ad0975d1.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "It finishes four-four. Codex City face Singularity United next on Wednesday, eight o'clock in the UK, twenty-one hundred Europe, three",
+    "wav": "line_280e5a3512cbed8e.wav",
+    "dur_s": 9.2
+  }
+]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T15:05:01+00:00",
+ "generated_at": "2026-09-16T16:05:37+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8872,6 +8872,23 @@
     },
     {
      "pos": 3,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 8,
+     "W": 4,
+     "D": 1,
+     "L": 3,
+     "GF": 52,
+     "GA": 42,
+     "Pts": 13,
+     "GD": 10,
+     "prev": 4,
+     "move": 1
+    },
+    {
+     "pos": 4,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8884,23 +8901,6 @@
      "GA": 39,
      "Pts": 13,
      "GD": 5,
-     "prev": 5,
-     "move": 2
-    },
-    {
-     "pos": 4,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 7,
-     "W": 4,
-     "D": 0,
-     "L": 3,
-     "GF": 48,
-     "GA": 38,
-     "Pts": 12,
-     "GD": 10,
      "prev": 3,
      "move": -1
     },
@@ -8918,11 +8918,28 @@
      "GA": 32,
      "Pts": 10,
      "GD": 14,
-     "prev": 4,
-     "move": -1
+     "prev": 5,
+     "move": 0
     },
     {
      "pos": 6,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 8,
+     "W": 2,
+     "D": 3,
+     "L": 3,
+     "GF": 41,
+     "GA": 43,
+     "Pts": 9,
+     "GD": -2,
+     "prev": 8,
+     "move": 2
+    },
+    {
+     "pos": 7,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8935,11 +8952,11 @@
      "GA": 46,
      "Pts": 9,
      "GD": -6,
-     "prev": 8,
-     "move": 2
+     "prev": 6,
+     "move": -1
     },
     {
-     "pos": 7,
+     "pos": 8,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8952,23 +8969,6 @@
      "GA": 43,
      "Pts": 9,
      "GD": -9,
-     "prev": 6,
-     "move": -1
-    },
-    {
-     "pos": 8,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "P": 7,
-     "W": 2,
-     "D": 2,
-     "L": 3,
-     "GF": 37,
-     "GA": 39,
-     "Pts": 8,
-     "GD": -2,
      "prev": 7,
      "move": -1
     },
@@ -9007,7 +9007,7 @@
      "move": 0
     }
    ],
-   "movement_since_round": 6,
+   "movement_since_round": 7,
    "matches": [
     {
      "n": 1,
@@ -16349,8 +16349,181 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "FAB",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-16T19:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 8,
+        "second": 51.2,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": true
+       },
+       {
+        "minute": 23,
+        "second": 150.5,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 30,
+        "second": 197.1,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 34,
+        "second": 228.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 279.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 349.3,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 417.4,
+        "side": "home",
+        "scorer": "Buffon.exe",
+        "own_goal": true
+       },
+       {
+        "minute": 77,
+        "second": 514.2,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 201,
+       "through": 19,
+       "kick": 184,
+       "wall": 20,
+       "near_miss": 5,
+       "ram": 1,
+       "fall": 6,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 50.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -7.0, +1.0, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 98.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +6.7, +1.5, rolling across \u2014 dropping goal-side."
+       },
+       {
+        "second": 133.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "Clearing it from the wall"
+       },
+       {
+        "second": 173.4,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -4.9, +0.6, rolling across \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 229.9,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "They won't outrun us twice. Again."
+       },
+       {
+        "second": 283.9,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +0.8, -0.3, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 353.1,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 386.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "working it along the wall"
+       },
+       {
+        "second": 419.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Off at the whistle \u2014 first touch is mine!"
+       },
+       {
+        "second": 465.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -5.3, +4.2, rolling at their net \u2014 mine, slow and steady."
+       },
+       {
+        "second": 494.0,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing from our corner"
+       },
+       {
+        "second": 548.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck by the wall, pushing it free"
+       },
+       {
+        "second": 586.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "stuck by our goal wall, pushing it free"
+       }
+      ],
+      "stats": {
+       "kicks": 184,
+       "falls": 6,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": 0.249
+     },
+     "aired_at": "2026-09-16T15:04:42Z",
+     "watch": {
+      "id": "s3-m37_frontier_fable_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m37_frontier_fable_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m37_frontier_fable_dynamo_datacenter"
+     }
     },
     {
      "n": 38,
@@ -16361,7 +16534,7 @@
      "home_code": "CDX",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T11:00:00Z"
+     "kickoff_utc": "2026-09-16T19:00:00Z"
     },
     {
      "n": 39,
@@ -16372,7 +16545,7 @@
      "home_code": "GEM",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "kickoff_utc": "2026-09-17T11:00:00Z"
     },
     {
      "n": 40,
@@ -16383,7 +16556,7 @@
      "home_code": "MSP",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T19:00:00Z"
+     "kickoff_utc": "2026-09-17T15:00:00Z"
     },
     {
      "n": 41,
@@ -16394,7 +16567,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T11:00:00Z"
+     "kickoff_utc": "2026-09-17T19:00:00Z"
     },
     {
      "n": 42,
@@ -16405,7 +16578,7 @@
      "home_code": "SYA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T15:00:00Z"
+     "kickoff_utc": "2026-09-18T11:00:00Z"
     },
     {
      "n": 43,
@@ -16416,7 +16589,7 @@
      "home_code": "FAB",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T19:00:00Z"
+     "kickoff_utc": "2026-09-18T15:00:00Z"
     },
     {
      "n": 44,
@@ -16427,7 +16600,7 @@
      "home_code": "CDX",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T11:00:00Z"
+     "kickoff_utc": "2026-09-18T19:00:00Z"
     },
     {
      "n": 45,
@@ -16438,7 +16611,7 @@
      "home_code": "GEM",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T15:00:00Z"
+     "kickoff_utc": "2026-09-19T11:00:00Z"
     },
     {
      "n": 46,
@@ -16449,7 +16622,7 @@
      "home_code": "SGU",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T19:00:00Z"
+     "kickoff_utc": "2026-09-19T15:00:00Z"
     },
     {
      "n": 47,
@@ -16460,7 +16633,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T11:00:00Z"
+     "kickoff_utc": "2026-09-19T19:00:00Z"
     },
     {
      "n": 48,
@@ -16471,7 +16644,7 @@
      "home_code": "GLM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T15:00:00Z"
+     "kickoff_utc": "2026-09-20T11:00:00Z"
     },
     {
      "n": 49,
@@ -16481,7 +16654,8 @@
      "away_name": "AFC Fable",
      "home_code": "MSP",
      "away_code": "FAB",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-20T15:00:00Z"
     },
     {
      "n": 50,
@@ -16952,6 +17126,14 @@
      "goals": 22
     },
     {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 22
+    },
+    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -16960,23 +17142,15 @@
      "goals": 21
     },
     {
-     "name": "Abyss",
-     "team": "frontier_deepseek",
-     "team_name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "goals": 19
-    },
-    {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 19
+     "name": "Tortoise",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 21
     }
    ],
-   "aired_count": 35,
+   "aired_count": 36,
    "skipped_count": 1,
    "total_matches": 90,
    "complete": false,
@@ -19743,8 +19917,8 @@
   }
  },
  "totals": {
-  "matches_aired": 72,
-  "goals": 793,
+  "matches_aired": 73,
+  "goals": 801,
   "clubs": 11
  }
 }
