@@ -3558,6 +3558,71 @@
     ]
    },
    "dir": "runs/league/s3/m37_frontier_fable_dynamo_datacenter"
+  },
+  {
+   "fixture": 38,
+   "home": "frontier_sol",
+   "away": "singularity_united",
+   "score": [
+    4,
+    2
+   ],
+   "goals": [
+    {
+     "t": 9.0,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 246.2,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 277.6,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 292.7,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 460.0,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 602.3,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2275,
+   "players": {
+    "home": [
+     "Patchford",
+     "Turingham"
+    ],
+    "away": [
+     "Haalandroid",
+     "BellingRAM"
+    ]
+   },
+   "dir": "runs/league/s3/m38_frontier_sol_singularity_united"
   }
  ],
  "skipped_fixtures": [

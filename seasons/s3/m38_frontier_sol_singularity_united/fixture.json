@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 4
+  },
+  "away": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 2
+  },
+  "winner": "Codex City",
+  "code": {
+    "home": {
+      "commit": "805912da26de8491a2fbd0ff1eb231ab4a016d0d",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:26+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "27abd338cbe404fd4e25519b3d679b2246937771"
+  }
+}

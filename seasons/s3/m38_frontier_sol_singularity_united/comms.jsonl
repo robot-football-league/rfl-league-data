@@ -1,0 +1,117 @@
+{"t": 0.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 0.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 5.7, "from": "r2", "team": "Singularity United", "number": 1, "text": "Going for the ball."}
+{"t": 7.5, "from": "r3", "team": "Singularity United", "number": 2, "text": "got it"}
+{"t": 8.8, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "attacking the ball", "reason": "cooldown"}
+{"t": 14.0, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 14.0, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 24.7, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck against the wall, kicking it free"}
+{"t": 27.5, "from": "r3", "team": "Singularity United", "number": 2, "text": "working it off the wall"}
+{"t": 28.2, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "ball is stuck, kicking it free", "reason": "cooldown"}
+{"t": 35.9, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 37.0, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 42.2, "from": "r0", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 43.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "kicking it free from the wall"}
+{"t": 49.9, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 51.9, "from": "r2", "team": "Singularity United", "number": 1, "text": "trying to push it free"}
+{"t": 56.4, "from": "r3", "team": "Singularity United", "number": 2, "text": "pushing it past the wall"}
+{"t": 63.8, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 63.9, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 77.9, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 88.6, "from": "r3", "team": "Singularity United", "number": 2, "text": "launching it downfield"}
+{"t": 92.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 97.9, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 104.3, "from": "r2", "team": "Singularity United", "number": 1, "text": "prying it off the wall"}
+{"t": 105.9, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 106.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 108.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "got the wall ball"}
+{"t": 109.0, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 111.9, "from": "r1", "team": "Codex City", "number": 2, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 112.3, "from": "r2", "team": "Singularity United", "number": 1, "suppressed": "prying the stuck ball off the wall", "reason": "cooldown"}
+{"t": 116.5, "from": "r2", "team": "Singularity United", "number": 1, "text": "prying the wall ball loose"}
+{"t": 120.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 125.9, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 134.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 143.9, "from": "r1", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 148.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 149.7, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing the wall"}
+{"t": 157.9, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 162.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 173.9, "from": "r1", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 176.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 176.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "kick it out"}
+{"t": 180.6, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "wall clearance", "reason": "cooldown"}
+{"t": 186.7, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it"}
+{"t": 190.0, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing it along the wall"}
+{"t": 190.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 204.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 210.8, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 224.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 231.2, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 242.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Final-third overload; both channels are live."}
+{"t": 249.2, "from": "r1", "team": "Codex City", "number": 2, "text": "Rotating close and goal-side of first pressure."}
+{"t": 256.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 263.2, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 266.8, "from": "r2", "team": "Singularity United", "number": 1, "text": "ball is stuck, freeing it"}
+{"t": 272.7, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 277.2, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 286.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 291.2, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 302.7, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 323.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Outlet set; ready for the next phase."}
+{"t": 327.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 337.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 341.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 342.2, "from": "r3", "team": "Singularity United", "number": 2, "text": "prying it loose from the wall"}
+{"t": 345.3, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "prying it free from the wall", "reason": "cooldown"}
+{"t": 348.0, "from": "r2", "team": "Singularity United", "number": 1, "text": "working it off the wall"}
+{"t": 349.8, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "ball is stuck, pushing along the wall", "reason": "cooldown"}
+{"t": 351.9, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "ball's against the wall, keep pushing", "reason": "cooldown"}
+{"t": 355.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 365.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 369.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 372.4, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing the ball from the wall"}
+{"t": 372.9, "from": "r2", "team": "Singularity United", "number": 1, "text": "clearing it from the wall"}
+{"t": 379.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 383.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Central outlet set; do not double the wall."}
+{"t": 393.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Central outlet set; do not double the wall."}
+{"t": 398.8, "from": "r3", "team": "Singularity United", "number": 2, "text": "freeing it from the wall"}
+{"t": 405.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 405.9, "from": "r2", "team": "Singularity United", "number": 1, "text": "got your back, clearing center"}
+{"t": 407.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 419.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 421.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 438.9, "from": "r2", "team": "Singularity United", "number": 1, "text": "helping clear the wall"}
+{"t": 443.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Screen engaged; clearing through the far goal."}
+{"t": 443.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}
+{"t": 447.4, "from": "r3", "team": "Singularity United", "number": 2, "text": "clearing the wall"}
+{"t": 457.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 459.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 471.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 473.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 485.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure on the wall; hold the central outlet."}
+{"t": 487.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Outlet set; ready for the next phase."}
+{"t": 494.9, "from": "r2", "team": "Singularity United", "number": 1, "text": "Clear it from the wall!"}
+{"t": 499.1, "from": "r3", "team": "Singularity United", "number": 2, "text": "Digging it out!"}
+{"t": 499.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 501.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 515.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 515.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Final-third overload; both channels are live."}
+{"t": 521.9, "from": "r3", "team": "Singularity United", "number": 2, "text": "Clearing it away!"}
+{"t": 529.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Learned screen; recovering the ball-goal channel."}
+{"t": 529.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 538.9, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "Clearing it away!", "reason": "repeat"}
+{"t": 543.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Ball lost; recovering goal-side before scanning."}
+{"t": 543.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 546.6, "from": "r3", "team": "Singularity United", "number": 2, "text": "Clearing it now!"}
+{"t": 554.1, "from": "r3", "team": "Singularity United", "number": 2, "suppressed": "Shifting it off the wall!", "reason": "cooldown"}
+{"t": 557.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 557.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 571.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Lead protected; I am the central last player."}
+{"t": 571.5, "from": "r1", "team": "Codex City", "number": 2, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 585.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Rotating close and goal-side of first pressure."}
+{"t": 589.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Final-third overload; both channels are live."}
+{"t": 599.5, "from": "r0", "team": "Codex City", "number": 1, "text": "First pressure; rotate into the goal-side outlet."}
+{"t": 603.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Lead protected; I am the central last player."}
+{"t": 613.5, "from": "r0", "team": "Codex City", "number": 1, "text": "Danger: both players counterpress; clear through the far goal."}
+{"t": 617.5, "from": "r1", "team": "Codex City", "number": 2, "text": "Screen engaged; clearing through the far goal."}

@@ -1,0 +1,551 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here at the arena.",
+    "wav": "line_925ed1973f25d849.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls to tuck in defensively early on.",
+    "wav": "line_57b176abd527221f.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 4.21,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Turingham breaks clean through the middle!",
+    "wav": "line_e199fc1a1ab353ae.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 7.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving hard towards the box.",
+    "wav": "line_7df54ff66875fbd4.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 9.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham slots it home to open the scoring! A ruthless start from Codex City, perfectly dialled in right from kickoff. One nil to Codex!",
+    "wav": "line_b0c365ce3971558c.wav",
+    "dur_s": 10.55
+  },
+  {
+    "t": 23.34,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford takes a tumble on the right flank, entirely on their own, but the gyros do their job and they are back upright.",
+    "wav": "line_0b66bd77c3cfb54a.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 36.5,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford leaves Haalandroid in a heap with a solid challenge out wide. Fair and square, play carries on.",
+    "wav": "line_1b520c2666b46dcc.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 44.75,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "United collide and BellingRAM hits the deck.",
+    "wav": "line_0e5fc345d8843914.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 47.76,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM levels Patchford right back.",
+    "wav": "line_f415e18830010e46.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 48.13,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner push-panel thumps the magenta ball back into the mixer.",
+    "wav": "line_393f06fe725ed074.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 55.24,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Another corner panel fires it clear.",
+    "wav": "line_00d0a7b9b8eea922.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 56.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM shouts across to use the sideboards to get around the press. Singularity United looking to reset from deep.",
+    "wav": "line_32bd1628af70709a.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 70.74,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM loses footing in midfield.",
+    "wav": "line_a6065904939491cd.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 73.1,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Team-mates tangle again; Haalandroid down.",
+    "wav": "line_21eeb7f1e7293392.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 75.18,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid scrambles up and immediately clatters into Patchford in the centre circle. Physical stuff, no quarter given by United.",
+    "wav": "line_f847b43d471413e4.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 98.1,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A rare quiet moment. Remember, Singularity United have no gaffer rewriting their setup; they were frozen at launch and query their model for every decision live. A stark contrast to the pre-compiled routines we usually see.",
+    "wav": "line_b7b45c2e246fcd02.wav",
+    "dur_s": 16.51
+  },
+  {
+    "t": 121.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "BellingRAM takes control, driving purposeful yards through the centre.",
+    "wav": "line_70837f318c8fc097.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 125.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham bellows out the defensive assignment, demanding cover on the inside channel before United can find an opening.",
+    "wav": "line_ee022a90ec390043.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 149.89,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Patchford pounces on a loose ball and suddenly they are clean through on goal!",
+    "wav": "line_5035eafa87d6fda6.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 174.12,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Ram panel bounces it away.",
+    "wav": "line_65f67bbdac734d00.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 175.52,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Codex City get in each other's way now, and Turingham takes a tumble.",
+    "wav": "line_22d41c8f49e78e28.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 183.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "United pinning Codex deep now.",
+    "wav": "line_51250f54285eb991.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 185.05,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham loses balance trying to recover in midfield, dropping to the turf once more.",
+    "wav": "line_bb5598406b0ade4b.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 194.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford picks up the pieces, marching five metres up the flank and deep into United territory.",
+    "wav": "line_3b3d70bb5ad0dd1b.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 204.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls for defensive realignment, making sure the route to their own goal stays covered.",
+    "wav": "line_81255970ae4e1c9b.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 217.18,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham stumbles and goes down again on the touchline.",
+    "wav": "line_6589744022aa40c5.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 222.82,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham springs right back to their feet and crunchingly dispossesses BellingRAM. Superb recovery work.",
+    "wav": "line_8ddb6d2e2a9558e2.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 246.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And Turingham doubles the advantage! Placed cleanly into the net from close range, making it two nil to Codex City with under a minute left in the half.",
+    "wav": "line_1b93a5c9a3d6a64b.wav",
+    "dur_s": 10.08
+  },
+  {
+    "t": 274.05,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford clean through once again.",
+    "wav": "line_a71a318e79baac04.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 277.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Right in on the net.",
+    "wav": "line_cd1ea2af86f9ad42.wav",
+    "dur_s": 1.25
+  },
+  {
+    "t": 277.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford taps it in for three! Clinical finishing from Codex City, who are running away with this first half. Three nil.",
+    "wav": "line_9afbeadd716395c0.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 290.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just wide of the post.",
+    "wav": "line_c0ac5a5623cdc626.wav",
+    "dur_s": 1.41
+  },
+  {
+    "t": 292.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid charges straight down the middle.",
+    "wav": "line_9a38c4b16318ebdc.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 292.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid scores! Singularity United pull one back, three one.",
+    "wav": "line_af934d9bbae3f11b.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 293.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "United pressing hard straight after.",
+    "wav": "line_66edb0049c3f5a65.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 296.37,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid breaks through the lines.",
+    "wav": "line_4e5260a67c96471a.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 299.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Driving into the box now.",
+    "wav": "line_19088ab8c89e02fd.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, ball still rolling on.",
+    "wav": "line_f56d8121f48a9f26.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 302.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Codex call to hold shape.",
+    "wav": "line_729a9a63d88cb5b2.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 303.2,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "That ball drifts narrowly wide.",
+    "wav": "line_951f5cbc6c3488f5.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball stops, and that is half-time: Codex City 3, Singularity United 1. For newcomers, the buzzer cuts power instantly, dropping the robots, but the ball remains live until it rests. If it rolls in, it counts.",
+    "wav": "line_6fe2f6eff425c435.wav",
+    "dur_s": 16.09
+  },
+  {
+    "t": 339.2,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Codex City entered this round after that heavy twelve-three loss to Synthetic Athletic on Monday, but their unchanged setup is holding up well so far.",
+    "wav": "line_9d60c3e5347ee229.wav",
+    "dur_s": 10.74
+  },
+  {
+    "t": 373.39,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner push-panel launches the magenta sphere straight back out into the final third.",
+    "wav": "line_870560585d1328c9.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 383.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham calls for central cover.",
+    "wav": "line_b75e056aaf0e838d.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 384.36,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Whisker away! A wicked deflection shaves the outside of the post and bounces wide. United survive by inches.",
+    "wav": "line_54be6431a493a9f8.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 408.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A quiet patch as both sides regroup. It has been a congested midfield battle in this second period, neither unit giving an inch along the sideboards.",
+    "wav": "line_178c5be1803bdd5f.wav",
+    "dur_s": 10.24
+  },
+  {
+    "t": 431.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "United push forward and send a shot skimming just past the target. That was an ambitious effort from distance.",
+    "wav": "line_11a9111653163646.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 453.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "United building sustained pressure here, hemming Codex City into their own defensive corner.",
+    "wav": "line_766b2b7784dec98d.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 459.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford shouts to clear long.",
+    "wav": "line_c6c4c3ee0732a200.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 460.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid bundles it in! We have a game on our hands now! United slice the deficit to just one goal with just over two and a half minutes left. It is Codex City 3, Singularity United 2!",
+    "wav": "line_b0c93d772bae13de.wav",
+    "dur_s": 13.17
+  },
+  {
+    "t": 500.4,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Turingham breaks through the middle with only the goal in front of them!",
+    "wav": "line_7f165b5ae08ee781.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 508.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Turingham driving forward with immense momentum, into the final third, just two metres from goal!",
+    "wav": "line_41848bf08ae559ca.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 523.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "BellingRAM counters immediately, carrying the ball through the centre circle.",
+    "wav": "line_a59fc32d556ce62b.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 529.5,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Turingham frantically calls for a clearance under severe pressure from both United attackers.",
+    "wav": "line_69648f99df2af333.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 545.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Into the final minute and United are throwing everything forward, camping right on the edge of the Codex box. Can they find the equaliser in time?",
+    "wav": "line_9789ec56a0cd428e.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 588.12,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Agonisingly close for United! A fingertip away from levelling the match with under half a minute left!",
+    "wav": "line_0ddadde5cf49e156.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 601.04,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Off the woodwork, so close!",
+    "wav": "line_e5cac5e200cb472f.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 602.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham seals it! At the other end, Codex pounce to make it 4-2 with fifteen seconds remaining! That surely wraps up the points!",
+    "wav": "line_3333203074cc6592.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 615.36,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM crunches into Patchford late.",
+    "wav": "line_5550a73ad59c0fc3.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer cuts power, and the ball slowly rolls out on the flank.",
+    "wav": "line_c036230688616433.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Codex City win 4-2. Next, Gemini Flash face DeepSeek Rovers on Thursday: 12:00 UK, 13:00 Europe, 07:00 US East.",
+    "wav": "line_178a4eadf05a1534.wav",
+    "dur_s": 10.14
+  }
+]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T16:05:37+00:00",
+ "generated_at": "2026-09-16T21:19:28+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8906,23 +8906,40 @@
     },
     {
      "pos": 5,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 8,
+     "W": 4,
+     "D": 0,
+     "L": 4,
+     "GF": 38,
+     "GA": 45,
+     "Pts": 12,
+     "GD": -7,
+     "prev": 7,
+     "move": 2
+    },
+    {
+     "pos": 6,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 6,
+     "P": 7,
      "W": 3,
      "D": 1,
-     "L": 2,
-     "GF": 46,
-     "GA": 32,
+     "L": 3,
+     "GF": 48,
+     "GA": 36,
      "Pts": 10,
-     "GD": 14,
+     "GD": 12,
      "prev": 5,
-     "move": 0
+     "move": -1
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8936,10 +8953,10 @@
      "Pts": 9,
      "GD": -2,
      "prev": 8,
-     "move": 2
+     "move": 1
     },
     {
-     "pos": 7,
+     "pos": 8,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8953,24 +8970,7 @@
      "Pts": 9,
      "GD": -6,
      "prev": 6,
-     "move": -1
-    },
-    {
-     "pos": 8,
-     "slug": "frontier_sol",
-     "name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "P": 7,
-     "W": 3,
-     "D": 0,
-     "L": 4,
-     "GF": 34,
-     "GA": 43,
-     "Pts": 9,
-     "GD": -9,
-     "prev": 7,
-     "move": -1
+     "move": -2
     },
     {
      "pos": 9,
@@ -16533,8 +16533,167 @@
      "away_name": "Singularity United",
      "home_code": "CDX",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-16T19:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      2
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 1,
+        "second": 9.0,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 246.2,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 277.6,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 292.7,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 460.0,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 90,
+        "second": 602.3,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 240,
+       "kick": 200,
+       "through": 13,
+       "fall": 21,
+       "wall": 35,
+       "ram": 4,
+       "near_miss": 6,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 27.5,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 63.9,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 108.8,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got the wall ball"
+       },
+       {
+        "second": 149.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 190.0,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clearing it along the wall"
+       },
+       {
+        "second": 256.7,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 302.7,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Learned screen; recovering the ball-goal channel."
+       },
+       {
+        "second": 365.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 398.8,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 443.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 487.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Outlet set; ready for the next phase."
+       },
+       {
+        "second": 529.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Learned screen; recovering the ball-goal channel."
+       },
+       {
+        "second": 571.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Lead protected; I am the central last player."
+       }
+      ],
+      "stats": {
+       "kicks": 200,
+       "falls": 21,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 13
+      },
+      "est_cost_usd": 0.2275
+     },
+     "aired_at": "2026-09-16T19:04:41Z",
+     "watch": {
+      "id": "s3-m38_frontier_sol_singularity_united",
+      "url": "https://4dgsx.com/watch/s3-m38_frontier_sol_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s3-m38_frontier_sol_singularity_united"
+     }
     },
     {
      "n": 39,
@@ -16665,7 +16824,8 @@
      "away_name": "Codex City",
      "home_code": "GEM",
      "away_code": "CDX",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-20T19:00:00Z"
     },
     {
      "n": 51,
@@ -17094,6 +17254,14 @@
      "goals": 28
     },
     {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 24
+    },
+    {
      "name": "Flash",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
@@ -17116,14 +17284,6 @@
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 23
-    },
-    {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 22
     },
     {
      "name": "Buffon.exe",
@@ -17150,7 +17310,7 @@
      "goals": 21
     }
    ],
-   "aired_count": 36,
+   "aired_count": 37,
    "skipped_count": 1,
    "total_matches": 90,
    "complete": false,
@@ -19917,8 +20077,8 @@
   }
  },
  "totals": {
-  "matches_aired": 73,
-  "goals": 801,
+  "matches_aired": 74,
+  "goals": 807,
   "clubs": 11
  }
 }
