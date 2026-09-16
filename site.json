@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T10:15:24+00:00",
+ "generated_at": "2026-09-16T11:15:41+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -16145,7 +16145,7 @@
      "home_code": "SYA",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T11:00:00Z"
+     "kickoff_utc": "2026-09-16T15:00:00Z"
     },
     {
      "n": 37,
@@ -16156,7 +16156,7 @@
      "home_code": "FAB",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T15:00:00Z"
+     "kickoff_utc": "2026-09-16T19:00:00Z"
     },
     {
      "n": 38,
@@ -16167,7 +16167,7 @@
      "home_code": "CDX",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T19:00:00Z"
+     "kickoff_utc": "2026-09-17T11:00:00Z"
     },
     {
      "n": 39,
@@ -16178,7 +16178,7 @@
      "home_code": "GEM",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T11:00:00Z"
+     "kickoff_utc": "2026-09-17T15:00:00Z"
     },
     {
      "n": 40,
@@ -16189,7 +16189,7 @@
      "home_code": "MSP",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "kickoff_utc": "2026-09-17T19:00:00Z"
     },
     {
      "n": 41,
@@ -16200,7 +16200,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T19:00:00Z"
+     "kickoff_utc": "2026-09-18T11:00:00Z"
     },
     {
      "n": 42,
@@ -16211,7 +16211,7 @@
      "home_code": "SYA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T11:00:00Z"
+     "kickoff_utc": "2026-09-18T15:00:00Z"
     },
     {
      "n": 43,
@@ -16222,7 +16222,7 @@
      "home_code": "FAB",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T15:00:00Z"
+     "kickoff_utc": "2026-09-18T19:00:00Z"
     },
     {
      "n": 44,
@@ -16233,7 +16233,7 @@
      "home_code": "CDX",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T19:00:00Z"
+     "kickoff_utc": "2026-09-19T11:00:00Z"
     },
     {
      "n": 45,
@@ -16244,7 +16244,7 @@
      "home_code": "GEM",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T11:00:00Z"
+     "kickoff_utc": "2026-09-19T15:00:00Z"
     },
     {
      "n": 46,
@@ -16255,7 +16255,7 @@
      "home_code": "SGU",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T15:00:00Z"
+     "kickoff_utc": "2026-09-19T19:00:00Z"
     },
     {
      "n": 47,
@@ -16266,7 +16266,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T19:00:00Z"
+     "kickoff_utc": "2026-09-20T11:00:00Z"
     },
     {
      "n": 48,
