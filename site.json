@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T11:15:41+00:00",
+ "generated_at": "2026-09-16T12:15:59+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8859,14 +8859,14 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 7,
-     "W": 5,
+     "P": 8,
+     "W": 6,
      "D": 0,
      "L": 2,
-     "GF": 56,
-     "GA": 28,
-     "Pts": 15,
-     "GD": 28,
+     "GF": 63,
+     "GA": 32,
+     "Pts": 18,
+     "GD": 31,
      "prev": 2,
      "move": 0
     },
@@ -8876,14 +8876,14 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 7,
+     "P": 8,
      "W": 4,
      "D": 1,
-     "L": 2,
-     "GF": 40,
-     "GA": 32,
+     "L": 3,
+     "GF": 44,
+     "GA": 39,
      "Pts": 13,
-     "GD": 8,
+     "GD": 5,
      "prev": 5,
      "move": 2
     },
@@ -16144,8 +16144,202 @@
      "away_name": "Real Machina",
      "home_code": "SYA",
      "away_code": "RMA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-16T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      7
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 9,
+        "second": 58.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 136.4,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 163.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 176.3,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 268.0,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 58,
+        "second": 387.3,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 411.8,
+        "side": "away",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 457.6,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 82,
+        "second": 547.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 564.9,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 590.7,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 217,
+       "kick": 223,
+       "through": 11,
+       "fall": 19,
+       "wall": 44,
+       "near_miss": 4,
+       "buzzer": 2,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 1.9,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Going for the kickoff ball"
+       },
+       {
+        "second": 41.6,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it free"
+       },
+       {
+        "second": 57.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "shoving it free from the wall"
+       },
+       {
+        "second": 133.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 252.7,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "moving off the wall to free the ball"
+       },
+       {
+        "second": 289.5,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Clearing it!"
+       },
+       {
+        "second": 333.1,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "prying it off the wall"
+       },
+       {
+        "second": 383.9,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it, clearing the wall"
+       },
+       {
+        "second": 427.1,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing it out"
+       },
+       {
+        "second": 442.6,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing it away from our goal"
+       },
+       {
+        "second": 471.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 511.5,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 548.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "attacking the ball"
+       },
+       {
+        "second": 592.0,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "freeing the ball"
+       }
+      ],
+      "stats": {
+       "kicks": 223,
+       "falls": 19,
+       "near_misses": 4,
+       "post_hits": 0,
+       "through_balls": 11
+      },
+      "est_cost_usd": 0.4652
+     },
+     "aired_at": "2026-09-16T11:04:42Z",
+     "watch": {
+      "id": "s3-m36_synthetic_athletic_real_machina",
+      "url": "https://4dgsx.com/watch/s3-m36_synthetic_athletic_real_machina",
+      "embed_url": "https://4dgsx.com/embed/s3-m36_synthetic_athletic_real_machina"
+     }
     },
     {
      "n": 37,
@@ -16156,7 +16350,7 @@
      "home_code": "FAB",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-16T19:00:00Z"
+     "kickoff_utc": "2026-09-16T15:00:00Z"
     },
     {
      "n": 38,
@@ -16167,7 +16361,7 @@
      "home_code": "CDX",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T11:00:00Z"
+     "kickoff_utc": "2026-09-16T19:00:00Z"
     },
     {
      "n": 39,
@@ -16178,7 +16372,7 @@
      "home_code": "GEM",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "kickoff_utc": "2026-09-17T11:00:00Z"
     },
     {
      "n": 40,
@@ -16189,7 +16383,7 @@
      "home_code": "MSP",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T19:00:00Z"
+     "kickoff_utc": "2026-09-17T15:00:00Z"
     },
     {
      "n": 41,
@@ -16200,7 +16394,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T11:00:00Z"
+     "kickoff_utc": "2026-09-17T19:00:00Z"
     },
     {
      "n": 42,
@@ -16211,7 +16405,7 @@
      "home_code": "SYA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T15:00:00Z"
+     "kickoff_utc": "2026-09-18T11:00:00Z"
     },
     {
      "n": 43,
@@ -16222,7 +16416,7 @@
      "home_code": "FAB",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T19:00:00Z"
+     "kickoff_utc": "2026-09-18T15:00:00Z"
     },
     {
      "n": 44,
@@ -16233,7 +16427,7 @@
      "home_code": "CDX",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T11:00:00Z"
+     "kickoff_utc": "2026-09-18T19:00:00Z"
     },
     {
      "n": 45,
@@ -16244,7 +16438,7 @@
      "home_code": "GEM",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T15:00:00Z"
+     "kickoff_utc": "2026-09-19T11:00:00Z"
     },
     {
      "n": 46,
@@ -16255,7 +16449,7 @@
      "home_code": "SGU",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T19:00:00Z"
+     "kickoff_utc": "2026-09-19T15:00:00Z"
     },
     {
      "n": 47,
@@ -16266,7 +16460,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T11:00:00Z"
+     "kickoff_utc": "2026-09-19T19:00:00Z"
     },
     {
      "n": 48,
@@ -16276,7 +16470,8 @@
      "away_name": "Synthetic Athletic",
      "home_code": "GLM",
      "away_code": "SYA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-20T11:00:00Z"
     },
     {
      "n": 49,
@@ -16701,12 +16896,20 @@
    ],
    "scorers": [
     {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 28
+    },
+    {
      "name": "Zidroid",
      "team": "real_machina",
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 27
+     "goals": 28
     },
     {
      "name": "Robodinho",
@@ -16714,7 +16917,7 @@
      "team_name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "goals": 25
+     "goals": 28
     },
     {
      "name": "Flash",
@@ -16749,14 +16952,6 @@
      "goals": 22
     },
     {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 22
-    },
-    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -16781,7 +16976,7 @@
      "goals": 19
     }
    ],
-   "aired_count": 34,
+   "aired_count": 35,
    "skipped_count": 1,
    "total_matches": 90,
    "complete": false,
@@ -19548,8 +19743,8 @@
   }
  },
  "totals": {
-  "matches_aired": 71,
-  "goals": 782,
+  "matches_aired": 72,
+  "goals": 793,
   "clubs": 11
  }
 }

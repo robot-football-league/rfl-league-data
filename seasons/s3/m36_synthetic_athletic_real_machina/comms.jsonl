@@ -1,0 +1,158 @@
+{"t": 1.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the kickoff ball"}
+{"t": 2.9, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "Going for the kickoff!"}
+{"t": 4.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "Got it!", "reason": "cooldown"}
+{"t": 18.9, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "Ball is stuck at the wall, pushing it free!"}
+{"t": 26.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "Freeing it from the wall!", "reason": "cooldown"}
+{"t": 28.2, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 33.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 34.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 35.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "helping get the ball unstuck"}
+{"t": 36.5, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "helping push it free", "reason": "cooldown"}
+{"t": 41.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it free"}
+{"t": 42.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 45.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 46.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it along the wall", "reason": "cooldown"}
+{"t": 50.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working the ball off the corner wall", "reason": "cooldown"}
+{"t": 52.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "shoving it free"}
+{"t": 52.8, "from": "r3", "team": "Real Machina", "number": 2, "text": "unsticking from wall"}
+{"t": 53.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it off the corner", "reason": "cooldown"}
+{"t": 54.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 56.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 57.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "shoving it free from the wall"}
+{"t": 58.4, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "pushing it out", "reason": "cooldown"}
+{"t": 58.4, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing it free"}
+{"t": 58.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "got the ball near the wall", "reason": "cooldown"}
+{"t": 60.2, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "shoving it free", "reason": "repeat"}
+{"t": 73.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "clearing the corner"}
+{"t": 74.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "clearing the corner"}
+{"t": 76.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the corner", "reason": "cooldown"}
+{"t": 80.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "getting it out of here"}
+{"t": 127.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "ball is stuck by the wall, pushing it free"}
+{"t": 131.5, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it free from the wall", "reason": "cooldown"}
+{"t": 133.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it off the wall"}
+{"t": 135.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "working it free"}
+{"t": 135.8, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 138.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing from our goal", "reason": "cooldown"}
+{"t": 152.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "clearing the ball from the wall"}
+{"t": 156.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 225.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck by the wall, pushing it free"}
+{"t": 228.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "working it free from the wall"}
+{"t": 229.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 238.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing hard against the wall", "reason": "cooldown"}
+{"t": 252.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "moving off the wall to free the ball"}
+{"t": 252.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing down the wing"}
+{"t": 255.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 261.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 265.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "working it free from the wall"}
+{"t": 269.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for the ball!"}
+{"t": 276.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 289.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "Clearing it!"}
+{"t": 297.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 318.9, "from": "r3", "team": "Real Machina", "number": 2, "text": "attacking the ball"}
+{"t": 329.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it from the wall"}
+{"t": 332.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "getting the ball off the wall"}
+{"t": 333.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "prying it off the wall"}
+{"t": 336.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 336.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing it from the wall", "reason": "repeat"}
+{"t": 338.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "kick it out", "reason": "cooldown"}
+{"t": 340.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clear the wall", "reason": "cooldown"}
+{"t": 342.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it loose", "reason": "cooldown"}
+{"t": 360.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "prying it off the wall"}
+{"t": 363.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing hard against the wall", "reason": "cooldown"}
+{"t": 365.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 367.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball's against the wall, clearing it"}
+{"t": 368.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "still working it along the wall", "reason": "cooldown"}
+{"t": 371.5, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "helping on the wall"}
+{"t": 372.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "prying the ball off the wall"}
+{"t": 373.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 374.2, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, freeing it", "reason": "cooldown"}
+{"t": 374.3, "from": "r3", "team": "Real Machina", "number": 2, "text": "helping clear it from the wall"}
+{"t": 377.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "shoving it along the wall", "reason": "cooldown"}
+{"t": 380.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "helping pry it off", "reason": "cooldown"}
+{"t": 383.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it, clearing the wall"}
+{"t": 384.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "trying to wedge it out"}
+{"t": 405.4, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "wedging it free from the wall"}
+{"t": 408.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "helping push it free"}
+{"t": 408.9, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "still clearing the wall", "reason": "cooldown"}
+{"t": 410.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 413.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it off the wall", "reason": "cooldown"}
+{"t": 413.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing it from the wall"}
+{"t": 427.1, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball is stuck against the wall, pushing it out"}
+{"t": 427.1, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "clearing it now"}
+{"t": 431.3, "from": "r3", "team": "Real Machina", "number": 2, "text": "working it free from the wall"}
+{"t": 431.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing the ball free from the wall"}
+{"t": 432.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "kick it out from the wall", "reason": "cooldown"}
+{"t": 432.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 433.2, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck, clearing it", "reason": "cooldown"}
+{"t": 433.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "nudging it along the wall", "reason": "cooldown"}
+{"t": 435.0, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "got it unstuck, pushing it out", "reason": "cooldown"}
+{"t": 435.7, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, kicking it free", "reason": "cooldown"}
+{"t": 437.5, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 437.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it free from the wall"}
+{"t": 439.2, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it from the corner wall", "reason": "cooldown"}
+{"t": 440.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 442.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it away from our goal"}
+{"t": 444.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing it away from the wall"}
+{"t": 445.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "working the corner"}
+{"t": 446.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing the stuck ball free", "reason": "cooldown"}
+{"t": 446.7, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 447.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 450.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "getting it off the wall"}
+{"t": 450.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "kick it out of the corner", "reason": "cooldown"}
+{"t": 451.9, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it", "reason": "cooldown"}
+{"t": 452.1, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 453.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 454.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 455.2, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "clearing the corner"}
+{"t": 455.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 455.9, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the ball away from our wall", "reason": "cooldown"}
+{"t": 458.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing it out of the corner", "reason": "cooldown"}
+{"t": 458.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "getting the ball out of the corner", "reason": "cooldown"}
+{"t": 471.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck, freeing it"}
+{"t": 475.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 482.9, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "got it"}
+{"t": 498.2, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing the corner"}
+{"t": 498.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "ball is stuck, pushing it out"}
+{"t": 500.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushed against the wall, clearing it"}
+{"t": 502.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 504.4, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "getting the ball out of the corner", "reason": "cooldown"}
+{"t": 508.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 511.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it from the wall"}
+{"t": 514.2, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the corner"}
+{"t": 516.0, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it out", "reason": "cooldown"}
+{"t": 519.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "working the ball along the wall", "reason": "cooldown"}
+{"t": 520.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "prying it away from the wall"}
+{"t": 521.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 523.5, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 529.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "freeing it"}
+{"t": 530.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 532.7, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "nudging it along the wall", "reason": "cooldown"}
+{"t": 534.9, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "nudging it out", "reason": "cooldown"}
+{"t": 537.8, "from": "r0", "team": "Synthetic Athletic", "number": 1, "suppressed": "shoving it away from the corner", "reason": "cooldown"}
+{"t": 539.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "need to push it out of the corner"}
+{"t": 541.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "freeing the ball"}
+{"t": 548.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "attacking the ball"}
+{"t": 553.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 579.4, "from": "r2", "team": "Real Machina", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 580.5, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 582.7, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "pushing along the wall"}
+{"t": 583.6, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 584.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 584.7, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the ball from the wall", "reason": "cooldown"}
+{"t": 585.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "nudging it along the wall"}
+{"t": 585.8, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "got it pinned against the wall", "reason": "cooldown"}
+{"t": 588.2, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "nudging it free", "reason": "cooldown"}
+{"t": 588.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 592.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "freeing the ball"}
+{"t": 601.6, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "pushing it off the wall"}
+{"t": 602.5, "from": "r3", "team": "Real Machina", "number": 2, "text": "got the ball near the wall"}
+{"t": 606.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 607.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "pushing it off the wall"}
+{"t": 609.4, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 611.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it free from the wall", "reason": "cooldown"}
+{"t": 611.3, "from": "r1", "team": "Synthetic Athletic", "number": 2, "text": "clearing the corner"}
+{"t": 612.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 612.6, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 616.3, "from": "r0", "team": "Synthetic Athletic", "number": 1, "text": "freeing the ball from the wall"}
+{"t": 616.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "pushing from the corner", "reason": "cooldown"}
+{"t": 618.0, "from": "r1", "team": "Synthetic Athletic", "number": 2, "suppressed": "helping on the wall", "reason": "cooldown"}
