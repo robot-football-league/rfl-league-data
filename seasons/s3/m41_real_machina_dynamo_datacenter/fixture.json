@@ -1,0 +1,19 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 8
+  },
+  "away": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 4
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {},
+    "away": {},
+    "engine_commit": "27abd338cbe404fd4e25519b3d679b2246937771"
+  }
+}

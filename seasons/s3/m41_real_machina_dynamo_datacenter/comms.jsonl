@@ -1,0 +1,69 @@
+{"t": 2.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "Going for the ball!"}
+{"t": 2.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "Going for the kickoff ball!"}
+{"t": 5.0, "from": "r0", "team": "Real Machina", "number": 1, "text": "I'm coming in to support!"}
+{"t": 25.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "ball is against the wall, pushing it out"}
+{"t": 26.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "Working it free from the wall!"}
+{"t": 27.1, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "ball's stuck against the wall, pushing it free"}
+{"t": 28.6, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "Clearing it off the wall!", "reason": "cooldown"}
+{"t": 29.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "prying it from the wall"}
+{"t": 30.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it along the wall", "reason": "cooldown"}
+{"t": 30.9, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "Pushing the ball free from the wall!", "reason": "cooldown"}
+{"t": 35.0, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "got it near the wall", "reason": "cooldown"}
+{"t": 37.9, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "nudging it out from the corner"}
+{"t": 38.6, "from": "r0", "team": "Real Machina", "number": 1, "text": "Still working the ball off the wall!"}
+{"t": 43.2, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 44.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "prying the ball off the wall"}
+{"t": 45.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing the corner", "reason": "cooldown"}
+{"t": 45.9, "from": "r1", "team": "Real Machina", "number": 2, "text": "prying it free"}
+{"t": 46.0, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "got it, clearing away", "reason": "cooldown"}
+{"t": 46.7, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "ball stuck against the wall, keep pushing", "reason": "cooldown"}
+{"t": 49.9, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 54.1, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "prying it from the wall"}
+{"t": 57.9, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 59.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it free from the wall"}
+{"t": 76.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "prying the ball free from the wall"}
+{"t": 95.9, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it past the opponent"}
+{"t": 96.5, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "helping clear our goal"}
+{"t": 97.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "got it", "reason": "cooldown"}
+{"t": 127.9, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing the ball"}
+{"t": 128.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "Clear it!"}
+{"t": 132.2, "from": "r0", "team": "Real Machina", "number": 1, "text": "Moving it away from our wall"}
+{"t": 134.7, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "Got it!", "reason": "cooldown"}
+{"t": 247.6, "from": "r1", "team": "Real Machina", "number": 2, "text": "Going for the ball"}
+{"t": 290.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "Freeing it from the wall"}
+{"t": 292.3, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "prying it loose from the wall"}
+{"t": 293.9, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "Prying it from the wall", "reason": "cooldown"}
+{"t": 297.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "prying it loose"}
+{"t": 362.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 375.0, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing it from the wall"}
+{"t": 377.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "unsticking it"}
+{"t": 378.2, "from": "r1", "team": "Real Machina", "number": 2, "suppressed": "ball is stuck by the wall, pushing it free", "reason": "cooldown"}
+{"t": 385.4, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing the ball free from the wall"}
+{"t": 419.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "got it"}
+{"t": 421.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "clearing it"}
+{"t": 430.1, "from": "r1", "team": "Real Machina", "number": 2, "text": "got the rebound"}
+{"t": 430.4, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "attacking goal"}
+{"t": 439.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "ball is stuck by the wall, pushing it out"}
+{"t": 440.0, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "freeing it", "reason": "cooldown"}
+{"t": 441.9, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it free"}
+{"t": 442.2, "from": "r1", "team": "Real Machina", "number": 2, "text": "freeing it from the wall"}
+{"t": 474.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it along the wall"}
+{"t": 506.4, "from": "r0", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 506.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "pushing it in"}
+{"t": 522.8, "from": "r0", "team": "Real Machina", "number": 1, "text": "nudging it free"}
+{"t": 524.5, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 526.8, "from": "r1", "team": "Real Machina", "number": 2, "text": "clearing the corner"}
+{"t": 528.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing off the wall"}
+{"t": 528.5, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "pushing it out", "reason": "cooldown"}
+{"t": 534.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "working it free from the wall"}
+{"t": 539.7, "from": "r1", "team": "Real Machina", "number": 2, "text": "coming to help free it"}
+{"t": 542.5, "from": "r0", "team": "Real Machina", "number": 1, "text": "pushing it along the wall"}
+{"t": 544.4, "from": "r0", "team": "Real Machina", "number": 1, "suppressed": "still working it along the wall", "reason": "cooldown"}
+{"t": 568.6, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it!"}
+{"t": 581.1, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing!"}
+{"t": 582.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "got it, clearing"}
+{"t": 582.7, "from": "r0", "team": "Real Machina", "number": 1, "text": "prying it from the wall"}
+{"t": 590.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "clearing it away!", "reason": "cooldown"}
+{"t": 592.7, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it"}
+{"t": 593.3, "from": "r1", "team": "Real Machina", "number": 2, "text": "prying it loose from the wall"}
+{"t": 599.4, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "kick it out of the corner", "reason": "cooldown"}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T12:00:55+00:00",
+ "generated_at": "2026-09-17T15:43:27+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8859,14 +8859,14 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 8,
-     "W": 6,
+     "P": 9,
+     "W": 7,
      "D": 0,
      "L": 2,
-     "GF": 63,
-     "GA": 32,
-     "Pts": 18,
-     "GD": 31,
+     "GF": 71,
+     "GA": 36,
+     "Pts": 21,
+     "GD": 35,
      "prev": 2,
      "move": 0
     },
@@ -8876,14 +8876,14 @@
      "name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "P": 8,
+     "P": 9,
      "W": 4,
      "D": 1,
-     "L": 3,
-     "GF": 52,
-     "GA": 42,
+     "L": 4,
+     "GF": 56,
+     "GA": 50,
      "Pts": 13,
-     "GD": 10,
+     "GD": 6,
      "prev": 4,
      "move": 1
     },
@@ -16906,8 +16906,209 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "RMA",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "status": "aired",
+     "score": [
+      8,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 16,
+        "second": 108.3,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 131.0,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 158.4,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 220.4,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 243.5,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 334.7,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 357.3,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 390.1,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 68,
+        "second": 451.2,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 76,
+        "second": 506.7,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 83,
+        "second": 551.7,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 566.2,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 225,
+       "kick": 227,
+       "near_miss": 9,
+       "through": 21,
+       "wall": 34,
+       "ram": 6,
+       "fall": 42,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 2.3,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "Going for the ball!"
+       },
+       {
+        "second": 25.2,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball is against the wall, pushing it out"
+       },
+       {
+        "second": 37.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "nudging it out from the corner"
+       },
+       {
+        "second": 45.9,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "prying it free"
+       },
+       {
+        "second": 76.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "prying the ball free from the wall"
+       },
+       {
+        "second": 128.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Clear it!"
+       },
+       {
+        "second": 290.5,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Freeing it from the wall"
+       },
+       {
+        "second": 375.0,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 421.7,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "clearing it"
+       },
+       {
+        "second": 439.7,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "ball is stuck by the wall, pushing it out"
+       },
+       {
+        "second": 506.4,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 526.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "clearing the corner"
+       },
+       {
+        "second": 539.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "coming to help free it"
+       },
+       {
+        "second": 582.6,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "got it, clearing"
+       }
+      ],
+      "stats": {
+       "kicks": 227,
+       "falls": 42,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 21
+      },
+      "est_cost_usd": 0.4397
+     },
+     "aired_at": "2026-09-17T15:04:33Z",
+     "watch": {
+      "id": "s3-m41_real_machina_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m41_real_machina_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m41_real_machina_dynamo_datacenter"
+     }
     },
     {
      "n": 42,
@@ -17038,7 +17239,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "MSP",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-21T15:00:00Z"
     },
     {
      "n": 54,
@@ -17418,7 +17620,7 @@
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 28
+     "goals": 34
     },
     {
      "name": "Zidroid",
@@ -17426,7 +17628,7 @@
      "team_name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "goals": 28
+     "goals": 30
     },
     {
      "name": "Robodinho",
@@ -17443,6 +17645,14 @@
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 26
+    },
+    {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 25
     },
     {
      "name": "Spark",
@@ -17466,15 +17676,7 @@
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "goals": 23
-    },
-    {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 22
+     "goals": 24
     },
     {
      "name": "BellingRAM",
@@ -17493,7 +17695,7 @@
      "goals": 21
     }
    ],
-   "aired_count": 38,
+   "aired_count": 39,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -20260,8 +20462,8 @@
   }
  },
  "totals": {
-  "matches_aired": 75,
-  "goals": 816,
+  "matches_aired": 76,
+  "goals": 828,
   "clubs": 11
  }
 }
