@@ -3626,7 +3626,8 @@
   }
  ],
  "skipped_fixtures": [
-  34
+  34,
+  40
  ],
  "skipped": [
   {
@@ -3635,6 +3636,13 @@
    "away": "singularity_united",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
    "at": "2026-09-15T13:42:36Z"
+  },
+  {
+   "fixture": 40,
+   "home": "frontier_muse",
+   "away": "frontier_glm",
+   "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
+   "at": "2026-09-16T21:21:09Z"
   }
  ]
 }
