@@ -1,0 +1,194 @@
+{"t": 0.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 0.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 0.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 12.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 14.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 14.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 24.2, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 26.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 26.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 28.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 32.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 36.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 40.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 42.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 42.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 46.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 48.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 52.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 54.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 54.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 56.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 60.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 62.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 75.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 81.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 91.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 92.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 93.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 94.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 98.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 98.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 103.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 104.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 106.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 108.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 109.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 112.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 119.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 126.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 130.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 131.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 132.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 134.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 139.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 143.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 151.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 154.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 161.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 171.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 173.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 176.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 178.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 180.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 182.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 186.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 187.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 187.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 188.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 194.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 198.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 199.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 201.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 202.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 204.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 210.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 213.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 213.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 225.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 228.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 230.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 232.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 234.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 236.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 237.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 238.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 240.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 242.7, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 243.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 246.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 248.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 252.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 253.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 254.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 255.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 258.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 260.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 265.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 267.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 277.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Clearing ball upfield to flank!"}
+{"t": 279.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 286.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 289.1, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 290.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 292.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 293.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 300.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 302.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 319.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 321.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 329.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 331.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 333.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 341.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 343.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 345.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 347.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 349.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 351.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 353.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 355.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 357.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 359.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 363.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "repeat"}
+{"t": 371.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 375.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 379.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 381.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 383.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Holding defensive corridor."}
+{"t": 383.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 385.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 387.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 387.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 393.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 395.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 395.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 399.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 407.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 411.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 427.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 431.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 433.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 439.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 443.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 445.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 447.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 449.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 449.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "repeat"}
+{"t": 457.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 461.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 463.6, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 463.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 469.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 471.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 473.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 475.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 475.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 477.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 483.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 493.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 495.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Clearing ball upfield to flank!"}
+{"t": 507.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 507.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 512.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 518.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 519.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 527.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 531.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 538.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 539.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 543.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 545.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 554.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 555.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 556.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 557.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 562.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 565.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 567.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 569.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 579.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 582.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 583.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 585.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 587.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 589.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 590.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 591.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 592.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 594.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 596.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 598.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 600.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 601.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 603.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 605.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 605.6, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 608.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 610.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 614.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 615.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 616.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 617.6, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 618.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}

@@ -1,0 +1,524 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here in round eight.",
+    "wav": "line_ae30a56626bc3870.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash is immediately shouting to step up the press.",
+    "wav": "line_e2516a233f05d4db.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 4.74,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal loses balance on the turn and tumbles over. No contact there, just heavy footing, but the recovery routine kicks in right away.",
+    "wav": "line_cb56a626ddfd07bc.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 17.16,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark rattles it against the upright from point-blank range! Tremendous early chance.",
+    "wav": "line_6b990a17c4002c7b.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 23.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "It is in! A dreadful deflection off Signal into their own net, and Gemini Flash lead one-nil!",
+    "wav": "line_6c94782cf443bace.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 28.34,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Signal makes amends with a firm challenge in the centre circle, sending Flash sprawling to the carpet.",
+    "wav": "line_54f605b16150c937.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 40.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss flashes one just wide.",
+    "wav": "line_046a08351cb98e7e.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 43.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Another own goal! Abyss inadvertently turns it over the line, and Gemini Flash double their advantage to two-nil without taking the shot themselves.",
+    "wav": "line_5316c8ca1e8d020b.wav",
+    "dur_s": 11.29
+  },
+  {
+    "t": 50.54,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark is clean through here.",
+    "wav": "line_5aa12c9653e6a1ec.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 53.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark carries it right to the box.",
+    "wav": "line_cd1cc72f53be10f2.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 56.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark rolls it home with authority! That makes it three-nil to Gemini Flash.",
+    "wav": "line_23e5069cf0a8ab50.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 61.11,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal crunches Flash to the turf.",
+    "wav": "line_a458dece7d10c871.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 63.99,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A clumsy tangle between teammates Flash and Spark, and Spark hits the deck. Wires crossed in the Gemini midfield.",
+    "wav": "line_0048c5e05ae55729.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 73.48,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark loses footing once again.",
+    "wav": "line_8086c7a0afee4898.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 75.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls out the intention to have a crack at goal. Both sides unchanged today, trusting their baseline setups entirely.",
+    "wav": "line_25faa1f3e2c6d28b.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 90.31,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The magenta ball clatters into the corner, and the push-panel activates, punching it smartly back into open play.",
+    "wav": "line_35a60c9dbf0e1fc6.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 105.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash gathers possession in the defensive third, methodically nudging the ball forwards. Gemini Flash playing with the composure of league leaders here, having already put away Dynamo Datacenter on Monday.",
+    "wav": "line_ea122d184249c442.wav",
+    "dur_s": 13.43
+  },
+  {
+    "t": 132.8,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash curls it just wide.",
+    "wav": "line_9a2608b9f3ffe996.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 135.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "DeepSeek Rovers are pinned right back on their goal line now, weathering wave after wave of pressure.",
+    "wav": "line_a0224f693fb1e266.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 146.25,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash breaks into space down the left touchline, with nobody in front.",
+    "wav": "line_86d16fc11de2a09d.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 154.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss bellows to clear lines.",
+    "wav": "line_8f19fde4f4f34d92.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 154.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash marches it towards goal.",
+    "wav": "line_e02f2afcabf89a30.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 155.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rovers simply cannot get out of their own third. Flash and Spark are swarming every loose touch, keeping the deep blue shirts hemmed into the perimeter boards.",
+    "wav": "line_bd20785161b742a2.wav",
+    "dur_s": 10.45
+  },
+  {
+    "t": 180.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal breaks out with a long run.",
+    "wav": "line_8b9b0a05049b8cb6.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 183.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "And Signal finishes it! A clinical counter-attack down the right channel, tucked neatly away. DeepSeek Rovers pull one back, making it three-one.",
+    "wav": "line_f9293f4740386736.wav",
+    "dur_s": 10.55
+  },
+  {
+    "t": 220.37,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner panel thumps the ball straight back out off the wall to reset the attack.",
+    "wav": "line_f6d62f18da88f862.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 228.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal barks back to Abyss, coordinating defensive cover as Flash probes around the edge of the area.",
+    "wav": "line_4eacaf669b3f176a.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 248.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Disaster for Signal! Another cruel deflection at the goal mouth, and that is Signal's second own goal of the afternoon. Gemini Flash lead four-one.",
+    "wav": "line_c5bc2e0a572af90a.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 269.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A sustained spell of pressure now from DeepSeek Rovers, penning Gemini Flash back into their own box as the clock ticks towards the break.",
+    "wav": "line_d4b7e5b384df8d44.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 286.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal strikes again! Pouncing right at the goal mouth to poke it over the line. DeepSeek Rovers cut the deficit to four-two with seconds remaining in the half.",
+    "wav": "line_1b7b189f9d97a6fa.wav",
+    "dur_s": 10.45
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "There goes the buzzer, power cuts, but the ball rolls harmlessly wide.",
+    "wav": "line_37c159644b6d5fdb.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 305.1,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball stops, and that is half-time. In this league, the buzzer cuts robot power instantly, but a moving ball remains live and counts if it rolls in. Gemini Flash lead four-two.",
+    "wav": "line_c7f4937a9df740a8.wav",
+    "dur_s": 11.49
+  },
+  {
+    "t": 319.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Right from the restart, Flash is loudly calling to test the target from distance.",
+    "wav": "line_9d02c83143e7626d.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 342.03,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash surges cleanly through midfield.",
+    "wav": "line_5297bdde2b80ce5f.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 345.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash drives straight for the danger zone.",
+    "wav": "line_177e53d6f56ad0d0.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 348.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash drags the shot centimetres wide of the target.",
+    "wav": "line_f02eee58455ba859.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 371.0,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A brief pause with Spark over the ball. DeepSeek were impressive yesterday putting seven past GLM, but Gemini Flash's control of the pitch has kept them at arm's length today.",
+    "wav": "line_24ad40ad2ee5d298.wav",
+    "dur_s": 11.49
+  },
+  {
+    "t": 393.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss shouts instructions to hold the defensive line.",
+    "wav": "line_eaeae9e8916ab4f0.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 397.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A speculative effort sails well wide of the Rovers net.",
+    "wav": "line_7f8d390a049d0dc6.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 403.76,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal finds space behind and races through on goal.",
+    "wav": "line_b8284ea3a8a85ecd.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 408.07,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball rattles into the corner bevel, and the push-panel propels it vigorously back out into play.",
+    "wav": "line_e4e06ceadd1924b1.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 431.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark powers down the right flank with intent.",
+    "wav": "line_18ff7aa01ba71010.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 434.88,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark blasts just wide.",
+    "wav": "line_0b50092daf3ea847.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 435.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash tucks it away! Point-blank at the goal mouth, and Gemini Flash restore their three-goal cushion. Five-two to the league leaders.",
+    "wav": "line_2e5fef3f1582a9fe.wav",
+    "dur_s": 10.14
+  },
+  {
+    "t": 451.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Inches away! Signal almost answers immediately, but the ball shaves the outside of the post.",
+    "wav": "line_7fde89d37b369fae.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 462.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Flash strikes again! A crisp finish into the corner, making it six-two. That surely puts this match completely beyond DeepSeek Rovers.",
+    "wav": "line_3e858f30d49ad97b.wav",
+    "dur_s": 10.69
+  },
+  {
+    "t": 473.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal urges Abyss to boot it clear under heavy pressure.",
+    "wav": "line_5641aa53a915124f.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 478.02,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss overbalances on the carpet and tumbles over. Up by themselves in a few seconds, but it sums up a frustrating second half for Rovers.",
+    "wav": "line_d17e316bc96d030d.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 504.36,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash tries for the hat-trick, sending a low drive just wide of the far post.",
+    "wav": "line_0bc40c9f9f0467f6.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 527.9,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash bursts clear through the middle once again.",
+    "wav": "line_f3e9211e1e74e59f.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 535.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash guides the magenta ball into the centre circle under no pressure.",
+    "wav": "line_96f6b19db03a655f.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 542.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash advances steadily into the final third, running down the clock with just over a minute left.",
+    "wav": "line_6ec8d18aa5f24622.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 556.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss calls for tracking back.",
+    "wav": "line_67de9a677f770014.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 558.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash are just toying with the perimeter now, keeping Rovers pinned back as the final seconds tick away.",
+    "wav": "line_cb73a42a882e1316.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 581.84,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark shoots wide of the upright.",
+    "wav": "line_887025a151621ef2.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 583.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark taps it home! That makes it seven-two, Spark's second of the day, cementing an emphatic display from Gemini Flash.",
+    "wav": "line_1a6221b47f205253.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 617.1,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts, and the ball trickles towards the boards.",
+    "wav": "line_b15a96e955e9f0c3.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 622.1,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, seven-two Gemini Flash. Muse Spark face GLM Thursday, sixteen UK, seventeen Europe, eleven US East. Goodnight.",
+    "wav": "line_166911e194e2b8cf.wav",
+    "dur_s": 10.45
+  }
+]

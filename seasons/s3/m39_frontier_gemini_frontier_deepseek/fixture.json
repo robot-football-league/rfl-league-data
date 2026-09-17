@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 7
+  },
+  "away": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 2
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "c0899de54d333a1ee411e30dfbd7df5fde8bed67",
+      "subject": "night 37: Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+      "committed_at": "2026-09-14T10:01:29+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "5ce7204f57eba61b6b7ca9d401caeda0aa95f423",
+      "subject": "night 29: Shade defender now reads the opponents it was ignoring: when the ball is in our own half, the covering player picks up the free runner inside 15 m of our goal and sits goal-side of him instead of marking empty space on the ball-goal line. This is the fix for the through-ball counters that decided m18 and m24, and it builds on the press/shade hysteresis from the last session, which is now playing i",
+      "committed_at": "2026-09-13T22:13:29+01:00",
+      "dirty": true
+    },
+    "engine_commit": "27abd338cbe404fd4e25519b3d679b2246937771"
+  }
+}

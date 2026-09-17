@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:00:39+00:00",
+ "generated_at": "2026-09-17T12:00:55+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8842,14 +8842,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 7,
-     "W": 7,
+     "P": 8,
+     "W": 8,
      "D": 0,
      "L": 0,
-     "GF": 52,
-     "GA": 30,
-     "Pts": 21,
-     "GD": 22,
+     "GF": 59,
+     "GA": 32,
+     "Pts": 24,
+     "GD": 27,
      "prev": 1,
      "move": 0
     },
@@ -8961,14 +8961,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 7,
+     "P": 8,
      "W": 3,
      "D": 0,
-     "L": 4,
-     "GF": 40,
-     "GA": 46,
+     "L": 5,
+     "GF": 42,
+     "GA": 53,
      "Pts": 9,
-     "GD": -6,
+     "GD": -11,
      "prev": 6,
      "move": -2
     },
@@ -16703,8 +16703,188 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "GEM",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-17T15:00:00Z"
+     "status": "aired",
+     "score": [
+      7,
+      2
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 4,
+        "second": 23.7,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": true
+       },
+       {
+        "minute": 7,
+        "second": 43.4,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": true
+       },
+       {
+        "minute": 8,
+        "second": 56.1,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 27,
+        "second": 183.2,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 248.5,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": true
+       },
+       {
+        "minute": 43,
+        "second": 286.2,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 435.5,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 462.0,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 583.8,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 238,
+       "kick": 204,
+       "fall": 6,
+       "near_miss": 9,
+       "wall": 31,
+       "through": 13,
+       "ram": 3,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 36.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 91.1,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 131.1,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 176.0,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 213.5,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 260.0,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 319.6,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 357.6,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 399.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 461.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 507.6,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 545.6,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 583.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       }
+      ],
+      "stats": {
+       "kicks": 204,
+       "falls": 6,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 13
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-17T11:04:36Z",
+     "watch": {
+      "id": "s3-m39_frontier_gemini_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m39_frontier_gemini_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m39_frontier_gemini_frontier_deepseek"
+     }
     },
     {
      "n": 40,
@@ -16727,7 +16907,7 @@
      "home_code": "RMA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-17T19:00:00Z"
+     "kickoff_utc": "2026-09-17T15:00:00Z"
     },
     {
      "n": 42,
@@ -16738,7 +16918,7 @@
      "home_code": "SYA",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T11:00:00Z"
+     "kickoff_utc": "2026-09-17T19:00:00Z"
     },
     {
      "n": 43,
@@ -16749,7 +16929,7 @@
      "home_code": "FAB",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T15:00:00Z"
+     "kickoff_utc": "2026-09-18T11:00:00Z"
     },
     {
      "n": 44,
@@ -16760,7 +16940,7 @@
      "home_code": "CDX",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-18T19:00:00Z"
+     "kickoff_utc": "2026-09-18T15:00:00Z"
     },
     {
      "n": 45,
@@ -16771,7 +16951,7 @@
      "home_code": "GEM",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T11:00:00Z"
+     "kickoff_utc": "2026-09-18T19:00:00Z"
     },
     {
      "n": 46,
@@ -16782,7 +16962,7 @@
      "home_code": "SGU",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T15:00:00Z"
+     "kickoff_utc": "2026-09-19T11:00:00Z"
     },
     {
      "n": 47,
@@ -16793,7 +16973,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-19T19:00:00Z"
+     "kickoff_utc": "2026-09-19T15:00:00Z"
     },
     {
      "n": 48,
@@ -16804,7 +16984,7 @@
      "home_code": "GLM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T11:00:00Z"
+     "kickoff_utc": "2026-09-19T19:00:00Z"
     },
     {
      "n": 49,
@@ -16815,7 +16995,7 @@
      "home_code": "MSP",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T15:00:00Z"
+     "kickoff_utc": "2026-09-20T11:00:00Z"
     },
     {
      "n": 50,
@@ -16826,7 +17006,7 @@
      "home_code": "GEM",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-20T19:00:00Z"
+     "kickoff_utc": "2026-09-20T15:00:00Z"
     },
     {
      "n": 51,
@@ -16837,7 +17017,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-21T11:00:00Z"
+     "kickoff_utc": "2026-09-20T19:00:00Z"
     },
     {
      "n": 52,
@@ -16847,7 +17027,8 @@
      "away_name": "Singularity United",
      "home_code": "GLM",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-21T11:00:00Z"
     },
     {
      "n": 53,
@@ -17256,6 +17437,22 @@
      "goals": 28
     },
     {
+     "name": "Flash",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "goals": 26
+    },
+    {
+     "name": "Spark",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "goals": 25
+    },
+    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -17264,27 +17461,11 @@
      "goals": 24
     },
     {
-     "name": "Flash",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
-     "goals": 24
-    },
-    {
      "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "goals": 23
-    },
-    {
-     "name": "Spark",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
      "goals": 23
     },
     {
@@ -17312,7 +17493,7 @@
      "goals": 21
     }
    ],
-   "aired_count": 37,
+   "aired_count": 38,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -20079,8 +20260,8 @@
   }
  },
  "totals": {
-  "matches_aired": 74,
-  "goals": 807,
+  "matches_aired": 75,
+  "goals": 816,
   "clubs": 11
  }
 }

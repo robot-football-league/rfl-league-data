@@ -3623,6 +3623,92 @@
     ]
    },
    "dir": "runs/league/s3/m38_frontier_sol_singularity_united"
+  },
+  {
+   "fixture": 39,
+   "home": "frontier_gemini",
+   "away": "frontier_deepseek",
+   "score": [
+    7,
+    2
+   ],
+   "goals": [
+    {
+     "t": 23.7,
+     "team": "A",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 43.4,
+     "team": "A",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 56.1,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 183.2,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 248.5,
+     "team": "A",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 286.2,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 435.5,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 462.0,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 583.8,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": null,
+   "players": {
+    "home": [
+     "Flash",
+     "Spark"
+    ],
+    "away": [
+     "Abyss",
+     "Signal"
+    ]
+   },
+   "dir": "runs/league/s3/m39_frontier_gemini_frontier_deepseek"
   }
  ],
  "skipped_fixtures": [
