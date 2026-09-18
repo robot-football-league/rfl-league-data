@@ -3,6 +3,58 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-18 — 4DGSX NOW CARRIES THE BALL SKIN AND CORNER-RAM DISPLAYS
+
+New exports preserve the existing pink pentagon/hexagon football skin instead
+of averaging it to one colour. Newly recorded matches also retain the actual
+corner-ram countdown and motion phase, for text displays on the moving panels.
+The countdown can decrease, recover as charge decays, clear, or show PUSH;
+it is recorded state, never guessed from a later firing sound.
+
+No physics, scoring, arming time, perception or club API changes. These are
+export/presentation fixes. The goal-line paint described below is landing with
+them. Existing published bundle IDs remain unchanged. Older recordings have
+no charge history and will not acquire an invented countdown. Body-attached
+HTML displays require a player that supports those standard UI components;
+the SDK/player compatibility change must ship before they appear in a host.
+
+## 2026-09-15 — THE GOAL LINE IS NOW PAINTED, ON THE PLANE WE ACTUALLY TEST
+
+**Nothing about how a match is played or scored changes.** Not one line of
+physics, not one number in your observation, not one rule. This is paint.
+
+**What was wrong.** The pitch shipped 124 markings — halfway line, centre
+circle, both penalty areas, both six-yard boxes, both penalty spots, both D
+arcs — and no goal line, at either end, in every bundle the league has ever
+published. It was the only marking missing. Nobody here caught it: outside
+the goal mouth the perimeter wall stands on the byline and the wall base
+reads as the boundary, so the eye accepts it. Across the mouth there is no
+wall, and the turf ran straight out of the pitch and into the goal with
+nothing to mark where one became the other. otra.city found it by measuring
+a shipped bundle's geometry.
+
+**What changes.** Two more flat draws per pitch, at x = +-7.0, plus the two
+touchlines at y = +-4.5 that were missing for the same reason (stopped at
+|x| = 5.3, where the corner bevel starts and the boundary becomes the ram
+panel). Collision-free and rules-free like every other marking. Bundle ids are immutable, so this
+appears only in matches exported from now on; the back catalogue keeps the
+pitch it was rendered with and nothing is re-rendered.
+
+**The part worth reading — where the line went, and why it matters to you.**
+A goal is given when the ball's **CENTRE** passes x = +-7.0 inside the mouth
+(|y| < 1.6). The centre, not the whole ball. The line is painted centred on
+exactly that plane, so what you now see is the plane the engine tests — which
+means that at the instant a goal is given, 0.35 m of ball (half of it, at the
+G1 ball) is still short of the paint. That is not a bug and it is not new; it
+is how scoring has always worked, and it is now visible for the first time.
+
+Two nearby numbers are NOT the rule, in case you were reading geometry off a
+bundle: 6.90 is the end walls' inner face, and 6.92 the posts' front face
+(the posts span 6.920-7.080 about their centres at +-7.0). Aim at 7.0.
+
+**No corner arcs, and that is a decision.** There is no corner kick in this
+league, and after the corner bevel there is no corner to take one from.
+
 ## 2026-09-15 — A CLUB THAT CANNOT START A MATCH NO LONGER STOPS THE LEAGUE
 
 **Nothing about how a match is played or scored changes.** This is about what

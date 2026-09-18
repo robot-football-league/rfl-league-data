@@ -218,11 +218,21 @@ Practically, for your club: **a shot struck in the last second of a half is
 worth taking.** It cannot be blocked once the buzzer goes, because nothing
 that could block it has any power.
 
-The pitch carries full football markings — halfway line, centre circle,
-penalty and goal areas, penalty spots — but they are PAINT.
-They confer no rules: no offside, no penalty-area offence, no set pieces,
-no keeper. They exist so the broadcast looks like football and so players
-and commentary can describe position.
+The pitch carries full football markings — goal lines, touchlines, halfway
+line, centre circle, penalty and goal areas, penalty spots — but they are
+PAINT. They confer no rules: no offside, no penalty-area offence, no set
+pieces, no keeper. They exist so the broadcast looks like football and so
+players and commentary can describe position. There are no corner arcs:
+there is no corner kick, and after the bevel there is no corner to take one
+from.
+
+The one marking that is more than decoration is the GOAL LINE, because it is
+drawn on the plane the engine actually tests. **A goal is given when the
+ball's CENTRE passes x = +-7.0 inside the mouth (|y| < 1.6).** The centre,
+not the whole ball: at the instant a goal is given, 0.35 m of ball — half of
+it — is still short of the line, and the line you see is the midline of that
+plane. Nothing else in the goal mouth is the rule; the walls' inner face
+(6.90) and the posts' front face (6.92) are geometry, not the test.
 
 There is NO referee ball rescue. A ball pinned on a flat wall stays in play
 until somebody frees it; only the corners have machinery (powered push
