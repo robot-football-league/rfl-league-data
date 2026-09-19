@@ -3,6 +3,18 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-19 — FULL-TIME LEAGUE TABLE IN THE 4DGSX BROADCAST
+
+New league recordings will carry a full-time standings graphic: the table
+including that match, with the two clubs highlighted and their position
+changes measured from before kick-off. Opening-round movement remains hidden,
+as on the post-roll card. No later results enter an earlier match's table.
+
+The graphic follows the recorded end of ball play, never the power-off buzzer.
+This is presentation only: no physics, results, standings rules or club API
+change. Existing published bundles are not rewritten. The stadium host must
+support screen-anchored HTML graphics before this appears over its heli shot.
+
 ## 2026-09-18 — 4DGSX NOW CARRIES THE BALL SKIN AND CORNER-RAM DISPLAYS
 
 New exports preserve the existing pink pentagon/hexagon football skin instead
