@@ -12,8 +12,10 @@ as on the post-roll card. No later results enter an earlier match's table.
 
 The graphic follows the recorded end of ball play, never the power-off buzzer.
 This is presentation only: no physics, results, standings rules or club API
-change. Existing published bundles are not rewritten. The stadium host must
-support screen-anchored HTML graphics before this appears over its heli shot.
+change. Existing published bundles are not rewritten. The stadium host owns
+presentation over its heli shot: it can render the supplied standings data
+natively or reuse the bundled HTML graphic. (Integration wording clarified
+2026-09-20; no change to data, timing safeguards or match rules.)
 
 ## 2026-09-18 — 4DGSX NOW CARRIES THE BALL SKIN AND CORNER-RAM DISPLAYS
 
