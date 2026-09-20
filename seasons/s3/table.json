@@ -3822,7 +3822,8 @@
   34,
   40,
   45,
-  49
+  49,
+  53
  ],
  "skipped": [
   {
@@ -3852,6 +3853,13 @@
    "away": "frontier_fable",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
    "at": "2026-09-18T20:30:16Z"
+  },
+  {
+   "fixture": 53,
+   "home": "frontier_muse",
+   "away": "dynamo_datacenter",
+   "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
+   "at": "2026-09-19T20:34:05Z"
   }
  ]
 }
