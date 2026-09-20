@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T15:15:18+00:00",
+ "generated_at": "2026-09-20T17:15:32+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -17286,7 +17286,9 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "MSP",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "skipped",
+     "skipped_reason": "not played: Muse Spark FC could not start the match",
+     "skipped_at": "2026-09-20T16:00:19Z"
     },
     {
      "n": 58,
@@ -17702,7 +17704,7 @@
     }
    ],
    "aired_count": 39,
-   "skipped_count": 5,
+   "skipped_count": 6,
    "total_matches": 90,
    "complete": false,
    "slots": [
