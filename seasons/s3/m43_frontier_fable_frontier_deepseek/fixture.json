@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 5
+  },
+  "away": {
+    "team": "DeepSeek Rovers",
+    "code": "DSK",
+    "goals": 6
+  },
+  "winner": "DeepSeek Rovers",
+  "code": {
+    "home": {
+      "commit": "4caaddc655bcb5aba54847ad3dc918816aa8eab2",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:25+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "5ce7204f57eba61b6b7ca9d401caeda0aa95f423",
+      "subject": "night 29: Shade defender now reads the opponents it was ignoring: when the ball is in our own half, the covering player picks up the free runner inside 15 m of our goal and sits goal-side of him instead of marking empty space on the ball-goal line. This is the fix for the through-ball counters that decided m18 and m24, and it builds on the press/shade hysteresis from the last session, which is now playing i",
+      "committed_at": "2026-09-13T22:13:29+01:00",
+      "dirty": true
+    },
+    "engine_commit": "891a1c013d678be5f88465e3c028a7e128c93831"
+  }
+}

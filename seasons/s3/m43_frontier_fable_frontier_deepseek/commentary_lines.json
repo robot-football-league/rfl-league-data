@@ -1,0 +1,560 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round nine meeting.",
+    "wav": "line_a53f6400124cc42d.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls early to take responsibility for their own half, steadying the ship from the centre circle.",
+    "wav": "line_9746b9c3286b3c40.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 37.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss strikes first! DeepSeek Rovers find the breakthrough from close range, and the deep blue shirts take the lead!",
+    "wav": "line_3e7facd5b3d3b3c7.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 58.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss drives forward smoothly down the left wing.",
+    "wav": "line_d84c0809ce9942c8.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 62.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls out that danger calmly, tracking back goal-side.",
+    "wav": "line_f118e02d071d0154.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 66.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A whisker away from danger!",
+    "wav": "line_d382a1b6646af665.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 67.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss capitalises on the rebound and tucks it away from point-blank range. That is two for DeepSeek Rovers.",
+    "wav": "line_eae2331138ef0516.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 98.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare looks to respond immediately, carrying the ball right through the centre.",
+    "wav": "line_1b7ac06d478df1d4.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 104.39,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Tortoise slips clean through into the final third!",
+    "wav": "line_9edbd9f88de4534c.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 109.0,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just past the post.",
+    "wav": "line_32fd50e4adda8dc5.wav",
+    "dur_s": 1.31
+  },
+  {
+    "t": 109.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise makes amends right away! Two metres out, a clean finish, and AFC Fable are back in this match!",
+    "wav": "line_65e17a19342ca954.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 124.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare levels it up! Two quick goals and Fable are right back on terms at two apiece!",
+    "wav": "line_ebdca27c0d4715e9.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 134.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal calls for it deep in Rovers' defensive third to reset.",
+    "wav": "line_a31e9306b840ab8e.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 141.76,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Agonisingly wide of the upright!",
+    "wav": "line_702d252bfa2fb177.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 144.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss surges down the right flank.",
+    "wav": "line_e9aa3632cb358f29.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 145.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss restores the advantage! A sharp effort from the right channel and DeepSeek Rovers lead three-two!",
+    "wav": "line_384db70ef5048914.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 159.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Signal motors right through the middle.",
+    "wav": "line_45f08cc6b67a4483.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 159.24,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Off the woodwork and back out!",
+    "wav": "line_cca1112097bed520.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 159.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal follows it up and taps in the rebound. DeepSeek Rovers pull two clear once again.",
+    "wav": "line_2fb1647480d66dd6.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 185.65,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss broken completely clear now.",
+    "wav": "line_6a5f443123a722ae.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 187.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And Abyss finishes it without fuss. Five-two to the Rovers.",
+    "wav": "line_79d085e0b1f32ee3.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 191.97,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Abyss overbalances on the turn in midfield and must recalibrate.",
+    "wav": "line_b79a193dade80e07.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 199.22,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Tortoise is brought down heavily by Abyss.",
+    "wav": "line_6009e47f55347d72.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 202.52,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss topples on the recovery.",
+    "wav": "line_4ff2acd98cd49f8e.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 202.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise drags it wide by less than a metre.",
+    "wav": "line_d217e899dadafd06.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 209.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable applying heavy pressure now, penning the Rovers deep inside their own territory.",
+    "wav": "line_689e3fc75ba07ea7.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 214.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Abyss calls to take control on the line, trying to weather this storm.",
+    "wav": "line_69cf2adaed13032e.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 251.03,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare carries it cleanly through the midfield third.",
+    "wav": "line_e68c0a0f41d275b8.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 256.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare squeezes a shot just past the near upright.",
+    "wav": "line_37fbd23a318ca4da.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 270.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable still camping out around the Rovers box, searching for a path through.",
+    "wav": "line_63f7fc2ca21a35cf.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 279.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Tortoise shouts across to coordinate the recovery position in the centre.",
+    "wav": "line_7d125454547a58f3.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 289.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise grabs another one back! Squeezed in from two metres out, cutting the deficit to two.",
+    "wav": "line_feccdb2fecfea522.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting all power instantly, but the ball rolls harmlessly wide.",
+    "wav": "line_19721433c46c82e5.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball comes to rest, confirming the interval score. A quick note for newcomers: the buzzer cuts robot power dead, but the magenta ball stays entirely live. If momentum carries it into the net, it counts. DeepSeek lead five-three at the break.",
+    "wav": "line_93a3fcaba13b8ae4.wav",
+    "dur_s": 16.04
+  },
+  {
+    "t": 339.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just missed the bottom corner.",
+    "wav": "line_02bd56bb5ff6959f.wav",
+    "dur_s": 1.46
+  },
+  {
+    "t": 342.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise scores right at the mouth of the goal! It is four-five now, and game on!",
+    "wav": "line_ce0c2c54aadadc7f.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 350.96,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Rovers teammates clash heavily in midfield.",
+    "wav": "line_d05e6f21a0a2957a.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 353.22,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare loses footing and goes down.",
+    "wav": "line_c53558ba9f14a619.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 355.43,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Fable teammates stumble into each other on the wing.",
+    "wav": "line_b497423cb3436da3.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 364.89,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Another tangle between the Fable pair halts their own progress.",
+    "wav": "line_c4a913ff787ebf53.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 373.49,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal dispossesses Hare with authority.",
+    "wav": "line_3dfa0cdd5e744924.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 374.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss drives deep into Fable territory.",
+    "wav": "line_d85f1accaffd021a.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 374.25,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise topples backward while trying to recover.",
+    "wav": "line_43d080bca07b5f5a.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 381.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Abyss finishes it from the right channel. DeepSeek Rovers restore a two-goal cushion.",
+    "wav": "line_a50cb3457a1fc82f.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 383.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls for the loose ball in the centre circle.",
+    "wav": "line_5607a152aa06489c.wav",
+    "dur_s": 2.93
+  },
+  {
+    "t": 390.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal drives forward towards the left channel.",
+    "wav": "line_abb1a65dead216fb.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 395.75,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel clatters it away.",
+    "wav": "line_f8ae4f37d04166f5.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 397.37,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Signal takes a tumble right off the corner wall.",
+    "wav": "line_c9905c89d9b51476.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 403.32,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare takes charge from deep, looking for daylight through the middle.",
+    "wav": "line_5d8e0f2462549e3f.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 423.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare marches right to the goalmouth.",
+    "wav": "line_9fae2e62a0d20914.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 424.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare pokes it over the line! They simply will not go away! Fable are back within one at five-six!",
+    "wav": "line_7469f3bf1de488f2.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 459.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls to hold the cover.",
+    "wav": "line_3bb0c6567f83c64f.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 461.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare breaks up the right side again, looking to manufacture another equaliser for Fable.",
+    "wav": "line_1fa1cd1b3a16c012.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 496.42,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The ram panel punches the ball sharply off the back wall, keeping this frantic sequence alive.",
+    "wav": "line_a7954a5030f28d82.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 511.05,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Signal breaks clean through on the counter!",
+    "wav": "line_cfc28144a6df0eaf.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 514.4,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Tortoise frantically warns of the danger dropping back.",
+    "wav": "line_f55aa9ec99261f00.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 520.8,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Signal fires inches past the target! What an escape for Fable!",
+    "wav": "line_58e913fce0d3de70.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 536.16,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Another close call skimming by the post as DeepSeek Rovers hunt the clincher!",
+    "wav": "line_eafbc113bae73020.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 562.4,
+    "kind": "color",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "A brief moment of calm on the touchline. Both sides have unchanged programming this week, and it has produced a wonderfully chaotic end-to-end scrap.",
+    "wav": "line_86fe958d3627000e.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 588.56,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Fable miss by centimetres with only thirty seconds remaining on the clock!",
+    "wav": "line_5ed419768807d791.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "The full-time buzzer sounds, the players collapse, and the ball trickles slowly towards",
+    "wav": "line_1c130bf39e3cf359.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "It stops safely out of harm. DeepSeek Rovers take it six-five. Up next, Codex City meet GLM FC on Friday",
+    "wav": "line_1814db8936aa44cc.wav",
+    "dur_s": 9.12
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Under way in round nine.",
+    "wav": "line_9219329c670899a9.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls for Turingham to cover the inside line as GLM look to settle. Both clubs arrive with unchanged squads today, sticking entirely with the systems that brought them here.",
+    "wav": "line_9ac0dce2c8d69036.wav",
+    "dur_s": 11.68
+  },
+  {
+    "t": 21.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Codex City are penning the Zhipu Blue shirts deep in their own territory, applying early pressure and giving them no room to breathe.",
+    "wav": "line_5fb5319a38a99295.wav",
+    "dur_s": 9.12
+  },
+  {
+    "t": 35.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi relieves the strain with a purposeful drive up the left flank, stepping out into midfield.",
+    "wav": "line_0fd3571dac94a649.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 44.08,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi crunches into Patchford solidly.",
+    "wav": "line_2043d71947444cc5.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 46.52,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "But Zhi loses balance right in front of goal and topples over. The self-righting sequence begins immediately.",
+    "wav": "line_2b2382829d04a732.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 56.08,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Down goes Zhi again, struggling to find steady footing in the attacking third.",
+    "wav": "line_0ac8889b384873c6.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 62.2,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Turingham slips through on goal with an open net gaping!",
+    "wav": "line_6e6f5bac75be6ea0.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 67.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi scrambles back, shouting to claim the loose ball.",
+    "wav": "line_9bf0bdf731e49ecc.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 72.44,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Scuffed wide from point-blank range!",
+    "wav": "line_b2640200416bf2dd.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 73.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Turingham regathers and drives straight down the middle.",
+    "wav": "line_56a5e03f2c653a83.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 77.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "GLM are pinned back again.",
+    "wav": "line_1cbffb53a97501c2.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 77.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And there is the opener! Turingham hammers it home from close range, breaking the deadlock to make it one-nil to Codex City!",
+    "wav": "line_bf547bc9997ee0a3.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 105.16,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A sweeping effort flashes just wide of the post. Codex City came inches away from doubling their tally there.",
+    "wav": "line_79ea4ee0044a7004.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 117.4,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Zhi breaks clean through on the right, straight towards the unguarded goal!",
+    "wav": "line_6f29c1af4efff90c.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 123.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Equaliser! Zhi tucks it away with composure from two metres out, and GLM FC are right back in this! It is one-one!",
+    "wav": "line_876fffe149c9189a.wav",
+    "dur_s": 8.88
+  },
+  {
+    "t": 140.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls to close down the boards and shut off the central escape route. GLM query their language model on every single touch, but Codex City are trying to dictate the tempo.",
+    "wav": "line_8d1247dd7d51a51a.wav",
+    "dur_s": 11.57
+  },
+  {
+    "t": 164.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford surges through the middle.",
+    "wav": "line_e9726f348f19db2a.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 167.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Patchford finishes it! A clinical prod from point-blank range restores the advantage. Two-one to Codex City!",
+    "wav": "line_e71c9047bff52a8d.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 184.56,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Whisker away! A brilliant effort agonisingly shaved the post!",
+    "wav": "line_bff191f7aec9e71d.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 188.86,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The powered corner panel triggers with a sharp thump, launching the magenta ball back into open play.",
+    "wav": "line_d571b0b346915ac4.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 211.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Codex City maintaining relentless pressure here, keeping GLM trapped deep in their defensive third.",
+    "wav": "line_02a75f950663aaac.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 220.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham calls for the loose ball.",
+    "wav": "line_d361940928824f9b.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 222.09,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner panel cannons it clear.",
+    "wav": "line_a43f7e0c8f5c40d9.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 223.53,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A bit of friendly fire there as Patchford collides heavily with teammate Turingham and hits the deck.",
+    "wav": "line_716efbba980408aa.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 240.73,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Pu loses footing in the centre circle and tumbles over. No damage done, the recovery servos kick in, and Pu is already working back upright.",
+    "wav": "line_b4fd53c2a949f3cf.wav",
+    "dur_s": 9.43
+  },
+  {
+    "t": 278.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford turns it in from the goal line to make it three-one. That creates some breathing room before the break.",
+    "wav": "line_62575e6bb57a597c.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 284.96,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi takes another spill in midfield. It has been a frustrating first half on the feet for the GLM captain.",
+    "wav": "line_5678c9045bc800e4.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 298.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham calls to guard the channel.",
+    "wav": "line_a025d59a838bf193.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting power, but the ball rolls harmlessly wide.",
+    "wav": "line_e112a14ef481e075.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball stops, confirming half-time at three-one. For newcomers, when the buzzer sounds, power is cut instantly and the robots drop, but the ball remains live. If momentum carries it across the line, it counts.",
+    "wav": "line_5e3ca44cf088faa5.wav",
+    "dur_s": 14.03
+  },
+  {
+    "t": 322.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Second half begins, and Pu carries the ball briskly forward into the attacking third.",
+    "wav": "line_d46aa5014e654fd2.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 329.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Pu scores! A crisp strike from two metres out cuts the deficit in half! Game on at three-two!",
+    "wav": "line_e08a55a73a309d5f.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 354.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Turingham drives forward with purpose down the right channel, looking to re-establish Codex City's cushion.",
+    "wav": "line_43221c1890f49b0c.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 367.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Pu shouts that the ball is trapped against the wall and moves in to pry it loose.",
+    "wav": "line_d76fed5ace9cbe9e.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 393.62,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Pu breaks completely clear through on goal!",
+    "wav": "line_0a09498f882603bc.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 398.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Pu scores! We are level at three apiece!",
+    "wav": "line_c8ca82260ed8b003.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 398.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "That was a tremendous five-second charge up the left flank by Pu, taking it right to the mouth of goal before finding the finish.",
+    "wav": "line_005958eaf86eeb8c.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 437.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford drives along the right flank.",
+    "wav": "line_315ef91f7b3bcb20.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 440.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi calls out to say the ball is pinned along the boards and scrambles to dislodge it.",
+    "wav": "line_17906797ac52afb9.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 451.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford charges straight on goal!",
+    "wav": "line_d4d2e9002c9686f1.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 451.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Patchford buries it! Just like that, Codex City retake the lead! It is four-three!",
+    "wav": "line_2a9519005dfa052e.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 461.24,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A dreadful tangle between Zhi and Pu leaves Zhi sprawled on the deck.",
+    "wav": "line_46a541133bd45573.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 467.46,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Patchford is clean through on goal once again with the clock ticking down! GLM FC are totally exposed at the back!",
+    "wav": "line_f634a8936b839ed5.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 497.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Massive pressure from Codex City now!",
+    "wav": "line_1ebd63d07248b418.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 497.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Turingham delivers! A devastating blow with two minutes remaining, doubling the margin! Codex City lead five-three!",
+    "wav": "line_9364b6da26641dd6.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 516.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi calls out to clear the magenta ball off the wall under heavy pressure.",
+    "wav": "line_3df89523f80aaa46.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 522.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford taps it in for six-three! That surely seals the points for Codex City with only ninety seconds left to play.",
+    "wav": "line_00840fc878ffd95c.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 535.55,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford finds space again, clean through on the left with GLM stretched.",
+    "wav": "line_21c56d707f3990a5.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 542.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Just wide of the post. Into the final minute now, and Codex City are comfortably managing this out.",
+    "wav": "line_600a558e2fe4eb0c.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 579.7,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "GLM FC have fought gamely with their live decision-making, but Codex City's pre-compiled tactics have worn them down in the second half. Pu looks to mount one final attack from deep.",
+    "wav": "line_012c982a78fd8c5f.wav",
+    "dur_s": 11.34
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts, and the ball trickles slowly towards midfield.",
+    "wav": "line_71d51298a352e997.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City win six-three. Up next: Gemini Flash against Muse Spark, Saturday, twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_de867f54e8a06f8f.wav",
+    "dur_s": 9.61
+  }
+]

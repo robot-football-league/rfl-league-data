@@ -1,0 +1,222 @@
+{"t": 0.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Steady from the whistle \u2014 I've got our half."}
+{"t": 0.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 0.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 8.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 10.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 12.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.1, -3.9, rolling across \u2014 dropping goal-side."}
+{"t": 12.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 14.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 16.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 16.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -2.4, -4.4, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 18.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 24.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.6, -0.6, near still \u2014 push with me."}
+{"t": 28.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.3, +1.1, rolling across \u2014 dropping back."}
+{"t": 38.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 38.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 40.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 46.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 48.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 50.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.0, -3.2, near still \u2014 dropping goal-side."}
+{"t": 50.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 52.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.1, -2.8, rolling across \u2014 mine \u2014 no naps."}
+{"t": 58.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 60.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 62.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.3, -2.7, rolling at our net \u2014 mine, slow and steady."}
+{"t": 62.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 64.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.7, -1.1, rolling at our net, fast \u2014 mine \u2014 no naps."}
+{"t": 64.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 66.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 68.2, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 76.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -2.0, +2.3, rolling across \u2014 mine \u2014 no naps."}
+{"t": 80.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -2.3, +2.7, near still \u2014 dropping goal-side."}
+{"t": 88.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.4, -0.8, near still \u2014 mine \u2014 no naps."}
+{"t": 92.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.4, -0.4, rolling at their net \u2014 dropping goal-side."}
+{"t": 94.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 100.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +3.1, -1.7, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 100.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 102.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 104.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +4.6, -2.3, near still \u2014 dropping goal-side."}
+{"t": 104.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 106.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 108.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 110.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 112.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.2, -0.0, near still \u2014 mine \u2014 no naps."}
+{"t": 116.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +1.6, -1.1, rolling across \u2014 dropping goal-side."}
+{"t": 118.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 124.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.3, -1.4, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 124.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 126.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 128.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +0.1, +0.1, near still \u2014 mine, slow and steady."}
+{"t": 132.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 134.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 136.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -3.0, +2.7, rolling across \u2014 mine \u2014 no naps."}
+{"t": 136.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 138.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 140.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.3, +2.2, rolling at our net \u2014 dropping goal-side."}
+{"t": 142.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 144.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 148.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.1, -0.1, near still \u2014 mine \u2014 no naps."}
+{"t": 154.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.7, +1.1, rolling at our net \u2014 push with me."}
+{"t": 154.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 156.0, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 160.2, "from": "r1", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 160.2, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 166.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +0.2, +0.1, rolling across \u2014 mine, slow and steady."}
+{"t": 172.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +1.0, -3.6, rolling at our net, fast \u2014 dropping back."}
+{"t": 178.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -0.1, -3.5, near still \u2014 mine, slow and steady."}
+{"t": 184.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.0, -0.1, near still \u2014 mine \u2014 no naps."}
+{"t": 188.1, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 190.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Steady from the whistle \u2014 I've got our half."}
+{"t": 196.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +3.2, -0.7, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 206.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 207.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +7.5, -2.0, rolling at their net \u2014 dropping goal-side."}
+{"t": 208.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.5, -1.2, rolling across \u2014 mine \u2014 no naps."}
+{"t": 212.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "repeat"}
+{"t": 214.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 219.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.5, +3.9, rolling at our net, fast \u2014 dropping goal-side."}
+{"t": 220.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.2, +3.9, rolling at our net, fast \u2014 mine \u2014 no naps."}
+{"t": 224.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 226.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 228.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 230.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 231.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.6, +3.3, rolling at our net \u2014 dropping goal-side."}
+{"t": 232.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 234.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 234.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.1, +3.2, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 238.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 240.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 243.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -2.3, +2.3, rolling at their net, fast \u2014 dropping goal-side."}
+{"t": 246.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.4, +2.4, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 246.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 248.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 255.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.8, -1.3, rolling at their net, fast \u2014 dropping goal-side."}
+{"t": 258.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.7, -2.0, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 258.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 260.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 267.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.2, +1.2, rolling at our net \u2014 dropping goal-side."}
+{"t": 268.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 270.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +1.9, +2.5, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 272.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 274.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 276.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 279.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +1.4, +0.8, rolling across \u2014 dropping goal-side."}
+{"t": 282.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +1.2, +0.4, near still \u2014 mine \u2014 no naps."}
+{"t": 288.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 290.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 291.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 296.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 303.2, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.2, -3.7, rolling at our net, fast \u2014 dropping goal-side."}
+{"t": 304.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 325.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 327.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 333.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 335.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 337.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 341.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +6.8, +0.5, rolling at their net \u2014 dropping goal-side."}
+{"t": 341.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +7.5, +0.7, rolling across \u2014 dropping back."}
+{"t": 343.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 353.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -0.5, +1.4, rolling across \u2014 mine, slow and steady."}
+{"t": 359.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 361.2, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.2, +3.1, rolling at our net \u2014 dropping back."}
+{"t": 367.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 369.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 371.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 381.9, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 381.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 383.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 387.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 389.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 391.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 393.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 393.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.1, -3.2, rolling at our net \u2014 dropping goal-side."}
+{"t": 395.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 395.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -6.3, -3.2, near still \u2014 post covered."}
+{"t": 397.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 407.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.4, -1.7, rolling across \u2014 dropping goal-side."}
+{"t": 409.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -1.5, -1.5, near still \u2014 mine \u2014 no naps."}
+{"t": 416.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 419.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.7, +1.3, rolling at their net, fast \u2014 dropping goal-side."}
+{"t": 420.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 421.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.3, +0.9, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 424.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 425.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 433.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.3, +2.5, rolling across \u2014 mine \u2014 no naps."}
+{"t": 439.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 440.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -2.6, +1.6, rolling at our net, fast \u2014 dropping goal-side."}
+{"t": 441.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 443.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 445.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 447.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 447.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.4, -1.9, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 449.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 451.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 452.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.0, -3.9, near still \u2014 dropping goal-side."}
+{"t": 453.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 455.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 457.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 459.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 459.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -2.7, -2.3, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 461.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 464.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.4, +0.5, rolling at their net \u2014 dropping goal-side."}
+{"t": 471.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.0, +3.4, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 475.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 478.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +6.7, +1.0, rolling across \u2014 dropping goal-side."}
+{"t": 478.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 481.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 483.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 483.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.2, -1.9, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 485.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 487.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 490.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.6, -4.2, near still \u2014 I'll take the bounce."}
+{"t": 495.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.0, -3.4, near still \u2014 mine \u2014 no naps."}
+{"t": 496.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 498.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 499.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 501.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 502.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.2, -0.5, near still \u2014 mine, slow and steady."}
+{"t": 503.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 505.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 507.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 507.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.6, -0.5, rolling across \u2014 dropping back."}
+{"t": 509.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 511.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 514.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.2, +1.2, rolling across \u2014 dropping goal-side."}
+{"t": 515.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 517.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 519.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 521.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -6.8, +2.5, rolling at our net, fast \u2014 mine \u2014 no naps."}
+{"t": 523.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 526.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.9, +1.4, near still \u2014 I'm on the post."}
+{"t": 533.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.0, -0.3, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 538.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.7, -2.2, rolling across \u2014 mine, slow and steady."}
+{"t": 543.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 545.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 545.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -6.0, -2.5, near still \u2014 mine \u2014 no naps."}
+{"t": 547.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 549.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 550.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.3, -1.2, near still \u2014 dropping goal-side."}
+{"t": 551.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 554.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 556.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 557.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.1, +1.1, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 562.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.5, +2.0, rolling at their net \u2014 mine, slow and steady."}
+{"t": 569.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +3.4, +2.9, rolling across \u2014 dropping back."}
+{"t": 574.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.0, +1.4, near still \u2014 mine, slow and steady."}
+{"t": 578.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 580.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 581.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -3.3, +2.2, rolling at our net, fast \u2014 mine \u2014 no naps."}
+{"t": 584.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 586.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.7, +1.5, rolling at our net \u2014 dropping goal-side."}
+{"t": 586.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 588.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 590.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 592.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 593.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -6.8, -0.3, rolling across \u2014 post covered."}
+{"t": 594.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 596.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 598.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.6, -2.9, near still \u2014 dropping goal-side."}
+{"t": 598.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 609.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.6, +1.5, rolling at their net \u2014 dropping back."}
+{"t": 610.4, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.6, +1.1, near still \u2014 mine, slow and steady."}
+{"t": 618.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}

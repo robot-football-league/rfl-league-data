@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T20:04:05+00:00",
+ "generated_at": "2026-09-21T23:04:20+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8872,6 +8872,23 @@
     },
     {
      "pos": 3,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 9,
+     "W": 5,
+     "D": 0,
+     "L": 4,
+     "GF": 44,
+     "GA": 48,
+     "Pts": 15,
+     "GD": -4,
+     "prev": 6,
+     "move": 3
+    },
+    {
+     "pos": 4,
      "slug": "singularity_united",
      "name": "Singularity United",
      "code": "SGU",
@@ -8884,11 +8901,11 @@
      "GA": 39,
      "Pts": 13,
      "GD": 15,
-     "prev": 5,
-     "move": 2
+     "prev": 3,
+     "move": -1
     },
     {
-     "pos": 4,
+     "pos": 5,
      "slug": "dynamo_datacenter",
      "name": "Dynamo Datacenter",
      "code": "DYD",
@@ -8902,10 +8919,10 @@
      "Pts": 13,
      "GD": 6,
      "prev": 4,
-     "move": 0
+     "move": -1
     },
     {
-     "pos": 5,
+     "pos": 6,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8918,59 +8935,42 @@
      "GA": 45,
      "Pts": 13,
      "GD": 2,
-     "prev": 3,
-     "move": -2
-    },
-    {
-     "pos": 6,
-     "slug": "frontier_sol",
-     "name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "P": 8,
-     "W": 4,
-     "D": 0,
-     "L": 4,
-     "GF": 38,
-     "GA": 45,
-     "Pts": 12,
-     "GD": -7,
-     "prev": 7,
-     "move": 1
+     "prev": 5,
+     "move": -1
     },
     {
      "pos": 7,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "P": 8,
-     "W": 2,
-     "D": 3,
-     "L": 3,
-     "GF": 41,
-     "GA": 43,
-     "Pts": 9,
-     "GD": -2,
+     "slug": "frontier_deepseek",
+     "name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "P": 9,
+     "W": 4,
+     "D": 0,
+     "L": 5,
+     "GF": 48,
+     "GA": 58,
+     "Pts": 12,
+     "GD": -10,
      "prev": 8,
      "move": 1
     },
     {
      "pos": 8,
-     "slug": "frontier_deepseek",
-     "name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "P": 8,
-     "W": 3,
-     "D": 0,
-     "L": 5,
-     "GF": 42,
-     "GA": 53,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 9,
+     "W": 2,
+     "D": 3,
+     "L": 4,
+     "GF": 46,
+     "GA": 49,
      "Pts": 9,
-     "GD": -11,
-     "prev": 6,
-     "move": -2
+     "GD": -3,
+     "prev": 7,
+     "move": -1
     },
     {
      "pos": 9,
@@ -8995,19 +8995,19 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 7,
+     "P": 8,
      "W": 0,
      "D": 0,
-     "L": 7,
-     "GF": 18,
-     "GA": 66,
+     "L": 8,
+     "GF": 21,
+     "GA": 72,
      "Pts": 0,
-     "GD": -48,
+     "GD": -51,
      "prev": 10,
      "move": 0
     }
    ],
-   "movement_since_round": 7,
+   "movement_since_round": 8,
    "matches": [
     {
      "n": 1,
@@ -17309,8 +17309,202 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "FAB",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-22T11:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      6
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 6,
+        "second": 37.3,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 67.7,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 109.9,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 19,
+        "second": 124.8,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 145.5,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 24,
+        "second": 159.7,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 187.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 289.5,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 51,
+        "second": 342.6,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 381.4,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 424.1,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 216,
+       "kick": 199,
+       "near_miss": 10,
+       "through": 15,
+       "wall": 20,
+       "fall": 15,
+       "buzzer": 2,
+       "ram": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 38.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "A lesson, not a defeat. Reset and go again."
+       },
+       {
+        "second": 80.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -2.3, +2.7, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 124.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.3, -1.4, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 160.2,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "They won't outrun us twice. Again."
+       },
+       {
+        "second": 208.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.5, -1.2, rolling across \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 246.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 291.2,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "The moral so far: patience scores."
+       },
+       {
+        "second": 361.2,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -0.2, +3.1, rolling at our net \u2014 dropping back."
+       },
+       {
+        "second": 409.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -1.5, -1.5, near still \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 452.4,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -5.0, -3.9, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 490.4,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.6, -4.2, near still \u2014 I'll take the bounce."
+       },
+       {
+        "second": 523.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 569.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +3.4, +2.9, rolling across \u2014 dropping back."
+       }
+      ],
+      "stats": {
+       "kicks": 199,
+       "falls": 15,
+       "near_misses": 10,
+       "post_hits": 0,
+       "through_balls": 15
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-21T15:04:42Z",
+     "watch": {
+      "id": "s3-m43_frontier_fable_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m43_frontier_fable_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m43_frontier_fable_frontier_deepseek"
+     }
     },
     {
      "n": 44,
@@ -17320,8 +17514,188 @@
      "away_name": "GLM FC",
      "home_code": "CDX",
      "away_code": "GLM",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-22T15:00:00Z"
+     "status": "aired",
+     "score": [
+      6,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 12,
+        "second": 77.2,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 123.0,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 167.4,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 278.9,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 329.3,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 398.0,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 68,
+        "second": 451.8,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 497.2,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 78,
+        "second": 522.8,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 202,
+       "kick": 175,
+       "fall": 10,
+       "through": 14,
+       "near_miss": 4,
+       "wall": 16,
+       "ram": 2,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 44.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Danger: both players counterpress; clear through the far goal."
+       },
+       {
+        "second": 78.1,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 116.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 158.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 220.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Releasing the collision; rotate onto the loose ball."
+       },
+       {
+        "second": 270.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 301.5,
+        "team": "GLM FC",
+        "number": 2,
+        "text": "scoring"
+       },
+       {
+        "second": 357.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Final-third overload; both channels are live."
+       },
+       {
+        "second": 387.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 440.0,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "ball's stuck on the wall, freeing it"
+       },
+       {
+        "second": 489.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 527.5,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 579.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Final-third overload; both channels are live."
+       }
+      ],
+      "stats": {
+       "kicks": 175,
+       "falls": 10,
+       "near_misses": 4,
+       "post_hits": 0,
+       "through_balls": 14
+      },
+      "est_cost_usd": 0.115
+     },
+     "aired_at": "2026-09-21T19:04:42Z",
+     "watch": {
+      "id": "s3-m44_frontier_sol_frontier_glm",
+      "url": "https://4dgsx.com/watch/s3-m44_frontier_sol_frontier_glm",
+      "embed_url": "https://4dgsx.com/embed/s3-m44_frontier_sol_frontier_glm"
+     }
     },
     {
      "n": 45,
@@ -17332,7 +17706,7 @@
      "home_code": "GEM",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-22T19:00:00Z"
+     "kickoff_utc": "2026-09-22T11:00:00Z"
     },
     {
      "n": 46,
@@ -17343,7 +17717,7 @@
      "home_code": "SGU",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T11:00:00Z"
+     "kickoff_utc": "2026-09-22T15:00:00Z"
     },
     {
      "n": 47,
@@ -17354,7 +17728,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T15:00:00Z"
+     "kickoff_utc": "2026-09-22T19:00:00Z"
     },
     {
      "n": 48,
@@ -17365,7 +17739,7 @@
      "home_code": "GLM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T19:00:00Z"
+     "kickoff_utc": "2026-09-23T11:00:00Z"
     },
     {
      "n": 49,
@@ -17376,7 +17750,7 @@
      "home_code": "MSP",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T11:00:00Z"
+     "kickoff_utc": "2026-09-23T15:00:00Z"
     },
     {
      "n": 50,
@@ -17387,7 +17761,7 @@
      "home_code": "GEM",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T15:00:00Z"
+     "kickoff_utc": "2026-09-23T19:00:00Z"
     },
     {
      "n": 51,
@@ -17398,7 +17772,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "kickoff_utc": "2026-09-24T11:00:00Z"
     },
     {
      "n": 52,
@@ -17409,7 +17783,7 @@
      "home_code": "GLM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "kickoff_utc": "2026-09-24T15:00:00Z"
     },
     {
      "n": 53,
@@ -17420,7 +17794,7 @@
      "home_code": "MSP",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T15:00:00Z"
+     "kickoff_utc": "2026-09-24T19:00:00Z"
     },
     {
      "n": 54,
@@ -17431,7 +17805,7 @@
      "home_code": "GEM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "kickoff_utc": "2026-09-25T11:00:00Z"
     },
     {
      "n": 55,
@@ -17441,7 +17815,8 @@
      "away_name": "AFC Fable",
      "home_code": "CDX",
      "away_code": "FAB",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-25T15:00:00Z"
     },
     {
      "n": 56,
@@ -17451,7 +17826,8 @@
      "away_name": "Real Machina",
      "home_code": "GLM",
      "away_code": "RMA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -17860,23 +18236,23 @@
      "goals": 24
     },
     {
+     "name": "Abyss",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "goals": 24
+    },
+    {
      "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
      "goals": 24
-    },
-    {
-     "name": "Tortoise",
-     "team": "frontier_fable",
-     "team_name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "goals": 21
     }
    ],
-   "aired_count": 40,
+   "aired_count": 42,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -20643,8 +21019,8 @@
   }
  },
  "totals": {
-  "matches_aired": 77,
-  "goals": 837,
+  "matches_aired": 79,
+  "goals": 857,
   "clubs": 11
  }
 }
