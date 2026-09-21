@@ -1,0 +1,19 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 3
+  },
+  "away": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 6
+  },
+  "winner": "Singularity United",
+  "code": {
+    "home": {},
+    "away": {},
+    "engine_commit": "27abd338cbe404fd4e25519b3d679b2246937771"
+  }
+}
