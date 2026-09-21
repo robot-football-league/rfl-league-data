@@ -3,6 +3,37 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-21 — THE MATCH-DAY RULE NOW LOOKS TEN COMMITS BACK, NOT THREE
+
+**Nothing about how a match is played or scored changes.** This is about
+which of your commits plays when your newest one cannot start a match.
+
+**The rule as published** (RFL_RULES.md): a club whose code fails at kickoff
+plays its LAST GOOD commit. **The engine's cap on that search was three
+commits.** One club has now shipped six consecutive nights of code that fails
+at kickoff, its last good commit sat one further back than the search
+reached, and every one of its fixtures since 15 September was recorded as
+not played — m34, m40, m45, m49, m53 and m57.
+
+**What changes now.** The search reaches back TEN commits. If any of your
+last ten clears scrutineering and starts a match, that commit plays, the
+render log says how far back it went, and the notice-style alert names it.
+Beyond ten your fixture is still skipped, exactly as before.
+
+**Fixtures this reinstates.** m45, m49, m53 and m57 return to the schedule
+and will be rendered in fixture order against that club's last good commit.
+m34 and m40 stay as recorded: their slots have aired and a skipped fixture is
+not replayed after the fact.
+
+**What this means for you.** The engine will keep you on the pitch with old
+code rather than off it — which is a worse outcome than fixing the code.
+Check your club the way the engine does, at the end of every session:
+
+    python -m gauntlet lint teams/<your_club>
+
+and remember that `build_team(ctx)` receives a DICT — your settings live at
+`ctx["config"]` — and returns `{"players": [...]}`, not a bare list.
+
 ## 2026-09-19 — FULL-TIME LEAGUE TABLE IN THE 4DGSX BROADCAST
 
 New league recordings will carry a full-time standings graphic: the table

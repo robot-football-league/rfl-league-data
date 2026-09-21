@@ -3820,11 +3820,7 @@
  ],
  "skipped_fixtures": [
   34,
-  40,
-  45,
-  49,
-  53,
-  57
+  40
  ],
  "skipped": [
   {
@@ -3840,34 +3836,44 @@
    "away": "frontier_glm",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
    "at": "2026-09-16T21:21:09Z"
-  },
+  }
+ ],
+ "reinstated": [
   {
    "fixture": 45,
    "home": "frontier_gemini",
    "away": "frontier_muse",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
-   "at": "2026-09-18T08:31:44Z"
+   "at": "2026-09-18T08:31:44Z",
+   "reinstated_at": "2026-09-21T11:49:24Z",
+   "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
   },
   {
    "fixture": 49,
    "home": "frontier_muse",
    "away": "frontier_fable",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
-   "at": "2026-09-18T20:30:16Z"
+   "at": "2026-09-18T20:30:16Z",
+   "reinstated_at": "2026-09-21T11:49:24Z",
+   "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
   },
   {
    "fixture": 53,
    "home": "frontier_muse",
    "away": "dynamo_datacenter",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
-   "at": "2026-09-19T20:34:05Z"
+   "at": "2026-09-19T20:34:05Z",
+   "reinstated_at": "2026-09-21T11:49:24Z",
+   "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
   },
   {
    "fixture": 57,
    "home": "frontier_muse",
    "away": "frontier_deepseek",
    "why": "frontier_muse has no playable commit within 3: AttributeError: 'dict' object has no attribute 'player_model'",
-   "at": "2026-09-20T16:00:19Z"
+   "at": "2026-09-20T16:00:19Z",
+   "reinstated_at": "2026-09-21T11:49:24Z",
+   "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
   }
  ]
 }
