@@ -4090,6 +4090,99 @@
    "dir": "runs/league/s3/m44_frontier_sol_frontier_glm"
   },
   {
+   "fixture": 46,
+   "home": "singularity_united",
+   "away": "real_machina",
+   "score": [
+    7,
+    3
+   ],
+   "goals": [
+    {
+     "t": 45.1,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 67.0,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 89.7,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 170.5,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 220.8,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 351.4,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 410.4,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 526.6,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 557.2,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 582.0,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.4554,
+   "players": {
+    "home": [
+     "Haalandroid",
+     "BellingRAM"
+    ],
+    "away": [
+     "CR-7000",
+     "Zidroid"
+    ]
+   },
+   "dir": "runs/league/s3/m46_singularity_united_real_machina"
+  },
+  {
    "fixture": 45,
    "home": "frontier_gemini",
    "away": "frontier_muse",

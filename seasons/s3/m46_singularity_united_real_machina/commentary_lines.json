@@ -1,0 +1,569 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round ten clash.",
+    "wav": "line_25efcfafa48a8d06.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 2.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid immediately shouts that they are hunting down the loose ball in the centre circle.",
+    "wav": "line_6724de46896913f0.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 20.01,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A thumping rebound off that corner push-panel fires the magenta ball right back into the mix.",
+    "wav": "line_1b651542101405b4.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 39.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 calls to play it off the wall.",
+    "wav": "line_a39beb4d586c898c.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 45.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "CR-7000 strikes! Smashed home from point-blank range, and Real Machina have the opening goal! One-nil to the side in white!",
+    "wav": "line_9ee2f9b692e1028f.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 52.7,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "BellingRAM slips clean through on goal!",
+    "wav": "line_8dcdd451f9b8c62e.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 56.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "BellingRAM drives forward through the middle, shifting out towards that left channel.",
+    "wav": "line_bf932686e0304e8e.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 62.72,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "So close! Just flashing wide of the upright.",
+    "wav": "line_e03a588056193f14.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 67.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid levels it! Found the space, poked it home, and Singularity United are right back in this! It is one apiece!",
+    "wav": "line_5222462e19b77ef4.wav",
+    "dur_s": 10.79
+  },
+  {
+    "t": 75.0,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A clumsy collision between teammates in white, and CR-7000 hits the deck.",
+    "wav": "line_bc787b8c4d10519a.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 84.29,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM brought down by Zidroid.",
+    "wav": "line_1ac695c1a330797b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 84.97,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Real Machina tangle again.",
+    "wav": "line_47a117ee4c5c3941.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 85.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid surges towards the net.",
+    "wav": "line_fce2be82a72208a9.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 86.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Singularity United turning the screw here.",
+    "wav": "line_68806ea69bdb4a2f.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 89.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid scores again! Two-one to Singularity United!",
+    "wav": "line_13c491d00540e2d7.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 91.09,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 loses footing in the centre circle and topples, but the gyros are already righting the frame.",
+    "wav": "line_848a4c31e4559cac.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 108.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid rumbles up the right flank, carrying the ball neatly into midfield.",
+    "wav": "line_1a564ec069ac46d9.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 115.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls to use the perimeter boards.",
+    "wav": "line_9bb8b3ea8e7c963d.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 119.29,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ram panel punches it out.",
+    "wav": "line_19dae447382af71d.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 121.32,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid steps in with a solid challenge, leaving CR-7000 flat on the floor.",
+    "wav": "line_8b5d7ae9b62c9930.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 127.54,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM arrives with another heavy challenge, sending Zidroid sprawling along the touchline.",
+    "wav": "line_51d6b05dc9425c96.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 137.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Singularity United are simply refusing to leave the attacking third, keeping Real Machina utterly penned back under relentless pressure.",
+    "wav": "line_e826bab6b2e07054.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 158.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM gives a loud shout that the shooting lane is open.",
+    "wav": "line_fd9865c8246c920d.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 170.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And Haalandroid tucks it away from point-blank range. That is a hat-trick, stretching the lead to 3-1.",
+    "wav": "line_4f4468064312f8b9.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 182.32,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Sky blue shirts crash together.",
+    "wav": "line_ca6fd9d5f6303db8.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 183.09,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM leaves Zidroid grounded with another robust challenge by the wall.",
+    "wav": "line_39193f0fd66ba250.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 192.05,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid tumbles over unaided.",
+    "wav": "line_bb9f0ecbfa343c41.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 194.29,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The push-panel fires the ball clear again, bouncing harmlessly off the side wall.",
+    "wav": "line_41f163bb93de61c8.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 208.47,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 breaks clean away.",
+    "wav": "line_3ed330a839b1280d.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 209.09,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "BellingRAM slips and goes down in the final third, leaving acres of space.",
+    "wav": "line_4a946505a20fa038.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 219.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "CR-7000 drives right into the box.",
+    "wav": "line_7e101e3a366b0b04.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 220.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "CR-7000 buries it! Pulled right back into contention, and Real Machina trail 3-2!",
+    "wav": "line_7db33d1560018616.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 245.2,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A quiet moment as Haalandroid waits over the ball. Both of these clubs are frozen founding members, of course, playing purely on their original code without any gaffer tinkering from the touchline.",
+    "wav": "line_42703b9b48538de0.wav",
+    "dur_s": 11.02
+  },
+  {
+    "t": 269.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 calls out, taking control and pushing play forward through the right channel.",
+    "wav": "line_ba5ae02f6274b67c.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "build",
+    "text": "The buzzer sounds! All four power down, but the ball rolls on.",
+    "wav": "line_aceb8b29f7e51417.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "It stops safely. At the buzzer, the power cuts instantly to every robot on the pitch, but the ball remains live until it halts. If it rolls in, it counts. At the break, Singularity United lead 3-2.",
+    "wav": "line_adaa8a082af1a27a.wav",
+    "dur_s": 13.85
+  },
+  {
+    "t": 329.8,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Skimming just wide of the post.",
+    "wav": "line_dba68468ddc75646.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 332.8,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM clatters into Zidroid, sending the white shirt straight to the turf.",
+    "wav": "line_8898baaf2ec3fa28.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 341.16,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 crunches into BellingRAM.",
+    "wav": "line_21d5da4a27affe8c.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 344.53,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Haalandroid overbalances without a touch, but the self-righting routine kicks in immediately.",
+    "wav": "line_0f49bac317793820.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 351.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM pounces on the loose ball to make it 4-2 to Singularity United.",
+    "wav": "line_1f0dbf4fa10b69bf.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 362.51,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid breaks free from midfield, entirely untracked towards goal.",
+    "wav": "line_1b4cdb2f53133ba7.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 368.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid drives straight at goal.",
+    "wav": "line_4ef7dc993fc4ef18.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 369.32,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just missed the target, drifting wide of the right post.",
+    "wav": "line_d3206d686bc3cc84.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 382.62,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Corner ram launches it clear.",
+    "wav": "line_46c59c89c4239432.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 385.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "United dominating territory here.",
+    "wav": "line_c36019b0054728c9.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 388.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Haalandroid calls out that they are digging the ball out from against the perimeter wall.",
+    "wav": "line_86eaae1c27833073.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 410.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid strides right to the line.",
+    "wav": "line_1018c55c6760830d.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 410.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And turns it in with ease. Haalandroid makes it 5-2 to Singularity United.",
+    "wav": "line_980facea9720eab8.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 439.68,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A close thing, shaving the outside of the post from a couple of metres out.",
+    "wav": "line_245ee9e86f6071b9.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 455.75,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "CR-7000 finds daylight and bursts through the middle on a clear run.",
+    "wav": "line_f56a5a6a206fc60f.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 471.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Zidroid calls out that the ball is trapped by the wall, working to prod it free into midfield.",
+    "wav": "line_25bb1b22ba501121.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 512.91,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid is clear on goal.",
+    "wav": "line_58373e1a140a70a0.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 514.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid advances through the middle toward the box.",
+    "wav": "line_947739983e442d94.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 518.44,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Sliding agonisingly wide of the target.",
+    "wav": "line_e6853b64446d0304.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 523.8,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another close shave wide.",
+    "wav": "line_cc6b0e213a2a2ffa.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 526.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM urges a clearance.",
+    "wav": "line_b4d1646e4758d902.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 526.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "It is an own goal! A dreadful mix-up as Haalandroid knocks it into the United net! Real Machina are back to 5-3 with ninety seconds remaining!",
+    "wav": "line_2b03c84572c7ad23.wav",
+    "dur_s": 10.32
+  },
+  {
+    "t": 557.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "BellingRAM seals it from close range. Six-three to Singularity United in the final minute.",
+    "wav": "line_7692a078b703abf6.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 582.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Haalandroid adds another to make it 7-3. That will surely put the contest to bed.",
+    "wav": "line_a4ca3ad4a37b82ea.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cut, ball trundling on.",
+    "wav": "line_8779daa6b0c5aa73.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 619.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "It veers just wide.",
+    "wav": "line_05d2da66b22f2aaa.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Singularity United win 7-3. Up next: DeepSeek against Dynamo, Saturday at 16:00 UK, 17:00 Europe, 11:00 US East.",
+    "wav": "line_f60f0cf7f40e948b.wav",
+    "dur_s": 10.92
+  }
+]

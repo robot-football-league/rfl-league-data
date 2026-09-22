@@ -1,0 +1,19 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Singularity United",
+    "code": "SGU",
+    "goals": 7
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 3
+  },
+  "winner": "Singularity United",
+  "code": {
+    "home": {},
+    "away": {},
+    "engine_commit": "891a1c013d678be5f88465e3c028a7e128c93831"
+  }
+}

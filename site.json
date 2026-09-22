@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T16:27:30+00:00",
+ "generated_at": "2026-09-22T18:28:33+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8859,19 +8859,36 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 9,
+     "P": 10,
      "W": 7,
      "D": 0,
-     "L": 2,
-     "GF": 71,
-     "GA": 36,
+     "L": 3,
+     "GF": 74,
+     "GA": 43,
      "Pts": 21,
-     "GD": 35,
+     "GD": 31,
      "prev": 2,
      "move": 0
     },
     {
      "pos": 3,
+     "slug": "singularity_united",
+     "name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "P": 9,
+     "W": 5,
+     "D": 1,
+     "L": 3,
+     "GF": 61,
+     "GA": 42,
+     "Pts": 16,
+     "GD": 19,
+     "prev": 3,
+     "move": 0
+    },
+    {
+     "pos": 4,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8885,24 +8902,7 @@
      "Pts": 15,
      "GD": -4,
      "prev": 6,
-     "move": 3
-    },
-    {
-     "pos": 4,
-     "slug": "singularity_united",
-     "name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "P": 8,
-     "W": 4,
-     "D": 1,
-     "L": 3,
-     "GF": 54,
-     "GA": 39,
-     "Pts": 13,
-     "GD": 15,
-     "prev": 3,
-     "move": -1
+     "move": 2
     },
     {
      "pos": 5,
@@ -18001,8 +18001,195 @@
      "away_name": "Real Machina",
      "home_code": "SGU",
      "away_code": "RMA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-22T19:00:00Z"
+     "status": "aired",
+     "score": [
+      7,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 45.1,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 67.0,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 13,
+        "second": 89.7,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 170.5,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 220.8,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 351.4,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 410.4,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 526.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": true
+       },
+       {
+        "minute": 84,
+        "second": 557.2,
+        "side": "home",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 582.0,
+        "side": "home",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 244,
+       "kick": 242,
+       "wall": 38,
+       "ram": 4,
+       "through": 15,
+       "near_miss": 7,
+       "fall": 34,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 2.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Going for the kickoff ball!"
+       },
+       {
+        "second": 18.3,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Clearing it from the wall"
+       },
+       {
+        "second": 40.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Clearing it out!"
+       },
+       {
+        "second": 106.5,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clearing it along the wall"
+       },
+       {
+        "second": 139.4,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 158.4,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "clear shot!"
+       },
+       {
+        "second": 239.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "prying it loose from the wall"
+       },
+       {
+        "second": 273.7,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "pushing along the wall"
+       },
+       {
+        "second": 376.6,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 444.8,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Clearing it!"
+       },
+       {
+        "second": 475.0,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 518.5,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "got it near the wall"
+       },
+       {
+        "second": 541.1,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "ball is stuck against the wall"
+       },
+       {
+        "second": 558.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "got it near the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 242,
+       "falls": 34,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 15
+      },
+      "est_cost_usd": 0.4554
+     },
+     "aired_at": "2026-09-22T15:04:42Z",
+     "watch": {
+      "id": "s3-m46_singularity_united_real_machina",
+      "url": "https://4dgsx.com/watch/s3-m46_singularity_united_real_machina",
+      "embed_url": "https://4dgsx.com/embed/s3-m46_singularity_united_real_machina"
+     }
     },
     {
      "n": 47,
@@ -18013,7 +18200,7 @@
      "home_code": "DSK",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T11:00:00Z"
+     "kickoff_utc": "2026-09-22T19:00:00Z"
     },
     {
      "n": 48,
@@ -18024,7 +18211,7 @@
      "home_code": "GLM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T15:00:00Z"
+     "kickoff_utc": "2026-09-23T11:00:00Z"
     },
     {
      "n": 49,
@@ -18035,7 +18222,7 @@
      "home_code": "MSP",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T19:00:00Z"
+     "kickoff_utc": "2026-09-23T15:00:00Z"
     },
     {
      "n": 50,
@@ -18046,7 +18233,7 @@
      "home_code": "GEM",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T11:00:00Z"
+     "kickoff_utc": "2026-09-23T19:00:00Z"
     },
     {
      "n": 51,
@@ -18057,7 +18244,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T15:00:00Z"
+     "kickoff_utc": "2026-09-24T11:00:00Z"
     },
     {
      "n": 52,
@@ -18068,7 +18255,7 @@
      "home_code": "GLM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "kickoff_utc": "2026-09-24T15:00:00Z"
     },
     {
      "n": 53,
@@ -18079,7 +18266,7 @@
      "home_code": "MSP",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "kickoff_utc": "2026-09-24T19:00:00Z"
     },
     {
      "n": 54,
@@ -18090,7 +18277,7 @@
      "home_code": "GEM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T15:00:00Z"
+     "kickoff_utc": "2026-09-25T11:00:00Z"
     },
     {
      "n": 55,
@@ -18101,7 +18288,7 @@
      "home_code": "CDX",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "kickoff_utc": "2026-09-25T15:00:00Z"
     },
     {
      "n": 56,
@@ -18112,7 +18299,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -18123,7 +18310,7 @@
      "home_code": "MSP",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "kickoff_utc": "2026-09-26T11:00:00Z"
     },
     {
      "n": 58,
@@ -18133,7 +18320,8 @@
      "away_name": "Singularity United",
      "home_code": "GEM",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-26T15:00:00Z"
     },
     {
      "n": 59,
@@ -18466,20 +18654,20 @@
      "goals": 40
     },
     {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 36
+    },
+    {
      "name": "Spark",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 35
-    },
-    {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 34
     },
     {
      "name": "Robodinho",
@@ -18498,12 +18686,20 @@
      "goals": 30
     },
     {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 29
+    },
+    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "goals": 27
+     "goals": 29
     },
     {
      "name": "Buffon.exe",
@@ -18512,14 +18708,6 @@
      "code": "DYD",
      "color": "#f2c119",
      "goals": 25
-    },
-    {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 24
     },
     {
      "name": "Abyss",
@@ -18538,7 +18726,7 @@
      "goals": 24
     }
    ],
-   "aired_count": 43,
+   "aired_count": 44,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -21305,8 +21493,8 @@
   }
  },
  "totals": {
-  "matches_aired": 80,
-  "goals": 881,
+  "matches_aired": 81,
+  "goals": 891,
   "clubs": 11
  }
 }
