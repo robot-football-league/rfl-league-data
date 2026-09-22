@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 24
+  },
+  "away": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 0
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "c0899de54d333a1ee411e30dfbd7df5fde8bed67",
+      "subject": "night 37: Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+      "committed_at": "2026-09-14T10:01:29+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "b4caa6cf01a95718fc8693ef90cb73377a66c0f5"
+  }
+}

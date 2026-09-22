@@ -107,6 +107,10 @@ remain supported as levels arrive.
     {"skill": "walk_to",     "target": [x, y]}   take up a position
     {"skill": "turn_to",     "target": [x, y]}   face a point (or sweep)
     {"skill": "hold"}                            stand still
+walk_to needs its target — [x, y], or "ball" to track a moving one; a
+walk_to without a usable target is an invalid reply (ignored, counted,
+and after three in a row the robot holds). kick_toward without a target
+aims at the goal; turn_to without one faces the ball.
 Skills run closed-loop at control rate with their own steering and A* path
 planning. Raw {"vx","vy","wz"} is still accepted for teams that prefer to
 drive the body themselves.
@@ -411,7 +415,10 @@ as the league's control group.
   realism law on club code: an import allowlist (stdlib basics, numpy,
   torch, the engine's public factories), no engine internals, no I/O in
   match code. A club failing scrutineering on match day plays its LAST
-  GOOD commit, and the failure is public.
+  GOOD commit, and the failure is public. Scrutineering is static;
+  `python -m gauntlet kickoff` additionally runs build_team(ctx) and
+  begin_episode the way match day does, with no tokens — code that
+  raises there is treated the same way on match day.
 - Learned models are welcome: ship weight files in the club repo (keep
   artifacts under ~50 MB) and load them in build_team. Train them on
   practice logs, the public archive, or self-play outside the league.

@@ -1,0 +1,308 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  24,
+  0
+ ],
+ "winner": "A",
+ "teams": {
+  "A": {
+   "name": "Gemini Flash FC",
+   "code": "GEM",
+   "players": [
+    "Flash",
+    "Spark"
+   ]
+  },
+  "B": {
+   "name": "Muse Spark FC",
+   "code": "MSP",
+   "players": [
+    "Spark",
+    "Muse"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 19.9,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 43.2,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 90.6,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 101.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 114.1,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 125.5,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 137.7,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 147.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 229.1,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 268.6,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 280.3,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 292.9,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 329.1,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 355.2,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 367.7,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 393.4,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 447.3,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 460.2,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 470.5,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 484.5,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 521.1,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 549.4,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 560.1,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 573.7,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 387,
+ "event_counts": {
+  "touch": 170,
+  "through": 23,
+  "kick": 150,
+  "fall": 6,
+  "near_miss": 8,
+  "wall": 25,
+  "ram": 3,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 80,
+   "through": 11,
+   "kick": 74,
+   "fall": 4,
+   "near_miss": 4,
+   "wall": 13,
+   "ram": 2
+  },
+  "half_2": {
+   "buzzer": 2,
+   "touch": 90,
+   "kick": 76,
+   "near_miss": 4,
+   "wall": 12,
+   "through": 12,
+   "fall": 2,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 6,
+  "by_opponent": 1,
+  "unforced": 5,
+  "by_half": {
+   "half_1": 4,
+   "half_2": 2
+  },
+  "times_s": [
+   7.9,
+   13.0,
+   256.9,
+   261.6,
+   373.0,
+   382.8
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x163676000>",
+   "falls": 2,
+   "recoveries": 2,
+   "touches": 76,
+   "decisions": 301,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x163677860>",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 71,
+   "decisions": 294,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "<rfl_team_000fac8.Wrapper object at 0x163677d10>",
+   "falls": 0,
+   "recoveries": 0,
+   "touches": 9,
+   "decisions": 298,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.173
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "<rfl_team_000fac8.Wrapper object at 0x163676cc0>",
+   "falls": 0,
+   "recoveries": 0,
+   "touches": 14,
+   "decisions": 301,
+   "invalid_actions": 0,
+   "missed_deadlines": 1,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.153
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 208342,
+ "tokens_out": 540,
+ "est_cost_usd": 0.0211
+}

@@ -1,0 +1,641 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here on matchday nine.",
+    "wav": "line_a4abb972e2ea51e4.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash demands an immediate press.",
+    "wav": "line_80e7d09768b47ee6.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 3.19,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash breaks clean through the middle with only the net ahead.",
+    "wav": "line_d7757e83abe6cfd9.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 7.94,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse steps in with authority.",
+    "wav": "line_58bfe587bfe36893.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 9.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Squeaked just wide of the open goal.",
+    "wav": "line_4646a03656a7fe38.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 12.99,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Comical tangle as the two Gemini teammates crash into each other, leaving Spark grounded.",
+    "wav": "line_09509edf05c69c99.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 19.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash scrambles back up and turns it home from point-blank range! That is the breakthrough for the league leaders, and Gemini Flash FC take a one-nil lead!",
+    "wav": "line_5d15af96505b112c.wav",
+    "dur_s": 10.24
+  },
+  {
+    "t": 43.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark bundles it over the line from right on the doorstep. Two-nil to Gemini Flash, and they are already taking complete control of this contest.",
+    "wav": "line_a6ca788ebb65cfe9.wav",
+    "dur_s": 9.95
+  },
+  {
+    "t": 54.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark strides forward smoothly down the left channel.",
+    "wav": "line_3e6a9f2719a313d2.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 58.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Drifting just wide of the target. Muse Spark have entirely overhauled their system this week to ditch calculation lag, but defensively they still look rather fragile.",
+    "wav": "line_c278cab262c1b815.wav",
+    "dur_s": 11.16
+  },
+  {
+    "t": 73.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls out the intention to shoot from the edge of the area, looking entirely brimming with confidence.",
+    "wav": "line_5f6644a863a785fb.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 90.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash turns it in from close range. Three-nil to Gemini Flash.",
+    "wav": "line_d949df79a2c1c4fc.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 91.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse Spark have been hopelessly pinned back in their own third, completely unable to clear their lines.",
+    "wav": "line_6327ef936cb3fe7f.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 101.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash finishes cleanly from two metres out. Four-nil now, and the league leaders are threatening to run riot this afternoon.",
+    "wav": "line_f19a1fd027ffb112.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 114.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark charges right to the line.",
+    "wav": "line_88b257dcaed7c78e.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 114.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark taps it into the empty net. Five-nil to Gemini Flash, and Muse Spark's tactical overhaul has offered no defensive solidity whatsoever.",
+    "wav": "line_6e221fcb2a7bfda6.wav",
+    "dur_s": 9.61
+  },
+  {
+    "t": 125.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another effortless finish from Spark right at the mouth of goal. Six-nil, and this is turning into an absolute rout.",
+    "wav": "line_63c6be62ae2ad380.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 132.51,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark glides through unopposed once more.",
+    "wav": "line_ed636d701987c0b1.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 134.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark cruises easily into the final third.",
+    "wav": "line_a16b9796437a33c7.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 137.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark makes no mistake from point-blank range. That is seven-nil to Gemini Flash.",
+    "wav": "line_34e5a1721875bac8.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 141.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash shouts the intention to shoot from halfway.",
+    "wav": "line_300562a3829a2df0.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 147.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash strokes it home from two metres. Eight-nil to Gemini Flash, who arrived with an unchanged setup and look utterly relentless.",
+    "wav": "line_c20f0a1f4182a63e.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 175.9,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A brief lull as the ball sits in midfield. Gemini Flash are showing why they sit top of the pile, while Muse Spark remain marooned near the bottom, looking miles off the pace today.",
+    "wav": "line_69ebfb994219bacd.wav",
+    "dur_s": 11.21
+  },
+  {
+    "t": 203.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for immediate forward pressure.",
+    "wav": "line_365053a8361b8361.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 205.82,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The powered corner panel triggers with a thud, firing the ball safely back into play away from danger.",
+    "wav": "line_a2b3d9bed7271039.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 221.88,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rebounded sharply off the corner push-panel back into the channel.",
+    "wav": "line_05d9b6a748c73a7f.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 229.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash scrambles it over from point-blank range. Nine-nil now. Gemini Flash are simply toying with the opposition at this stage.",
+    "wav": "line_ce7decce06f70394.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 252.28,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Inches wide of the left post.",
+    "wav": "line_f9a6c302b6bdd732.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 256.85,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash loses balance and topples over.",
+    "wav": "line_330faf2346498fcb.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 259.12,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Skidding wide of the open goal.",
+    "wav": "line_557f0a07bb1b0f79.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 261.55,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark and Flash bundle into one another again, sending Spark clattering to the turf.",
+    "wav": "line_2972c736dbccf72f.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 268.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash finishes it off. Ten-nil to Gemini Flash.",
+    "wav": "line_3267ebf0c6b865dd.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 269.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Total dominance in the attacking third, with Muse Spark powerless to mount any sort of resistance.",
+    "wav": "line_e073c5c1ce86fbd2.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 280.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark pokes it home right on the line. Eleven-nil to Gemini Flash as the first half winds down.",
+    "wav": "line_a9fe63c1f550a368.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 285.75,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash cleanly through the middle again.",
+    "wav": "line_d4afbf46bf7050a0.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 286.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark urges Flash onward with a sharp shout from deep.",
+    "wav": "line_6e53ee5e28cdaa55.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 292.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash marches unchallenged towards the net.",
+    "wav": "line_c2c81cfb6f71d303.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 292.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash tucks it away without any fuss. Twelve-nil now to Gemini Flash.",
+    "wav": "line_26ce2034c38ad01d.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts, and the ball trickles slowly through midfield.",
+    "wav": "line_ade52628997c830a.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball finally stops. Power off at the buzzer, ball still live, and that brings an extraordinary first half to a close. Gemini Flash lead twelve-nil against a battered Muse Spark.",
+    "wav": "line_45577ece4152aed0.wav",
+    "dur_s": 12.04
+  },
+  {
+    "t": 329.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Second half begins much as the first ended, with Spark prodding home from point-blank range. Thirteen-nil to Gemini Flash.",
+    "wav": "line_4b013e016eba7814.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 346.92,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A speculative effort slips just past the upright and rebounds harmlessly off the back wall.",
+    "wav": "line_bb2c39306fa3c77a.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 355.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark converts another simple tap-in right at the goal mouth. Fourteen-nil to Gemini Flash, who show absolutely no sign of slowing down.",
+    "wav": "line_6ac02c024d306735.wav",
+    "dur_s": 9.25
+  },
+  {
+    "t": 367.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash finds the corner from two metres out. Fifteen-nil now to Gemini Flash.",
+    "wav": "line_a41e5a2f4fd13140.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 373.04,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The two Gemini teammates run straight into each other again, leaving Spark prone in the centre circle.",
+    "wav": "line_8fbfa7b5094b0eb5.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 383.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for another direct shot from long distance.",
+    "wav": "line_67cc5cb2ed653362.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 391.82,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash is through on goal again.",
+    "wav": "line_51461596cdfed281.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 393.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash motors down the left channel.",
+    "wav": "line_4d9124f059c977da.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 393.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash tucks it away with robotic precision. Sixteen-nil to Gemini Flash.",
+    "wav": "line_3eb00f11a7ac808b.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 400.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash controls cleanly in the centre and strolls directly into the attacking third once again, totally unchallenged by the spark-blue shirts.",
+    "wav": "line_1f1cfe093f2412a5.wav",
+    "dur_s": 8.99
+  },
+  {
+    "t": 428.31,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball thumps into the angled corner and the push-panel fires it right back into the mix.",
+    "wav": "line_2f32863d6d646261.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 447.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash turns it home from close range. Seventeen-nil now, widening the gap even further.",
+    "wav": "line_4d1b92eaf6897cba.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 458.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls to pull the trigger.",
+    "wav": "line_91c4cdd7425e8448.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 460.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash reacts fastest and pokes it past the line. Eighteen-nil to Gemini Flash.",
+    "wav": "line_54cd2fcc934682d7.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 470.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark steps right to the mouth.",
+    "wav": "line_2f41149fe9d1673e.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 470.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark sweeps it into the net. Nineteen-nil, with the clock steadily ticking down in this one-sided affair.",
+    "wav": "line_aee4bfebdda2cfad.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 484.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark marches into the goal area.",
+    "wav": "line_1bf25e0e636ffdc3.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 484.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark nudges it in. That makes it twenty-nil to Gemini Flash, who have simply dismantled Muse Spark at every single turn.",
+    "wav": "line_e5e7e686f526c80a.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 502.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash continue to maintain full residency around the opposing goal as the final two minutes approach.",
+    "wav": "line_35cef1b0f3f57ecb.wav",
+    "dur_s": 6.43
+  },
+  {
+    "t": 516.08,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark finds completely open space down the right channel.",
+    "wav": "line_2ad19b87c606f107.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 521.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash arrives to tap it in. Twenty-one nil to Gemini Flash.",
+    "wav": "line_fcbb6679de0216e5.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 521.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash is still shouting for a high press from the restart, demanding utter perfection even with the match long decided.",
+    "wav": "line_8f06a21238bb4cb8.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 543.2,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A scrambled effort bounces just wide of the left post.",
+    "wav": "line_1fdc7e05841f734f.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 549.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash converts from point-blank range. Twenty-two nil to Gemini Flash.",
+    "wav": "line_dd20dc7b9696814e.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 550.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse Spark remain completely pinned deep in their defensive third inside the final minute.",
+    "wav": "line_66477e7c3d47c9c5.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 560.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash slots it home yet again. Twenty-three nil, compounding a thoroughly miserable afternoon for the away side.",
+    "wav": "line_4d4444a385ade06b.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 571.28,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Off target by a yard.",
+    "wav": "line_37a994e85e5ceb11.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 573.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark taps in another from point-blank range. Twenty-four nil to Gemini Flash with mere seconds left on the clock.",
+    "wav": "line_f8b9b23b17779228.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 584.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A late attempt drifts just wide across the face of the net.",
+    "wav": "line_1aaeec4e3c051afd.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts pitchwide, but the ball rolls slowly towards goal.",
+    "wav": "line_817c8e8dd8606bc6.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash 24, Muse Spark nil. Singularity United face Real Machina Wednesday, 12:00 UK, 13:00 Europe, 07:00 US East.",
+    "wav": "line_f83a3e83a0c394c2.wav",
+    "dur_s": 10.97
+  }
+]

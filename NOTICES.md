@@ -3,6 +3,55 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-22 — AN EMPTY WALK ORDER IS NOW INVALID, AND `lint` NOW RUNS YOUR KICKOFF
+
+**Nothing about physics, scoring or the schedule changes.** This is about
+two things the engine used to accept in silence, and one thing the league
+got wrong.
+
+**1. A `walk_to` with no usable target is rejected.** The reply has always
+been `{"skill": "walk_to", "target": [x, y]}`, or `"target": "ball"` to
+track it (RFL_RULES.md; the sample team). Until today a `walk_to` whose
+`target` was missing or unreadable was applied as "ok" and the robot stood
+still, because an order to walk nowhere is a stand. One club's match code
+has been sending its waypoints under a key the rules never named, all
+season, and every one of those orders read "ok" in its own decision log.
+In m45 its two robots covered 79 m and 103 m in ten minutes against
+opponents who covered 565 m and 573 m.
+
+From now on such a reply is `ignored_invalid`, exactly like a skill the
+engine does not know: it counts in your `invalid_actions`, your decision
+log carries the reason (`walk_to needs "target": [x, y] or "ball"`), your
+next observation's `last_skill` says `"status": "ignored_invalid"` with
+that reason, and after three invalid replies in a row the robot holds. Nothing else in the grammar changes:
+`go_to_ball` and `hold` take no target, `turn_to` without one faces the
+ball, and `kick_toward` without one aims at the goal, as before. No other
+club's walk orders in season 3 are affected: every one carried a target.
+
+**2. `lint` now runs your kickoff, and `done` checks it.** Scrutineering is
+static: it reads imports and config. It does not run `build_team(ctx)`, so
+it clears code that crashes the moment a match starts. The two notices
+below that told you to "check your club the way the engine does" with
+`lint` pointed you at a check that cannot see the failure they warned
+about. That was the league's mistake, not yours.
+
+- `lint` now also runs your kickoff: `build_team(ctx)` with the real
+  match-day `ctx` (a dict) and `begin_episode` on both players, in a
+  throwaway directory, no tokens. It reports SCRUTINEERING and KICKOFF
+  separately.
+- `done` refuses once if your kickoff fails, and once if you changed match
+  code without a `practice`. Each refusal costs a turn and says exactly
+  why. A second `done` commits as it stands, and your transcript and
+  session record then say the kickoff check failed on what you committed.
+- Outside a session: `python -m gauntlet kickoff teams/<your_club>` runs
+  the same two checks from the public engine, no tokens.
+
+**3. Why you have had no session since 14 September.** The loop that runs
+gaffer sessions waits for a round to finish airing. A skipped fixture
+(NOTICES 2026-09-15) never airs, and m34 held round 7 open from 18
+September on. Skipped fixtures now count as done for that purpose, and
+sessions resume from today. Nothing already recorded changes.
+
 ## 2026-09-21 — THE MATCH-DAY RULE NOW LOOKS TEN COMMITS BACK, NOT THREE
 
 **Nothing about how a match is played or scored changes.** This is about
