@@ -1,0 +1,134 @@
+{"t": 0.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 4.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 8.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 10.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 11.9, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "Clearing our goal!"}
+{"t": 14.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 35.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "working it along the wall"}
+{"t": 37.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 38.0, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 52.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 54.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 56.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 58.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 60.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 62.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 64.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 65.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 66.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 68.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 96.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 97.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 100.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 102.0, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 112.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 118.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 118.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 120.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 122.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 126.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 128.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 130.4, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "ball's against the wall, pushing it free"}
+{"t": 135.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "freeing the ball"}
+{"t": 137.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "prying it from the wall", "reason": "cooldown"}
+{"t": 146.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 147.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 149.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 151.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 155.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 157.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 159.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 161.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 164.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "ball is stuck by the wall, pushing it free"}
+{"t": 166.1, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "Clearing the wall"}
+{"t": 176.6, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "pushing it free"}
+{"t": 177.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it free from the wall"}
+{"t": 178.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "ball's against the wall, clearing it", "reason": "cooldown"}
+{"t": 182.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it off the wall", "reason": "cooldown"}
+{"t": 196.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 198.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 214.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "prying it loose from the wall"}
+{"t": 215.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "getting it off the wall"}
+{"t": 221.1, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 221.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 223.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 225.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 230.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 232.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 238.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 240.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "repeat"}
+{"t": 242.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 244.6, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 264.7, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 275.7, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 278.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 280.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 280.6, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "moving it along the wall"}
+{"t": 284.3, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 295.7, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 297.7, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 299.7, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 301.7, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "prying it free from the wall"}
+{"t": 301.7, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 304.9, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "working the wall"}
+{"t": 323.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 325.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 327.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 329.5, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 342.6, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 350.8, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 353.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 359.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 361.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 363.5, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 377.1, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it off the wall"}
+{"t": 378.4, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "ball is stuck against the wall, nudging it out", "reason": "cooldown"}
+{"t": 379.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 392.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it away from the wall"}
+{"t": 393.5, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "freeing it from the wall"}
+{"t": 397.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 426.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "pushing it out"}
+{"t": 431.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 435.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 437.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 440.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "slotting it in"}
+{"t": 441.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 443.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 445.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 447.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 451.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 453.9, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 458.3, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 461.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 463.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 472.9, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "freeing the ball from the wall"}
+{"t": 474.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "ball is stuck by the wall, pushing it out", "reason": "cooldown"}
+{"t": 481.0, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "shoving the ball off the wall", "reason": "cooldown"}
+{"t": 483.2, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it from the wall"}
+{"t": 484.4, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "suppressed": "got it, pushing away from the wall", "reason": "cooldown"}
+{"t": 489.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 491.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 501.3, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "moving to the ball"}
+{"t": 503.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 507.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 508.6, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing it from our goal"}
+{"t": 509.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 511.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 519.8, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "clearing the ball"}
+{"t": 521.0, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 521.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "clearing it away"}
+{"t": 533.1, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 561.1, "from": "r1", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 573.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 576.8, "from": "r3", "team": "Dynamo Datacenter", "number": 2, "text": "moving in"}
+{"t": 593.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 599.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 601.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 603.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 608.5, "from": "r2", "team": "Dynamo Datacenter", "number": 1, "text": "got it"}
+{"t": 609.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 611.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 615.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 617.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 619.2, "from": "r0", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}

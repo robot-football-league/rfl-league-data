@@ -1,0 +1,246 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  2,
+  9
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "DeepSeek Rovers",
+   "code": "DSK",
+   "players": [
+    "Abyss",
+    "Signal"
+   ]
+  },
+  "B": {
+   "name": "Dynamo Datacenter",
+   "code": "DYD",
+   "players": [
+    "Mbapp-E",
+    "Buffon.exe"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 12.9,
+   "team": "A",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 96.4,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 117.7,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 146.0,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 195.3,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 220.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 284.7,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 350.3,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 438.7,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 457.8,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 571.2,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 562,
+ "event_counts": {
+  "touch": 241,
+  "through": 19,
+  "kick": 209,
+  "near_miss": 11,
+  "wall": 40,
+  "ram": 5,
+  "fall": 35,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 119,
+   "through": 11,
+   "kick": 110,
+   "near_miss": 3,
+   "wall": 18,
+   "ram": 1,
+   "fall": 17
+  },
+  "half_2": {
+   "buzzer": 2,
+   "wall": 22,
+   "touch": 122,
+   "kick": 99,
+   "fall": 18,
+   "through": 8,
+   "ram": 4,
+   "near_miss": 8
+  }
+ },
+ "falls": {
+  "total": 35,
+  "by_opponent": 8,
+  "unforced": 27,
+  "by_half": {
+   "half_1": 17,
+   "half_2": 18
+  },
+  "times_s": [
+   53.6,
+   54.5,
+   57.2,
+   64.2,
+   74.5,
+   102.9,
+   108.6,
+   112.5,
+   165.1,
+   245.0,
+   248.7,
+   252.0,
+   254.7,
+   258.5,
+   261.7,
+   266.3,
+   266.4,
+   327.2,
+   328.8,
+   334.6,
+   337.0,
+   338.9,
+   345.3,
+   371.9,
+   375.7,
+   381.9,
+   385.2,
+   412.7,
+   521.0,
+   526.8,
+   567.9,
+   573.1,
+   582.6,
+   613.9,
+   614.6
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x10511cd10>",
+   "falls": 10,
+   "recoveries": 10,
+   "touches": 47,
+   "decisions": 274,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x10511c650>",
+   "falls": 7,
+   "recoveries": 6,
+   "touches": 51,
+   "decisions": 281,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 12,
+   "recoveries": 11,
+   "touches": 60,
+   "decisions": 222,
+   "invalid_actions": 0,
+   "missed_deadlines": 14,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.682
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 83,
+   "decisions": 245,
+   "invalid_actions": 0,
+   "missed_deadlines": 14,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.665
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 2138051,
+ "tokens_out": 8152,
+ "est_cost_usd": 0.2171
+}

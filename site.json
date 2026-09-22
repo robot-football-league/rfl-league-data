@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T20:29:26+00:00",
+ "generated_at": "2026-09-22T22:29:46+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8889,6 +8889,23 @@
     },
     {
      "pos": 4,
+     "slug": "dynamo_datacenter",
+     "name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "P": 10,
+     "W": 5,
+     "D": 1,
+     "L": 4,
+     "GF": 65,
+     "GA": 52,
+     "Pts": 16,
+     "GD": 13,
+     "prev": 4,
+     "move": 0
+    },
+    {
+     "pos": 5,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8902,24 +8919,7 @@
      "Pts": 15,
      "GD": -4,
      "prev": 6,
-     "move": 2
-    },
-    {
-     "pos": 5,
-     "slug": "dynamo_datacenter",
-     "name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "P": 9,
-     "W": 4,
-     "D": 1,
-     "L": 4,
-     "GF": 56,
-     "GA": 50,
-     "Pts": 13,
-     "GD": 6,
-     "prev": 4,
-     "move": -1
+     "move": 1
     },
     {
      "pos": 6,
@@ -8944,14 +8944,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 9,
+     "P": 10,
      "W": 4,
      "D": 0,
-     "L": 5,
-     "GF": 48,
-     "GA": 58,
+     "L": 6,
+     "GF": 50,
+     "GA": 67,
      "Pts": 12,
-     "GD": -10,
+     "GD": -17,
      "prev": 8,
      "move": 1
     },
@@ -18199,8 +18199,202 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "DSK",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-23T11:00:00Z"
+     "status": "aired",
+     "score": [
+      2,
+      9
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 2,
+        "second": 12.9,
+        "side": "home",
+        "scorer": "Mbapp-E",
+        "own_goal": true
+       },
+       {
+        "minute": 14,
+        "second": 96.4,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 117.7,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 146.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 29,
+        "second": 195.3,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 220.6,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 284.7,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 350.3,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 438.7,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 457.8,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 571.2,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 241,
+       "through": 19,
+       "kick": 209,
+       "near_miss": 11,
+       "wall": 40,
+       "ram": 5,
+       "fall": 35,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 37.8,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 112.1,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 161.7,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 177.0,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "pushing it free from the wall"
+       },
+       {
+        "second": 221.1,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 275.7,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 301.7,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "prying it free from the wall"
+       },
+       {
+        "second": 359.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 397.9,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 441.9,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 483.2,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 519.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing the ball"
+       },
+       {
+        "second": 573.2,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       }
+      ],
+      "stats": {
+       "kicks": 209,
+       "falls": 35,
+       "near_misses": 11,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": 0.2171
+     },
+     "aired_at": "2026-09-22T19:04:42Z",
+     "watch": {
+      "id": "s3-m47_frontier_deepseek_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m47_frontier_deepseek_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m47_frontier_deepseek_dynamo_datacenter"
+     }
     },
     {
      "n": 48,
@@ -18211,7 +18405,7 @@
      "home_code": "GLM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T15:00:00Z"
+     "kickoff_utc": "2026-09-23T11:00:00Z"
     },
     {
      "n": 49,
@@ -18222,7 +18416,7 @@
      "home_code": "MSP",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-23T19:00:00Z"
+     "kickoff_utc": "2026-09-23T15:00:00Z"
     },
     {
      "n": 50,
@@ -18233,7 +18427,7 @@
      "home_code": "GEM",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T11:00:00Z"
+     "kickoff_utc": "2026-09-23T19:00:00Z"
     },
     {
      "n": 51,
@@ -18244,7 +18438,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T15:00:00Z"
+     "kickoff_utc": "2026-09-24T11:00:00Z"
     },
     {
      "n": 52,
@@ -18255,7 +18449,7 @@
      "home_code": "GLM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "kickoff_utc": "2026-09-24T15:00:00Z"
     },
     {
      "n": 53,
@@ -18266,7 +18460,7 @@
      "home_code": "MSP",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "kickoff_utc": "2026-09-24T19:00:00Z"
     },
     {
      "n": 54,
@@ -18277,7 +18471,7 @@
      "home_code": "GEM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T15:00:00Z"
+     "kickoff_utc": "2026-09-25T11:00:00Z"
     },
     {
      "n": 55,
@@ -18288,7 +18482,7 @@
      "home_code": "CDX",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "kickoff_utc": "2026-09-25T15:00:00Z"
     },
     {
      "n": 56,
@@ -18299,7 +18493,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -18310,7 +18504,7 @@
      "home_code": "MSP",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "kickoff_utc": "2026-09-26T11:00:00Z"
     },
     {
      "n": 58,
@@ -18321,7 +18515,7 @@
      "home_code": "GEM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T19:00:00Z"
+     "kickoff_utc": "2026-09-26T15:00:00Z"
     },
     {
      "n": 59,
@@ -18331,7 +18525,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "CDX",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-26T19:00:00Z"
     },
     {
      "n": 60,
@@ -18670,6 +18865,14 @@
      "goals": 35
     },
     {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 32
+    },
+    {
      "name": "Robodinho",
      "team": "synthetic_athletic",
      "team_name": "Synthetic Athletic",
@@ -18702,12 +18905,12 @@
      "goals": 29
     },
     {
-     "name": "Buffon.exe",
+     "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "goals": 25
+     "goals": 26
     },
     {
      "name": "Abyss",
@@ -18716,17 +18919,9 @@
      "code": "DSK",
      "color": "#112dbf",
      "goals": 24
-    },
-    {
-     "name": "Mbapp-E",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 24
     }
    ],
-   "aired_count": 44,
+   "aired_count": 45,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -21493,8 +21688,8 @@
   }
  },
  "totals": {
-  "matches_aired": 81,
-  "goals": 891,
+  "matches_aired": 82,
+  "goals": 902,
   "clubs": 11
  }
 }
