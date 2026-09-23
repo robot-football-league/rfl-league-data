@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 0
+  },
+  "away": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 15
+  },
+  "winner": "AFC Fable",
+  "code": {
+    "home": {},
+    "away": {
+      "commit": "4caaddc655bcb5aba54847ad3dc918816aa8eab2",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:25+01:00",
+      "dirty": true
+    },
+    "engine_commit": "b4caa6cf01a95718fc8693ef90cb73377a66c0f5"
+  }
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T16:35:02+00:00",
+ "generated_at": "2026-09-23T17:35:20+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8940,6 +8940,23 @@
     },
     {
      "pos": 7,
+     "slug": "frontier_fable",
+     "name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "P": 10,
+     "W": 3,
+     "D": 3,
+     "L": 4,
+     "GF": 61,
+     "GA": 49,
+     "Pts": 12,
+     "GD": 12,
+     "prev": 8,
+     "move": 1
+    },
+    {
+     "pos": 8,
      "slug": "frontier_deepseek",
      "name": "DeepSeek Rovers",
      "code": "DSK",
@@ -8953,24 +8970,7 @@
      "Pts": 12,
      "GD": -17,
      "prev": 7,
-     "move": 0
-    },
-    {
-     "pos": 8,
-     "slug": "frontier_fable",
-     "name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "P": 9,
-     "W": 2,
-     "D": 3,
-     "L": 4,
-     "GF": 46,
-     "GA": 49,
-     "Pts": 9,
-     "GD": -3,
-     "prev": 8,
-     "move": 0
+     "move": -1
     },
     {
      "pos": 9,
@@ -8978,14 +8978,14 @@
      "name": "Muse Spark FC",
      "code": "MSP",
      "color": "#0572f2",
-     "P": 7,
+     "P": 8,
      "W": 0,
      "D": 2,
-     "L": 5,
+     "L": 6,
      "GF": 29,
-     "GA": 70,
+     "GA": 85,
      "Pts": 2,
-     "GD": -41,
+     "GD": -56,
      "prev": 9,
      "move": 0
     },
@@ -18595,8 +18595,230 @@
      "away_name": "AFC Fable",
      "home_code": "MSP",
      "away_code": "FAB",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-23T19:00:00Z"
+     "status": "aired",
+     "score": [
+      0,
+      15
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 4,
+        "second": 25.5,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 141.6,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 23,
+        "second": 153.9,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 27,
+        "second": 181.0,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 256.8,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 44,
+        "second": 296.2,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 335.7,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 381.7,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 392.9,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 419.7,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 439.1,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 481.6,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 512.6,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 592.9,
+        "side": "away",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 92,
+        "second": 610.7,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 174,
+       "through": 32,
+       "kick": 157,
+       "wall": 23,
+       "near_miss": 4,
+       "ram": 1,
+       "fall": 4,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 36.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +2.0, +2.1, rolling at our net, fast \u2014 mine, slow and steady."
+       },
+       {
+        "second": 74.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +6.6, +2.5, near still \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 114.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -7.1, +1.0, rolling across, fast \u2014 dropping back."
+       },
+       {
+        "second": 162.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -2.9, +0.5, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 198.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +1.7, +3.3, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 238.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +5.0, -1.8, near still \u2014 heave with me."
+       },
+       {
+        "second": 280.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -0.5, -2.4, rolling across \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 359.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +1.9, -1.9, rolling across \u2014 dropping back."
+       },
+       {
+        "second": 395.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -0.6, +0.5, rolling across \u2014 dropping back."
+       },
+       {
+        "second": 445.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -1.2, +0.3, rolling at their net, fast \u2014 dropping goal-side."
+       },
+       {
+        "second": 481.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -6.9, -0.5, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 521.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -2.9, +0.3, rolling across \u2014 dropping goal-side."
+       },
+       {
+        "second": 571.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +1.0, +3.6, near still \u2014 mine, slow and steady."
+       }
+      ],
+      "stats": {
+       "kicks": 157,
+       "falls": 4,
+       "near_misses": 4,
+       "post_hits": 0,
+       "through_balls": 32
+      },
+      "est_cost_usd": 0.0267
+     },
+     "aired_at": "2026-09-23T15:04:42Z",
+     "watch": {
+      "id": "s3-m49_frontier_muse_frontier_fable",
+      "url": "https://4dgsx.com/watch/s3-m49_frontier_muse_frontier_fable",
+      "embed_url": "https://4dgsx.com/embed/s3-m49_frontier_muse_frontier_fable"
+     }
     },
     {
      "n": 50,
@@ -18607,7 +18829,7 @@
      "home_code": "GEM",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T11:00:00Z"
+     "kickoff_utc": "2026-09-23T19:00:00Z"
     },
     {
      "n": 51,
@@ -18618,7 +18840,7 @@
      "home_code": "RMA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T15:00:00Z"
+     "kickoff_utc": "2026-09-24T11:00:00Z"
     },
     {
      "n": 52,
@@ -18629,7 +18851,7 @@
      "home_code": "GLM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "kickoff_utc": "2026-09-24T15:00:00Z"
     },
     {
      "n": 53,
@@ -18640,7 +18862,7 @@
      "home_code": "MSP",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "kickoff_utc": "2026-09-24T19:00:00Z"
     },
     {
      "n": 54,
@@ -18651,7 +18873,7 @@
      "home_code": "GEM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T15:00:00Z"
+     "kickoff_utc": "2026-09-25T11:00:00Z"
     },
     {
      "n": 55,
@@ -18662,7 +18884,7 @@
      "home_code": "CDX",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "kickoff_utc": "2026-09-25T15:00:00Z"
     },
     {
      "n": 56,
@@ -18673,7 +18895,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -18684,7 +18906,7 @@
      "home_code": "MSP",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "kickoff_utc": "2026-09-26T11:00:00Z"
     },
     {
      "n": 58,
@@ -18695,7 +18917,7 @@
      "home_code": "GEM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T19:00:00Z"
+     "kickoff_utc": "2026-09-26T15:00:00Z"
     },
     {
      "n": 59,
@@ -18706,7 +18928,7 @@
      "home_code": "CDX",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T11:00:00Z"
+     "kickoff_utc": "2026-09-26T19:00:00Z"
     },
     {
      "n": 60,
@@ -18717,7 +18939,7 @@
      "home_code": "FAB",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T15:00:00Z"
+     "kickoff_utc": "2026-09-27T11:00:00Z"
     },
     {
      "n": 61,
@@ -18727,7 +18949,8 @@
      "away_name": "Muse Spark FC",
      "home_code": "RMA",
      "away_code": "MSP",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-27T15:00:00Z"
     },
     {
      "n": 62,
@@ -19054,6 +19277,14 @@
      "goals": 35
     },
     {
+     "name": "Hare",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
+     "goals": 33
+    },
+    {
      "name": "Buffon.exe",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
@@ -19092,17 +19323,9 @@
      "code": "DYD",
      "color": "#f2c119",
      "goals": 26
-    },
-    {
-     "name": "Abyss",
-     "team": "frontier_deepseek",
-     "team_name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "goals": 24
     }
    ],
-   "aired_count": 46,
+   "aired_count": 47,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -21869,8 +22092,8 @@
   }
  },
  "totals": {
-  "matches_aired": 83,
-  "goals": 911,
+  "matches_aired": 84,
+  "goals": 926,
   "clubs": 11
  }
 }

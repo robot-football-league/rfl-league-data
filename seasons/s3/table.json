@@ -4558,6 +4558,134 @@
     ]
    },
    "dir": "runs/league/s3/m45_frontier_gemini_frontier_muse"
+  },
+  {
+   "fixture": 49,
+   "home": "frontier_muse",
+   "away": "frontier_fable",
+   "score": [
+    0,
+    15
+   ],
+   "goals": [
+    {
+     "t": 25.5,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 141.6,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 153.9,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 181.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 256.8,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 296.2,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 335.7,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 381.7,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 392.9,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 419.7,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 439.1,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 481.6,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 512.6,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 592.9,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 610.7,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.0267,
+   "players": {
+    "home": [
+     "Spark",
+     "Muse"
+    ],
+    "away": [
+     "Tortoise",
+     "Hare"
+    ]
+   },
+   "dir": "runs/league/s3/m49_frontier_muse_frontier_fable"
   }
  ],
  "skipped_fixtures": [

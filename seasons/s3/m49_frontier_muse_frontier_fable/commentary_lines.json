@@ -1,0 +1,497 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in match forty-nine.",
+    "wav": "line_43df2b61a63dcf2e.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to keep things steady.",
+    "wav": "line_c26c6f3ddf5846c7.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 3.54,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare bursts clean through the middle here, entirely unimpeded!",
+    "wav": "line_119096a4d2de5c32.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 25.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare finds the corner! It is one-nil to AFC Fable!",
+    "wav": "line_b7f4a9757552fdb1.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 26.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable remain completely on top in the final third. Muse Spark cannot get a foot out of their own box.",
+    "wav": "line_cffed118cd0eecde.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 60.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare calls to take ownership of a loose ball deep in their own territory. Both clubs have named completely unchanged squads today.",
+    "wav": "line_748726a88eb553ca.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 83.0,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A calm spell as Hare regathers wide on the right. Muse Spark came off that punishing twenty-four nil defeat to Gemini Flash, and they look cautious again today.",
+    "wav": "line_e42692533dd9e35f.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 106.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise carries it straight forward.",
+    "wav": "line_71df7040d47f90c5.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 108.44,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A flash across the face of goal, just wide of the post. Good intent.",
+    "wav": "line_81c421983ed73205.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 136.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse Spark under siege again.",
+    "wav": "line_a3c7fd96b4ad3c5f.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 138.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to claim it right in front.",
+    "wav": "line_98403deee5bbc538.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 141.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare taps it home from point-blank range. Two-nil to AFC Fable.",
+    "wav": "line_a9671dabf4bbc894.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 147.3,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare slips right through the middle once again without a defender in sight.",
+    "wav": "line_e2e5f1e3e32feea7.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 153.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drives right to goal mouth.",
+    "wav": "line_1f903030ddea6f41.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 153.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "And tucked away. Hare claims another, and AFC Fable lead three-nil.",
+    "wav": "line_ad39750384e52004.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 181.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare scores again from close range. It is four-nil, and Fable are running away with this one.",
+    "wav": "line_ac7248a139c01991.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 200.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare shouts over to Tortoise, claiming a motionless ball over on the right flank. Muse Spark look entirely out of ideas.",
+    "wav": "line_48d35c0640002b5b.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 224.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A low effort from distance skids just wide of the target.",
+    "wav": "line_8f33925ba92b9951.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 232.28,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram fires the ball straight back out into the channel. Useful bit of pitch engineering, that.",
+    "wav": "line_b444b79afea208cc.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 250.55,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare is clear through again in the final third.",
+    "wav": "line_dc0e7ce096508201.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 255.16,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just wide of the upright.",
+    "wav": "line_35b36d7f683d8915.wav",
+    "dur_s": 1.36
+  },
+  {
+    "t": 256.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare marches straight back in.",
+    "wav": "line_cd88e8b6ab3b1483.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 256.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare finishes comfortably. That makes it five-nil to AFC Fable.",
+    "wav": "line_2fdcf0381cb3dcaf.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 261.76,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A clumsy collision between teammates in the centre circle, and Tortoise hits the deck.",
+    "wav": "line_b97681bee4816e52.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 269.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Tortoise calls from the floor, telling Hare to drop back and cover the goal-side space.",
+    "wav": "line_7114631464f62a11.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 296.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drives towards the net.",
+    "wav": "line_13a617e93c9fc394.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 296.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "And converts right on the goal mouth. Six-nil to AFC Fable.",
+    "wav": "line_c61d0f79471cb7ad.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out, and the ball rolls harmlessly in midfield.",
+    "wav": "line_b8c1f9d3befdfd44.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Power off at the buzzer, ball still live, and it settles in the circle. Half-time, and AFC Fable hold a commanding six-nil lead.",
+    "wav": "line_079e135c2e895bf2.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 335.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare strokes it home again. Seven-nil to AFC Fable.",
+    "wav": "line_a05ba69b4ddddb60.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 336.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Muse Spark are pinned deep once more, unable to mount any sort of response.",
+    "wav": "line_0d85949428302722.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 375.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare nudges the ball through the centre into the final third.",
+    "wav": "line_4bd07b092bc44af8.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 381.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare angles it in from the left. That makes it eight-nil.",
+    "wav": "line_412c52ccd05ca602.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 383.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Tortoise shouts some encouraging words about patience paying off out there.",
+    "wav": "line_b27b2b24aada4c6b.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 392.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare charges right down the middle.",
+    "wav": "line_8721a35876849809.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 392.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare slots it home with minimal fuss. Nine-nil to AFC Fable.",
+    "wav": "line_b763b09fe14cc1b7.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 397.25,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise strides through the middle with acres of green turf ahead.",
+    "wav": "line_3af25d5917bb7f05.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 419.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise walks it into the net. Double figures now for AFC Fable at ten-nil.",
+    "wav": "line_ba99e555cfe914ce.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 438.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flicked wide of the near post.",
+    "wav": "line_3eb0d0929c6ce266.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 439.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare pushes right back up.",
+    "wav": "line_e1b15e976b7f8e39.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 439.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare turns it in from close range. Eleven-nil to AFC Fable now.",
+    "wav": "line_53c808028a02cf50.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 445.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare calls out that the ball is rolling free, claiming it immediately.",
+    "wav": "line_9e9af2107c5d79c4.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 481.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare grinds forward under no pressure.",
+    "wav": "line_da9ed0fa5f0ae977.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 481.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare bundles it over the line. Twelve-nil.",
+    "wav": "line_12ce922cdc32e63c.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 482.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Fable continuing to smother the Muse Spark defensive third.",
+    "wav": "line_da82b2e7fa5743d4.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 486.83,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare gathers in the centre and drives directly towards the goal once more.",
+    "wav": "line_3a620ced32e2e8b3.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 512.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare sweeps it into the net from the right. Thirteen-nil to AFC Fable.",
+    "wav": "line_455dbb9d9a182157.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 517.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare calls for the ball once again as it trickles around the centre circle.",
+    "wav": "line_fcd38c854bfcd4c1.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 548.42,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare loses footing on the touchline and goes down, but self-rights smoothly.",
+    "wav": "line_f701d5a708a2c816.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 557.94,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another tumble on the right for Hare, quickly getting back upright.",
+    "wav": "line_da1afcf906db6cdf.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 567.43,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare takes a third fall along the touchline. The gyros do their job once again.",
+    "wav": "line_7f5095cc577bc303.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 592.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise steps up from the edge of the box and finishes neatly. Fourteen-nil.",
+    "wav": "line_98bec8592511db31.wav",
+    "dur_s": 5.72
+  },
+  {
+    "t": 610.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare adds another right at the death. Fifteen-nil to AFC Fable.",
+    "wav": "line_a4f32622d9b9c074.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The full-time buzzer sounds, power cuts out, and the ball slowly comes to",
+    "wav": "line_f8f06f385630b3c4.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "All over, fifteen-nil to Fable. Gemini Flash face Codex City next, Wednesday eight in the UK, nine in Europe, three",
+    "wav": "line_45a8fb93365943fd.wav",
+    "dur_s": 9.12
+  }
+]
