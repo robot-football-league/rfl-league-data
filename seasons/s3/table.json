@@ -4745,5 +4745,259 @@
    "reinstated_at": "2026-09-21T11:49:24Z",
    "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
   }
+ ],
+ "replaced": [
+  {
+   "fixture": 53,
+   "home": "frontier_muse",
+   "away": "dynamo_datacenter",
+   "why": "Muse played fallback code the engine silently accepted as ok; replayed before airing (NOTICES 2026-09-23)",
+   "approved_by": "Robin, 2026-09-23",
+   "at": "2026-09-23T17:41:14Z",
+   "status": "swapped",
+   "staged_dir": null,
+   "original": {
+    "score": [
+     0,
+     13
+    ],
+    "goals": [
+     {
+      "t": 17.7,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 27.7,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 44.8,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 60.5,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 280.0,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 420.4,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 437.9,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 491.9,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 507.3,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 521.3,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 536.8,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 548.3,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 589.9,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     }
+    ],
+    "est_cost_usd": 0.2478,
+    "players": {
+     "home": [
+      "Spark",
+      "Muse"
+     ],
+     "away": [
+      "Mbapp-E",
+      "Buffon.exe"
+     ]
+    },
+    "dir": "runs/league/s3/m53_frontier_muse_dynamo_datacenter"
+   },
+   "original_receipt": {
+    "id": "s3-m53_frontier_muse_dynamo_datacenter",
+    "fingerprint": "1afdd13d8f769073",
+    "channel": "rfl",
+    "mode": null,
+    "at": "2026-09-24T19:01:42Z",
+    "url": "https://4dgsx.com/watch/s3-m53_frontier_muse_dynamo_datacenter"
+   },
+   "replay": {
+    "score": [
+     5,
+     8
+    ],
+    "goals": [
+     {
+      "t": 24.6,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 45.4,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 74.1,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 86.1,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 117.9,
+      "team": "A",
+      "scorer": 0,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 237.8,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 345.8,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 373.3,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 422.8,
+      "team": "B",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 461.9,
+      "team": "B",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 532.3,
+      "team": "B",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 558.2,
+      "team": "A",
+      "scorer": 0,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     },
+     {
+      "t": 579.6,
+      "team": "B",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+     }
+    ],
+    "est_cost_usd": 0.2153,
+    "players": {
+     "home": [
+      "Spark",
+      "Muse"
+     ],
+     "away": [
+      "Mbapp-E",
+      "Buffon.exe"
+     ]
+    }
+   },
+   "published_receipt": {
+    "id": "s3-m53_frontier_muse_dynamo_datacenter",
+    "fingerprint": "cc3cc712673e8df8",
+    "channel": "rfl",
+    "mode": null,
+    "at": "2026-09-24T19:01:42Z",
+    "url": "https://4dgsx.com/watch/s3-m53_frontier_muse_dynamo_datacenter",
+    "replaced": {
+     "fingerprint": "1afdd13d8f769073",
+     "why": "replay: Muse played fallback code the engine silently accepted as ok; replayed before airing (NOTICES 2026-09-23)"
+    }
+   },
+   "parked_dir": "runs/league/replaced/s3/m53_frontier_muse_dynamo_datacenter.20260923T174335Z"
+  }
  ]
 }
