@@ -4283,6 +4283,92 @@
    "dir": "runs/league/s3/m47_frontier_deepseek_dynamo_datacenter"
   },
   {
+   "fixture": 48,
+   "home": "frontier_glm",
+   "away": "synthetic_athletic",
+   "score": [
+    4,
+    5
+   ],
+   "goals": [
+    {
+     "t": 58.6,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 91.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 134.5,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 146.1,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 289.4,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 465.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 485.4,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 502.4,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 616.2,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.3515,
+   "players": {
+    "home": [
+     "Zhi",
+     "Pu"
+    ],
+    "away": [
+     "Griezmatronn",
+     "Robodinho"
+    ]
+   },
+   "dir": "runs/league/s3/m48_frontier_glm_synthetic_athletic"
+  },
+  {
    "fixture": 45,
    "home": "frontier_gemini",
    "away": "frontier_muse",

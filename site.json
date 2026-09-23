@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T14:34:17+00:00",
+ "generated_at": "2026-09-23T15:04:38+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8906,6 +8906,23 @@
     },
     {
      "pos": 5,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 10,
+     "W": 5,
+     "D": 1,
+     "L": 4,
+     "GF": 52,
+     "GA": 49,
+     "Pts": 16,
+     "GD": 3,
+     "prev": 6,
+     "move": 1
+    },
+    {
+     "pos": 6,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8918,23 +8935,6 @@
      "GA": 48,
      "Pts": 15,
      "GD": -4,
-     "prev": 6,
-     "move": 1
-    },
-    {
-     "pos": 6,
-     "slug": "synthetic_athletic",
-     "name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "P": 9,
-     "W": 4,
-     "D": 1,
-     "L": 4,
-     "GF": 47,
-     "GA": 45,
-     "Pts": 13,
-     "GD": 2,
      "prev": 5,
      "move": -1
     },
@@ -8952,8 +8952,8 @@
      "GA": 67,
      "Pts": 12,
      "GD": -17,
-     "prev": 8,
-     "move": 1
+     "prev": 7,
+     "move": 0
     },
     {
      "pos": 8,
@@ -8969,8 +8969,8 @@
      "GA": 49,
      "Pts": 9,
      "GD": -3,
-     "prev": 7,
-     "move": -1
+     "prev": 8,
+     "move": 0
     },
     {
      "pos": 9,
@@ -8995,19 +8995,19 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 8,
+     "P": 9,
      "W": 0,
      "D": 0,
-     "L": 8,
-     "GF": 21,
-     "GA": 72,
+     "L": 9,
+     "GF": 25,
+     "GA": 77,
      "Pts": 0,
-     "GD": -51,
+     "GD": -52,
      "prev": 10,
      "move": 0
     }
    ],
-   "movement_since_round": 8,
+   "movement_since_round": 9,
    "matches": [
     {
      "n": 1,
@@ -18404,8 +18404,188 @@
      "away_name": "Synthetic Athletic",
      "home_code": "GLM",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-23T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 9,
+        "second": 58.6,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 14,
+        "second": 91.4,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 134.5,
+        "side": "home",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 22,
+        "second": 146.1,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 289.4,
+        "side": "home",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 70,
+        "second": 465.0,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 73,
+        "second": 485.4,
+        "side": "home",
+        "scorer": "Zhi",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 502.4,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 92,
+        "second": 616.2,
+        "side": "home",
+        "scorer": "Pu",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 188,
+       "kick": 177,
+       "through": 17,
+       "wall": 25,
+       "fall": 10,
+       "ram": 2,
+       "near_miss": 5,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 6.4,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 21.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Freeing it from the wall"
+       },
+       {
+        "second": 61.0,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "Clear it!"
+       },
+       {
+        "second": 105.4,
+        "team": "GLM FC",
+        "number": 2,
+        "text": "working it free"
+       },
+       {
+        "second": 119.1,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "clearing it from the corner"
+       },
+       {
+        "second": 158.9,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "prying it off the wall"
+       },
+       {
+        "second": 214.7,
+        "team": "GLM FC",
+        "number": 2,
+        "text": "scoring now!"
+       },
+       {
+        "second": 269.3,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "shoving it free from the wall"
+       },
+       {
+        "second": 349.9,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it away from the wall"
+       },
+       {
+        "second": 384.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 403.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 438.9,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "coming to help"
+       },
+       {
+        "second": 460.2,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing the ball from the wall"
+       },
+       {
+        "second": 594.1,
+        "team": "GLM FC",
+        "number": 1,
+        "text": "got it"
+       }
+      ],
+      "stats": {
+       "kicks": 177,
+       "falls": 10,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 17
+      },
+      "est_cost_usd": 0.3515
+     },
+     "aired_at": "2026-09-23T11:04:42Z",
+     "watch": {
+      "id": "s3-m48_frontier_glm_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m48_frontier_glm_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m48_frontier_glm_synthetic_athletic"
+     }
     },
     {
      "n": 49,
@@ -18536,7 +18716,8 @@
      "away_name": "Synthetic Athletic",
      "home_code": "FAB",
      "away_code": "SYA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-27T15:00:00Z"
     },
     {
      "n": 61,
@@ -18857,6 +19038,14 @@
      "goals": 36
     },
     {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 35
+    },
+    {
      "name": "Spark",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
@@ -18871,14 +19060,6 @@
      "code": "DYD",
      "color": "#f2c119",
      "goals": 32
-    },
-    {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 31
     },
     {
      "name": "Zidroid",
@@ -18921,7 +19102,7 @@
      "goals": 24
     }
    ],
-   "aired_count": 45,
+   "aired_count": 46,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -21688,8 +21869,8 @@
   }
  },
  "totals": {
-  "matches_aired": 82,
-  "goals": 902,
+  "matches_aired": 83,
+  "goals": 911,
   "clubs": 11
  }
 }

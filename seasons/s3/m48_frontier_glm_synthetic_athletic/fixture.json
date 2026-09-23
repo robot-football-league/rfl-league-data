@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 4
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 5
+  },
+  "winner": "Synthetic Athletic",
+  "code": {
+    "home": {
+      "commit": "fc318939165f9b32e1357ce72bd9d165b4c308a9",
+      "subject": "night 39: (no summary given)",
+      "committed_at": "2026-09-14T11:55:58+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "891a1c013d678be5f88465e3c028a7e128c93831"
+  }
+}

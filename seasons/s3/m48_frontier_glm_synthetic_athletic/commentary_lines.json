@@ -1,0 +1,461 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round ten as GLM FC face Synthetic Athletic.",
+    "wav": "line_811882fba5ccb35d.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 6.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn makes the shout early, alerting Robodinho that the red shirt is stepping up to contest possession.",
+    "wav": "line_b211c2658abca155.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 20.08,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho breaks clean through down the left channel! Not a defender in sight between the striker and the net!",
+    "wav": "line_b39c5cdb701d5f51.wav",
+    "dur_s": 7.58
+  },
+  {
+    "t": 58.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls to work the wall.",
+    "wav": "line_8bd98da414439acf.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 58.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Robodinho buries it from point-blank range! First blood to Synthetic Athletic, making it one-nil!",
+    "wav": "line_579799454c487523.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 75.28,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi topples over completely unaided.",
+    "wav": "line_7990e5c60952b518.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 75.42,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The powered corner push-panel fires the ball straight back into the final third.",
+    "wav": "line_74cf7d3d4d806cda.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 91.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho taps it in right at the goal mouth! Synthetic Athletic double their lead to two-nil.",
+    "wav": "line_fee5d3fbdbcf7b4b.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 95.25,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho bursts clean through the middle again, with acres of space ahead.",
+    "wav": "line_34814398509462bd.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 105.56,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just wide of the post.",
+    "wav": "line_029dd79914ab5cd7.wav",
+    "dur_s": 1.36
+  },
+  {
+    "t": 107.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn calls out that the ball is secured by the wall. Synthetic Athletic are a frozen club, running the exact same setup they started with on day one.",
+    "wav": "line_12cfc5d9931c2c0d.wav",
+    "dur_s": 9.85
+  },
+  {
+    "t": 134.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Pu bundles it over the line from point-blank range! GLM FC are right back in this contest, pulling it back to one-two!",
+    "wav": "line_e4b9f06a887db817.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 146.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho charges up the middle.",
+    "wav": "line_7102fb057f441aab.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 146.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho scores again! A ruthless finish from two metres out to restore the two-goal cushion at three-one.",
+    "wav": "line_f3c3c51a4157174e.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 151.11,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho slips through the centre once more, clean through on goal.",
+    "wav": "line_d7fe706e6e04b6eb.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 165.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu calls out that the ball is coming free right in front of goal. GLM fielded an unchanged squad today, sticking loyally with their system.",
+    "wav": "line_724373b64d5603df.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 194.92,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn loses balance on the touchline and hits the deck. The gyros will have the red shirt back on its feet shortly.",
+    "wav": "line_5c2e13fea7115951.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 221.6,
+    "kind": "color",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A lull here as Pu looks to reset. GLM are still seeking their first points of the season, but they are creating chances.",
+    "wav": "line_11868ac57ed7ca84.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 248.28,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho topples over without a blue shirt near them. Just a misjudged step in their own half.",
+    "wav": "line_377b2bcc7ce0df9c.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 258.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn signals to the teammate that the ball is wedged tight against the wall in midfield.",
+    "wav": "line_4965bd723deeca1e.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 272.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu works the ball three metres along the touchline, grinding forward into the final third.",
+    "wav": "line_63ea29ea157e563e.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 289.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Pu forces it home at the goal mouth! Right on the stroke of half-time, GLM make it two-three!",
+    "wav": "line_2104372f54024083.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts instantly, but the ball rolls harmlessly wide.",
+    "wav": "line_6339151e81d59fe0.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "And the ball stops for half-time at two-three. Remember, the buzzer cuts power to every robot, but the ball remains live until it comes to rest. Any momentum carrying it over the line counts as a goal.",
+    "wav": "line_ec4d9d137d38b437.wav",
+    "dur_s": 13.38
+  },
+  {
+    "t": 327.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho opens the second half with intent, driving three metres straight down the middle into the attacking third.",
+    "wav": "line_38940d54d6339fc7.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 353.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Pu surges towards the net.",
+    "wav": "line_114feb6bd978e754.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 355.44,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Pu lets fly, but it slides a metre wide of the target. A big opportunity missed for GLM.",
+    "wav": "line_97e358ee6655b0fb.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 373.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls to clear it.",
+    "wav": "line_f63d09ea2c0b3358.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 375.68,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner push-panel triggers instantly, cannoning the ball straight back out into the defensive third.",
+    "wav": "line_649419355061c162.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 398.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches away! A fraction of a metre wide as the ball clips past the post.",
+    "wav": "line_4ed4bfb97dd9aaf1.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 410.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn is heard shouting to work the ball away from the boards and relieve the pressure.",
+    "wav": "line_635c491b3167a9db.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 434.91,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A messy tangle of blue shirts! Pu and Zhi collide, leaving Pu flat on the turf.",
+    "wav": "line_accee66af173a0b2.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 445.72,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho knocks Pu to the turf.",
+    "wav": "line_a77b65f229cc2aed.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 445.8,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "And Pu returns the favour immediately, clattering Robodinho down in an assertive challenge on the touchline.",
+    "wav": "line_7d9eea586c26f20e.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 458.37,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho is clean through on goal!",
+    "wav": "line_ca6e5c523015bcd0.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 460.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls that the ball is breaking off the wall.",
+    "wav": "line_3b4d3efd673ee6ed.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 465.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Robodinho finishes it! Synthetic Athletic extend their lead to four-two.",
+    "wav": "line_a7de588a0412d8a5.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 465.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Robodinho carried it right inside.",
+    "wav": "line_4e6cb73b79c40292.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 466.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Synthetic Athletic are pinning GLM deep in their own territory, suffocating any attempt to build from the back.",
+    "wav": "line_6ae5a5ab99313e81.wav",
+    "dur_s": 8.1
+  },
+  {
+    "t": 485.16,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flashed just wide of goal.",
+    "wav": "line_dee90f7ef3262c31.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 485.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zhi stabs it in from point-blank range! GLM strike back, and it is three-four with time running out!",
+    "wav": "line_4d0f58543e22e296.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 490.89,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Disaster for GLM as Zhi collapses in midfield! Vital seconds ticking away.",
+    "wav": "line_c2260f1a1609cbef.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 499.96,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Agonisingly close, brushing the outside post!",
+    "wav": "line_05b411e11fbcf91e.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 502.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn hammers it home! A devastating response from Synthetic Athletic to make it three-five with under two minutes remaining!",
+    "wav": "line_180946f4a0777002.wav",
+    "dur_s": 7.76
+  },
+  {
+    "t": 519.96,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Zhi breaks clean through the middle! Nobody ahead of the blue shirt, a golden chance to respond!",
+    "wav": "line_02419e4beaa11328.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 540.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Robodinho carries the ball four metres up the pitch, eating up precious seconds deep in GLM territory.",
+    "wav": "line_af1d2ef8a9325d73.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 578.1,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Under forty seconds left and GLM need a miracle. They have given everything today, but time is simply slipping away.",
+    "wav": "line_0f214fbaf061ebb6.wav",
+    "dur_s": 7.68
+  },
+  {
+    "t": 616.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Pu scores! It is four-five, but there are only seconds left!",
+    "wav": "line_546d8ed5657239c4.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Buzzer sounds, ball trickles dead.",
+    "wav": "line_8ab0fbd89ea64df1.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 617.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "GLM threw everything forward right until the buzzer.",
+    "wav": "line_15106fecea2724b3.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Full time, 4-5. Next: Muse Spark face AFC Fable, Sunday at 20:00 UK, 21:00 Europe, 15:00 US East.",
+    "wav": "line_8486756bfa1955ab.wav",
+    "dur_s": 11.52
+  }
+]

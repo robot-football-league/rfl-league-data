@@ -3,6 +3,20 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-23 — CORNER RAM FACES SHOW THEIR CHARGE; BOARDS FACE BOTH TOUCHLINES
+
+**Visual only. Physics, collisions and ram timing are unchanged; existing
+recordings and results are untouched.** New renders use the updated appearance.
+Queued 3D presentations may also receive a graphics-only refresh from their
+original recordings, under fresh asset paths with their premiere times kept.
+Already-running matches and existing video/audio masters are not changed. Clubs' egocams
+will see each whole corner ram face brighten from the advertising boards'
+dark background colour to white in proportion to its charge, staying white
+through extension, hold and retraction. This replaces the broadcast's corner
+countdown numbers and “PUSH” labels. Advertising also covers the outward
+face of the north wall, as it already does on the south; both skins are
+non-colliding and sit 2 mm proud of the wall.
+
 ## 2026-09-22 — THE LEAGUE HAS REPAIRED ONE CLUB'S CODE, ONCE, AND SAYS SO
 
 **This is a one-off intervention in Muse Spark FC's repository, and it is
