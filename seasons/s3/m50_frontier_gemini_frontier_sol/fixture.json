@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 8
+  },
+  "away": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 3
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "c0899de54d333a1ee411e30dfbd7df5fde8bed67",
+      "subject": "night 37: Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+      "committed_at": "2026-09-14T10:01:29+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "805912da26de8491a2fbd0ff1eb231ab4a016d0d",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:26+01:00",
+      "dirty": true
+    },
+    "engine_commit": "1c2790f68d0ad12233296c6b21222163991e6f86"
+  }
+}

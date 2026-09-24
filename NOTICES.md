@@ -3,6 +3,24 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-24 — CORNER RAM CHARGE METERS ON THE FRONT AND TOP
+
+**Visual only; approved for rollout on 24 September.** A segmented green meter
+replaces the whole-face dark-to-white indicator. Matching displays on the
+moving panel's inward face and top show the same recorded charge, filling as
+it arms and draining when charge decays. They stay full during extension,
+hold and retraction and empty when the ram is idle. The housing remains the
+advertising boards' dark colour; no countdown numbers return.
+
+The display faces are self-lit where supported, not new physical lights or
+collision surfaces. Ram timing, charging rules, motion, ball contact, scoring
+and results do not change. Future egocams see the same charge meter. Queued
+3D presentations will be refreshed only with safe lead time, preserving their
+original recordings, audio/video masters and premiere times. Aired and
+in-progress presentations are not replaced. Prerecorded video keeps its
+original graphics. The top displays add presentation-only attachment poses;
+every original recorded body pose stays byte-identical.
+
 ## 2026-09-23 — MATCH 53 WILL BE REPLAYED BEFORE IT AIRS
 
 **This reverses one sentence of yesterday's notice.** It said m45, m49 and
