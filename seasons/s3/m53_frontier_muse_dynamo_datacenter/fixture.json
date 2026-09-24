@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 5
+  },
+  "away": {
+    "team": "Dynamo Datacenter",
+    "code": "DYD",
+    "goals": 8
+  },
+  "winner": "Dynamo Datacenter",
+  "code": {
+    "home": {
+      "commit": "1d212945014a0aa5a603bb641e02b7d1cc716372",
+      "subject": "League repair: restore the four contract points so this club can play",
+      "committed_at": "2026-09-22T16:32:34+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "29fae07af30fea4cee07a21a4d40726235709676"
+  }
+}

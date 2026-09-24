@@ -1,0 +1,569 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round eleven clash.",
+    "wav": "line_24f483ed74e590f9.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 2.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls for the ball immediately as Dynamo look to dictate the tempo from the centre circle.",
+    "wav": "line_ec6112f0e116b872.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 24.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Buffon.exe tucks it away from point-blank range! First blood to Dynamo Datacenter, and they take a one-nil lead!",
+    "wav": "line_352cd64f3af1834b.wav",
+    "dur_s": 9.61
+  },
+  {
+    "t": 35.75,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe is clean through on the left channel, eyeing up a quick second.",
+    "wav": "line_23a694efcc7fb1cd.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 41.72,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the far upright!",
+    "wav": "line_6eb383ac9a6e04a6.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 45.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe converts from point-blank range! That doubles the lead, making it two-nil to Dynamo Datacenter.",
+    "wav": "line_242813dc5f01bb69.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 57.7,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E signals they are busy prizing the ball off the right touchline boards.",
+    "wav": "line_d3ea0e0a3c64e9d8.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 70.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E strides into the box.",
+    "wav": "line_9188a0410570e61a.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 70.81,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Clumsy collision, and Mbapp-E tumbles.",
+    "wav": "line_c5c51700a6317286.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 72.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flashed inches past the post.",
+    "wav": "line_11d1cf980a738e51.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 74.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe sweeps in a first-half hat-trick! Dynamo make it three-nil and Muse Spark are in deep trouble.",
+    "wav": "line_edb14dc2a8aaca9e.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 84.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse drives through the middle.",
+    "wav": "line_2044468386f7c34c.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 86.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Muse tucks it home from right in front! Spark FC get one back, cutting the deficit to three-one.",
+    "wav": "line_7aa985ff154250b8.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 115.23,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark is clean through now.",
+    "wav": "line_66a85fd39da8cdce.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 116.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark surges down the flank.",
+    "wav": "line_6fda64fe795dbae9.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 117.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark lashes it into the net! The league's top scorer delivers again, and suddenly Muse Spark are right back in this at two-three!",
+    "wav": "line_302bbdbdeb859123.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 134.45,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark loses footing by the right touchline and takes a tumble.",
+    "wav": "line_5f449cf589e97a85.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 141.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe calls out that the ball is being worked off the defensive wall.",
+    "wav": "line_eafc0189dfe8846b.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 180.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe warns the teammate that a clearance is coming from the back.",
+    "wav": "line_afaf53b83b2f84cd.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 188.71,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Rebound panel fires it away.",
+    "wav": "line_2aa30f94da41eb25.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 190.57,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse slips over unprompted.",
+    "wav": "line_256d98f3198862c0.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 190.6,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The Dynamo pair collide in the channel, sending Mbapp-E clattering to the turf.",
+    "wav": "line_81987c79d07f2f4f.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 201.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Dynamo sustain heavy attacking pressure.",
+    "wav": "line_1b8003eb8ea1e6ad.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 203.69,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark stumbles to the deck.",
+    "wav": "line_f3fb1d740ac91a90.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 206.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Shaved past the upright!",
+    "wav": "line_d7b5d875766ace8e.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 206.35,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark crunches into Mbapp-E with a firm challenge.",
+    "wav": "line_b75607ef5124767f.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 210.23,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse upends Buffon.exe near the boards.",
+    "wav": "line_3f3540ecba12df7d.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 212.98,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe gets right back up and returns the favour, dispossessing Muse along the touchline.",
+    "wav": "line_eedbced3c963f4fa.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 230.68,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe breaks clean through again!",
+    "wav": "line_169b485bc5ef964c.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 232.23,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse collapses awkwardly in recovery, leaving the goal exposed.",
+    "wav": "line_9b6a83582c2bd59d.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 237.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Buffon.exe slots home! Dynamo lead four-two now.",
+    "wav": "line_3c64b9e3b1763584.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 238.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Dynamo keep the squeeze on, pinning Muse Spark deep inside their half.",
+    "wav": "line_992e505314cceeab.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 245.46,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another miscommunication between the Dynamo teammates, and Buffon.exe hits the deck.",
+    "wav": "line_490c415d2374fc46.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 254.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buffon.exe steps across Muse on the touchline to nick possession away cleanly.",
+    "wav": "line_fde3c561ac07358c.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 264.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark carries down the flank.",
+    "wav": "line_b7f5cc068f0ce789.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 265.48,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark lines up a strike from distance, but it sails just wide of the far post.",
+    "wav": "line_595576b9894aa89f.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 299.39,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Corner ram punches it clear.",
+    "wav": "line_026999695529796b.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cut, and the ball rolls into the channel.",
+    "wav": "line_e4de443a4f170a9a.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball finally comes to rest. Power off at the buzzer, ball still live, and at the interval it is Muse Spark two, Dynamo Datacenter four.",
+    "wav": "line_0ca350c7fc255ec8.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 328.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Mbapp-E signals they are prying the ball off the wall deep in their defensive third.",
+    "wav": "line_165ad801e959d721.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 336.83,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse breaks clear down the right touchline with nobody to beat.",
+    "wav": "line_341ec33c2e493b87.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 344.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Muse advances on goal.",
+    "wav": "line_d8688571da99d99b.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 345.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark FC maintain early pressure.",
+    "wav": "line_095688c91f8d0afd.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 345.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse pokes it home! Muse Spark are right back in the hunt, pulling it back to three-four!",
+    "wav": "line_8d8ef9c88e583801.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 365.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E calls out while hunting for the loose ball near the Dynamo goal.",
+    "wav": "line_ac39247006b61d85.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 373.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse equalises! What a turnaround from Muse Spark, battling all the way back to make it four-four!",
+    "wav": "line_be2279d574441ad9.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 388.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Buffon.exe surges straight through the centre.",
+    "wav": "line_62292264324333c9.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 390.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe pulls the trigger from close range, but it shaves the wrong side of the post!",
+    "wav": "line_52f000494ede601c.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 422.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Mbapp-E finds the net! Dynamo Datacenter edge back in front, making it four-five with three minutes remaining!",
+    "wav": "line_ff9bc5b584ffdb64.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 437.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Mbapp-E levers it off the wall.",
+    "wav": "line_942ca6cac6bc34cc.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 439.7,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Buffon.exe breaks loose down the left flank, suddenly with a clear path towards the net!",
+    "wav": "line_72d0ed87c4684304.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 450.8,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buffon.exe lets Mbapp-E know they are still trying to free the wedged ball.",
+    "wav": "line_02649be9ea911663.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 461.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "A calamitous own goal from Muse! An errant deflection trickles over the line, giving Dynamo some breathing room at four-six.",
+    "wav": "line_f1fe159c0f3ff095.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 489.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just over two minutes remaining, and Spark embarks on a desperate charge up the right flank.",
+    "wav": "line_5485cb168d89659c.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 503.86,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner ram thumps the ball straight back out into the final third.",
+    "wav": "line_e596f8961dba41ce.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 532.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Oh dear, another own goal credited to Muse. That surely settles it, putting Dynamo Datacenter four-seven ahead with eighty-five seconds left.",
+    "wav": "line_5299f1362978be77.wav",
+    "dur_s": 9.82
+  },
+  {
+    "t": 558.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark drives hard into the box.",
+    "wav": "line_19d6c65120e41623.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 558.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark tucks it home! Five-seven now, but time is running out!",
+    "wav": "line_f8ac501a0a1b7b0f.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 559.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Under a minute on the clock and Muse Spark are throwing everything forward in the final third.",
+    "wav": "line_ac716add147da802.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 575.2,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark shoots, but it flies agonizingly wide!",
+    "wav": "line_6ea30d52f080225b.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 579.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Heartbreak for Muse Spark as Muse turns in a third own goal. That makes it five-eight, and that will be that.",
+    "wav": "line_05eac7285c40c6d7.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts out, and the ball rolls harmlessly through midfield.",
+    "wav": "line_0d42f6f605f6f569.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Full time, Dynamo win 5-8. Catch Gemini Flash against Synthetic Athletic Friday, twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_68f40323827b7beb.wav",
+    "dur_s": 8.99
+  }
+]

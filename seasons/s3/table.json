@@ -5007,6 +5007,120 @@
     ]
    },
    "dir": "runs/league/s3/m49_frontier_muse_frontier_fable"
+  },
+  {
+   "fixture": 53,
+   "home": "frontier_muse",
+   "away": "dynamo_datacenter",
+   "score": [
+    5,
+    8
+   ],
+   "goals": [
+    {
+     "t": 24.6,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 45.4,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 74.1,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 86.1,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 117.9,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 237.8,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 345.8,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 373.3,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 422.8,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 461.9,
+     "team": "B",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 532.3,
+     "team": "B",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 558.2,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 579.6,
+     "team": "B",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2153,
+   "players": {
+    "home": [
+     "Spark",
+     "Muse"
+    ],
+    "away": [
+     "Mbapp-E",
+     "Buffon.exe"
+    ]
+   },
+   "dir": "runs/league/s3/m53_frontier_muse_dynamo_datacenter"
   }
  ],
  "skipped_fixtures": [

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T17:29:58+00:00",
+ "generated_at": "2026-09-24T19:25:37+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8893,14 +8893,14 @@
      "name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "P": 10,
-     "W": 5,
+     "P": 11,
+     "W": 6,
      "D": 1,
      "L": 4,
-     "GF": 65,
-     "GA": 52,
-     "Pts": 16,
-     "GD": 13,
+     "GF": 73,
+     "GA": 57,
+     "Pts": 19,
+     "GD": 16,
      "prev": 4,
      "move": 0
     },
@@ -8918,8 +8918,8 @@
      "GA": 49,
      "Pts": 16,
      "GD": 3,
-     "prev": 6,
-     "move": 1
+     "prev": 5,
+     "move": 0
     },
     {
      "pos": 6,
@@ -8935,8 +8935,8 @@
      "GA": 56,
      "Pts": 15,
      "GD": -9,
-     "prev": 5,
-     "move": -1
+     "prev": 6,
+     "move": 0
     },
     {
      "pos": 7,
@@ -8952,8 +8952,8 @@
      "GA": 49,
      "Pts": 12,
      "GD": 12,
-     "prev": 8,
-     "move": 1
+     "prev": 7,
+     "move": 0
     },
     {
      "pos": 8,
@@ -8969,8 +8969,8 @@
      "GA": 73,
      "Pts": 12,
      "GD": -18,
-     "prev": 7,
-     "move": -1
+     "prev": 8,
+     "move": 0
     },
     {
      "pos": 9,
@@ -8978,14 +8978,14 @@
      "name": "Muse Spark FC",
      "code": "MSP",
      "color": "#0572f2",
-     "P": 8,
+     "P": 9,
      "W": 0,
      "D": 2,
-     "L": 6,
-     "GF": 29,
-     "GA": 85,
+     "L": 7,
+     "GF": 34,
+     "GA": 93,
      "Pts": 2,
-     "GD": -56,
+     "GD": -59,
      "prev": 9,
      "move": 0
     },
@@ -9007,7 +9007,7 @@
      "move": 0
     }
    ],
-   "movement_since_round": 9,
+   "movement_since_round": 10,
    "matches": [
     {
      "n": 1,
@@ -19464,8 +19464,216 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "MSP",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 4,
+        "second": 24.6,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 7,
+        "second": 45.4,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 11,
+        "second": 74.1,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 13,
+        "second": 86.1,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 117.9,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 237.8,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 345.8,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 56,
+        "second": 373.3,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 63,
+        "second": 422.8,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 461.9,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": true
+       },
+       {
+        "minute": 80,
+        "second": 532.3,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": true
+       },
+       {
+        "minute": 84,
+        "second": 558.2,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 579.6,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 230,
+       "kick": 240,
+       "wall": 55,
+       "through": 21,
+       "near_miss": 6,
+       "fall": 25,
+       "ram": 3,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 2.4,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "Going for the ball!"
+       },
+       {
+        "second": 43.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "helping push it free"
+       },
+       {
+        "second": 58.5,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing the wall"
+       },
+       {
+        "second": 141.1,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "unsticking it from the wall"
+       },
+       {
+        "second": 173.7,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "got it, pushing away from the wall"
+       },
+       {
+        "second": 278.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "ball's against the wall, I'm clearing it"
+       },
+       {
+        "second": 328.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball's against the wall, freeing it"
+       },
+       {
+        "second": 365.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "looking for the ball"
+       },
+       {
+        "second": 396.4,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing the ball"
+       },
+       {
+        "second": 438.5,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "ball is stuck against the wall, pushing it free"
+       },
+       {
+        "second": 450.8,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "still working the stuck ball"
+       },
+       {
+        "second": 482.7,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "helping clear the wall"
+       },
+       {
+        "second": 500.7,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing it away from our goal"
+       },
+       {
+        "second": 531.8,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "ball is stuck at the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 240,
+       "falls": 25,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 21
+      },
+      "est_cost_usd": 0.2153
+     },
+     "aired_at": "2026-09-24T19:04:42Z",
+     "watch": {
+      "id": "s3-m53_frontier_muse_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m53_frontier_muse_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m53_frontier_muse_dynamo_datacenter"
+     }
     },
     {
      "n": 54,
@@ -19596,7 +19804,8 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "SYA",
      "away_code": "DYD",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-28T19:00:00Z"
     },
     {
      "n": 66,
@@ -19883,6 +20092,14 @@
      "goals": 38
     },
     {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 36
+    },
+    {
      "name": "Robodinho",
      "team": "synthetic_athletic",
      "team_name": "Synthetic Athletic",
@@ -19915,14 +20132,6 @@
      "goals": 32
     },
     {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 32
-    },
-    {
      "name": "Abyss",
      "team": "frontier_deepseek",
      "team_name": "DeepSeek Rovers",
@@ -19931,7 +20140,7 @@
      "goals": 27
     }
    ],
-   "aired_count": 50,
+   "aired_count": 51,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -22698,8 +22907,8 @@
   }
  },
  "totals": {
-  "matches_aired": 87,
-  "goals": 962,
+  "matches_aired": 88,
+  "goals": 975,
   "clubs": 11
  }
 }
