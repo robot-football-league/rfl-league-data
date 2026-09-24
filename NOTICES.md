@@ -3,6 +3,26 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-24 — LIGHTER ROBOT AND BALL MESHES IN THE 3D BROADCAST
+
+**Visual only.** The 3D presentation (the 4DGSX bundle the stadium plays)
+now ships the robots and the ball at broadcast resolution. We used to export
+each robot's CAD meshes as they are, about 510,000 triangles per robot. Each
+robot is now about 30,000 triangles, and every surface stays within about
+2 mm of the original. The ball's panel seams are kept exactly. Its panel
+interiors are simplified, and it goes from 196,608 triangles to about
+20,000. Sharp panel edges now shade as edges instead of being smoothed over.
+A match draws about 7% of the triangles it did before (m51: 2,243,786 down
+to 147,926), which lets the stadium add floodlight shadows and
+anti-aliasing.
+
+Simulation, physics, collision shapes, robot motion, ball contact, scoring
+and results do not change. The recorded poses are byte-identical. Egocams
+and prerecorded video are rendered from the simulator and are unaffected.
+New renders use the lighter meshes. A queued 3D presentation picks them up
+only if it is re-exported for another reason. Aired presentations are not
+replaced.
+
 ## 2026-09-24 — CORNER RAM CHARGE METERS ON THE FRONT AND TOP
 
 **Visual only; approved for rollout on 24 September.** A segmented green meter
