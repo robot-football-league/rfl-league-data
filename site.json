@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T11:27:28+00:00",
+ "generated_at": "2026-09-24T12:27:46+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8859,14 +8859,14 @@
      "name": "Real Machina",
      "code": "RMA",
      "color": "#e5e5f4",
-     "P": 10,
-     "W": 7,
+     "P": 11,
+     "W": 8,
      "D": 0,
      "L": 3,
-     "GF": 74,
-     "GA": 43,
-     "Pts": 21,
-     "GD": 31,
+     "GF": 80,
+     "GA": 48,
+     "Pts": 24,
+     "GD": 32,
      "prev": 2,
      "move": 0
     },
@@ -8961,14 +8961,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 10,
+     "P": 11,
      "W": 4,
      "D": 0,
-     "L": 6,
-     "GF": 50,
-     "GA": 67,
+     "L": 7,
+     "GF": 55,
+     "GA": 73,
      "Pts": 12,
-     "GD": -17,
+     "GD": -18,
      "prev": 7,
      "move": -1
     },
@@ -19033,8 +19033,202 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "RMA",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-24T15:00:00Z"
+     "status": "aired",
+     "score": [
+      6,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 16,
+        "second": 103.5,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 138.7,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 164.4,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 27,
+        "second": 179.4,
+        "side": "away",
+        "scorer": "CR-7000",
+        "own_goal": true
+       },
+       {
+        "minute": 36,
+        "second": 237.4,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 58,
+        "second": 387.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 458.1,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 479.4,
+        "side": "home",
+        "scorer": "Zidroid",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 531.3,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 84,
+        "second": 558.9,
+        "side": "home",
+        "scorer": "CR-7000",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 578.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 218,
+       "through": 17,
+       "kick": 212,
+       "near_miss": 5,
+       "wall": 17,
+       "ram": 3,
+       "fall": 11,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 25.2,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "shoving it free from the wall"
+       },
+       {
+        "second": 68.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 104.5,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "shoving it free"
+       },
+       {
+        "second": 150.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 233.8,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 275.6,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 353.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "clearing"
+       },
+       {
+        "second": 379.3,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "Ball is stuck, nudging it out"
+       },
+       {
+        "second": 398.3,
+        "team": "Real Machina",
+        "number": 1,
+        "text": "Clearing it from the wall"
+       },
+       {
+        "second": 444.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "getting it off the wall"
+       },
+       {
+        "second": 481.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 524.4,
+        "team": "Real Machina",
+        "number": 2,
+        "text": "prying it off the wall"
+       },
+       {
+        "second": 567.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       }
+      ],
+      "stats": {
+       "kicks": 212,
+       "falls": 11,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 17
+      },
+      "est_cost_usd": 0.2383
+     },
+     "aired_at": "2026-09-24T11:04:42Z",
+     "watch": {
+      "id": "s3-m51_real_machina_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m51_real_machina_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m51_real_machina_frontier_deepseek"
+     }
     },
     {
      "n": 52,
@@ -19045,7 +19239,7 @@
      "home_code": "GLM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-24T19:00:00Z"
+     "kickoff_utc": "2026-09-24T15:00:00Z"
     },
     {
      "n": 53,
@@ -19056,7 +19250,7 @@
      "home_code": "MSP",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "kickoff_utc": "2026-09-24T19:00:00Z"
     },
     {
      "n": 54,
@@ -19067,7 +19261,7 @@
      "home_code": "GEM",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T15:00:00Z"
+     "kickoff_utc": "2026-09-25T11:00:00Z"
     },
     {
      "n": 55,
@@ -19078,7 +19272,7 @@
      "home_code": "CDX",
      "away_code": "FAB",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "kickoff_utc": "2026-09-25T15:00:00Z"
     },
     {
      "n": 56,
@@ -19089,7 +19283,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -19100,7 +19294,7 @@
      "home_code": "MSP",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "kickoff_utc": "2026-09-26T11:00:00Z"
     },
     {
      "n": 58,
@@ -19111,7 +19305,7 @@
      "home_code": "GEM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T19:00:00Z"
+     "kickoff_utc": "2026-09-26T15:00:00Z"
     },
     {
      "n": 59,
@@ -19122,7 +19316,7 @@
      "home_code": "CDX",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T11:00:00Z"
+     "kickoff_utc": "2026-09-26T19:00:00Z"
     },
     {
      "n": 60,
@@ -19133,7 +19327,7 @@
      "home_code": "FAB",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T15:00:00Z"
+     "kickoff_utc": "2026-09-27T11:00:00Z"
     },
     {
      "n": 61,
@@ -19144,7 +19338,7 @@
      "home_code": "RMA",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T19:00:00Z"
+     "kickoff_utc": "2026-09-27T15:00:00Z"
     },
     {
      "n": 62,
@@ -19155,7 +19349,7 @@
      "home_code": "GEM",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T11:00:00Z"
+     "kickoff_utc": "2026-09-27T19:00:00Z"
     },
     {
      "n": 63,
@@ -19165,7 +19359,8 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "CDX",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-28T11:00:00Z"
     },
     {
      "n": 64,
@@ -19448,20 +19643,20 @@
      "goals": 44
     },
     {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 40
+    },
+    {
      "name": "Spark",
      "team": "frontier_gemini",
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
      "goals": 39
-    },
-    {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 36
     },
     {
      "name": "Robodinho",
@@ -19480,20 +19675,20 @@
      "goals": 33
     },
     {
+     "name": "Zidroid",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
+     "goals": 32
+    },
+    {
      "name": "Buffon.exe",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
      "goals": 32
-    },
-    {
-     "name": "Zidroid",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 30
     },
     {
      "name": "Haalandroid",
@@ -19512,15 +19707,15 @@
      "goals": 29
     },
     {
-     "name": "Mbapp-E",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 26
+     "name": "Abyss",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
+     "goals": 27
     }
    ],
-   "aired_count": 48,
+   "aired_count": 49,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -22287,8 +22482,8 @@
   }
  },
  "totals": {
-  "matches_aired": 85,
-  "goals": 937,
+  "matches_aired": 86,
+  "goals": 948,
   "clubs": 11
  }
 }
