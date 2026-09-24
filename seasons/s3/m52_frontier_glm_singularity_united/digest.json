@@ -1,0 +1,243 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  2,
+  12
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "GLM FC",
+   "code": "GLM",
+   "players": [
+    "Zhi",
+    "Pu"
+   ]
+  },
+  "B": {
+   "name": "Singularity United",
+   "code": "SGU",
+   "players": [
+    "Haalandroid",
+    "BellingRAM"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 36.2,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 88.4,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 135.9,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 205.5,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 226.8,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 249.1,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 285.0,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 349.9,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 365.8,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 412.5,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 432.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 458.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 505.3,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 588.7,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 501,
+ "event_counts": {
+  "touch": 232,
+  "kick": 209,
+  "wall": 29,
+  "through": 13,
+  "near_miss": 3,
+  "fall": 12,
+  "buzzer": 2,
+  "ram": 1
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 109,
+   "kick": 104,
+   "wall": 15,
+   "through": 6,
+   "near_miss": 2,
+   "fall": 11
+  },
+  "half_2": {
+   "buzzer": 2,
+   "touch": 123,
+   "kick": 105,
+   "through": 7,
+   "wall": 14,
+   "fall": 1,
+   "near_miss": 1,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 12,
+  "by_opponent": 1,
+  "unforced": 11,
+  "by_half": {
+   "half_1": 11,
+   "half_2": 1
+  },
+  "times_s": [
+   41.8,
+   45.1,
+   45.2,
+   51.9,
+   54.5,
+   54.5,
+   61.5,
+   64.8,
+   69.7,
+   126.9,
+   134.5,
+   383.9
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_glm.GLMPlayer object at 0x10310c9e0>",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 80,
+   "decisions": 270,
+   "invalid_actions": 0,
+   "missed_deadlines": 10,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.537
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_glm.GLMPlayer object at 0x10310c8c0>",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 8,
+   "decisions": 296,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.092
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 56,
+   "decisions": 255,
+   "invalid_actions": 0,
+   "missed_deadlines": 11,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.64
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 88,
+   "decisions": 267,
+   "invalid_actions": 0,
+   "missed_deadlines": 6,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.667
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 3458541,
+ "tokens_out": 12493,
+ "est_cost_usd": 0.3509
+}
