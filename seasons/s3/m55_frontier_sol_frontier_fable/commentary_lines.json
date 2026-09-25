@@ -1,0 +1,596 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round eleven.",
+    "wav": "line_31fedb7d407a0dcf.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford is shouting across early, calling to shift round and cover goal-side against the initial press.",
+    "wav": "line_3abc95c49b8f3ce8.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 32.72,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide of the upright. That was uncomfortably close for the defence.",
+    "wav": "line_3f3324c57acb248f.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 40.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Disaster for AFC Fable! Hare turns it straight into the net from point-blank range, an own goal, and Codex City lead one-nil!",
+    "wav": "line_dd6ab1ef6cb9a14d.wav",
+    "dur_s": 9.9
+  },
+  {
+    "t": 65.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Patchford drives into the box.",
+    "wav": "line_92e5e597c06adacf.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 66.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Codex City keeping the pressure heaped on here.",
+    "wav": "line_a945eb78bab89be1.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 70.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to claim the loose ball.",
+    "wav": "line_34ae683ce225e459.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 73.18,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner ram wallops it out.",
+    "wav": "line_ef7bf74b434dacee.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 74.74,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham loses footing three metres out, but the gyros will have them back on two feet in a few moments.",
+    "wav": "line_9169230cf241b461.wav",
+    "dur_s": 7.26
+  },
+  {
+    "t": 97.8,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Both managers named unchanged squads today, trusting their existing logic completely. Patchford waits as the magenta ball rolls out wide, neither side rushing the reset.",
+    "wav": "line_3bcddd9486cff68c.wav",
+    "dur_s": 11.16
+  },
+  {
+    "t": 120.91,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Off the push-panel in the corner, firing it back out towards the touchline.",
+    "wav": "line_69f7554571ec29f8.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 130.49,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise hits the deck out wide. Unassisted slip, already beginning the upright routine.",
+    "wav": "line_9f427a31ffcbe7cd.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 143.92,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flashes just wide of the near post.",
+    "wav": "line_1eb78b6db2687c92.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 148.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts to take possession.",
+    "wav": "line_251c270581cf3c23.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 148.58,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ram panel intervenes once more, launching the ball back into the channel.",
+    "wav": "line_e633107e7e354d8b.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 173.52,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Powered panel spits it right back into the final third.",
+    "wav": "line_64fe4b90499bd0fc.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 179.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford taps it in from point-blank range. Neat finish, doubling the lead, and Codex City are two up.",
+    "wav": "line_df36cd546511e849.wav",
+    "dur_s": 6.48
+  },
+  {
+    "t": 197.27,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Corner panel rattles the ball back out to the flank.",
+    "wav": "line_326317b1ca9c7393.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 204.48,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham just misses the target.",
+    "wav": "line_bfc0014dbca24c71.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 204.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham follows it straight in and converts from close range. That makes it three-nil to Codex City.",
+    "wav": "line_35e114feacf34c54.wav",
+    "dur_s": 7.11
+  },
+  {
+    "t": 218.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise shouts that the ball is drifting goal-side.",
+    "wav": "line_f3b54700fc2602e4.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 222.27,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare takes a tumble unaided.",
+    "wav": "line_6ff690609db9a181.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 224.02,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham is through with clear turf ahead.",
+    "wav": "line_59faaf82b6f1fb39.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 228.38,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford leaves Tortoise flat on the deck.",
+    "wav": "line_25edf632952f24c6.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 232.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham carries up the left flank.",
+    "wav": "line_184d5083b274b1fa.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 232.02,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise responds with a solid challenge on Patchford.",
+    "wav": "line_c9b29686a0bb5454.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 236.0,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare collides with Tortoise and goes down heavily.",
+    "wav": "line_6ec1050af44d71ea.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 240.48,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham finds open space on the break, moving into the opposing half without a challenge.",
+    "wav": "line_34dfb78322614441.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 254.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham charges straight towards the net.",
+    "wav": "line_ebdefdebf087cdad.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 255.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City dominating territory here.",
+    "wav": "line_7f0e0b8825f41344.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 255.06,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise clears out from the back, suddenly clean through the centre with nothing ahead.",
+    "wav": "line_945d903394ed3a60.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 267.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Codex City keeping them hemmed in, managing the clock comfortably as the half draws close.",
+    "wav": "line_100b0f9910935d3c.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 278.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare drives forward along the left touchline, looking for an outlet three metres out.",
+    "wav": "line_86f9d978908d74ce.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 295.35,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Rebounded hard off the panel.",
+    "wav": "line_6bf4198ee6253ab8.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 296.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford calls to set the screen and clear.",
+    "wav": "line_c6cc047c213c057f.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds. Ball runs loose.",
+    "wav": "line_dedc8eb8ec2fcedc.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 302.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pressure kept high before the cut.",
+    "wav": "line_ba7d06e654d0717c.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball stops, confirming three-nil. A reminder for newcomers: the buzzer cuts power instantly and all four robots collapse where they stand, but the ball remains live until it comes to rest. If it crosses the line under its own steam, it counts.",
+    "wav": "line_2e448bf7ba742853.wav",
+    "dur_s": 16.3
+  },
+  {
+    "t": 331.64,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Scrapes right past the upright. Inches from sneaking inside the post.",
+    "wav": "line_6ed3e41683599aea.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 348.88,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Corner panel punches the ball back out into the defensive third.",
+    "wav": "line_c63f2aceab6323d7.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 353.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare drags it wide.",
+    "wav": "line_9d0d89904fb9ee77.wav",
+    "dur_s": 1.67
+  },
+  {
+    "t": 355.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare bundles it over the line this time. A lifeline for AFC Fable, pulling it back to three-one.",
+    "wav": "line_ea99a6382385b99e.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 368.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham pushes four metres straight up the middle.",
+    "wav": "line_91e0db5d45e937cc.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 372.49,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford topples over right in front.",
+    "wav": "line_2dbeeef2f839a4ee.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 375.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham cleans up from point-blank range. That restores the cushion, four-one to Codex City.",
+    "wav": "line_44009f6b4a60d886.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 391.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise calls to cover the retreating line as the ball slips toward their own end.",
+    "wav": "line_3e0763d546d11c0e.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 399.91,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A mix-up between Turingham and Patchford leaves Turingham sprawled on the surface.",
+    "wav": "line_20e0d0773ff7a81a.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 409.13,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Hare breaks through along the left channel with room to work.",
+    "wav": "line_cf74bbb2243dab9b.wav",
+    "dur_s": 3.4
+  },
+  {
+    "t": 414.19,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another solid kick back from the push-panel, keeping the magenta sphere moving across the channel.",
+    "wav": "line_c0b841bf121960b6.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 433.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Oh, Turingham has turned it into the wrong net. An own goal, and that brings AFC Fable back to four-two.",
+    "wav": "line_311b6c87cd2a1098.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 451.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford takes it three metres up the right touchline, putting Codex City back on the front foot.",
+    "wav": "line_e39f2c3179b10d45.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 462.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford slots home from close range. Five-two now, extending Codex City's command.",
+    "wav": "line_5699ffc6b813cc5d.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 467.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare shouts to claim the stationary ball in the centre circle, looking to move quickly.",
+    "wav": "line_67b32f1e32672c08.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 498.08,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham clean through the right.",
+    "wav": "line_77db838b04e56b33.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 499.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham drives along the touchline.",
+    "wav": "line_9e64921cb00695e7.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 499.79,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare clatters Turingham to turf.",
+    "wav": "line_8e7975066286d82f.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 501.38,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham recovers quickly and leaves Hare on the deck in return.",
+    "wav": "line_700be75e48cad81d.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 510.94,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another strong challenge downs Hare.",
+    "wav": "line_a13659d26b57d791.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 512.88,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Teammates collide again for Fable, Tortoise taking the worst of the impact this time.",
+    "wav": "line_c3922361d501aa96.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 528.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham finishes it off from a yard out. Six-two now, surely putting the result beyond doubt.",
+    "wav": "line_9757deb8bc8bb323.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 552.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Hare calls to drop back as the ball skitters fast across the midfield.",
+    "wav": "line_62bec2159350f172.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 591.39,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise halts Turingham with force.",
+    "wav": "line_396c15fe66fec2f4.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 593.88,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford sends it wide of the mark from three metres.",
+    "wav": "line_87f7d247188be39f.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 601.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Skims past the outside of the frame, harmlessly running away towards the left channel.",
+    "wav": "line_e777f1fe4c8ca20d.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cuts, and the ball slowly rolls through midfield.",
+    "wav": "line_21884635de555b18.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Ball comes to rest. Codex City win 6-2. Up next, GLM FC meet Real Machina, kicking off Wednesday at 20:00",
+    "wav": "line_6d5d4b53873d8cdc.wav",
+    "dur_s": 10.69
+  }
+]

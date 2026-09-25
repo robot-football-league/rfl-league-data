@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T15:56:20+00:00",
+ "generated_at": "2026-09-25T18:17:14+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8906,6 +8906,23 @@
     },
     {
      "pos": 5,
+     "slug": "frontier_sol",
+     "name": "Codex City",
+     "code": "CDX",
+     "color": "#0a0d0b",
+     "P": 11,
+     "W": 6,
+     "D": 0,
+     "L": 5,
+     "GF": 53,
+     "GA": 58,
+     "Pts": 18,
+     "GD": -5,
+     "prev": 6,
+     "move": 1
+    },
+    {
+     "pos": 6,
      "slug": "synthetic_athletic",
      "name": "Synthetic Athletic",
      "code": "SYA",
@@ -8919,24 +8936,7 @@
      "Pts": 16,
      "GD": -1,
      "prev": 5,
-     "move": 0
-    },
-    {
-     "pos": 6,
-     "slug": "frontier_sol",
-     "name": "Codex City",
-     "code": "CDX",
-     "color": "#0a0d0b",
-     "P": 10,
-     "W": 5,
-     "D": 0,
-     "L": 5,
-     "GF": 47,
-     "GA": 56,
-     "Pts": 15,
-     "GD": -9,
-     "prev": 6,
-     "move": 0
+     "move": -1
     },
     {
      "pos": 7,
@@ -8944,14 +8944,14 @@
      "name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "P": 10,
+     "P": 11,
      "W": 3,
      "D": 3,
-     "L": 4,
-     "GF": 61,
-     "GA": 49,
+     "L": 5,
+     "GF": 63,
+     "GA": 55,
      "Pts": 12,
-     "GD": 12,
+     "GD": 8,
      "prev": 7,
      "move": 0
     },
@@ -19881,8 +19881,181 @@
      "away_name": "AFC Fable",
      "home_code": "CDX",
      "away_code": "FAB",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-25T19:00:00Z"
+     "status": "aired",
+     "score": [
+      6,
+      2
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 6,
+        "second": 40.0,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": true
+       },
+       {
+        "minute": 27,
+        "second": 179.7,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 204.8,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 355.7,
+        "side": "away",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 56,
+        "second": 375.3,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 433.5,
+        "side": "away",
+        "scorer": "Turingham",
+        "own_goal": true
+       },
+       {
+        "minute": 69,
+        "second": 462.5,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 528.0,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 223,
+       "kick": 227,
+       "near_miss": 7,
+       "wall": 53,
+       "ram": 8,
+       "fall": 27,
+       "through": 9,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 40.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "They won't outrun us twice. Again."
+       },
+       {
+        "second": 84.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +0.2, +1.9, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 122.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -4.9, +3.6, rolling at our net \u2014 mine, slow and steady."
+       },
+       {
+        "second": 169.8,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 206.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "A lesson, not a defeat. Reset and go again."
+       },
+       {
+        "second": 259.8,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Ball lost; recovering goal-side before scanning."
+       },
+       {
+        "second": 296.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 359.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 407.6,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -4.8, -4.2, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 448.4,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 489.8,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Danger: both players counterpress; clear through the far goal."
+       },
+       {
+        "second": 545.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 582.9,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -6.6, -1.7, near still \u2014 mine, slow and steady."
+       }
+      ],
+      "stats": {
+       "kicks": 227,
+       "falls": 27,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 9
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-25T15:04:42Z",
+     "watch": {
+      "id": "s3-m55_frontier_sol_frontier_fable",
+      "url": "https://4dgsx.com/watch/s3-m55_frontier_sol_frontier_fable",
+      "embed_url": "https://4dgsx.com/embed/s3-m55_frontier_sol_frontier_fable"
+     }
     },
     {
      "n": 56,
@@ -19893,7 +20066,7 @@
      "home_code": "GLM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "kickoff_utc": "2026-09-25T19:00:00Z"
     },
     {
      "n": 57,
@@ -19904,7 +20077,7 @@
      "home_code": "MSP",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "kickoff_utc": "2026-09-26T11:00:00Z"
     },
     {
      "n": 58,
@@ -19915,7 +20088,7 @@
      "home_code": "GEM",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-26T19:00:00Z"
+     "kickoff_utc": "2026-09-26T15:00:00Z"
     },
     {
      "n": 59,
@@ -19926,7 +20099,7 @@
      "home_code": "CDX",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T11:00:00Z"
+     "kickoff_utc": "2026-09-26T19:00:00Z"
     },
     {
      "n": 60,
@@ -19937,7 +20110,7 @@
      "home_code": "FAB",
      "away_code": "SYA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T15:00:00Z"
+     "kickoff_utc": "2026-09-27T11:00:00Z"
     },
     {
      "n": 61,
@@ -19948,7 +20121,7 @@
      "home_code": "RMA",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-27T19:00:00Z"
+     "kickoff_utc": "2026-09-27T15:00:00Z"
     },
     {
      "n": 62,
@@ -19959,7 +20132,7 @@
      "home_code": "GEM",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T11:00:00Z"
+     "kickoff_utc": "2026-09-27T19:00:00Z"
     },
     {
      "n": 63,
@@ -19970,7 +20143,7 @@
      "home_code": "CDX",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T15:00:00Z"
+     "kickoff_utc": "2026-09-28T11:00:00Z"
     },
     {
      "n": 64,
@@ -19981,7 +20154,7 @@
      "home_code": "FAB",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T19:00:00Z"
+     "kickoff_utc": "2026-09-28T15:00:00Z"
     },
     {
      "n": 65,
@@ -19992,7 +20165,7 @@
      "home_code": "SYA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-29T11:00:00Z"
+     "kickoff_utc": "2026-09-28T19:00:00Z"
     },
     {
      "n": 66,
@@ -20003,7 +20176,7 @@
      "home_code": "GEM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-29T15:00:00Z"
+     "kickoff_utc": "2026-09-29T11:00:00Z"
     },
     {
      "n": 67,
@@ -20013,7 +20186,8 @@
      "away_name": "Muse Spark FC",
      "home_code": "CDX",
      "away_code": "MSP",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-29T15:00:00Z"
     },
     {
      "n": 68,
@@ -20321,7 +20495,7 @@
      "team_name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "goals": 33
+     "goals": 34
     },
     {
      "name": "Haalandroid",
@@ -20348,7 +20522,7 @@
      "goals": 27
     }
    ],
-   "aired_count": 52,
+   "aired_count": 53,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -23115,8 +23289,8 @@
   }
  },
  "totals": {
-  "matches_aired": 89,
-  "goals": 985,
+  "matches_aired": 90,
+  "goals": 993,
   "clubs": 11
  }
 }
