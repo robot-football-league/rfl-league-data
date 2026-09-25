@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 2
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 7
+  },
+  "winner": "Real Machina",
+  "code": {
+    "home": {
+      "commit": "fc318939165f9b32e1357ce72bd9d165b4c308a9",
+      "subject": "night 39: (no summary given)",
+      "committed_at": "2026-09-14T11:55:58+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "9dd0d2c68439372277146e7bf16d9d67a006b4a6"
+  }
+}

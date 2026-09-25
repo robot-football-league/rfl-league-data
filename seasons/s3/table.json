@@ -4862,6 +4862,92 @@
    "dir": "runs/league/s3/m55_frontier_sol_frontier_fable"
   },
   {
+   "fixture": 56,
+   "home": "frontier_glm",
+   "away": "real_machina",
+   "score": [
+    2,
+    7
+   ],
+   "goals": [
+    {
+     "t": 51.2,
+     "team": "B",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 183.8,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 417.9,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 442.4,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 463.6,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 482.6,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 498.2,
+     "team": "B",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 533.8,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 610.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.3499,
+   "players": {
+    "home": [
+     "Zhi",
+     "Pu"
+    ],
+    "away": [
+     "CR-7000",
+     "Zidroid"
+    ]
+   },
+   "dir": "runs/league/s3/m56_frontier_glm_real_machina"
+  },
+  {
    "fixture": 45,
    "home": "frontier_gemini",
    "away": "frontier_muse",

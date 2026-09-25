@@ -1,0 +1,212 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  2,
+  7
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "GLM FC",
+   "code": "GLM",
+   "players": [
+    "Zhi",
+    "Pu"
+   ]
+  },
+  "B": {
+   "name": "Real Machina",
+   "code": "RMA",
+   "players": [
+    "CR-7000",
+    "Zidroid"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 51.2,
+   "team": "B",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 183.8,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 417.9,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 442.4,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 463.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 482.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 498.2,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 533.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 610.0,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 442,
+ "event_counts": {
+  "touch": 199,
+  "through": 13,
+  "kick": 171,
+  "wall": 28,
+  "near_miss": 8,
+  "fall": 15,
+  "ram": 6,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 100,
+   "through": 5,
+   "kick": 89,
+   "wall": 21,
+   "near_miss": 3,
+   "fall": 3,
+   "ram": 4
+  },
+  "half_2": {
+   "buzzer": 2,
+   "touch": 99,
+   "kick": 82,
+   "near_miss": 5,
+   "wall": 7,
+   "fall": 12,
+   "ram": 2,
+   "through": 8
+  }
+ },
+ "falls": {
+  "total": 15,
+  "by_opponent": 5,
+  "unforced": 10,
+  "by_half": {
+   "half_1": 3,
+   "half_2": 12
+  },
+  "times_s": [
+   18.0,
+   19.8,
+   28.1,
+   332.5,
+   342.0,
+   347.9,
+   351.5,
+   358.3,
+   507.1,
+   515.1,
+   580.7,
+   585.5,
+   591.7,
+   601.9,
+   615.1
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "<rfl_team_frontier_glm.GLMPlayer object at 0x104d30410>",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 42,
+   "decisions": 276,
+   "invalid_actions": 0,
+   "missed_deadlines": 5,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.023
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "<rfl_team_frontier_glm.GLMPlayer object at 0x106114e00>",
+   "falls": 1,
+   "recoveries": 1,
+   "touches": 39,
+   "decisions": 295,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.488
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 8,
+   "recoveries": 7,
+   "touches": 60,
+   "decisions": 262,
+   "invalid_actions": 0,
+   "missed_deadlines": 1,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.542
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 3,
+   "recoveries": 3,
+   "touches": 58,
+   "decisions": 274,
+   "invalid_actions": 0,
+   "missed_deadlines": 5,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.579
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 3449540,
+ "tokens_out": 12272,
+ "est_cost_usd": 0.3499
+}

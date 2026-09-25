@@ -1,0 +1,587 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round twelve.",
+    "wav": "line_08bbac3788953baa.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 2.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 calls for the loose ball.",
+    "wav": "line_24a9a7790b97fca5.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 6.56,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "CR-7000 breaks clear through the centre with open goal ahead!",
+    "wav": "line_47e95dcb9be3f991.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 16.12,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just wide of the target.",
+    "wav": "line_ce73b8f3df335299.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 18.03,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "CR-7000 loses footing out wide.",
+    "wav": "line_055e2f72e3b35f09.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 19.78,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A messy tangle between teammates leaves Zidroid down on the carpet.",
+    "wav": "line_f9680164987c8a1d.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 28.05,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "CR-7000 goes down again unprovoked.",
+    "wav": "line_04dd1e457aa055ad.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 28.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zhi shouts across that the ball is safe along the back wall. GLM named an unchanged squad today, trusting their setup to finally earn some points.",
+    "wav": "line_c4bd6ec8363a2ea9.wav",
+    "dur_s": 9.07
+  },
+  {
+    "t": 48.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Real Machina applying real pressure now.",
+    "wav": "line_efeae5f3ad8b3346.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 48.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls to keep working it.",
+    "wav": "line_cc3dae8d43979c2a.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 51.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Disaster for GLM! Zhi turns it straight into the net, an awful own goal, and Real Machina take the lead!",
+    "wav": "line_5a687f96ec390814.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 63.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "CR-7000 powers forward through the middle into the final third.",
+    "wav": "line_a9abc181f8cb8472.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 70.91,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Fired out of the corner by the push-panel. Real Machina are a frozen founding club, running the exact code they started with, yet here they are purring along nicely in second place.",
+    "wav": "line_d1422bfd1f44ee17.wav",
+    "dur_s": 11.21
+  },
+  {
+    "t": 104.93,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The panel hammers it clear.",
+    "wav": "line_394c1f6bc664c96d.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 105.92,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "CR-7000 pounces on it and drives clean through on goal!",
+    "wav": "line_deb54754ba983538.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 137.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls to say it is coming loose.",
+    "wav": "line_4ab8ee7b961c51c0.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 141.24,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Skims past the upright from close range.",
+    "wav": "line_85fa4b0f932ea7e0.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 162.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid is shouting to work the ball away from the corner.",
+    "wav": "line_c7712ed1a7f42410.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 169.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Real Machina have pinned GLM deep in their own territory for half a minute now.",
+    "wav": "line_885cd33b149dbca0.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 183.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Pu charges up the right flank!",
+    "wav": "line_e0b8bd7f891fb2b3.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 183.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Pu strikes for GLM FC! An equaliser out of nowhere, sweeping it home from point-blank range to make it one-one!",
+    "wav": "line_3010d0d39b023174.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 210.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zidroid responds immediately, motoring deep into the attacking third.",
+    "wav": "line_397509df56ab91c0.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 219.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls to unstick it.",
+    "wav": "line_9e8942933308cfc5.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 219.64,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner ram springs out to bounce the ball back into the channel.",
+    "wav": "line_78313fddf253bb44.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 245.17,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Another solid kickback from the wall panel keeps play moving along the touchline.",
+    "wav": "line_62ee44321ff70084.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 264.16,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A teasing effort flashes inches wide of the mark.",
+    "wav": "line_05928e223119db64.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 288.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid calls out that the ball is moving safe along the mid-pitch wall.",
+    "wav": "line_eae1aaec24e0c377.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting power instantly, but the magenta ball rolls on.",
+    "wav": "line_9e5d414fc1195604.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "It stops, leaving it one-one at the break. Remember, the buzzer cuts the power so the machines collapse, but any rolling ball remains live until it halts.",
+    "wav": "line_97503b08d1584d9f.wav",
+    "dur_s": 10.37
+  },
+  {
+    "t": 328.56,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Inches wide of the target to open the second half.",
+    "wav": "line_b69deb3adb8d37ae.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 334.01,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel shoots it back into the channel.",
+    "wav": "line_6d50f098190b5b43.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 341.96,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "CR-7000 takes an awkward tumble in the final third.",
+    "wav": "line_10864eec6d85b887.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 347.13,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Zhi breaks through on goal!",
+    "wav": "line_a1c0e98b58ee3b00.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 347.88,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Real Machina collide in the middle, sending Zidroid clattering to the turf.",
+    "wav": "line_542e5b1ed68ef134.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 354.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi carries play forward up the right flank.",
+    "wav": "line_1840cd51ca351d3b.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 358.27,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates crash into each other again.",
+    "wav": "line_5988ff910bea0a4b.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 360.6,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Zhi flashes a shot agonizingly wide of the right post.",
+    "wav": "line_f521ae2329781cc1.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 370.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "GLM maintaining sustained territory in the Real Machina third.",
+    "wav": "line_98eff86ca1a77394.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 381.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "GLM keeping the white shirts boxed in near their own net.",
+    "wav": "line_ac175052ebc456b1.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 405.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Zidroid breaks out, marching through the midfield circle.",
+    "wav": "line_314b863b3c24e96d.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 411.11,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Zidroid gets through on goal along the left touchline!",
+    "wav": "line_dae6e9d0f2972ff2.wav",
+    "dur_s": 3.87
+  },
+  {
+    "t": 417.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving hard into the box!",
+    "wav": "line_28d2df7d1570f076.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 417.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zidroid restores the lead! A ruthless run and finish to put Real Machina two-one up!",
+    "wav": "line_1c3132bdb666aa82.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 442.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "CR-7000 bundles it home from the goal mouth. That makes it three-one to Real Machina.",
+    "wav": "line_0e540005e301cc1b.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 456.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid pushes into the corner.",
+    "wav": "line_b28c6b8bac6ccf53.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 458.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just misses the mark.",
+    "wav": "line_b70f6b950a33afd9.wav",
+    "dur_s": 1.18
+  },
+  {
+    "t": 462.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid calls it off the boards.",
+    "wav": "line_693e3987df2346ce.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 463.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "CR-7000 taps in another from close range. It is four-one Real Machina now.",
+    "wav": "line_834d36ef5d2d565c.wav",
+    "dur_s": 6.24
+  },
+  {
+    "t": 477.83,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "CR-7000 is clean through on goal once more.",
+    "wav": "line_ce3cdf46069c184f.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 482.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "CR-7000 slots it away effortlessly. Five-one to Real Machina as the clock winds down.",
+    "wav": "line_dd5a1bb99b60ecd4.wav",
+    "dur_s": 6.61
+  },
+  {
+    "t": 498.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "CR-7000 adds another into the bottom corner. Six-one now to Real Machina.",
+    "wav": "line_2ca4221965b747ac.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 507.1,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi comes in with a firm challenge to floor CR-7000 in midfield.",
+    "wav": "line_094ae567300eaa55.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 515.07,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu is sent sprawling after clashing with CR-7000 in the defensive third.",
+    "wav": "line_3feb1583d9974312.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 533.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi pulls one back for GLM FC from the left channel, making it two-six.",
+    "wav": "line_de7fb1785e0cb90f.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 546.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid drives inside the box.",
+    "wav": "line_a36c6eb7d45e3966.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 546.52,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A snapshot drifts just wide of the post.",
+    "wav": "line_08306dc2bc54b07e.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 556.03,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The powered ram thumps the ball away from the left corner.",
+    "wav": "line_8ebda5c9dc9a782e.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 580.72,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Zhi trips over thin air in the centre.",
+    "wav": "line_aa514e44c16081f1.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 585.51,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 is bowled over in another heavy clash with Zhi.",
+    "wav": "line_e5cb5c624a537979.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 591.68,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 returns the favour, sending Zhi tumbling in midfield.",
+    "wav": "line_c15d31a2e1b25d51.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 608.76,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Narrow miss right in front.",
+    "wav": "line_8d5859e97f87b8ae.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 610.0,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Zidroid tucks it home right at the death to seal seven-two for Real Machina.",
+    "wav": "line_7a6d6c1b20ccdd8e.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 615.06,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 goes down once more.",
+    "wav": "line_e3b2df54a3e2afd2.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, power is cut, and the ball trickles harmlessly in midfield.",
+    "wav": "line_66531422b76c4e2b.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The ball stops. It finishes two-seven. Muse Spark face DeepSeek Rovers next, Thursday at 16:00 UK, 17:00 Europe, 11:00 US",
+    "wav": "line_1a59ec532532d45b.wav",
+    "dur_s": 11.91
+  }
+]
