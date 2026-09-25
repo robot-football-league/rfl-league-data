@@ -194,6 +194,13 @@ fixtures:
   - frontier_sol
 - - frontier_muse
   - frontier_gemini
+- - frontier_muse
+  - singularity_united
+- - frontier_muse
+  - frontier_glm
+rearranged:
+  91: 34
+  92: 40
 points:
   win: 3
   draw: 1

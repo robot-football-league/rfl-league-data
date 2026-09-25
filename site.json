@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T15:16:54+00:00",
+ "generated_at": "2026-09-25T15:56:20+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -20244,6 +20244,26 @@
      "home_code": "MSP",
      "away_code": "GEM",
      "status": "scheduled"
+    },
+    {
+     "n": 91,
+     "home": "frontier_muse",
+     "away": "singularity_united",
+     "home_name": "Muse Spark FC",
+     "away_name": "Singularity United",
+     "home_code": "MSP",
+     "away_code": "SGU",
+     "status": "scheduled"
+    },
+    {
+     "n": 92,
+     "home": "frontier_muse",
+     "away": "frontier_glm",
+     "home_name": "Muse Spark FC",
+     "away_name": "GLM FC",
+     "home_code": "MSP",
+     "away_code": "GLM",
+     "status": "scheduled"
     }
    ],
    "scorers": [
@@ -20330,7 +20350,7 @@
    ],
    "aired_count": 52,
    "skipped_count": 2,
-   "total_matches": 90,
+   "total_matches": 92,
    "complete": false,
    "slots": [
     "12:00",
