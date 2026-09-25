@@ -1,0 +1,533 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round eleven.",
+    "wav": "line_31fedb7d407a0dcf.wav",
+    "dur_s": 1.54
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash immediately calls for a coordinated press through the middle.",
+    "wav": "line_c154f8294527c9c3.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 21.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Point-blank range and it whistles just wide of the post!",
+    "wav": "line_9a94e9a325a7a04b.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 28.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark pounces from close range and Gemini Flash lead!",
+    "wav": "line_9462ac5d8df16ad3.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 29.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Relentless pressure early on, Synthetic Athletic completely pinned.",
+    "wav": "line_29acf2ef32a5150a.wav",
+    "dur_s": 4.23
+  },
+  {
+    "t": 34.62,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash topples over in midfield, legs whirring quietly as the self-righting routine kicks in.",
+    "wav": "line_0ee9359f455a1a83.wav",
+    "dur_s": 6.19
+  },
+  {
+    "t": 47.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A venomous strike flashes across the face of goal, agonizingly close!",
+    "wav": "line_5ea3d321dfa77e6e.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 61.53,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash breaks clean through from deep, entirely unchecked!",
+    "wav": "line_28370fff51b78201.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 74.22,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner panel fires it back out.",
+    "wav": "line_3fad009205539374.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 75.37,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash takes an ungainly tumble.",
+    "wav": "line_a687362b9103bca2.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 77.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn shouts across that they are moving in to claim the loose ball.",
+    "wav": "line_6a0373ce5c1738dd.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 99.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho snatches the leveller right on the goal line! Synthetic Athletic are right back in it!",
+    "wav": "line_bd950c7a88ca5914.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 124.12,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches wide from point-blank!",
+    "wav": "line_63b53b3d9c42e7ff.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 124.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark buries it at the second time of asking! Gemini Flash restore the advantage!",
+    "wav": "line_9203c2190cb2b1d4.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 137.19,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho is clean through down the right flank!",
+    "wav": "line_053c39cc4d0f0b31.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 141.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho squares it again! A ruthless finish right on the goal mouth!",
+    "wav": "line_78f216f6cdf581f5.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 159.1,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn calls to unstick it.",
+    "wav": "line_c8d3c0dc3503f894.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 160.1,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Corner panel thumps it clear.",
+    "wav": "line_792b3fb9a4483d8d.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 162.01,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Clumsy collision between teammates leaves Robodinho down.",
+    "wav": "line_1aa509db121ba197.wav",
+    "dur_s": 3.74
+  },
+  {
+    "t": 164.82,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash crunches in, sending Griezmatronn clattering onto the deck.",
+    "wav": "line_cdba95eb1b86c15b.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 169.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Gemini Flash setting up camp in the final third.",
+    "wav": "line_e958067758cd5ae7.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 172.55,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark lands a heavy challenge out wide, flattening Robodinho.",
+    "wav": "line_d890c6bea549ecd6.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 181.86,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark leaves Robodinho sprawled on the turf once more with a well-timed interception.",
+    "wav": "line_e4b1dd750f4162fd.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 206.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Spark misses by a whisker!",
+    "wav": "line_ee784246897c5433.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 208.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash taps it home! Gemini edge ahead once again!",
+    "wav": "line_7cb91aea9267ee56.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 210.21,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn loses balance in the centre circle and folds over unaided.",
+    "wav": "line_23084b38600f32ab.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 229.16,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Gemini teammates collide heavily.",
+    "wav": "line_ad201d6606dda085.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 230.91,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel ejects the ball back into the mixer.",
+    "wav": "line_2258b15300fe5cf6.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 238.42,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Panel fires it clear again.",
+    "wav": "line_79945a081f3e841e.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 239.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Griezmatronn shouts to clear.",
+    "wav": "line_90c8259d98a2bde3.wav",
+    "dur_s": 1.65
+  },
+  {
+    "t": 240.05,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Another tangle between the Gemini pair leaves Flash flat on the deck.",
+    "wav": "line_23b29f472f8c7933.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 247.4,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark steps in firmly, knocking Griezmatronn clean off their feet.",
+    "wav": "line_6a46342d27fae533.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 252.63,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Robodinho breaks away down the left touchline!",
+    "wav": "line_37326c76b4b2f7e2.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 257.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A steady march forward from Robodinho, nudging it three metres into midfield.",
+    "wav": "line_937fbde5be809df3.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 285.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A fraction away from scoring!",
+    "wav": "line_a4db84644ab87e9a.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 287.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark reacts quickest and tucks it away to extend the lead to two.",
+    "wav": "line_f10ecb0f09ffc4d5.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The half-time buzzer sounds, power cuts instantly, but the ball rolls harmlessly wide.",
+    "wav": "line_efabd501b53e9dc9.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "All four units collapsed mid-stride as the buzzer cut their power, but remember, until that magenta ball stops, anything crossing the line counts. It comes to rest safely, leaving Gemini Flash four-two up at the break.",
+    "wav": "line_5b85a6a661096ed1.wav",
+    "dur_s": 13.9
+  },
+  {
+    "t": 327.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark picks up right where they left off, slotting home a fifth.",
+    "wav": "line_0afb36c987a580d9.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 333.52,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark takes an awkward tumble in the centre circle.",
+    "wav": "line_271ed407141bee0b.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 341.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho pulls one back immediately from the doorstep, keeping Synthetic Athletic within reach.",
+    "wav": "line_5cab5069592a7372.wav",
+    "dur_s": 6.37
+  },
+  {
+    "t": 349.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for immediate pressure.",
+    "wav": "line_9166d330b0c6f0d4.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 352.62,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark is through on goal!",
+    "wav": "line_d75c6a21c32d635a.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 354.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark drives purposefully into the final third.",
+    "wav": "line_8b886153ce4e50c7.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 359.19,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn gets knocked down.",
+    "wav": "line_5bfa14b13138a54e.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 361.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark rolls in another from close range to make it six for the league leaders.",
+    "wav": "line_a425b7ab3552b30d.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 377.0,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark dislodges Griezmatronn near the touchline, sending red metal sliding across the deck.",
+    "wav": "line_05a0f4e177984093.wav",
+    "dur_s": 5.49
+  },
+  {
+    "t": 402.82,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark finds daylight in midfield and charges clean through on goal.",
+    "wav": "line_3d7afb900e0647c0.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 420.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Inches wide of the right post.",
+    "wav": "line_dfa5801964e9ea32.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 424.2,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn shouts that the ball is trapped and they are clearing it out.",
+    "wav": "line_772311731a742412.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 433.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A dreadful mix-up as Griezmatronn knocks it into their own net for seven-three.",
+    "wav": "line_e0901e225db0ccd7.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 457.62,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The powered ram panel spits the ball back into play off the angled corner.",
+    "wav": "line_2474cce5a1b59821.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 471.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Synthetic Athletic sustaining a rare spell of pressure, keeping Flash pinned deep.",
+    "wav": "line_8593be655249132c.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 491.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls for another surge through the middle as time winds down.",
+    "wav": "line_620d22b53c096a22.wav",
+    "dur_s": 4.15
+  },
+  {
+    "t": 534.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Gemini Flash killing the clock effectively here, pinning the reds in their own corner.",
+    "wav": "line_4081909a5b26d9a3.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 557.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn signals to clear the danger off the perimeter wall.",
+    "wav": "line_d7621fc8673ccb06.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 595.54,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Corner panel launches it back across the box in the dying seconds.",
+    "wav": "line_2f819a8d4c6113a6.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, the power dies, and the ball slowly trickles through midfield.",
+    "wav": "line_4f264c894ff735ca.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Seven-three it ends. Codex City face AFC Fable on Wednesday, sixteen hundred UK, seventeen hundred Europe, eleven hundred Eastern.",
+    "wav": "line_40bf16966012e0ba.wav",
+    "dur_s": 9.54
+  }
+]

@@ -1,0 +1,3007 @@
+{
+  "mode": "realtime",
+  "match_time_s": 600.0,
+  "teams": {
+    "A": {
+      "name": "Gemini Flash FC",
+      "code": "GEM",
+      "color": "colored",
+      "players": [
+        "Flash",
+        "Spark"
+      ]
+    },
+    "B": {
+      "name": "Synthetic Athletic",
+      "code": "SYA",
+      "color": "red",
+      "players": [
+        "Griezmatronn",
+        "Robodinho"
+      ]
+    }
+  },
+  "halves": 2,
+  "half_breaks": [
+    300.0
+  ],
+  "buzzers": [
+    {
+      "kind": "half",
+      "t": 300.0,
+      "play_end_t": 305.0,
+      "dead_s": 5.0,
+      "ended": "ball at rest",
+      "restart_t": 317.0
+    },
+    {
+      "kind": "full",
+      "t": 617.0,
+      "play_end_t": 622.0,
+      "dead_s": 5.0,
+      "ended": "ball at rest",
+      "restart_t": null
+    }
+  ],
+  "play_end_s": 622.0,
+  "score": [
+    7,
+    3
+  ],
+  "winner": "A",
+  "goals": [
+    {
+      "t": 28.2,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 99.0,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 124.7,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 141.3,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 208.2,
+      "team": "A",
+      "scorer": 0,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 287.3,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 327.9,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 341.3,
+      "team": "B",
+      "scorer": 3,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 361.1,
+      "team": "A",
+      "scorer": 1,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    },
+    {
+      "t": 433.8,
+      "team": "A",
+      "scorer": 2,
+      "after_buzzer": false,
+      "replay_s": 5.0
+    }
+  ],
+  "events": [
+    {
+      "t": 3.21,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 3.24,
+      "kind": "kick",
+      "mag": 1.88,
+      "who": 0
+    },
+    {
+      "t": 5.05,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 5.08,
+      "kind": "kick",
+      "mag": 0.89,
+      "who": 3
+    },
+    {
+      "t": 6.88,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 8.76,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 12.48,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 18.45,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 18.48,
+      "kind": "kick",
+      "mag": 0.7,
+      "who": 0
+    },
+    {
+      "t": 18.84,
+      "kind": "kick",
+      "mag": 0.56,
+      "who": 0
+    },
+    {
+      "t": 21.36,
+      "kind": "near_miss",
+      "mag": 0.96
+    },
+    {
+      "t": 21.58,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 23.76,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 26.32,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 27.42,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 27.44,
+      "kind": "kick",
+      "mag": 0.76,
+      "who": 3
+    },
+    {
+      "t": 28.03,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 28.04,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 1
+    },
+    {
+      "t": 32.78,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 32.86,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 33.08,
+      "kind": "kick",
+      "mag": 0.95,
+      "who": 3
+    },
+    {
+      "t": 33.27,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 33.8,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 33.84,
+      "kind": "kick",
+      "mag": 0.95,
+      "who": 2
+    },
+    {
+      "t": 34.62,
+      "kind": "fall",
+      "who": 0
+    },
+    {
+      "t": 36.41,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 36.44,
+      "kind": "kick",
+      "mag": 1.17,
+      "who": 0
+    },
+    {
+      "t": 37.09,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 37.12,
+      "kind": "kick",
+      "mag": 0.78,
+      "who": 1
+    },
+    {
+      "t": 37.46,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 37.48,
+      "kind": "kick",
+      "mag": 0.81,
+      "who": 3
+    },
+    {
+      "t": 38.12,
+      "kind": "kick",
+      "mag": 0.77,
+      "who": 3
+    },
+    {
+      "t": 40.87,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 40.88,
+      "kind": "kick",
+      "mag": 1.04,
+      "who": 3
+    },
+    {
+      "t": 43.33,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 43.36,
+      "kind": "kick",
+      "mag": 0.82,
+      "who": 1
+    },
+    {
+      "t": 43.68,
+      "kind": "wall",
+      "mag": 0.61
+    },
+    {
+      "t": 44.54,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 44.56,
+      "kind": "kick",
+      "mag": 1.39,
+      "who": 3
+    },
+    {
+      "t": 44.6,
+      "kind": "wall",
+      "mag": 1.39
+    },
+    {
+      "t": 45.12,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 3
+    },
+    {
+      "t": 45.92,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 3
+    },
+    {
+      "t": 46.91,
+      "kind": "fall",
+      "who": 3
+    },
+    {
+      "t": 47.08,
+      "kind": "near_miss",
+      "mag": 0.77
+    },
+    {
+      "t": 54.71,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 54.72,
+      "kind": "kick",
+      "mag": 0.85,
+      "who": 1
+    },
+    {
+      "t": 54.76,
+      "kind": "wall",
+      "mag": 0.64
+    },
+    {
+      "t": 58.84,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 58.88,
+      "kind": "kick",
+      "mag": 0.86,
+      "who": 0
+    },
+    {
+      "t": 59.24,
+      "kind": "kick",
+      "mag": 0.73,
+      "who": 0
+    },
+    {
+      "t": 60.85,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 60.88,
+      "kind": "kick",
+      "mag": 0.65,
+      "who": 0
+    },
+    {
+      "t": 61.53,
+      "kind": "through",
+      "who": 0
+    },
+    {
+      "t": 61.56,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 0
+    },
+    {
+      "t": 68.67,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 68.68,
+      "kind": "kick",
+      "mag": 1.19,
+      "who": 3
+    },
+    {
+      "t": 68.69,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 68.72,
+      "kind": "wall",
+      "mag": 1.29
+    },
+    {
+      "t": 74.22,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 75.08,
+      "kind": "kick",
+      "mag": 0.62,
+      "who": 3
+    },
+    {
+      "t": 75.37,
+      "kind": "fall",
+      "who": 0
+    },
+    {
+      "t": 81.59,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 85.09,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 85.12,
+      "kind": "kick",
+      "mag": 1.71,
+      "who": 3
+    },
+    {
+      "t": 87.51,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 87.52,
+      "kind": "kick",
+      "mag": 0.83,
+      "who": 0
+    },
+    {
+      "t": 88.51,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 90.11,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 90.83,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 90.84,
+      "kind": "kick",
+      "mag": 1.16,
+      "who": 2
+    },
+    {
+      "t": 94.77,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 94.8,
+      "kind": "kick",
+      "mag": 1.48,
+      "who": 3
+    },
+    {
+      "t": 95.03,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 95.12,
+      "kind": "kick",
+      "mag": 0.73,
+      "who": 3
+    },
+    {
+      "t": 95.48,
+      "kind": "kick",
+      "mag": 0.86,
+      "who": 3
+    },
+    {
+      "t": 97.49,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 97.52,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 3
+    },
+    {
+      "t": 102.63,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 102.64,
+      "kind": "kick",
+      "mag": 1.76,
+      "who": 0
+    },
+    {
+      "t": 102.72,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 103.24,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 3
+    },
+    {
+      "t": 106.15,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 106.16,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 2
+    },
+    {
+      "t": 110.57,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 110.64,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 112.24,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 112.28,
+      "kind": "kick",
+      "mag": 0.8,
+      "who": 1
+    },
+    {
+      "t": 112.96,
+      "kind": "through",
+      "who": 1
+    },
+    {
+      "t": 121.16,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 121.55,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 121.56,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 0
+    },
+    {
+      "t": 123.38,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 124.12,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 1
+    },
+    {
+      "t": 124.12,
+      "kind": "near_miss",
+      "mag": 1.05
+    },
+    {
+      "t": 128.39,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 128.4,
+      "kind": "kick",
+      "mag": 0.96,
+      "who": 0
+    },
+    {
+      "t": 128.74,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 128.76,
+      "kind": "kick",
+      "mag": 2.44,
+      "who": 3
+    },
+    {
+      "t": 132.31,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 134.12,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 134.16,
+      "kind": "kick",
+      "mag": 0.7,
+      "who": 3
+    },
+    {
+      "t": 134.68,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 134.72,
+      "kind": "kick",
+      "mag": 0.73,
+      "who": 0
+    },
+    {
+      "t": 135.08,
+      "kind": "kick",
+      "mag": 1.02,
+      "who": 3
+    },
+    {
+      "t": 137.19,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 137.19,
+      "kind": "through",
+      "who": 3
+    },
+    {
+      "t": 137.36,
+      "kind": "kick",
+      "mag": 1.43,
+      "who": 3
+    },
+    {
+      "t": 144.81,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 144.84,
+      "kind": "kick",
+      "mag": 1.22,
+      "who": 0
+    },
+    {
+      "t": 145.45,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 145.48,
+      "kind": "kick",
+      "mag": 1.78,
+      "who": 3
+    },
+    {
+      "t": 145.84,
+      "kind": "kick",
+      "mag": 0.67,
+      "who": 3
+    },
+    {
+      "t": 150.69,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 151.32,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 152.42,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 153.02,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 153.57,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 153.6,
+      "kind": "kick",
+      "mag": 1.3,
+      "who": 0
+    },
+    {
+      "t": 155.07,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 155.4,
+      "kind": "wall",
+      "mag": 0.56
+    },
+    {
+      "t": 156.09,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 156.12,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 1
+    },
+    {
+      "t": 156.99,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 157.36,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 3
+    },
+    {
+      "t": 160.1,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 160.29,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 161.94,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 161.96,
+      "kind": "kick",
+      "mag": 0.62,
+      "who": 1
+    },
+    {
+      "t": 162.01,
+      "kind": "fall",
+      "who": 3,
+      "by": 2,
+      "opponent": false
+    },
+    {
+      "t": 162.81,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 162.84,
+      "kind": "kick",
+      "mag": 0.82,
+      "who": 0
+    },
+    {
+      "t": 163.28,
+      "kind": "kick",
+      "mag": 0.7,
+      "who": 1
+    },
+    {
+      "t": 164.82,
+      "kind": "fall",
+      "who": 2,
+      "by": 0,
+      "opponent": true
+    },
+    {
+      "t": 165.61,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 165.61,
+      "kind": "fall",
+      "who": 1,
+      "by": 2,
+      "opponent": true
+    },
+    {
+      "t": 165.64,
+      "kind": "kick",
+      "mag": 1.22,
+      "who": 1
+    },
+    {
+      "t": 168.06,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 172.55,
+      "kind": "fall",
+      "who": 3,
+      "by": 1,
+      "opponent": true
+    },
+    {
+      "t": 172.76,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 172.8,
+      "kind": "kick",
+      "mag": 1.23,
+      "who": 0
+    },
+    {
+      "t": 174.32,
+      "kind": "kick",
+      "mag": 0.86,
+      "who": 0
+    },
+    {
+      "t": 174.79,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 174.8,
+      "kind": "kick",
+      "mag": 3.83,
+      "who": 3
+    },
+    {
+      "t": 175.09,
+      "kind": "fall",
+      "who": 1,
+      "by": 3,
+      "opponent": true
+    },
+    {
+      "t": 175.16,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 175.16,
+      "kind": "kick",
+      "mag": 1.19,
+      "who": 3
+    },
+    {
+      "t": 175.48,
+      "kind": "kick",
+      "mag": 1.02,
+      "who": 3
+    },
+    {
+      "t": 176.92,
+      "kind": "kick",
+      "mag": 0.56,
+      "who": 3
+    },
+    {
+      "t": 179.33,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 179.35,
+      "kind": "through",
+      "who": 2
+    },
+    {
+      "t": 179.36,
+      "kind": "kick",
+      "mag": 1.63,
+      "who": 2
+    },
+    {
+      "t": 181.86,
+      "kind": "fall",
+      "who": 3,
+      "by": 1,
+      "opponent": true
+    },
+    {
+      "t": 185.46,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 185.48,
+      "kind": "kick",
+      "mag": 0.98,
+      "who": 2
+    },
+    {
+      "t": 185.75,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 189.51,
+      "kind": "fall",
+      "who": 1,
+      "by": 3,
+      "opponent": true
+    },
+    {
+      "t": 194.53,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 194.56,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 0
+    },
+    {
+      "t": 201.19,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 201.19,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 201.52,
+      "kind": "kick",
+      "mag": 1.37,
+      "who": 0
+    },
+    {
+      "t": 202.24,
+      "kind": "kick",
+      "mag": 0.87,
+      "who": 0
+    },
+    {
+      "t": 203.79,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 203.8,
+      "kind": "kick",
+      "mag": 1.12,
+      "who": 2
+    },
+    {
+      "t": 204.04,
+      "kind": "wall",
+      "mag": 1.21
+    },
+    {
+      "t": 204.12,
+      "kind": "kick",
+      "mag": 0.86,
+      "who": 2
+    },
+    {
+      "t": 205.15,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 205.16,
+      "kind": "kick",
+      "mag": 0.78,
+      "who": 0
+    },
+    {
+      "t": 206.52,
+      "kind": "near_miss",
+      "mag": 1.17
+    },
+    {
+      "t": 207.93,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 207.96,
+      "kind": "kick",
+      "mag": 0.98,
+      "who": 0
+    },
+    {
+      "t": 208.17,
+      "kind": "fall",
+      "who": 2
+    },
+    {
+      "t": 210.21,
+      "kind": "fall",
+      "who": 2
+    },
+    {
+      "t": 212.18,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 212.2,
+      "kind": "kick",
+      "mag": 0.85,
+      "who": 0
+    },
+    {
+      "t": 212.37,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 212.97,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 214.54,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 214.96,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 215.88,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 0
+    },
+    {
+      "t": 223.02,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 223.16,
+      "kind": "kick",
+      "mag": 0.8,
+      "who": 0
+    },
+    {
+      "t": 223.26,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 225.21,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 225.24,
+      "kind": "kick",
+      "mag": 0.79,
+      "who": 3
+    },
+    {
+      "t": 226.04,
+      "kind": "wall",
+      "mag": 1.09
+    },
+    {
+      "t": 226.86,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 226.88,
+      "kind": "kick",
+      "mag": 1.21,
+      "who": 3
+    },
+    {
+      "t": 227.0,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 227.12,
+      "kind": "wall",
+      "mag": 1.57
+    },
+    {
+      "t": 228.96,
+      "kind": "kick",
+      "mag": 0.85,
+      "who": 0
+    },
+    {
+      "t": 229.0,
+      "kind": "wall",
+      "mag": 0.89
+    },
+    {
+      "t": 229.16,
+      "kind": "fall",
+      "who": 0,
+      "by": 1,
+      "opponent": false
+    },
+    {
+      "t": 229.77,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 230.29,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 230.6,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 230.64,
+      "kind": "kick",
+      "mag": 0.66,
+      "who": 1
+    },
+    {
+      "t": 230.91,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 231.84,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 0
+    },
+    {
+      "t": 232.0,
+      "kind": "wall",
+      "mag": 1.21
+    },
+    {
+      "t": 232.48,
+      "kind": "kick",
+      "mag": 0.91,
+      "who": 1
+    },
+    {
+      "t": 232.86,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 232.88,
+      "kind": "kick",
+      "mag": 1.59,
+      "who": 3
+    },
+    {
+      "t": 233.0,
+      "kind": "wall",
+      "mag": 1.0
+    },
+    {
+      "t": 233.01,
+      "kind": "fall",
+      "who": 1,
+      "by": 0,
+      "opponent": false
+    },
+    {
+      "t": 233.24,
+      "kind": "kick",
+      "mag": 1.25,
+      "who": 3
+    },
+    {
+      "t": 233.44,
+      "kind": "wall",
+      "mag": 0.65
+    },
+    {
+      "t": 235.0,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 236.26,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 236.28,
+      "kind": "kick",
+      "mag": 1.59,
+      "who": 0
+    },
+    {
+      "t": 236.32,
+      "kind": "wall",
+      "mag": 0.9
+    },
+    {
+      "t": 236.39,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 236.84,
+      "kind": "kick",
+      "mag": 1.16,
+      "who": 0
+    },
+    {
+      "t": 237.0,
+      "kind": "wall",
+      "mag": 2.08
+    },
+    {
+      "t": 237.64,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 0
+    },
+    {
+      "t": 238.42,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 239.56,
+      "kind": "kick",
+      "mag": 1.03,
+      "who": 0
+    },
+    {
+      "t": 239.99,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 240.05,
+      "kind": "fall",
+      "who": 0,
+      "by": 1,
+      "opponent": false
+    },
+    {
+      "t": 241.4,
+      "kind": "wall",
+      "mag": 0.58
+    },
+    {
+      "t": 242.56,
+      "kind": "fall",
+      "who": 1
+    },
+    {
+      "t": 242.81,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 242.84,
+      "kind": "kick",
+      "mag": 0.85,
+      "who": 3
+    },
+    {
+      "t": 242.88,
+      "kind": "wall",
+      "mag": 0.58
+    },
+    {
+      "t": 244.14,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 244.4,
+      "kind": "kick",
+      "mag": 1.89,
+      "who": 3
+    },
+    {
+      "t": 244.44,
+      "kind": "wall",
+      "mag": 0.75
+    },
+    {
+      "t": 244.96,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 247.32,
+      "kind": "kick",
+      "mag": 0.56,
+      "who": 1
+    },
+    {
+      "t": 247.4,
+      "kind": "fall",
+      "who": 2,
+      "by": 1,
+      "opponent": true
+    },
+    {
+      "t": 247.84,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 1
+    },
+    {
+      "t": 247.88,
+      "kind": "wall",
+      "mag": 0.62
+    },
+    {
+      "t": 248.32,
+      "kind": "kick",
+      "mag": 0.77,
+      "who": 3
+    },
+    {
+      "t": 248.48,
+      "kind": "wall",
+      "mag": 0.79
+    },
+    {
+      "t": 248.64,
+      "kind": "kick",
+      "mag": 0.55,
+      "who": 3
+    },
+    {
+      "t": 248.88,
+      "kind": "wall",
+      "mag": 0.59
+    },
+    {
+      "t": 250.77,
+      "kind": "fall",
+      "who": 0,
+      "by": 2,
+      "opponent": true
+    },
+    {
+      "t": 252.63,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 252.63,
+      "kind": "through",
+      "who": 3
+    },
+    {
+      "t": 252.64,
+      "kind": "kick",
+      "mag": 0.62,
+      "who": 3
+    },
+    {
+      "t": 252.78,
+      "kind": "fall",
+      "who": 1,
+      "by": 0,
+      "opponent": false
+    },
+    {
+      "t": 254.12,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 257.6,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 258.0,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 258.04,
+      "kind": "kick",
+      "mag": 1.98,
+      "who": 2
+    },
+    {
+      "t": 262.4,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 262.44,
+      "kind": "kick",
+      "mag": 0.91,
+      "who": 3
+    },
+    {
+      "t": 265.12,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 268.15,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 268.86,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 268.88,
+      "kind": "kick",
+      "mag": 0.67,
+      "who": 1
+    },
+    {
+      "t": 269.68,
+      "kind": "kick",
+      "mag": 0.64,
+      "who": 1
+    },
+    {
+      "t": 272.6,
+      "kind": "wall",
+      "mag": 0.63
+    },
+    {
+      "t": 273.01,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 273.04,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 1
+    },
+    {
+      "t": 274.77,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 274.8,
+      "kind": "kick",
+      "mag": 1.37,
+      "who": 3
+    },
+    {
+      "t": 274.84,
+      "kind": "wall",
+      "mag": 0.64
+    },
+    {
+      "t": 274.97,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 276.12,
+      "kind": "kick",
+      "mag": 1.3,
+      "who": 1
+    },
+    {
+      "t": 278.18,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 278.2,
+      "kind": "kick",
+      "mag": 0.72,
+      "who": 2
+    },
+    {
+      "t": 281.01,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 281.28,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 1
+    },
+    {
+      "t": 281.35,
+      "kind": "through",
+      "who": 1
+    },
+    {
+      "t": 285.21,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 285.36,
+      "kind": "near_miss",
+      "mag": 0.38
+    },
+    {
+      "t": 286.26,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 286.48,
+      "kind": "kick",
+      "mag": 1.7,
+      "who": 1
+    },
+    {
+      "t": 291.94,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 292.22,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 292.24,
+      "kind": "kick",
+      "mag": 0.81,
+      "who": 3
+    },
+    {
+      "t": 292.35,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 292.72,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 293.08,
+      "kind": "kick",
+      "mag": 1.21,
+      "who": 2
+    },
+    {
+      "t": 294.4,
+      "kind": "kick",
+      "mag": 0.65,
+      "who": 0
+    },
+    {
+      "t": 295.23,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 295.24,
+      "kind": "kick",
+      "mag": 0.62,
+      "who": 1
+    },
+    {
+      "t": 298.04,
+      "kind": "wall",
+      "mag": 0.89
+    },
+    {
+      "t": 300.0,
+      "kind": "buzzer",
+      "half": "half"
+    },
+    {
+      "t": 300.96,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 300.96,
+      "kind": "kick",
+      "mag": 0.82,
+      "who": 2
+    },
+    {
+      "t": 319.64,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 319.67,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 320.34,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 320.36,
+      "kind": "kick",
+      "mag": 0.73,
+      "who": 2
+    },
+    {
+      "t": 320.46,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 320.76,
+      "kind": "kick",
+      "mag": 0.67,
+      "who": 2
+    },
+    {
+      "t": 322.74,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 322.76,
+      "kind": "kick",
+      "mag": 1.41,
+      "who": 3
+    },
+    {
+      "t": 326.5,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 326.72,
+      "kind": "kick",
+      "mag": 0.99,
+      "who": 1
+    },
+    {
+      "t": 327.08,
+      "kind": "kick",
+      "mag": 1.23,
+      "who": 1
+    },
+    {
+      "t": 331.7,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 332.29,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 332.32,
+      "kind": "kick",
+      "mag": 1.21,
+      "who": 2
+    },
+    {
+      "t": 332.59,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 332.68,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 3
+    },
+    {
+      "t": 333.08,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 3
+    },
+    {
+      "t": 333.52,
+      "kind": "fall",
+      "who": 1
+    },
+    {
+      "t": 337.96,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 338.0,
+      "kind": "kick",
+      "mag": 1.23,
+      "who": 3
+    },
+    {
+      "t": 338.66,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 338.68,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 0
+    },
+    {
+      "t": 339.28,
+      "kind": "kick",
+      "mag": 1.1,
+      "who": 3
+    },
+    {
+      "t": 340.48,
+      "kind": "wall",
+      "mag": 0.76
+    },
+    {
+      "t": 344.66,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 345.49,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 345.52,
+      "kind": "kick",
+      "mag": 2.64,
+      "who": 3
+    },
+    {
+      "t": 345.87,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 345.88,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 3
+    },
+    {
+      "t": 345.92,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 347.84,
+      "kind": "kick",
+      "mag": 0.56,
+      "who": 2
+    },
+    {
+      "t": 350.6,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 1
+    },
+    {
+      "t": 352.62,
+      "kind": "through",
+      "who": 1
+    },
+    {
+      "t": 353.32,
+      "kind": "kick",
+      "mag": 1.08,
+      "who": 1
+    },
+    {
+      "t": 356.84,
+      "kind": "wall",
+      "mag": 0.71
+    },
+    {
+      "t": 357.76,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 357.8,
+      "kind": "kick",
+      "mag": 1.33,
+      "who": 2
+    },
+    {
+      "t": 357.84,
+      "kind": "wall",
+      "mag": 1.1
+    },
+    {
+      "t": 358.12,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 358.16,
+      "kind": "kick",
+      "mag": 0.65,
+      "who": 1
+    },
+    {
+      "t": 358.64,
+      "kind": "kick",
+      "mag": 4.27,
+      "who": 2
+    },
+    {
+      "t": 358.68,
+      "kind": "wall",
+      "mag": 2.75
+    },
+    {
+      "t": 359.19,
+      "kind": "fall",
+      "who": 2,
+      "by": 0,
+      "opponent": true
+    },
+    {
+      "t": 363.1,
+      "kind": "fall",
+      "who": 2
+    },
+    {
+      "t": 364.24,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 364.32,
+      "kind": "kick",
+      "mag": 1.57,
+      "who": 0
+    },
+    {
+      "t": 365.14,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 365.16,
+      "kind": "kick",
+      "mag": 1.63,
+      "who": 3
+    },
+    {
+      "t": 368.59,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 368.6,
+      "kind": "kick",
+      "mag": 0.72,
+      "who": 3
+    },
+    {
+      "t": 370.0,
+      "kind": "wall",
+      "mag": 1.08
+    },
+    {
+      "t": 370.2,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 370.24,
+      "kind": "kick",
+      "mag": 1.35,
+      "who": 0
+    },
+    {
+      "t": 370.26,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 371.97,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 372.0,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 3
+    },
+    {
+      "t": 373.53,
+      "kind": "fall",
+      "who": 1,
+      "by": 2,
+      "opponent": true
+    },
+    {
+      "t": 375.09,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 375.6,
+      "kind": "kick",
+      "mag": 0.74,
+      "who": 3
+    },
+    {
+      "t": 376.4,
+      "kind": "kick",
+      "mag": 0.73,
+      "who": 1
+    },
+    {
+      "t": 377.0,
+      "kind": "fall",
+      "who": 2,
+      "by": 1,
+      "opponent": true
+    },
+    {
+      "t": 377.07,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 377.12,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 0
+    },
+    {
+      "t": 378.64,
+      "kind": "fall",
+      "who": 3,
+      "by": 1,
+      "opponent": true
+    },
+    {
+      "t": 380.52,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 384.42,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 384.63,
+      "kind": "through",
+      "who": 0
+    },
+    {
+      "t": 386.85,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 386.88,
+      "kind": "kick",
+      "mag": 0.91,
+      "who": 0
+    },
+    {
+      "t": 390.79,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 391.08,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 391.2,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 3
+    },
+    {
+      "t": 391.39,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 393.24,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 396.4,
+      "kind": "kick",
+      "mag": 0.65,
+      "who": 1
+    },
+    {
+      "t": 397.52,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 2
+    },
+    {
+      "t": 398.48,
+      "kind": "kick",
+      "mag": 1.14,
+      "who": 1
+    },
+    {
+      "t": 402.82,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 402.82,
+      "kind": "through",
+      "who": 1
+    },
+    {
+      "t": 402.84,
+      "kind": "kick",
+      "mag": 1.49,
+      "who": 1
+    },
+    {
+      "t": 406.69,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 406.72,
+      "kind": "kick",
+      "mag": 0.75,
+      "who": 2
+    },
+    {
+      "t": 409.37,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 411.5,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 411.52,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 3
+    },
+    {
+      "t": 412.4,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 3
+    },
+    {
+      "t": 416.86,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 416.88,
+      "kind": "kick",
+      "mag": 1.04,
+      "who": 1
+    },
+    {
+      "t": 417.62,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 417.64,
+      "kind": "kick",
+      "mag": 0.87,
+      "who": 3
+    },
+    {
+      "t": 419.48,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 419.52,
+      "kind": "kick",
+      "mag": 0.62,
+      "who": 1
+    },
+    {
+      "t": 420.04,
+      "kind": "near_miss",
+      "mag": 0.38
+    },
+    {
+      "t": 420.32,
+      "kind": "wall",
+      "mag": 0.69
+    },
+    {
+      "t": 420.77,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 421.49,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 429.4,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 432.4,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 432.44,
+      "kind": "kick",
+      "mag": 0.7,
+      "who": 2
+    },
+    {
+      "t": 433.16,
+      "kind": "kick",
+      "mag": 0.7,
+      "who": 2
+    },
+    {
+      "t": 435.93,
+      "kind": "fall",
+      "who": 1
+    },
+    {
+      "t": 436.75,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 436.8,
+      "kind": "kick",
+      "mag": 0.89,
+      "who": 1
+    },
+    {
+      "t": 437.24,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 442.11,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 442.12,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 3
+    },
+    {
+      "t": 442.37,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 444.6,
+      "kind": "wall",
+      "mag": 1.04
+    },
+    {
+      "t": 445.41,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 445.44,
+      "kind": "kick",
+      "mag": 1.68,
+      "who": 0
+    },
+    {
+      "t": 445.52,
+      "kind": "wall",
+      "mag": 1.34
+    },
+    {
+      "t": 447.16,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 0
+    },
+    {
+      "t": 452.08,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 452.12,
+      "kind": "kick",
+      "mag": 1.28,
+      "who": 3
+    },
+    {
+      "t": 452.29,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 452.48,
+      "kind": "kick",
+      "mag": 1.06,
+      "who": 3
+    },
+    {
+      "t": 454.72,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 0
+    },
+    {
+      "t": 456.5,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 456.68,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 3
+    },
+    {
+      "t": 456.76,
+      "kind": "wall",
+      "mag": 0.73
+    },
+    {
+      "t": 457.62,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 458.04,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 3
+    },
+    {
+      "t": 459.04,
+      "kind": "kick",
+      "mag": 0.55,
+      "who": 3
+    },
+    {
+      "t": 463.62,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 467.17,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 467.2,
+      "kind": "kick",
+      "mag": 0.75,
+      "who": 3
+    },
+    {
+      "t": 470.81,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 470.84,
+      "kind": "kick",
+      "mag": 0.82,
+      "who": 1
+    },
+    {
+      "t": 472.68,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 472.72,
+      "kind": "kick",
+      "mag": 0.93,
+      "who": 3
+    },
+    {
+      "t": 475.8,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 478.8,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 478.84,
+      "kind": "kick",
+      "mag": 0.81,
+      "who": 3
+    },
+    {
+      "t": 484.09,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 484.12,
+      "kind": "kick",
+      "mag": 1.44,
+      "who": 1
+    },
+    {
+      "t": 484.28,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 484.52,
+      "kind": "kick",
+      "mag": 0.79,
+      "who": 1
+    },
+    {
+      "t": 484.84,
+      "kind": "kick",
+      "mag": 0.92,
+      "who": 1
+    },
+    {
+      "t": 487.11,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 487.12,
+      "kind": "kick",
+      "mag": 0.79,
+      "who": 2
+    },
+    {
+      "t": 490.98,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 493.33,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 493.36,
+      "kind": "kick",
+      "mag": 1.68,
+      "who": 1
+    },
+    {
+      "t": 494.05,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 494.08,
+      "kind": "kick",
+      "mag": 0.89,
+      "who": 3
+    },
+    {
+      "t": 501.26,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 501.27,
+      "kind": "through",
+      "who": 1
+    },
+    {
+      "t": 501.28,
+      "kind": "kick",
+      "mag": 0.9,
+      "who": 1
+    },
+    {
+      "t": 502.0,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 1
+    },
+    {
+      "t": 510.26,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 510.8,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 1
+    },
+    {
+      "t": 510.86,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 514.31,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 514.32,
+      "kind": "kick",
+      "mag": 0.71,
+      "who": 0
+    },
+    {
+      "t": 515.64,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 515.68,
+      "kind": "kick",
+      "mag": 0.88,
+      "who": 3
+    },
+    {
+      "t": 518.09,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 518.12,
+      "kind": "kick",
+      "mag": 1.36,
+      "who": 1
+    },
+    {
+      "t": 518.48,
+      "kind": "wall",
+      "mag": 1.18
+    },
+    {
+      "t": 518.88,
+      "kind": "kick",
+      "mag": 0.8,
+      "who": 1
+    },
+    {
+      "t": 518.92,
+      "kind": "wall",
+      "mag": 0.89
+    },
+    {
+      "t": 519.13,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 519.96,
+      "kind": "kick",
+      "mag": 0.67,
+      "who": 1
+    },
+    {
+      "t": 529.92,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 1
+    },
+    {
+      "t": 531.23,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 531.24,
+      "kind": "kick",
+      "mag": 0.83,
+      "who": 0
+    },
+    {
+      "t": 532.72,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 532.76,
+      "kind": "kick",
+      "mag": 1.46,
+      "who": 0
+    },
+    {
+      "t": 535.92,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 535.96,
+      "kind": "kick",
+      "mag": 0.81,
+      "who": 0
+    },
+    {
+      "t": 537.14,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 537.94,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 539.35,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 539.36,
+      "kind": "kick",
+      "mag": 0.96,
+      "who": 3
+    },
+    {
+      "t": 539.52,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 540.24,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 540.28,
+      "kind": "kick",
+      "mag": 0.65,
+      "who": 3
+    },
+    {
+      "t": 540.92,
+      "kind": "kick",
+      "mag": 0.66,
+      "who": 3
+    },
+    {
+      "t": 545.56,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 548.38,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 549.83,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 551.96,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 552.0,
+      "kind": "kick",
+      "mag": 0.91,
+      "who": 0
+    },
+    {
+      "t": 555.07,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 556.12,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 556.16,
+      "kind": "kick",
+      "mag": 1.01,
+      "who": 3
+    },
+    {
+      "t": 557.4,
+      "kind": "wall",
+      "mag": 1.25
+    },
+    {
+      "t": 558.37,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 558.68,
+      "kind": "kick",
+      "mag": 0.63,
+      "who": 3
+    },
+    {
+      "t": 558.81,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 562.28,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 3
+    },
+    {
+      "t": 564.2,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 564.3,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 566.46,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 568.96,
+      "kind": "kick",
+      "mag": 0.6,
+      "who": 3
+    },
+    {
+      "t": 569.62,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 575.42,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 575.44,
+      "kind": "kick",
+      "mag": 0.9,
+      "who": 1
+    },
+    {
+      "t": 575.59,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 575.84,
+      "kind": "kick",
+      "mag": 0.99,
+      "who": 3
+    },
+    {
+      "t": 579.31,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 579.32,
+      "kind": "kick",
+      "mag": 0.76,
+      "who": 1
+    },
+    {
+      "t": 580.13,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 580.16,
+      "kind": "kick",
+      "mag": 0.66,
+      "who": 3
+    },
+    {
+      "t": 581.65,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 581.68,
+      "kind": "kick",
+      "mag": 1.02,
+      "who": 1
+    },
+    {
+      "t": 583.82,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 583.84,
+      "kind": "kick",
+      "mag": 1.43,
+      "who": 3
+    },
+    {
+      "t": 583.88,
+      "kind": "wall",
+      "mag": 1.15
+    },
+    {
+      "t": 585.54,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 585.95,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 587.26,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 587.64,
+      "kind": "kick",
+      "mag": 0.61,
+      "who": 3
+    },
+    {
+      "t": 590.22,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 592.61,
+      "kind": "touch",
+      "who": 0
+    },
+    {
+      "t": 593.63,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 593.92,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 3
+    },
+    {
+      "t": 594.44,
+      "kind": "touch",
+      "who": 2
+    },
+    {
+      "t": 595.54,
+      "kind": "ram",
+      "mag": 1.0
+    },
+    {
+      "t": 596.24,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 3
+    },
+    {
+      "t": 597.12,
+      "kind": "kick",
+      "mag": 2.07,
+      "who": 3
+    },
+    {
+      "t": 602.48,
+      "kind": "wall",
+      "mag": 0.73
+    },
+    {
+      "t": 608.11,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 608.12,
+      "kind": "kick",
+      "mag": 0.97,
+      "who": 3
+    },
+    {
+      "t": 608.21,
+      "kind": "touch",
+      "who": 1
+    },
+    {
+      "t": 609.08,
+      "kind": "kick",
+      "mag": 0.58,
+      "who": 3
+    },
+    {
+      "t": 609.6,
+      "kind": "kick",
+      "mag": 0.86,
+      "who": 1
+    },
+    {
+      "t": 610.0,
+      "kind": "kick",
+      "mag": 0.79,
+      "who": 3
+    },
+    {
+      "t": 610.36,
+      "kind": "kick",
+      "mag": 0.57,
+      "who": 3
+    },
+    {
+      "t": 610.88,
+      "kind": "kick",
+      "mag": 1.39,
+      "who": 3
+    },
+    {
+      "t": 615.01,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 615.04,
+      "kind": "kick",
+      "mag": 0.59,
+      "who": 3
+    },
+    {
+      "t": 616.66,
+      "kind": "touch",
+      "who": 3
+    },
+    {
+      "t": 617.0,
+      "kind": "buzzer",
+      "half": "full"
+    }
+  ],
+  "dropped_balls": [],
+  "robots": [
+    {
+      "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x105c8f080>",
+      "team": "A",
+      "fell": false,
+      "fall_time_s": null,
+      "falls": 5,
+      "recoveries": 5,
+      "touches": 66,
+      "decisions": 291,
+      "invalid_actions": 0,
+      "missed_deadlines": 0,
+      "abandoned": 0,
+      "mean_decision_latency_s": 0.0
+    },
+    {
+      "agent": "<rfl_team_frontier_gemini.GeminiFootballPlayer object at 0x11594c410>",
+      "team": "A",
+      "fell": false,
+      "fall_time_s": null,
+      "falls": 9,
+      "recoveries": 9,
+      "touches": 60,
+      "decisions": 277,
+      "invalid_actions": 0,
+      "missed_deadlines": 0,
+      "abandoned": 0,
+      "mean_decision_latency_s": 0.0
+    },
+    {
+      "agent": "llm:google:gemini-flash-lite-latest",
+      "team": "B",
+      "fell": false,
+      "fall_time_s": null,
+      "falls": 7,
+      "recoveries": 7,
+      "touches": 26,
+      "decisions": 265,
+      "invalid_actions": 0,
+      "missed_deadlines": 6,
+      "abandoned": 0,
+      "mean_decision_latency_s": 1.516
+    },
+    {
+      "agent": "llm:google:gemini-flash-lite-latest",
+      "team": "B",
+      "fell": false,
+      "fall_time_s": null,
+      "falls": 5,
+      "recoveries": 5,
+      "touches": 74,
+      "decisions": 270,
+      "invalid_actions": 0,
+      "missed_deadlines": 2,
+      "abandoned": 0,
+      "mean_decision_latency_s": 1.506
+    }
+  ],
+  "tokens_in": 2333041,
+  "tokens_out": 9621,
+  "est_cost_usd": 0.2372,
+  "wall_time_s": 5848.0,
+  "honest_latency": true
+}

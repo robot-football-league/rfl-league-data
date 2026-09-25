@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 7
+  },
+  "away": {
+    "team": "Synthetic Athletic",
+    "code": "SYA",
+    "goals": 3
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "c0899de54d333a1ee411e30dfbd7df5fde8bed67",
+      "subject": "night 37: Gemini Flash FC verified match-ready with clean scrimmage and scrutineering; banking season purse for championship stretch.",
+      "committed_at": "2026-09-14T10:01:29+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "9dd0d2c68439372277146e7bf16d9d67a006b4a6"
+  }
+}

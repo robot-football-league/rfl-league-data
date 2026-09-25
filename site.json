@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T10:59:18+00:00",
+ "generated_at": "2026-09-25T13:16:02+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8842,14 +8842,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 10,
-     "W": 10,
+     "P": 11,
+     "W": 11,
      "D": 0,
      "L": 0,
-     "GF": 91,
-     "GA": 35,
-     "Pts": 30,
-     "GD": 56,
+     "GF": 98,
+     "GA": 38,
+     "Pts": 33,
+     "GD": 60,
      "prev": 1,
      "move": 0
     },
@@ -8910,14 +8910,14 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 10,
+     "P": 11,
      "W": 5,
      "D": 1,
-     "L": 4,
-     "GF": 52,
-     "GA": 49,
+     "L": 5,
+     "GF": 55,
+     "GA": 56,
      "Pts": 16,
-     "GD": 3,
+     "GD": -1,
      "prev": 5,
      "move": 0
     },
@@ -19683,8 +19683,195 @@
      "away_name": "Synthetic Athletic",
      "home_code": "GEM",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-25T11:00:00Z"
+     "status": "aired",
+     "score": [
+      7,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 4,
+        "second": 28.2,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 15,
+        "second": 99.0,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 19,
+        "second": 124.7,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 21,
+        "second": 141.3,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 208.2,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 287.3,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 327.9,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 51,
+        "second": 341.3,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 361.1,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 433.8,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 226,
+       "kick": 203,
+       "near_miss": 6,
+       "fall": 26,
+       "wall": 37,
+       "through": 10,
+       "ram": 6,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 42.6,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 90.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 140.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 187.1,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 232.9,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "freeing the ball"
+       },
+       {
+        "second": 276.5,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "get back!"
+       },
+       {
+        "second": 349.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 399.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 443.9,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 479.9,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 512.3,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "unsticking the ball from the wall"
+       },
+       {
+        "second": 555.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 589.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       }
+      ],
+      "stats": {
+       "kicks": 203,
+       "falls": 26,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 10
+      },
+      "est_cost_usd": 0.2372
+     },
+     "aired_at": "2026-09-25T11:04:42Z",
+     "watch": {
+      "id": "s3-m54_frontier_gemini_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m54_frontier_gemini_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m54_frontier_gemini_synthetic_athletic"
+     }
     },
     {
      "n": 55,
@@ -19815,7 +20002,8 @@
      "away_name": "Real Machina",
      "home_code": "GEM",
      "away_code": "RMA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-29T11:00:00Z"
     },
     {
      "n": 67,
@@ -20065,6 +20253,14 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
+     "goals": 45
+    },
+    {
+     "name": "Spark",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
      "goals": 44
     },
     {
@@ -20076,19 +20272,19 @@
      "goals": 40
     },
     {
-     "name": "Spark",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
-     "goals": 39
-    },
-    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
+     "goals": 38
+    },
+    {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
      "goals": 38
     },
     {
@@ -20098,14 +20294,6 @@
      "code": "DYD",
      "color": "#f2c119",
      "goals": 36
-    },
-    {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 35
     },
     {
      "name": "Hare",
@@ -20140,7 +20328,7 @@
      "goals": 27
     }
    ],
-   "aired_count": 51,
+   "aired_count": 52,
    "skipped_count": 2,
    "total_matches": 90,
    "complete": false,
@@ -22907,8 +23095,8 @@
   }
  },
  "totals": {
-  "matches_aired": 88,
-  "goals": 975,
+  "matches_aired": 89,
+  "goals": 985,
   "clubs": 11
  }
 }

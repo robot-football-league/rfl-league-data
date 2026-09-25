@@ -4690,6 +4690,99 @@
    "dir": "runs/league/s3/m52_frontier_glm_singularity_united"
   },
   {
+   "fixture": 54,
+   "home": "frontier_gemini",
+   "away": "synthetic_athletic",
+   "score": [
+    7,
+    3
+   ],
+   "goals": [
+    {
+     "t": 28.2,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 99.0,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 124.7,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 141.3,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 208.2,
+     "team": "A",
+     "scorer": 0,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 287.3,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 327.9,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 341.3,
+     "team": "B",
+     "scorer": 3,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 361.1,
+     "team": "A",
+     "scorer": 1,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    },
+    {
+     "t": 433.8,
+     "team": "A",
+     "scorer": 2,
+     "after_buzzer": false,
+     "replay_s": 5.0
+    }
+   ],
+   "est_cost_usd": 0.2372,
+   "players": {
+    "home": [
+     "Flash",
+     "Spark"
+    ],
+    "away": [
+     "Griezmatronn",
+     "Robodinho"
+    ]
+   },
+   "dir": "runs/league/s3/m54_frontier_gemini_synthetic_athletic"
+  },
+  {
    "fixture": 45,
    "home": "frontier_gemini",
    "away": "frontier_muse",
