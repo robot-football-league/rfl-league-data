@@ -1,0 +1,479 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round twelve.",
+    "wav": "line_08bbac3788953baa.wav",
+    "dur_s": 1.49
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls to take control in midfield. A huge afternoon for Muse Spark, who debut a completely rewritten setup today following that twenty-four nil drubbing by Gemini Flash.",
+    "wav": "line_f7483fdd631bc07e.wav",
+    "dur_s": 12.77
+  },
+  {
+    "t": 16.16,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Abyss is clean through on the left channel, just four metres out and staring at an open goal!",
+    "wav": "line_fc2d9094eec6ca7e.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 33.02,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse is knocked down by Abyss.",
+    "wav": "line_333f7c6434fcf50b.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 34.72,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss gets flattened in return as Muse scrambles up and challenges two metres from goal.",
+    "wav": "line_6fdb30adc6d56ec9.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 42.34,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse topples over unaided in their own third.",
+    "wav": "line_c92fc531821bdabe.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 47.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives the magenta ball four metres straight up the middle. DeepSeek Rovers have kept an unchanged lineup today, confident their existing code can handle whatever Muse Spark have cooked up.",
+    "wav": "line_1eba92a53b03ca35.wav",
+    "dur_s": 10.92
+  },
+  {
+    "t": 65.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse Spark are pinning Rovers back in their own third here. That new attacking structure from their gaffer is already looking far sharper than anything they showed earlier today.",
+    "wav": "line_ab44cb9ea5580235.wav",
+    "dur_s": 11.08
+  },
+  {
+    "t": 82.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal calls to provide cover.",
+    "wav": "line_8ef4f78a200a2a3e.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 82.99,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Muse loses footing on the right touchline and will spend a few seconds righting the gyros.",
+    "wav": "line_0aa9b67197cc37a4.wav",
+    "dur_s": 5.64
+  },
+  {
+    "t": 113.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Goal! It is an own goal from Abyss! The ball ricochets off the Rovers defender right on the line, and Muse Spark lead one-nil!",
+    "wav": "line_b7e491bef35c2b76.wav",
+    "dur_s": 10.14
+  },
+  {
+    "t": 134.75,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The push-panel fires the ball clear.",
+    "wav": "line_9285796dc58c1892.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 138.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal calls to clear it.",
+    "wav": "line_bac0bea890113c5a.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 139.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "DeepSeek are under relentless pressure here, trapped near their own goal as Muse Spark keep the squeeze on.",
+    "wav": "line_4d9819b78498bbb7.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 157.01,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A sudden break! Abyss breaks free in their own half and suddenly has a totally clear run toward goal!",
+    "wav": "line_328655dcefbcfb0f.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 174.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Signal takes over on the left flank, carrying the ball three metres forward into midfield.",
+    "wav": "line_de1c21747e41818b.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 188.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Signal finishes from two metres out! DeepSeek Rovers are level at one-all!",
+    "wav": "line_5146e6f3373144ff.wav",
+    "dur_s": 5.9
+  },
+  {
+    "t": 189.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Now Rovers turn up the heat, keeping Muse Spark pinned back inside their own defensive third.",
+    "wav": "line_f5a9f3c384bb028b.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 202.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls for the clearance.",
+    "wav": "line_41b69367aed64cc4.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 203.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark intercepts and powers five metres straight through the middle, taking the ball right to the edge of the Rovers box.",
+    "wav": "line_e51b632da08f9526.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 236.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss breaks away down the right touchline, advancing five metres into the midfield zone.",
+    "wav": "line_f4f82399cc0395a7.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 248.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss scores from point-blank range! DeepSeek lead two-one!",
+    "wav": "line_b767635418ee35d7.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 249.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers are swarming now, keeping Muse Spark camped deep in their own half.",
+    "wav": "line_afe4b132028c3a87.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 259.35,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Muse is clean through on goal!",
+    "wav": "line_141ab4d5c97746db.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 262.7,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Abyss calls out that cover is tracking back.",
+    "wav": "line_e0afe34a9122bf39.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 269.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Fires wide from point-blank range!",
+    "wav": "line_38a321ea219d4f0e.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 271.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse reclaims the ball and drives it three metres right back to the goalmouth.",
+    "wav": "line_eb51efa05455b3aa.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 297.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss stabs it home from two metres! DeepSeek lead three-one right before the break!",
+    "wav": "line_edee28366cc198ae.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The buzzer sounds, power cuts, and the ball rolls harmlessly in midfield.",
+    "wav": "line_80b7a1bbda4b98be.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ball comes to rest. Power off at the buzzer, ball still live, and at the interval it is Muse Spark one, DeepSeek Rovers three.",
+    "wav": "line_eae35e2c3b100898.wav",
+    "dur_s": 9.3
+  },
+  {
+    "t": 321.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss signals to cover the central zone as the second half gets underway.",
+    "wav": "line_5318551ec03b6cff.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 334.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Muse scores! A pinpoint drive from three metres out into the corner! Muse Spark pull one back, it is two-three!",
+    "wav": "line_f79da90393eafbc0.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 355.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives down the left wing.",
+    "wav": "line_4d515523e56b9496.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 356.92,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal overbalances on the right touchline and crashes down, leaving DeepSeek momentarily a player short.",
+    "wav": "line_e7a7069420d619b0.wav",
+    "dur_s": 7.94
+  },
+  {
+    "t": 382.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Signal is back on two feet and shouts to claim the ball near the midfield touchline.",
+    "wav": "line_ce2f3f662832dbe2.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 394.66,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Rovers collide and Abyss goes down.",
+    "wav": "line_234cabaa9236f3ac.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 397.07,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Signal collects the pieces, bursting clean through midfield with not a soul between them and the net!",
+    "wav": "line_b9343e306ad61ecd.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 414.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal taps it in from point-blank range! DeepSeek restore their two-goal cushion, leading four-two.",
+    "wav": "line_388cb5a7f84dfd83.wav",
+    "dur_s": 6.85
+  },
+  {
+    "t": 420.41,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Another accidental clash between the Rovers teammates, and this time Signal ends up on the floor in midfield.",
+    "wav": "line_2f7b6fabc516ddd7.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 455.42,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark knocks Abyss to the turf.",
+    "wav": "line_93eaee69b9222b03.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 456.46,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss recovers instantly and crunches Spark right back.",
+    "wav": "line_2d5d9e2783ca3b09.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 460.32,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Muse topples over unaided as well.",
+    "wav": "line_75bfcc8bbf434687.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 462.4,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls to drop back and maintain defensive shape while everyone else scrambles to stand.",
+    "wav": "line_a6732025d4ea64a3.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 479.54,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner push-panel activates, rocketing the ball three metres back into the channel.",
+    "wav": "line_0349e41f9bb13c62.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 504.3,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A momentary lull on the right channel. Under two minutes remaining for Muse Spark to mount a comeback, trailing by two against an unchanged Rovers side.",
+    "wav": "line_9e430cf405784edf.wav",
+    "dur_s": 9.72
+  },
+  {
+    "t": 529.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Muse pushes the ball four metres up the middle.",
+    "wav": "line_120aeee0b99b74dd.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 533.4,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Muse breaks clean through down the left channel, bearing down on the Rovers net!",
+    "wav": "line_fb29247b5c468647.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 546.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Goal! Muse stabs it home from point-blank range! Just over a minute left on the clock, and Muse Spark trail by one at three-four!",
+    "wav": "line_6b4711d0d13de51d.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 562.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Muse storms straight back to goal.",
+    "wav": "line_000e09da4f4071af.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 562.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Goal! Muse does it again! What an unbelievable turnaround! Two quickfire strikes in the final minute and Muse Spark are level at four-four!",
+    "wav": "line_445dc9bad1258930.wav",
+    "dur_s": 9.54
+  },
+  {
+    "t": 576.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Incredible! It is an own goal from Abyss! DeepSeek crumble in the dying seconds, and Muse Spark have taken a five-four lead!",
+    "wav": "line_6bbf1d1ffbb61180.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The buzzer sounds, power drops, and the ball trickles towards the wall.",
+    "wav": "line_163483dce9f901de.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 622.14,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Muse Spark win 5-4! Up next, Gemini Flash play Singularity United Saturday, 16:00 UK, 17:00 Europe, 11:00 US East.",
+    "wav": "line_163abcd92d8c7e3b.wav",
+    "dur_s": 11.49
+  }
+]

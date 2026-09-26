@@ -1,0 +1,115 @@
+{"t": 0.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 0.5, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 6.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 44.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 46.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 48.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 56.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 58.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 60.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 64.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 80.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 82.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 84.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 88.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 92.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 106.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 116.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 118.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 120.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 126.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 128.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 130.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 134.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 138.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 142.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 172.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 174.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 176.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 178.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 180.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "cooldown"}
+{"t": 182.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 184.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 186.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 192.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 194.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 200.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 202.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 204.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 210.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 214.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 216.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "repeat"}
+{"t": 222.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 244.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 248.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 250.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 252.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 254.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 262.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 272.7, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 282.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 284.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 286.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 288.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 292.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 294.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 296.0, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 321.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 325.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 327.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 329.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 333.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 335.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 363.5, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 370.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 372.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 374.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 376.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 378.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 380.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 382.9, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 412.2, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 416.2, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 418.2, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 420.2, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 432.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 452.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 454.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 456.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 458.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 460.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 462.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 464.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 465.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "I've got it"}
+{"t": 468.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 470.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 472.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 474.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 476.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 478.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 480.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 482.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 517.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "repeat"}
+{"t": 519.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 521.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 542.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "clearing"}
+{"t": 544.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 545.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 548.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 550.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 552.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 562.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "repeat"}
+{"t": 566.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 568.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 583.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "covering"}
+{"t": 585.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "I've got it", "reason": "cooldown"}
+{"t": 590.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "repeat"}
+{"t": 592.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "I've got it"}
+{"t": 594.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 596.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 598.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "covering", "reason": "cooldown"}
+{"t": 600.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}
+{"t": 603.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "suppressed": "covering", "reason": "repeat"}
+{"t": 607.4, "from": "r2", "team": "DeepSeek Rovers", "number": 1, "text": "clearing"}
+{"t": 616.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "text": "covering"}
+{"t": 618.4, "from": "r3", "team": "DeepSeek Rovers", "number": 2, "suppressed": "clearing", "reason": "cooldown"}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T08:58:59+00:00",
+ "generated_at": "2026-09-26T22:29:51+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8842,14 +8842,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 11,
+     "P": 12,
      "W": 11,
      "D": 0,
-     "L": 0,
-     "GF": 98,
-     "GA": 38,
+     "L": 1,
+     "GF": 103,
+     "GA": 47,
      "Pts": 33,
-     "GD": 60,
+     "GD": 56,
      "prev": 1,
      "move": 0
     },
@@ -8876,14 +8876,14 @@
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 10,
-     "W": 6,
+     "P": 11,
+     "W": 7,
      "D": 1,
      "L": 3,
-     "GF": 73,
-     "GA": 44,
-     "Pts": 19,
-     "GD": 29,
+     "GF": 82,
+     "GA": 49,
+     "Pts": 22,
+     "GD": 33,
      "prev": 3,
      "move": 0
     },
@@ -8893,13 +8893,13 @@
      "name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "P": 11,
+     "P": 12,
      "W": 6,
-     "D": 1,
+     "D": 2,
      "L": 4,
-     "GF": 73,
-     "GA": 57,
-     "Pts": 19,
+     "GF": 78,
+     "GA": 62,
+     "Pts": 20,
      "GD": 16,
      "prev": 4,
      "move": 0
@@ -8910,16 +8910,16 @@
      "name": "Codex City",
      "code": "CDX",
      "color": "#0a0d0b",
-     "P": 11,
+     "P": 12,
      "W": 6,
-     "D": 0,
+     "D": 1,
      "L": 5,
-     "GF": 53,
-     "GA": 58,
-     "Pts": 18,
+     "GF": 58,
+     "GA": 63,
+     "Pts": 19,
      "GD": -5,
-     "prev": 6,
-     "move": 1
+     "prev": 5,
+     "move": 0
     },
     {
      "pos": 6,
@@ -8935,8 +8935,8 @@
      "GA": 56,
      "Pts": 16,
      "GD": -1,
-     "prev": 5,
-     "move": -1
+     "prev": 6,
+     "move": 0
     },
     {
      "pos": 7,
@@ -8961,14 +8961,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 11,
+     "P": 12,
      "W": 4,
      "D": 0,
-     "L": 7,
-     "GF": 55,
-     "GA": 73,
+     "L": 8,
+     "GF": 59,
+     "GA": 78,
      "Pts": 12,
-     "GD": -18,
+     "GD": -19,
      "prev": 8,
      "move": 0
     },
@@ -8978,14 +8978,14 @@
      "name": "Muse Spark FC",
      "code": "MSP",
      "color": "#0572f2",
-     "P": 9,
-     "W": 0,
+     "P": 10,
+     "W": 1,
      "D": 2,
      "L": 7,
-     "GF": 34,
-     "GA": 93,
-     "Pts": 2,
-     "GD": -59,
+     "GF": 39,
+     "GA": 97,
+     "Pts": 5,
+     "GD": -58,
      "prev": 9,
      "move": 0
     },
@@ -9007,7 +9007,7 @@
      "move": 0
     }
    ],
-   "movement_since_round": 10,
+   "movement_since_round": 11,
    "matches": [
     {
      "n": 1,
@@ -20256,8 +20256,188 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "MSP",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-26T11:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      4
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 17,
+        "second": 113.2,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": true
+       },
+       {
+        "minute": 28,
+        "second": 188.6,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 248.5,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 45,
+        "second": 297.9,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 334.8,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 62,
+        "second": 414.7,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 82,
+        "second": 546.5,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 84,
+        "second": 562.5,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 87,
+        "second": 576.7,
+        "side": "home",
+        "scorer": "Abyss",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 218,
+       "kick": 227,
+       "through": 19,
+       "fall": 13,
+       "wall": 40,
+       "ram": 2,
+       "near_miss": 1,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 48.7,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 106.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 138.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 192.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 210.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "clearing"
+       },
+       {
+        "second": 262.7,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 296.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 363.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "clearing"
+       },
+       {
+        "second": 412.2,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 452.4,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 474.4,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 545.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "clearing"
+       },
+       {
+        "second": 592.4,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       }
+      ],
+      "stats": {
+       "kicks": 227,
+       "falls": 13,
+       "near_misses": 1,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": 0.0
+     },
+     "aired_at": "2026-09-26T11:04:42Z",
+     "watch": {
+      "id": "s3-m57_frontier_muse_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m57_frontier_muse_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m57_frontier_muse_frontier_deepseek"
+     }
     },
     {
      "n": 58,
@@ -20267,8 +20447,222 @@
      "away_name": "Singularity United",
      "home_code": "GEM",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-26T15:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      9
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 2,
+        "second": 12.2,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 20,
+        "second": 130.9,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 163.7,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 208.4,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 231.7,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 55,
+        "second": 368.4,
+        "side": "away",
+        "scorer": "Flash",
+        "own_goal": true
+       },
+       {
+        "minute": 57,
+        "second": 379.8,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 60,
+        "second": 398.8,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 67,
+        "second": 445.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 480.9,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 82,
+        "second": 544.9,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 563.9,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 583.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 91,
+        "second": 605.4,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 221,
+       "through": 20,
+       "kick": 216,
+       "near_miss": 5,
+       "fall": 30,
+       "wall": 29,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 49.5,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 86.5,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "working it free from the wall"
+       },
+       {
+        "second": 124.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 167.1,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 205.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "prying it loose from the wall"
+       },
+       {
+        "second": 247.1,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 335.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "ball stuck against the corner wall, pushing it out"
+       },
+       {
+        "second": 371.5,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 421.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 463.1,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "ball is stuck by wall, pushing"
+       },
+       {
+        "second": 505.5,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "pushing along the wall"
+       },
+       {
+        "second": 537.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 567.7,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got it"
+       }
+      ],
+      "stats": {
+       "kicks": 216,
+       "falls": 30,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 20
+      },
+      "est_cost_usd": 0.2188
+     },
+     "aired_at": "2026-09-26T15:04:42Z",
+     "watch": {
+      "id": "s3-m58_frontier_gemini_singularity_united",
+      "url": "https://4dgsx.com/watch/s3-m58_frontier_gemini_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s3-m58_frontier_gemini_singularity_united"
+     }
     },
     {
      "n": 59,
@@ -20278,8 +20672,195 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "CDX",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-26T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 1,
+        "second": 9.0,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 8,
+        "second": 54.8,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 30,
+        "second": 199.3,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 245.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 281.8,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 329.0,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 53,
+        "second": 351.5,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 67,
+        "second": 447.6,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 82,
+        "second": 544.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 589.6,
+        "side": "away",
+        "scorer": "Turingham",
+        "own_goal": true
+       }
+      ],
+      "event_counts": {
+       "touch": 235,
+       "kick": 208,
+       "through": 19,
+       "wall": 44,
+       "ram": 4,
+       "near_miss": 9,
+       "fall": 28,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 37.5,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball's against the wall, clearing it"
+       },
+       {
+        "second": 74.7,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 108.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 135.3,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "prying it off the wall"
+       },
+       {
+        "second": 166.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck against the wall, pushing it out"
+       },
+       {
+        "second": 198.2,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 246.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 290.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 378.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 420.9,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing it along the wall"
+       },
+       {
+        "second": 475.0,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "working it off the wall"
+       },
+       {
+        "second": 519.4,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Learned screen; recovering the ball-goal channel."
+       },
+       {
+        "second": 573.9,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Learned screen; recovering the ball-goal channel."
+       }
+      ],
+      "stats": {
+       "kicks": 208,
+       "falls": 28,
+       "near_misses": 9,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": 0.2336
+     },
+     "aired_at": "2026-09-26T19:04:42Z",
+     "watch": {
+      "id": "s3-m59_frontier_sol_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m59_frontier_sol_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m59_frontier_sol_dynamo_datacenter"
+     }
     },
     {
      "n": 60,
@@ -20388,7 +20969,8 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "SYA",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-30T11:00:00Z"
     },
     {
      "n": 70,
@@ -20398,7 +20980,8 @@
      "away_name": "Singularity United",
      "home_code": "DYD",
      "away_code": "SGU",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-30T15:00:00Z"
     },
     {
      "n": 71,
@@ -20408,7 +20991,8 @@
      "away_name": "Codex City",
      "home_code": "RMA",
      "away_code": "CDX",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-09-30T19:00:00Z"
     },
     {
      "n": 72,
@@ -20628,7 +21212,15 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "goals": 45
+     "goals": 48
+    },
+    {
+     "name": "Spark",
+     "team": "frontier_gemini",
+     "team_name": "Gemini Flash FC",
+     "code": "GEM",
+     "color": "#1e6bea",
+     "goals": 46
     },
     {
      "name": "CR-7000",
@@ -20639,19 +21231,19 @@
      "goals": 44
     },
     {
-     "name": "Spark",
-     "team": "frontier_gemini",
-     "team_name": "Gemini Flash FC",
-     "code": "GEM",
-     "color": "#1e6bea",
-     "goals": 44
-    },
-    {
      "name": "BellingRAM",
      "team": "singularity_united",
      "team_name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
+     "goals": 41
+    },
+    {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
      "goals": 38
     },
     {
@@ -20663,12 +21255,12 @@
      "goals": 38
     },
     {
-     "name": "Buffon.exe",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
-     "goals": 36
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 37
     },
     {
      "name": "Zidroid",
@@ -20687,23 +21279,15 @@
      "goals": 34
     },
     {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 32
-    },
-    {
      "name": "Abyss",
      "team": "frontier_deepseek",
      "team_name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "goals": 27
+     "goals": 29
     }
    ],
-   "aired_count": 54,
+   "aired_count": 57,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -23470,8 +24054,8 @@
   }
  },
  "totals": {
-  "matches_aired": 91,
-  "goals": 1002,
+  "matches_aired": 94,
+  "goals": 1035,
   "clubs": 11
  }
 }

@@ -1,0 +1,232 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  5,
+  5
+ ],
+ "winner": "draw",
+ "teams": {
+  "A": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  },
+  "B": {
+   "name": "Dynamo Datacenter",
+   "code": "DYD",
+   "players": [
+    "Mbapp-E",
+    "Buffon.exe"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 9.0,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 54.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 199.3,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 245.0,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 281.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 329.0,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 351.5,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 447.6,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 544.0,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 589.6,
+   "team": "B",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 549,
+ "event_counts": {
+  "touch": 235,
+  "kick": 208,
+  "through": 19,
+  "wall": 44,
+  "ram": 4,
+  "near_miss": 9,
+  "fall": 28,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 127,
+   "kick": 107,
+   "through": 12,
+   "wall": 28,
+   "ram": 3,
+   "near_miss": 4,
+   "fall": 3
+  },
+  "half_2": {
+   "buzzer": 2,
+   "touch": 108,
+   "kick": 101,
+   "fall": 25,
+   "through": 7,
+   "wall": 16,
+   "near_miss": 5,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 28,
+  "by_opponent": 12,
+  "unforced": 16,
+  "by_half": {
+   "half_1": 3,
+   "half_2": 25
+  },
+  "times_s": [
+   106.5,
+   112.8,
+   120.2,
+   336.2,
+   358.0,
+   358.7,
+   362.7,
+   422.2,
+   427.2,
+   431.9,
+   437.4,
+   455.9,
+   456.4,
+   466.2,
+   476.8,
+   484.5,
+   485.5,
+   486.3,
+   520.1,
+   522.2,
+   530.3,
+   536.0,
+   539.9,
+   545.9,
+   549.8,
+   577.7,
+   579.3,
+   587.8
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "codex-city-learned-shape",
+   "falls": 11,
+   "recoveries": 11,
+   "touches": 75,
+   "decisions": 271,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "codex-city-learned-shape",
+   "falls": 4,
+   "recoveries": 4,
+   "touches": 40,
+   "decisions": 294,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 5,
+   "recoveries": 5,
+   "touches": 51,
+   "decisions": 270,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 1,
+   "mean_decision_latency_s": 1.536
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "llm:google:gemini-flash-lite-latest",
+   "falls": 8,
+   "recoveries": 8,
+   "touches": 69,
+   "decisions": 259,
+   "invalid_actions": 0,
+   "missed_deadlines": 3,
+   "abandoned": 0,
+   "mean_decision_latency_s": 1.622
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 2301048,
+ "tokens_out": 8711,
+ "est_cost_usd": 0.2336
+}
