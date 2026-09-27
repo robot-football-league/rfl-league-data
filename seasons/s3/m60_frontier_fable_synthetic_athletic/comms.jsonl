@@ -1,0 +1,139 @@
+{"t": 0.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Steady from the whistle \u2014 I've got our half."}
+{"t": 0.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 4.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "Going for the ball!"}
+{"t": 12.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.1, -3.1, rolling across \u2014 dropping goal-side."}
+{"t": 12.0, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -1.0, -3.1, rolling across \u2014 mine \u2014 no naps."}
+{"t": 15.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "Clearing it from the wall!"}
+{"t": 15.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "working it off the wall"}
+{"t": 17.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 19.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "pushing it past the wall", "reason": "cooldown"}
+{"t": 24.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.1, -3.2, rolling across \u2014 dropping goal-side."}
+{"t": 25.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball is stuck by the wall"}
+{"t": 29.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.8, -3.0, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 29.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing it"}
+{"t": 32.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "nudging it off the wall", "reason": "cooldown"}
+{"t": 36.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.1, -0.7, rolling at their net \u2014 dropping goal-side."}
+{"t": 41.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +7.0, -0.6, rolling at their net \u2014 dropping back."}
+{"t": 44.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing from our goal!"}
+{"t": 50.0, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.9, -1.9, rolling at our net \u2014 dropping goal-side."}
+{"t": 53.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -2.9, -2.5, near still \u2014 mine \u2014 no naps."}
+{"t": 69.7, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 70.1, "from": "r1", "team": "AFC Fable", "number": 2, "text": "They won't outrun us twice. Again."}
+{"t": 81.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.3, -1.7, rolling at our net, fast \u2014 I'll cut the line."}
+{"t": 84.1, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -4.9, -1.2, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 91.6, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "pushing it free!"}
+{"t": 93.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.6, -2.2, rolling at our net \u2014 mine, slow and steady."}
+{"t": 96.1, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.7, -3.3, rolling at our net \u2014 post covered."}
+{"t": 103.0, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing the wall"}
+{"t": 105.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.6, -3.6, rolling at our net \u2014 dropping goal-side."}
+{"t": 118.6, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -6.9, -0.4, rolling across \u2014 post covered."}
+{"t": 119.8, "from": "r0", "team": "AFC Fable", "number": 1, "text": "A lesson, not a defeat. Reset and go again."}
+{"t": 131.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +1.5, +4.2, near still \u2014 mine, slow and steady."}
+{"t": 132.0, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball's against the wall, clearing it"}
+{"t": 143.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -5.9, +3.2, rolling at our net \u2014 dropping goal-side."}
+{"t": 148.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -7.8, -1.8, rolling at their net, fast \u2014 post covered."}
+{"t": 155.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it off the wall"}
+{"t": 155.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.8, -3.5, rolling at their net \u2014 dropping goal-side."}
+{"t": 160.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.5, -3.3, rolling at their net, fast \u2014 dropping back."}
+{"t": 167.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.1, -0.2, rolling at their net \u2014 dropping goal-side."}
+{"t": 172.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +3.9, +3.3, rolling across \u2014 dropping back."}
+{"t": 175.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it away"}
+{"t": 178.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 179.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +4.3, +4.2, near still \u2014 push with me."}
+{"t": 181.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "pushing it free"}
+{"t": 184.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 184.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.6, +1.7, rolling across \u2014 dropping back."}
+{"t": 191.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.6, -1.3, rolling at our net, fast \u2014 dropping goal-side."}
+{"t": 196.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +5.3, -3.9, near still \u2014 dropping back."}
+{"t": 199.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "pushing it along the wall"}
+{"t": 202.1, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "let's clear it", "reason": "cooldown"}
+{"t": 203.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.6, -3.1, rolling at our net \u2014 dropping goal-side."}
+{"t": 204.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it away"}
+{"t": 208.7, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "clearing it out", "reason": "cooldown"}
+{"t": 208.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +2.3, -2.6, rolling at our net, fast \u2014 mine \u2014 no naps."}
+{"t": 215.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -2.8, -0.6, rolling at our net \u2014 dropping goal-side."}
+{"t": 220.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -3.7, +1.8, rolling across \u2014 dropping back."}
+{"t": 227.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.0, +0.2, rolling at our net \u2014 dropping goal-side."}
+{"t": 232.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -2.1, +3.0, near still \u2014 dropping back."}
+{"t": 239.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.0, +1.8, rolling at our net \u2014 dropping goal-side."}
+{"t": 244.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 251.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +4.1, -2.8, rolling at their net \u2014 dropping goal-side."}
+{"t": 256.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.4, -2.9, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 262.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "Breaking it loose from the wall"}
+{"t": 263.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +7.0, -1.3, rolling across \u2014 dropping goal-side."}
+{"t": 268.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +5.9, +3.7, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 274.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "prying it off the wall"}
+{"t": 275.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +6.6, +1.7, rolling at their net, fast \u2014 dropping goal-side."}
+{"t": 280.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Off at the whistle \u2014 first touch is mine!"}
+{"t": 287.3, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -0.7, -0.8, rolling at our net \u2014 dropping goal-side."}
+{"t": 292.9, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.4, -3.0, rolling across \u2014 mine \u2014 no naps."}
+{"t": 328.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it"}
+{"t": 341.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.2, -0.5, rolling across \u2014 mine \u2014 no naps."}
+{"t": 343.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.8, -2.0, rolling at our net \u2014 dropping goal-side."}
+{"t": 349.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it off the wall"}
+{"t": 352.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "clearing it"}
+{"t": 352.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it from the wall", "reason": "cooldown"}
+{"t": 353.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -3.6, -3.0, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 354.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "scoring!", "reason": "cooldown"}
+{"t": 355.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.8, -2.1, rolling at our net \u2014 dropping goal-side."}
+{"t": 360.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it"}
+{"t": 365.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -0.2, -0.1, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 367.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.5, -0.5, rolling across \u2014 mine, slow and steady."}
+{"t": 370.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "got it!", "reason": "cooldown"}
+{"t": 374.6, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "prying it from the wall"}
+{"t": 375.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it along the wall"}
+{"t": 377.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.0, -2.6, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 378.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "freeing it", "reason": "cooldown"}
+{"t": 379.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -3.0, -1.7, rolling at their net \u2014 dropping goal-side."}
+{"t": 389.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +3.9, -0.4, rolling at their net, fast \u2014 dropping back."}
+{"t": 391.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +4.3, -1.6, rolling at their net \u2014 mine, slow and steady."}
+{"t": 403.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.4, -0.5, rolling at their net \u2014 dropping goal-side."}
+{"t": 403.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +5.7, -0.7, rolling at our net \u2014 dropping back."}
+{"t": 406.4, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "got it loose"}
+{"t": 409.1, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "Clearing it away!"}
+{"t": 409.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "clearing it away", "reason": "cooldown"}
+{"t": 415.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +5.2, -0.9, rolling across \u2014 dropping goal-side."}
+{"t": 417.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.6, -0.4, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 427.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +6.4, +2.8, near still \u2014 push with me."}
+{"t": 431.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +5.9, +3.0, near still \u2014 on the bounce."}
+{"t": 431.9, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it now"}
+{"t": 443.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.4, -0.1, near still \u2014 dropping goal-side."}
+{"t": 445.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +2.3, +0.8, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 455.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.4, -1.2, rolling across \u2014 dropping goal-side."}
+{"t": 463.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Fast AND finished this time!"}
+{"t": 469.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -0.8, -0.2, near still \u2014 dropping goal-side."}
+{"t": 477.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -7.7, +2.4, near still \u2014 mine \u2014 no naps."}
+{"t": 481.8, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "ball's near the wall, shifting it"}
+{"t": 483.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -6.9, -1.6, rolling at their net \u2014 dropping goal-side."}
+{"t": 489.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -5.5, -3.2, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 495.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -4.3, -3.1, rolling at their net \u2014 push with me."}
+{"t": 501.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +1.6, -2.1, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 507.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +7.5, +2.2, rolling at their net, fast \u2014 dropping goal-side."}
+{"t": 511.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "clearing it away from our goal"}
+{"t": 515.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.6, +2.3, rolling across \u2014 mine \u2014 no naps."}
+{"t": 521.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "The moral so far: patience scores."}
+{"t": 527.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at -3.5, -1.3, rolling at our net, fast \u2014 dropping back."}
+{"t": 533.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at -1.9, -4.1, rolling at their net \u2014 push with me."}
+{"t": 536.3, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "freeing it from the wall"}
+{"t": 538.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose", "reason": "cooldown"}
+{"t": 539.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.5, -3.9, rolling at their net \u2014 mine \u2014 no naps."}
+{"t": 541.0, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 545.2, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "pushing it away from the wall"}
+{"t": 547.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +2.4, -4.2, rolling at our net \u2014 push with me."}
+{"t": 547.7, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "working it free from the wall"}
+{"t": 549.5, "from": "r3", "team": "Synthetic Athletic", "number": 2, "suppressed": "got it near the wall, shifting it", "reason": "cooldown"}
+{"t": 550.2, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "prying it off the wall", "reason": "cooldown"}
+{"t": 551.5, "from": "r2", "team": "Synthetic Athletic", "number": 1, "suppressed": "getting it off the wall", "reason": "cooldown"}
+{"t": 551.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.5, -4.3, rolling at our net \u2014 mine \u2014 no naps."}
+{"t": 559.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +1.1, -3.0, rolling at their net \u2014 push with me."}
+{"t": 560.4, "from": "r3", "team": "Synthetic Athletic", "number": 2, "text": "freeing it from the wall"}
+{"t": 563.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +4.5, -1.1, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 571.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +0.3, -0.3, rolling across \u2014 dropping goal-side."}
+{"t": 575.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +1.3, +1.1, rolling across \u2014 mine \u2014 no naps."}
+{"t": 583.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +3.3, +4.0, rolling at our net, fast \u2014 dropping goal-side."}
+{"t": 587.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +6.1, +0.7, rolling at their net, fast \u2014 mine \u2014 no naps."}
+{"t": 595.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +0.5, +0.0, rolling at their net \u2014 mine, slow and steady."}
+{"t": 599.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.8, -1.6, rolling across \u2014 dropping back."}
+{"t": 607.5, "from": "r0", "team": "AFC Fable", "number": 1, "text": "Ball at +1.0, -4.2, rolling at their net \u2014 mine, slow and steady."}
+{"t": 609.6, "from": "r2", "team": "Synthetic Athletic", "number": 1, "text": "ball's against the wall, clearing it"}
+{"t": 611.5, "from": "r1", "team": "AFC Fable", "number": 2, "text": "Ball at +0.1, -2.6, rolling at our net \u2014 mine \u2014 no naps."}

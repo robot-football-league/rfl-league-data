@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T10:39:22+00:00",
+ "generated_at": "2026-09-27T12:57:53+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8927,14 +8927,14 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 11,
+     "P": 12,
      "W": 5,
      "D": 1,
-     "L": 5,
-     "GF": 55,
-     "GA": 56,
+     "L": 6,
+     "GF": 60,
+     "GA": 62,
      "Pts": 16,
-     "GD": -1,
+     "GD": -2,
      "prev": 6,
      "move": 0
     },
@@ -8944,14 +8944,14 @@
      "name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "P": 11,
-     "W": 3,
+     "P": 12,
+     "W": 4,
      "D": 3,
      "L": 5,
-     "GF": 63,
-     "GA": 55,
-     "Pts": 12,
-     "GD": 8,
+     "GF": 69,
+     "GA": 60,
+     "Pts": 15,
+     "GD": 9,
      "prev": 7,
      "move": 0
     },
@@ -20870,8 +20870,202 @@
      "away_name": "Synthetic Athletic",
      "home_code": "FAB",
      "away_code": "SYA",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-27T11:00:00Z"
+     "status": "aired",
+     "score": [
+      6,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 6,
+        "second": 42.1,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 69.2,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 18,
+        "second": 119.3,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 36,
+        "second": 242.6,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 278.1,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 50,
+        "second": 336.2,
+        "side": "away",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 359.7,
+        "side": "away",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 69,
+        "second": 461.8,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 78,
+        "second": 520.3,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 85,
+        "second": 566.0,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 589.9,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 247,
+       "kick": 237,
+       "wall": 37,
+       "fall": 10,
+       "through": 12,
+       "near_miss": 7,
+       "ram": 3,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 25.8,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "ball is stuck by the wall"
+       },
+       {
+        "second": 70.1,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "They won't outrun us twice. Again."
+       },
+       {
+        "second": 119.8,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "A lesson, not a defeat. Reset and go again."
+       },
+       {
+        "second": 167.3,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +3.1, -0.2, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 203.3,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.6, -3.1, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 251.3,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.1, -2.8, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 287.3,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -0.7, -0.8, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 360.3,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 403.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.4, -0.5, rolling at their net \u2014 dropping goal-side."
+       },
+       {
+        "second": 443.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +2.4, -0.1, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 489.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -5.5, -3.2, rolling at their net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 536.3,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing it from the wall"
+       },
+       {
+        "second": 571.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +0.3, -0.3, rolling across \u2014 dropping goal-side."
+       }
+      ],
+      "stats": {
+       "kicks": 237,
+       "falls": 10,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 12
+      },
+      "est_cost_usd": 0.2425
+     },
+     "aired_at": "2026-09-27T11:04:42Z",
+     "watch": {
+      "id": "s3-m60_frontier_fable_synthetic_athletic",
+      "url": "https://4dgsx.com/watch/s3-m60_frontier_fable_synthetic_athletic",
+      "embed_url": "https://4dgsx.com/embed/s3-m60_frontier_fable_synthetic_athletic"
+     }
     },
     {
      "n": 61,
@@ -21002,7 +21196,8 @@
      "away_name": "Gemini Flash FC",
      "home_code": "FAB",
      "away_code": "GEM",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-01T11:00:00Z"
     },
     {
      "n": 73,
@@ -21239,6 +21434,14 @@
      "goals": 41
     },
     {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 40
+    },
+    {
      "name": "Buffon.exe",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
@@ -21247,11 +21450,11 @@
      "goals": 38
     },
     {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
+     "name": "Hare",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
      "goals": 38
     },
     {
@@ -21271,14 +21474,6 @@
      "goals": 34
     },
     {
-     "name": "Hare",
-     "team": "frontier_fable",
-     "team_name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "goals": 34
-    },
-    {
      "name": "Abyss",
      "team": "frontier_deepseek",
      "team_name": "DeepSeek Rovers",
@@ -21287,7 +21482,7 @@
      "goals": 29
     }
    ],
-   "aired_count": 57,
+   "aired_count": 58,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -24054,8 +24249,8 @@
   }
  },
  "totals": {
-  "matches_aired": 94,
-  "goals": 1035,
+  "matches_aired": 95,
+  "goals": 1046,
   "clubs": 11
  }
 }

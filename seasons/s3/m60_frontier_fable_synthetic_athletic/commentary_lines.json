@@ -1,0 +1,506 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round twelve encounter.",
+    "wav": "line_78564d8ef07c5cf7.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls out early, urging composure and taking responsibility for their own half.",
+    "wav": "line_ebb049786059f6f4.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 15.49,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare loses footing on the right and goes down.",
+    "wav": "line_29c761a0339599f2.wav",
+    "dur_s": 2.8
+  },
+  {
+    "t": 19.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Griezmatronn carries it forward nicely down the left touchline, looking to test Fable's defensive shape early on.",
+    "wav": "line_b98423c3cb6c757a.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 32.05,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Tortoise is clean through here!",
+    "wav": "line_c6af7b3e39ff625b.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 33.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Driving forward through the right channel, plenty of space to exploit.",
+    "wav": "line_2d647b2d84e97c3d.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 42.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise right in front now!",
+    "wav": "line_14ae1e4c2297261e.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 42.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Tortoise finishes it! A tidy, direct run from their own third and AFC Fable take the lead, one nil!",
+    "wav": "line_2d55fedc5220dfdc.wav",
+    "dur_s": 7.99
+  },
+  {
+    "t": 53.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts across to claim the loose ball in the final third.",
+    "wav": "line_f780458dc2f554a9.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 59.34,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise takes an awkward tumble in the defensive third, needing a few seconds to right themselves.",
+    "wav": "line_e5eb285aab2cf19f.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 65.85,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Tortoise clatters into Griezmatronn here.",
+    "wav": "line_66c3671cf7e76cfa.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 67.96,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A narrow shave at close range!",
+    "wav": "line_0bcad58acd1b1ec8.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 69.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Griezmatronn scrambles it home! Synthetic Athletic hit straight back, squaring it up at one apiece!",
+    "wav": "line_9bf995e7e5925694.wav",
+    "dur_s": 6.74
+  },
+  {
+    "t": 88.0,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A hurried clearance nearly deflects back inside the post, but it skips harmlessly wide.",
+    "wav": "line_470a6bdf0bd613d1.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 113.96,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Another close shave in Fable's defensive third as Synthetic Athletic keep the pressure",
+    "wav": "line_463e8ab51b202c30.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 119.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Robodinho turns it in right at the mouth of goal! That is thirty-nine for the season, and Athletic have turned it around to lead two-one!",
+    "wav": "line_55948e9691a2da87.wav",
+    "dur_s": 8.88
+  },
+  {
+    "t": 127.24,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A clumsy mix-up between Hare and Tortoise, and Hare hits the turf in midfield.",
+    "wav": "line_a4698d34b8dafe74.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 136.91,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare goes down again out wide, struggling to keep balance under pressure.",
+    "wav": "line_bca245de66d2ca39.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 148.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare shouts out that the near post is covered as the ball rolls dangerously close.",
+    "wav": "line_6b7b7acf29f2153b.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 174.4,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A rare quiet spell. Synthetic Athletic, one of the league's frozen originals, are relying on their live calls rather than any between-match tweaks, and it has served them well so far.",
+    "wav": "line_cf21e497365579bd.wav",
+    "dur_s": 10.87
+  },
+  {
+    "t": 200.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Fable pressing high, penning Athletic back.",
+    "wav": "line_d4821dc2e2421b4e.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 202.55,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner ram fires it back into the mix.",
+    "wav": "line_f2f170054ecd77f8.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 208.9,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Hare calls loudly to claim the rebound, warning against any lapse in concentration.",
+    "wav": "line_952a88bc371fc65e.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 235.32,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Griezmatronn bursts completely clear on the right!",
+    "wav": "line_92406c1a86f1f048.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 242.6,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And rolls it into an empty net. Efficient work from Griezmatronn, making it three-one to Synthetic Athletic.",
+    "wav": "line_6b1ea0a6677e9fba.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 278.1,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare pulls one back just before the break! Right on the doorstep, and Fable are within one at two-three!",
+    "wav": "line_21943be90310a59f.wav",
+    "dur_s": 7.45
+  },
+  {
+    "t": 287.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise communicates cleanly, tracking back to plug the space behind.",
+    "wav": "line_6e9d4129982d2219.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts, and the ball slowly rolls out through the",
+    "wav": "line_eb71bf738282c58b.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Power off at the buzzer, ball still live, but it settles without drama. Fable with an unchanged squad today, trailing three-two at the interval.",
+    "wav": "line_9f5313620795e2c6.wav",
+    "dur_s": 10.42
+  },
+  {
+    "t": 336.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Griezmatronn slots another home from two yards out to restore Athletic's two-goal cushion. Four-two.",
+    "wav": "line_b863e97d2523b0ff.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 358.12,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Just wide of the upright.",
+    "wav": "line_35b36d7f683d8915.wav",
+    "dur_s": 1.36
+  },
+  {
+    "t": 359.7,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Robodinho snatches it right off the line, poking home their second of the match. Five-two to Synthetic Athletic.",
+    "wav": "line_9979d1e7dec12e42.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 376.09,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Ram panel boots it clear.",
+    "wav": "line_8315557947abde28.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 378.55,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise is through, completely unmarked.",
+    "wav": "line_fcf35b16514574cc.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 379.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise shouts to signal the ball's trajectory towards the Athletic net.",
+    "wav": "line_ff495e57466227dc.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 387.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Tortoise rumbles steadily across the centre circle, dragging the magenta ball into the middle.",
+    "wav": "line_cc4da21101a8a17f.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 404.6,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise scuffs the finish inches wide of the left post.",
+    "wav": "line_88a634a1db08dca9.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 431.07,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The push-panel launches the ball out of the corner, keeping the tempo rolling along.",
+    "wav": "line_5c2d20c08a1bc14e.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 451.96,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Griezmatronn takes a misstep and folds in midfield, but the actuators are already whirring to reset.",
+    "wav": "line_1c2127044e6bc752.wav",
+    "dur_s": 7.32
+  },
+  {
+    "t": 461.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Tortoise pokes it in from two metres. Fable pull one back, three-five.",
+    "wav": "line_87b1c02b3d916523.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 462.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Fable applying heavy pressure here.",
+    "wav": "line_aeb4d112ed5d0323.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 463.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Hare barks encouragement, demanding sharpness to see this spell through.",
+    "wav": "line_51e21574eccf3825.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 478.12,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "A close call at the back, scraping just past the post with time ticking away.",
+    "wav": "line_a7e4d3a779204287.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 486.71,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare is completely clear through the right channel with two minutes left!",
+    "wav": "line_9df59c17d7625aef.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 498.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare powers on down the channel, desperate to carve out an angle.",
+    "wav": "line_855c569d3f9299bb.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 507.88,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Just clips wide of the upright, but Fable are pouring forward now.",
+    "wav": "line_1e99ff3049ae032e.wav",
+    "dur_s": 3.63
+  },
+  {
+    "t": 520.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare taps it in! Only one goal in it now, four-five with under two",
+    "wav": "line_8e376221ad9e91e6.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 521.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Fable are swarming the final third, pinning Athletic firmly against the back wall.",
+    "wav": "line_99586dfe48d76293.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 539.5,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Hare calls out that they have the loose ball out wide, racing to keep the attack alive.",
+    "wav": "line_a0ca65eeeee749a3.wav",
+    "dur_s": 4.7
+  },
+  {
+    "t": 560.41,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Hare breaks clean through on goal in the final minute!",
+    "wav": "line_d5c0e2599355626e.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 565.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Hare drives to point-blank range!",
+    "wav": "line_793a63195a6407bb.wav",
+    "dur_s": 2.09
+  },
+  {
+    "t": 566.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare levels it! What a comeback! Five-five with barely fifty seconds to play!",
+    "wav": "line_bbe70eba98888fad.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 589.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Hare drives into the box again!",
+    "wav": "line_b2d131ca88a27289.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 589.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare has scored again! Unbelievable! Four straight goals for Fable and they lead six-five in the final seconds!",
+    "wav": "line_832f587f3dab88f6.wav",
+    "dur_s": 8.75
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The buzzer sounds, power cut, and the ball slowly dies in Fable's defensive",
+    "wav": "line_9547c5d092cd3193.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Full time, AFC Fable win six-five. Up next, Real Machina face Muse Spark FC, kicking off Sunday at eight in",
+    "wav": "line_faa861a9bed29c2a.wav",
+    "dur_s": 11.7
+  }
+]
