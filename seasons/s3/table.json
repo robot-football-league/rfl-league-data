@@ -8,6 +8,7 @@
     5,
     8
    ],
+   "est_cost_usd": 0.4311,
    "goals": [
     {
      "t": 31.9,
@@ -88,7 +89,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4311,
    "players": {
     "home": [
      "CR-7000",
@@ -109,6 +109,7 @@
     9,
     11
    ],
+   "est_cost_usd": 0.4608,
    "goals": [
     {
      "t": 45.4,
@@ -231,7 +232,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4608,
    "players": {
     "home": [
      "Mbapp-E",
@@ -252,6 +252,7 @@
     4,
     3
    ],
+   "est_cost_usd": 0.4628,
    "goals": [
     {
      "t": 117.6,
@@ -296,7 +297,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4628,
    "players": {
     "home": [
      "Griezmatronn",
@@ -317,6 +317,7 @@
     7,
     7
    ],
+   "est_cost_usd": 0.216,
    "goals": [
     {
      "t": 19.6,
@@ -403,7 +404,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.216,
    "players": {
     "home": [
      "Tortoise",
@@ -424,6 +424,7 @@
     4,
     8
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 37.9,
@@ -498,7 +499,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Patchford",
@@ -519,6 +519,7 @@
     0,
     8
    ],
+   "est_cost_usd": 0.4363,
    "goals": [
     {
      "t": 136.6,
@@ -569,7 +570,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4363,
    "players": {
     "home": [
      "Abyss",
@@ -590,6 +590,7 @@
     16,
     3
    ],
+   "est_cost_usd": 0.4288,
    "goals": [
     {
      "t": 44.5,
@@ -706,7 +707,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4288,
    "players": {
     "home": [
      "Haalandroid",
@@ -727,6 +727,7 @@
     7,
     4
    ],
+   "est_cost_usd": 0.4357,
    "goals": [
     {
      "t": 51.1,
@@ -795,7 +796,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4357,
    "players": {
     "home": [
      "Mbapp-E",
@@ -816,6 +816,7 @@
     4,
     6
    ],
+   "est_cost_usd": 0.2286,
    "goals": [
     {
      "t": 52.0,
@@ -878,7 +879,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.2286,
    "players": {
     "home": [
      "Griezmatronn",
@@ -899,6 +899,7 @@
     6,
     4
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 29.7,
@@ -961,7 +962,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Tortoise",
@@ -982,6 +982,7 @@
     10,
     2
    ],
+   "est_cost_usd": 0.4887,
    "goals": [
     {
      "t": 39.4,
@@ -1056,7 +1057,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4887,
    "players": {
     "home": [
      "CR-7000",
@@ -1077,6 +1077,7 @@
     9,
     7
    ],
+   "est_cost_usd": 0.148,
    "goals": [
     {
      "t": 9.9,
@@ -1175,7 +1176,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.148,
    "players": {
     "home": [
      "Abyss",
@@ -1196,6 +1196,7 @@
     6,
     7
    ],
+   "est_cost_usd": 0.2328,
    "goals": [
     {
      "t": 13.7,
@@ -1276,7 +1277,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.2328,
    "players": {
     "home": [
      "Haalandroid",
@@ -1297,6 +1297,7 @@
     3,
     8
    ],
+   "est_cost_usd": 0.2276,
    "goals": [
     {
      "t": 11.1,
@@ -1365,7 +1366,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.2276,
    "players": {
     "home": [
      "Mbapp-E",
@@ -1386,6 +1386,7 @@
     6,
     3
    ],
+   "est_cost_usd": 0.2396,
    "goals": [
     {
      "t": 72.9,
@@ -1442,7 +1443,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.2396,
    "players": {
     "home": [
      "Griezmatronn",
@@ -1463,6 +1463,7 @@
     4,
     13
    ],
+   "est_cost_usd": 0.3721,
    "goals": [
     {
      "t": 27.3,
@@ -1567,7 +1568,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.3721,
    "players": {
     "home": [
      "Spark",
@@ -1588,121 +1588,121 @@
     5,
     11
    ],
+   "est_cost_usd": 0.1182,
    "goals": [
     {
      "t": 31.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 48.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 65.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 102.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 133.9,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 174.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 188.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 217.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 228.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 246.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 261.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 363.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 401.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 504.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 531.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 578.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.1182,
    "players": {
     "home": [
      "Zhi",
@@ -1723,79 +1723,79 @@
     4,
     6
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 22.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 39.5,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 135.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 264.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 328.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 345.3,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 443.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 532.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 544.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 580.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Abyss",
@@ -1816,65 +1816,65 @@
     4,
     4
    ],
+   "est_cost_usd": 0.2315,
    "goals": [
     {
      "t": 47.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 64.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 144.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 282.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 482.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 515.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 546.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 609.8,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2315,
    "players": {
     "home": [
      "Haalandroid",
@@ -1895,93 +1895,93 @@
     8,
     4
    ],
+   "est_cost_usd": 0.4556,
    "goals": [
     {
      "t": 30.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 65.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 96.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 125.1,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 159.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 231.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 285.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 337.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 361.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 455.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 517.5,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 596.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.4556,
    "players": {
     "home": [
      "Mbapp-E",
@@ -2002,72 +2002,72 @@
     4,
     5
    ],
+   "est_cost_usd": 0.2368,
    "goals": [
     {
      "t": 88.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 143.6,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 208.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 222.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 427.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 488.9,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 537.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 571.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 583.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2368,
    "players": {
     "home": [
      "CR-7000",
@@ -2088,58 +2088,58 @@
     2,
     5
    ],
+   "est_cost_usd": 0.1296,
    "goals": [
     {
      "t": 46.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 141.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 163.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 241.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 329.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 400.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 423.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.1296,
    "players": {
     "home": [
      "Spark",
@@ -2160,79 +2160,79 @@
     2,
     8
    ],
+   "est_cost_usd": 0.1159,
    "goals": [
     {
      "t": 97.4,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 126.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 187.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 204.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 235.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 296.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 356.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 376.8,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 447.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 536.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.1159,
    "players": {
     "home": [
      "Zhi",
@@ -2253,72 +2253,72 @@
     4,
     5
    ],
+   "est_cost_usd": 0.2363,
    "goals": [
     {
      "t": 96.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 110.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 150.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 173.5,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 270.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 291.5,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 386.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 459.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 527.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2363,
    "players": {
     "home": [
      "Abyss",
@@ -2339,86 +2339,86 @@
     3,
     8
    ],
+   "est_cost_usd": 0.4386,
    "goals": [
     {
      "t": 23.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 46.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 100.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 198.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 215.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 252.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 406.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 439.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 496.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 522.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 619.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": true,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": true
     }
    ],
-   "est_cost_usd": 0.4386,
    "players": {
     "home": [
      "Haalandroid",
@@ -2439,93 +2439,93 @@
     4,
     8
    ],
+   "est_cost_usd": 0.232,
    "goals": [
     {
      "t": 11.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 47.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 92.3,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 144.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 168.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 242.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 260.5,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 289.6,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 359.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 439.1,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 504.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 555.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.232,
    "players": {
     "home": [
      "Patchford",
@@ -2546,93 +2546,93 @@
     8,
     4
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 40.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 70.9,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 113.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 200.7,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 216.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 256.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 293.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 334.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 354.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 440.3,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 538.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 610.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Flash",
@@ -2653,79 +2653,79 @@
     5,
     5
    ],
+   "est_cost_usd": 0.3589,
    "goals": [
     {
      "t": 60.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 84.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 128.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 213.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 256.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 271.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 292.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 356.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 439.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 545.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.3589,
    "players": {
     "home": [
      "Spark",
@@ -2746,86 +2746,86 @@
     1,
     10
    ],
+   "est_cost_usd": 0.3515,
    "goals": [
     {
      "t": 45.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 62.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 107.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 133.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 157.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 251.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 376.9,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 395.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 415.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 449.2,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 571.0,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.3515,
    "players": {
     "home": [
      "Zhi",
@@ -2846,107 +2846,107 @@
     5,
     9
    ],
+   "est_cost_usd": 0.2389,
    "goals": [
     {
      "t": 9.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 44.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 63.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 120.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 138.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 165.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 184.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 244.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 265.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 357.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 406.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 431.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 477.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 578.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2389,
    "players": {
     "home": [
      "Abyss",
@@ -2967,100 +2967,100 @@
     8,
     5
    ],
+   "est_cost_usd": 0.2331,
    "goals": [
     {
      "t": 31.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 50.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 70.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 110.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 183.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 362.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 410.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 425.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 483.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 520.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 539.1,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 567.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 583.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2331,
    "players": {
     "home": [
      "CR-7000",
@@ -3081,114 +3081,114 @@
     3,
     12
    ],
+   "est_cost_usd": 0.233,
    "goals": [
     {
      "t": 12.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 23.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 45.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 134.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 185.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 280.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 333.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 342.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 356.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 370.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 413.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 535.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 558.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 573.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 586.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.233,
    "players": {
     "home": [
      "Patchford",
@@ -3209,79 +3209,79 @@
     7,
     3
    ],
+   "est_cost_usd": 0.2302,
    "goals": [
     {
      "t": 13.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 152.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 173.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 193.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 242.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 363.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 416.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 512.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 556.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 580.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2302,
    "players": {
     "home": [
      "Flash",
@@ -3302,72 +3302,72 @@
     2,
     7
    ],
+   "est_cost_usd": 0.1091,
    "goals": [
     {
      "t": 15.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 99.6,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 128.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 216.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 234.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 473.8,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 507.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 522.2,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 568.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.1091,
    "players": {
     "home": [
      "Zhi",
@@ -3388,86 +3388,86 @@
     4,
     7
    ],
+   "est_cost_usd": 0.4652,
    "goals": [
     {
      "t": 58.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 136.4,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 163.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 176.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 268.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 387.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 411.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 457.6,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 547.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 564.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 590.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.4652,
    "players": {
     "home": [
      "Griezmatronn",
@@ -3488,65 +3488,65 @@
     4,
     4
    ],
+   "est_cost_usd": 0.249,
    "goals": [
     {
      "t": 51.2,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 150.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 197.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 228.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 279.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 349.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 417.4,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 514.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.249,
    "players": {
     "home": [
      "Tortoise",
@@ -3567,51 +3567,51 @@
     4,
     2
    ],
+   "est_cost_usd": 0.2275,
    "goals": [
     {
      "t": 9.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 246.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 277.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 292.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 460.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 602.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2275,
    "players": {
     "home": [
      "Patchford",
@@ -3632,72 +3632,72 @@
     7,
     2
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 23.7,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 43.4,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 56.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 183.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 248.5,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 286.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 435.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 462.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 583.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Flash",
@@ -3718,93 +3718,93 @@
     8,
     4
    ],
+   "est_cost_usd": 0.4397,
    "goals": [
     {
      "t": 108.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 131.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 158.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 220.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 243.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 334.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 357.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 390.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 451.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 506.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 551.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 566.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.4397,
    "players": {
     "home": [
      "CR-7000",
@@ -3825,72 +3825,72 @@
     3,
     6
    ],
+   "est_cost_usd": 0.4523,
    "goals": [
     {
      "t": 50.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 184.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 271.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 331.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 346.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 445.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 555.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 580.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 610.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.4523,
    "players": {
     "home": [
      "Griezmatronn",
@@ -3911,86 +3911,86 @@
     5,
     6
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 37.3,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 67.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 109.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 124.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 145.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 159.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 187.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 289.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 342.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 381.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 424.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Tortoise",
@@ -4011,72 +4011,72 @@
     6,
     3
    ],
+   "est_cost_usd": 0.115,
    "goals": [
     {
      "t": 77.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 123.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 167.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 278.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 329.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 398.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 451.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 497.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 522.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.115,
    "players": {
     "home": [
      "Patchford",
@@ -4097,79 +4097,79 @@
     7,
     3
    ],
+   "est_cost_usd": 0.4554,
    "goals": [
     {
      "t": 45.1,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 67.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 89.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 170.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 220.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 351.4,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 410.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 526.6,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 557.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 582.0,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.4554,
    "players": {
     "home": [
      "Haalandroid",
@@ -4190,86 +4190,86 @@
     2,
     9
    ],
+   "est_cost_usd": 0.2171,
    "goals": [
     {
      "t": 12.9,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 96.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 117.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 146.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 195.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 220.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 284.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 350.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 438.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 457.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 571.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2171,
    "players": {
     "home": [
      "Abyss",
@@ -4290,72 +4290,72 @@
     4,
     5
    ],
+   "est_cost_usd": 0.3515,
    "goals": [
     {
      "t": 58.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 91.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 134.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 146.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 289.4,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 465.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 485.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 502.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 616.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.3515,
    "players": {
     "home": [
      "Zhi",
@@ -4376,86 +4376,86 @@
     8,
     3
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 137.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 170.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 193.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 219.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 246.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 258.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 268.6,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 288.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 329.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 459.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 563.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Flash",
@@ -4476,86 +4476,86 @@
     6,
     5
    ],
+   "est_cost_usd": 0.2383,
    "goals": [
     {
      "t": 103.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 138.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 164.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 179.4,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 237.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 387.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 458.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 479.4,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 531.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 558.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 578.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2383,
    "players": {
     "home": [
      "CR-7000",
@@ -4576,107 +4576,107 @@
     2,
     12
    ],
+   "est_cost_usd": 0.3509,
    "goals": [
     {
      "t": 36.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 88.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 135.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 205.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 226.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 249.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 285.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 349.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 365.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 412.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 432.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 458.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 505.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 588.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.3509,
    "players": {
     "home": [
      "Zhi",
@@ -4697,79 +4697,79 @@
     7,
     3
    ],
+   "est_cost_usd": 0.2372,
    "goals": [
     {
      "t": 28.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 99.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 124.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 141.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 208.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 287.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 327.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 341.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 361.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 433.8,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2372,
    "players": {
     "home": [
      "Flash",
@@ -4790,65 +4790,65 @@
     6,
     2
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 40.0,
      "team": "A",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 179.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 204.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 355.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 375.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 433.5,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 462.5,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 528.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Patchford",
@@ -4869,72 +4869,72 @@
     2,
     7
    ],
+   "est_cost_usd": 0.3499,
    "goals": [
     {
      "t": 51.2,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 183.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 417.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 442.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 463.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 482.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 498.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 533.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 610.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.3499,
    "players": {
     "home": [
      "Zhi",
@@ -4955,107 +4955,107 @@
     5,
     9
    ],
+   "est_cost_usd": 0.2188,
    "goals": [
     {
      "t": 12.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 130.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 163.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 208.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 231.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 368.4,
      "team": "B",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 379.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 398.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 445.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 480.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 544.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 563.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 583.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 605.4,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2188,
    "players": {
     "home": [
      "Flash",
@@ -5076,79 +5076,79 @@
     5,
     5
    ],
+   "est_cost_usd": 0.2336,
    "goals": [
     {
      "t": 9.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 54.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 199.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 245.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 281.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 329.0,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 351.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 447.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 544.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 589.6,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2336,
    "players": {
     "home": [
      "Patchford",
@@ -5169,177 +5169,177 @@
     24,
     0
    ],
+   "est_cost_usd": 0.0211,
    "goals": [
     {
      "t": 19.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 43.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 90.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 101.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 114.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 125.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 137.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 147.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 229.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 268.6,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 280.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 292.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 329.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 355.2,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 367.7,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 393.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 447.3,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 460.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 470.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 484.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 521.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 549.4,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 560.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 573.7,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.0211,
    "players": {
     "home": [
      "Flash",
@@ -5360,114 +5360,114 @@
     0,
     15
    ],
+   "est_cost_usd": 0.0267,
    "goals": [
     {
      "t": 25.5,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 141.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 153.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 181.0,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 256.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 296.2,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 335.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 381.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 392.9,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 419.7,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 439.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 481.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 512.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 592.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 610.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.0267,
    "players": {
     "home": [
      "Spark",
@@ -5488,100 +5488,100 @@
     5,
     8
    ],
+   "est_cost_usd": 0.2153,
    "goals": [
     {
      "t": 24.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 45.4,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 74.1,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 86.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 117.9,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 237.8,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 345.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 373.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 422.8,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 461.9,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 532.3,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 558.2,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 579.6,
      "team": "B",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2153,
    "players": {
     "home": [
      "Spark",
@@ -5602,72 +5602,72 @@
     5,
     4
    ],
+   "est_cost_usd": 0.0,
    "goals": [
     {
      "t": 113.2,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 188.6,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 248.5,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 297.9,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 334.8,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 414.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 546.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 562.5,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 576.7,
      "team": "A",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.0,
    "players": {
     "home": [
      "Spark",
@@ -5688,86 +5688,86 @@
     6,
     5
    ],
+   "est_cost_usd": 0.2425,
    "goals": [
     {
      "t": 42.1,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 69.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 119.3,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 242.6,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 278.1,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 336.2,
      "team": "B",
      "scorer": 2,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 359.7,
      "team": "B",
      "scorer": 3,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 461.8,
      "team": "A",
      "scorer": 0,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 520.3,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 566.0,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     },
     {
      "t": 589.9,
      "team": "A",
      "scorer": 1,
-     "after_buzzer": false,
-     "replay_s": 5.0
+     "replay_s": 5.0,
+     "after_buzzer": false
     }
    ],
-   "est_cost_usd": 0.2425,
    "players": {
     "home": [
      "Tortoise",
@@ -5837,260 +5837,6 @@
    "at": "2026-09-20T16:00:19Z",
    "reinstated_at": "2026-09-21T11:49:24Z",
    "reinstated_why": "FALLBACK_DEPTH 3 -> 10 (NOTICES 2026-09-21): frontier_muse's last good commit 000fac8 is HEAD~6"
-  }
- ],
- "replaced": [
-  {
-   "fixture": 53,
-   "home": "frontier_muse",
-   "away": "dynamo_datacenter",
-   "why": "Muse played fallback code the engine silently accepted as ok; replayed before airing (NOTICES 2026-09-23)",
-   "approved_by": "Robin, 2026-09-23",
-   "at": "2026-09-23T17:41:14Z",
-   "status": "swapped",
-   "staged_dir": null,
-   "original": {
-    "score": [
-     0,
-     13
-    ],
-    "goals": [
-     {
-      "t": 17.7,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 27.7,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 44.8,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 60.5,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 280.0,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 420.4,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 437.9,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 491.9,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 507.3,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 521.3,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 536.8,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 548.3,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 589.9,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     }
-    ],
-    "est_cost_usd": 0.2478,
-    "players": {
-     "home": [
-      "Spark",
-      "Muse"
-     ],
-     "away": [
-      "Mbapp-E",
-      "Buffon.exe"
-     ]
-    },
-    "dir": "runs/league/s3/m53_frontier_muse_dynamo_datacenter"
-   },
-   "original_receipt": {
-    "id": "s3-m53_frontier_muse_dynamo_datacenter",
-    "fingerprint": "1afdd13d8f769073",
-    "channel": "rfl",
-    "mode": null,
-    "at": "2026-09-24T19:01:42Z",
-    "url": "https://4dgsx.com/watch/s3-m53_frontier_muse_dynamo_datacenter"
-   },
-   "replay": {
-    "score": [
-     5,
-     8
-    ],
-    "goals": [
-     {
-      "t": 24.6,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 45.4,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 74.1,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 86.1,
-      "team": "A",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 117.9,
-      "team": "A",
-      "scorer": 0,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 237.8,
-      "team": "B",
-      "scorer": 3,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 345.8,
-      "team": "A",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 373.3,
-      "team": "A",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 422.8,
-      "team": "B",
-      "scorer": 2,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 461.9,
-      "team": "B",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 532.3,
-      "team": "B",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 558.2,
-      "team": "A",
-      "scorer": 0,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     },
-     {
-      "t": 579.6,
-      "team": "B",
-      "scorer": 1,
-      "after_buzzer": false,
-      "replay_s": 5.0
-     }
-    ],
-    "est_cost_usd": 0.2153,
-    "players": {
-     "home": [
-      "Spark",
-      "Muse"
-     ],
-     "away": [
-      "Mbapp-E",
-      "Buffon.exe"
-     ]
-    }
-   },
-   "published_receipt": {
-    "id": "s3-m53_frontier_muse_dynamo_datacenter",
-    "fingerprint": "cc3cc712673e8df8",
-    "channel": "rfl",
-    "mode": null,
-    "at": "2026-09-24T19:01:42Z",
-    "url": "https://4dgsx.com/watch/s3-m53_frontier_muse_dynamo_datacenter",
-    "replaced": {
-     "fingerprint": "1afdd13d8f769073",
-     "why": "replay: Muse played fallback code the engine silently accepted as ok; replayed before airing (NOTICES 2026-09-23)"
-    }
-   },
-   "parked_dir": "runs/league/replaced/s3/m53_frontier_muse_dynamo_datacenter.20260923T174335Z"
   }
  ]
 }

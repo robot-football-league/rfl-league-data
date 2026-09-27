@@ -8,6 +8,7 @@
     3,
     2
    ],
+   "est_cost_usd": 0.4498,
    "goals": [
     {
      "t": 112.2,
@@ -40,8 +41,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4498,
-   "dir": "logs/league_r1_rma_sgu",
    "players": {
     "home": [
      "CR-7000",
@@ -51,7 +50,8 @@
      "Haalandroid",
      "BellingRAM"
     ]
-   }
+   },
+   "dir": "logs/league_r1_rma_sgu"
   },
   {
    "fixture": 2,
@@ -61,6 +61,7 @@
     7,
     1
    ],
+   "est_cost_usd": 0.4511,
    "goals": [
     {
      "t": 60.5,
@@ -111,8 +112,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4511,
-   "dir": "runs/league/s1/m2_real_machina_dynamo_datacenter",
    "players": {
     "home": [
      "CR-7000",
@@ -122,7 +121,8 @@
      "Mbapp-E",
      "Buffon.exe"
     ]
-   }
+   },
+   "dir": "runs/league/s1/m2_real_machina_dynamo_datacenter"
   },
   {
    "fixture": 3,
@@ -132,6 +132,7 @@
     8,
     8
    ],
+   "est_cost_usd": 0.4871,
    "goals": [
     {
      "t": 50.3,
@@ -230,8 +231,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4871,
-   "dir": "runs/league/s1/m3_real_machina_synthetic_athletic",
    "players": {
     "home": [
      "CR-7000",
@@ -241,7 +240,8 @@
      "Griezmatronn",
      "Robodinho"
     ]
-   }
+   },
+   "dir": "runs/league/s1/m3_real_machina_synthetic_athletic"
   },
   {
    "fixture": 4,
@@ -251,6 +251,7 @@
     5,
     9
    ],
+   "est_cost_usd": 0.4823,
    "goals": [
     {
      "t": 42.5,
@@ -337,8 +338,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4823,
-   "dir": "runs/league/s1/m4_singularity_united_dynamo_datacenter",
    "players": {
     "home": [
      "Haalandroid",
@@ -348,7 +347,8 @@
      "Mbapp-E",
      "Buffon.exe"
     ]
-   }
+   },
+   "dir": "runs/league/s1/m4_singularity_united_dynamo_datacenter"
   },
   {
    "fixture": 5,
@@ -358,6 +358,7 @@
     2,
     3
    ],
+   "est_cost_usd": 0.4492,
    "goals": [
     {
      "t": 85.8,
@@ -390,8 +391,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4492,
-   "dir": "runs/league/s1/m5_singularity_united_synthetic_athletic",
    "players": {
     "home": [
      "Haalandroid",
@@ -401,7 +400,8 @@
      "Griezmatronn",
      "Robodinho"
     ]
-   }
+   },
+   "dir": "runs/league/s1/m5_singularity_united_synthetic_athletic"
   },
   {
    "fixture": 6,
@@ -411,6 +411,7 @@
     10,
     4
    ],
+   "est_cost_usd": 0.4651,
    "goals": [
     {
      "t": 127.1,
@@ -497,8 +498,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4651,
-   "dir": "runs/league/s1/m6_dynamo_datacenter_synthetic_athletic",
    "players": {
     "home": [
      "Mbapp-E",
@@ -508,7 +507,8 @@
      "Griezmatronn",
      "Robodinho"
     ]
-   }
+   },
+   "dir": "runs/league/s1/m6_dynamo_datacenter_synthetic_athletic"
   }
  ]
 }

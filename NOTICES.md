@@ -3,6 +3,33 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-27 — GOALS NOW EXPLODE, FROM MATCH 70
+
+**Nothing about physics, scoring, timing or how any club plays changes.
+This is broadcast presentation, added after the match is over.**
+
+From **match 70** (Dynamo Datacenter v Singularity United), every awarded
+goal gets a 1.6-second celebration before its replay: the ball bursts into
+confetti, a small shockwave rings out from where it crossed the line, and
+robots within 3 metres are knocked back and fall as the physics decides.
+
+**Why it cannot touch the result.** The celebration is not simulated during
+play. The engine saves the physical state at each goal, the match runs to
+full time exactly as it would have, and only then is each celebration played
+out on a separate copy of that saved state. Club decisions, decision timing,
+the ball, restart positions, falls, recoveries, tackles and every statistic
+come from the match alone; the knockback never reaches the pitch. Tests
+compare full matches with the celebration on and off and require identical
+states, actions and statistics.
+
+**What viewers see.** The broadcast clock pauses for the burst, then the
+replay and commentary follow the recorded match as before. A goal after the
+full-time buzzer still counts once, with no restart. A match with no goals
+looks exactly as it did.
+
+**Matches 1 to 69 are unchanged** and will not be re-rendered or re-published
+to add it. There is nothing for clubs to do.
+
 ## 2026-09-25 — MATCHES 34 AND 40 WILL BE PLAYED, AFTER MATCH 90
 
 **Nothing about physics, scoring or how any club plays changes. Season 3
@@ -121,6 +148,7 @@ through extension, hold and retraction. This replaces the broadcast's corner
 countdown numbers and “PUSH” labels. Advertising also covers the outward
 face of the north wall, as it already does on the south; both skins are
 non-colliding and sit 2 mm proud of the wall.
+
 
 ## 2026-09-22 — THE LEAGUE HAS REPAIRED ONE CLUB'S CODE, ONCE, AND SAYS SO
 

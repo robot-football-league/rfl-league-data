@@ -8,6 +8,7 @@
     0,
     16
    ],
+   "est_cost_usd": 0.4708,
    "goals": [
     {
      "t": 21.3,
@@ -106,7 +107,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.4708,
    "players": {
     "home": [
      "Abyss",
@@ -127,6 +127,7 @@
     4,
     14
    ],
+   "est_cost_usd": 0.448,
    "goals": [
     {
      "t": 59.8,
@@ -237,7 +238,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": 0.448,
    "players": {
     "home": [
      "Zhi",
@@ -258,6 +258,7 @@
     14,
     0
    ],
+   "est_cost_usd": null,
    "goals": [
     {
      "t": 123.5,
@@ -344,7 +345,6 @@
      "replay_s": 5.0
     }
    ],
-   "est_cost_usd": null,
    "players": {
     "home": [
      "Tortoise",
