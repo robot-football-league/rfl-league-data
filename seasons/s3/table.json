@@ -5886,6 +5886,120 @@
     ]
    },
    "dir": "runs/league/s3/m61_real_machina_frontier_muse"
+  },
+  {
+   "fixture": 62,
+   "home": "frontier_gemini",
+   "away": "frontier_glm",
+   "score": [
+    11,
+    2
+   ],
+   "est_cost_usd": 0.1112,
+   "goals": [
+    {
+     "t": 52.2,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 82.6,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 170.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 221.5,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 251.1,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 284.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 364.3,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 432.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 451.3,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 497.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 558.1,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 591.8,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 610.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    }
+   ],
+   "players": {
+    "home": [
+     "Flash",
+     "Spark"
+    ],
+    "away": [
+     "Zhi",
+     "Pu"
+    ]
+   },
+   "dir": "runs/league/s3/m62_frontier_gemini_frontier_glm"
   }
  ],
  "skipped_fixtures": [

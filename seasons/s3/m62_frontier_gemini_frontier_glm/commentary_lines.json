@@ -1,0 +1,551 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in round thirteen.",
+    "wav": "line_5dae41cb25d57d52.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash immediately urging their partner forward to press the ball in midfield.",
+    "wav": "line_2b587023159ee83a.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 15.52,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Right in front of goal, and it has squirmed inches wide of the mark!",
+    "wav": "line_75defa624d05fb2c.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 26.57,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Push-panel thumps it clear.",
+    "wav": "line_5ae3571a7d25fc9b.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 28.28,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark loses balance completely on the left touchline, but the self-righting routine is already underway.",
+    "wav": "line_6fa270ea6626f5d5.wav",
+    "dur_s": 6.51
+  },
+  {
+    "t": 37.29,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Flash is clean through here!",
+    "wav": "line_e70d6006a52e336e.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 38.63,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark comes across with a heavy shoulder to send Zhi sprawling on the right touchline.",
+    "wav": "line_caa4b22f1a6b282e.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 52.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash bundles it over the line from point-blank range! The league leaders strike first, one-nil to Gemini Flash FC!",
+    "wav": "line_7b3e3a71edb0ec79.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 64.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark is calling for a strike from distance as the magenta ball rolls back to the centre circle.",
+    "wav": "line_29c7134264d91273.wav",
+    "dur_s": 6.27
+  },
+  {
+    "t": 82.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zhi equalises for GLM FC! Out of absolutely nowhere, tucked into the right corner from two metres out! One-all, game on!",
+    "wav": "line_52fe69ebfb20c0e2.wav",
+    "dur_s": 8.33
+  },
+  {
+    "t": 94.76,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Agonisingly close at the other end, shaving the woodwork on the left channel.",
+    "wav": "line_822a733cf85f35ea.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 114.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Gemini Flash FC are penning them in now, camping deep in the final third for the last seventeen seconds. GLM just cannot clear their lines.",
+    "wav": "line_299c1b438794f7c7.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 142.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark calls for the press again in midfield. Both these managers decided against tinkering this week, backing their setups entirely.",
+    "wav": "line_332f753f776b1b0c.wav",
+    "dur_s": 8.52
+  },
+  {
+    "t": 170.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Spark drives straight through the middle.",
+    "wav": "line_ae9d1ec284e590c4.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 170.3,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And buries it! Spark restores the lead from right on the goal mouth! Two-one to the league leaders!",
+    "wav": "line_24c2691951f04eb6.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 189.47,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Pu breaks through the middle with only empty turf ahead!",
+    "wav": "line_8354584b0c0e0031.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 194.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Pu drives on towards goal!",
+    "wav": "line_57860b27ee932d2a.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 196.3,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark shouts to close the angle.",
+    "wav": "line_b721242879f02cff.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 200.36,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Just wide from Pu, a fraction away from levelling it once again.",
+    "wav": "line_dd508926f72da8b2.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 215.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash takes charge, carrying the ball seven metres up the left touchline.",
+    "wav": "line_f1db1ee26895c48b.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 221.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash bursts right to the mouth!",
+    "wav": "line_9e7771dcb52063a3.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 221.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And Flash finishes cleanly from two metres out! That is three-one to Gemini Flash FC.",
+    "wav": "line_4389fd79536bf769.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 226.5,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash topples over in the centre circle, perfectly unaided, but will be back on their feet in a few moments.",
+    "wav": "line_8f980f3e3a282a48.wav",
+    "dur_s": 6.56
+  },
+  {
+    "t": 248.08,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Spark is clean through down the right!",
+    "wav": "line_c6d495eccd5c164e.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 251.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "And makes no mistake from two metres out! Spark rolls it into an empty net to make it four-one.",
+    "wav": "line_aadde3639313576d.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 275.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Total control now for Gemini Flash FC, hemming GLM deep inside their box.",
+    "wav": "line_b2541c1e57d0b156.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 284.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash taps in another from close range. Five-one now, ruthless from the leaders.",
+    "wav": "line_4b589aa5f0c66d77.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 286.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for immediate pressure straight off the restart.",
+    "wav": "line_e7a9d6a30e3f4232.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The buzzer sounds, power cuts out, and the ball trickles harmlessly wide.",
+    "wav": "line_516005c861d8bcd1.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Power off at the buzzer, ball still live until it stops. A commanding five-one lead at the break for Gemini Flash FC.",
+    "wav": "line_7150892f38c0db08.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 334.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Second half underway, and Pu carries the ball forward into the centre circle.",
+    "wav": "line_bbee16edf4b305a7.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 351.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark takes possession, bringing it patiently across the middle third.",
+    "wav": "line_f177cb8160184e13.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 363.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Drifts just wide of the post.",
+    "wav": "line_abd6f1a21bdf9215.wav",
+    "dur_s": 1.91
+  },
+  {
+    "t": 364.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash pounces on the rebound and turns it in. Six-one now to Gemini Flash FC.",
+    "wav": "line_3456698644dc7652.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 369.01,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A clumsy collision between teammates, and Spark hits the deck.",
+    "wav": "line_557d72c5aff6b11a.wav",
+    "dur_s": 3.68
+  },
+  {
+    "t": 373.63,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash steps in to dispossess Pu with a firm challenge.",
+    "wav": "line_202646a4c49736ab.wav",
+    "dur_s": 3.27
+  },
+  {
+    "t": 378.71,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Spark loses balance again in the defensive third, down for eight seconds.",
+    "wav": "line_40468783b131a614.wav",
+    "dur_s": 4.39
+  },
+  {
+    "t": 383.79,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Zhi and Pu run into each other; GLM tripping over themselves.",
+    "wav": "line_c5402509ab3d1daf.wav",
+    "dur_s": 4.05
+  },
+  {
+    "t": 388.97,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Now Zhi goes over unaided, another eight seconds lost.",
+    "wav": "line_8476f5ef11d869c1.wav",
+    "dur_s": 3.58
+  },
+  {
+    "t": 393.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls out the shot, looking to pile on the misery.",
+    "wav": "line_9b1bc7878f3b0142.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 424.1,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark finds daylight on the right touchline with nobody in front.",
+    "wav": "line_a9a773ac14a9db3e.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 432.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark converts from the goal line. Seven-one to Gemini Flash FC.",
+    "wav": "line_9d78c5e36eb57603.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 437.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash leaves Pu in a heap on the halfway line with another crisp tackle.",
+    "wav": "line_7e9ec2bfcf74dce1.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 451.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash tucks home from point-blank range once more. That makes it eight-one to Gemini Flash FC.",
+    "wav": "line_ddd25ac8276c24ef.wav",
+    "dur_s": 6.14
+  },
+  {
+    "t": 464.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash calls for another effort on target from the right wing.",
+    "wav": "line_8b30b175451e28f8.wav",
+    "dur_s": 3.16
+  },
+  {
+    "t": 476.96,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark flashes one across the face of goal, missing by less than a metre.",
+    "wav": "line_aff25b7fdf5b713f.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 497.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark prods in another from right under the crossbar. Nine-one now for the leaders.",
+    "wav": "line_916341c0365b34ca.wav",
+    "dur_s": 5.23
+  },
+  {
+    "t": 517.6,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "GLM attempt a reply down the left channel, but it drifts wide.",
+    "wav": "line_344bd6c47cd5267d.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 532.8,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Flash is heard scanning and tracking the ball.",
+    "wav": "line_f8da6fcb7e0505de.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 536.51,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zhi gets loose on the right touchline.",
+    "wav": "line_f631be84243841f8.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 540.08,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark recovers well to put Zhi to the ground with a well-timed tackle.",
+    "wav": "line_5b76b13666a89b3c.wav",
+    "dur_s": 4.29
+  },
+  {
+    "t": 558.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Double figures for Gemini Flash FC. Spark slides it into the bottom corner for ten-one.",
+    "wav": "line_052d17542d908b6a.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 569.31,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark knocks Zhi to the deck again in the centre circle.",
+    "wav": "line_5c7b2805aa726119.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 574.59,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zhi returns the favour, sending Spark tumbling over in midfield.",
+    "wav": "line_f35a52f26b876c1c.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 591.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Pu drives straight into the box.",
+    "wav": "line_38a909eb517c8cd3.wav",
+    "dur_s": 2.2
+  },
+  {
+    "t": 591.24,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Deflected off the post.",
+    "wav": "line_fd1b249ec4e48d24.wav",
+    "dur_s": 1.41
+  },
+  {
+    "t": 591.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Pu stabs it home from two metres out! A consolation goal makes it",
+    "wav": "line_81634b9fd3eabb03.wav",
+    "dur_s": 4.81
+  },
+  {
+    "t": 592.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "GLM managed to maintain a brief spell of pressure there before the restart.",
+    "wav": "line_b11c80b89ad48af5.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 610.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash responds almost immediately from two metres out. Eleven-two to Gemini Flash FC.",
+    "wav": "line_a52f2f28438896bb.wav",
+    "dur_s": 6.79
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The buzzer sounds, power is cut, and the ball slowly rolls through midfield.",
+    "wav": "line_b596dc7cf5e43d13.wav",
+    "dur_s": 4.99
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash FC take it eleven-two. Up next, Codex City meet DeepSeek Rovers on Monday at midday UK time, one",
+    "wav": "line_d0024e9d99016c91.wav",
+    "dur_s": 8.6
+  }
+]

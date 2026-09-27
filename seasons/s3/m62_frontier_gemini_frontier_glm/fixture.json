@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 11
+  },
+  "away": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 2
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "11f5ca4b2c8cf2628f5e1ca7806005a6cc0dd18a",
+      "subject": "night 40: Verified squad tactics, cleared scrutineering & kickoff check, confirmed 2-1 win in practice with 0 errors. Sitting out 2 rounds to bank purse.",
+      "committed_at": "2026-09-22T15:10:47+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "897989a41694471f095daf07b5d7e1677b4303d8",
+      "subject": "night 40: (no summary given)",
+      "committed_at": "2026-09-22T15:27:26+01:00",
+      "dirty": true
+    },
+    "engine_commit": "54356aad02c9a7613940764cd7f655019b718bcb"
+  }
+}

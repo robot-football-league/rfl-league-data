@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T19:10:52+00:00",
+ "generated_at": "2026-09-27T20:11:09+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8842,14 +8842,14 @@
      "name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "P": 12,
-     "W": 11,
+     "P": 13,
+     "W": 12,
      "D": 0,
      "L": 1,
-     "GF": 103,
-     "GA": 47,
-     "Pts": 33,
-     "GD": 56,
+     "GF": 114,
+     "GA": 49,
+     "Pts": 36,
+     "GD": 65,
      "prev": 1,
      "move": 0
     },
@@ -8995,14 +8995,14 @@
      "name": "GLM FC",
      "code": "GLM",
      "color": "#2659ff",
-     "P": 11,
+     "P": 12,
      "W": 0,
      "D": 0,
-     "L": 11,
-     "GF": 29,
-     "GA": 96,
+     "L": 12,
+     "GF": 31,
+     "GA": 107,
      "Pts": 0,
-     "GD": -67,
+     "GD": -76,
      "prev": 10,
      "move": 0
     }
@@ -21287,8 +21287,216 @@
      "away_name": "GLM FC",
      "home_code": "GEM",
      "away_code": "GLM",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-28T11:00:00Z"
+     "status": "aired",
+     "score": [
+      11,
+      2
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 8,
+        "second": 52.2,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 12,
+        "second": 82.6,
+        "side": "away",
+        "scorer": "Zhi",
+        "own_goal": false
+       },
+       {
+        "minute": 26,
+        "second": 170.3,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 33,
+        "second": 221.5,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 38,
+        "second": 251.1,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 43,
+        "second": 284.8,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 55,
+        "second": 364.3,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 432.3,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 68,
+        "second": 451.3,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 497.3,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 84,
+        "second": 558.1,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 591.8,
+        "side": "away",
+        "scorer": "Pu",
+        "own_goal": false
+       },
+       {
+        "minute": 92,
+        "second": 610.8,
+        "side": "home",
+        "scorer": "Flash",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 208,
+       "kick": 195,
+       "near_miss": 7,
+       "wall": 9,
+       "ram": 1,
+       "fall": 17,
+       "through": 17,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 40.3,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 78.3,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 122.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 164.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 196.3,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       },
+       {
+        "second": 246.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 300.0,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Buzzer strike on goal!"
+       },
+       {
+        "second": 377.0,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Scanning pitch \u2014 tracking ball."
+       },
+       {
+        "second": 428.4,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 464.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 508.4,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Pressing attack onto the ball!"
+       },
+       {
+        "second": 544.8,
+        "team": "Gemini Flash FC",
+        "number": 1,
+        "text": "Striking on goal!"
+       },
+       {
+        "second": 584.6,
+        "team": "Gemini Flash FC",
+        "number": 2,
+        "text": "Challenging defensive loose ball!"
+       }
+      ],
+      "stats": {
+       "kicks": 195,
+       "falls": 17,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 17
+      },
+      "est_cost_usd": 0.1112
+     },
+     "aired_at": "2026-09-27T19:04:42Z",
+     "watch": {
+      "id": "s3-m62_frontier_gemini_frontier_glm",
+      "url": "https://4dgsx.com/watch/s3-m62_frontier_gemini_frontier_glm",
+      "embed_url": "https://4dgsx.com/embed/s3-m62_frontier_gemini_frontier_glm"
+     }
     },
     {
      "n": 63,
@@ -21299,7 +21507,7 @@
      "home_code": "CDX",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T15:00:00Z"
+     "kickoff_utc": "2026-09-28T11:00:00Z"
     },
     {
      "n": 64,
@@ -21310,7 +21518,7 @@
      "home_code": "FAB",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-28T19:00:00Z"
+     "kickoff_utc": "2026-09-28T15:00:00Z"
     },
     {
      "n": 65,
@@ -21321,7 +21529,7 @@
      "home_code": "SYA",
      "away_code": "DYD",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-29T11:00:00Z"
+     "kickoff_utc": "2026-09-28T19:00:00Z"
     },
     {
      "n": 66,
@@ -21332,7 +21540,7 @@
      "home_code": "GEM",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-29T15:00:00Z"
+     "kickoff_utc": "2026-09-29T11:00:00Z"
     },
     {
      "n": 67,
@@ -21343,7 +21551,7 @@
      "home_code": "CDX",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-29T19:00:00Z"
+     "kickoff_utc": "2026-09-29T15:00:00Z"
     },
     {
      "n": 68,
@@ -21354,7 +21562,7 @@
      "home_code": "FAB",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T11:00:00Z"
+     "kickoff_utc": "2026-09-29T19:00:00Z"
     },
     {
      "n": 69,
@@ -21365,7 +21573,7 @@
      "home_code": "SYA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T15:00:00Z"
+     "kickoff_utc": "2026-09-30T11:00:00Z"
     },
     {
      "n": 70,
@@ -21376,7 +21584,7 @@
      "home_code": "DYD",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T19:00:00Z"
+     "kickoff_utc": "2026-09-30T15:00:00Z"
     },
     {
      "n": 71,
@@ -21387,7 +21595,7 @@
      "home_code": "RMA",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T11:00:00Z"
+     "kickoff_utc": "2026-09-30T19:00:00Z"
     },
     {
      "n": 72,
@@ -21398,7 +21606,7 @@
      "home_code": "FAB",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T15:00:00Z"
+     "kickoff_utc": "2026-10-01T11:00:00Z"
     },
     {
      "n": 73,
@@ -21409,7 +21617,7 @@
      "home_code": "SYA",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T19:00:00Z"
+     "kickoff_utc": "2026-10-01T15:00:00Z"
     },
     {
      "n": 74,
@@ -21419,7 +21627,8 @@
      "away_name": "GLM FC",
      "home_code": "DYD",
      "away_code": "GLM",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-01T19:00:00Z"
     },
     {
      "n": 75,
@@ -21609,15 +21818,7 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
-     "goals": 48
-    },
-    {
-     "name": "CR-7000",
-     "team": "real_machina",
-     "team_name": "Real Machina",
-     "code": "RMA",
-     "color": "#e5e5f4",
-     "goals": 46
+     "goals": 54
     },
     {
      "name": "Spark",
@@ -21625,6 +21826,14 @@
      "team_name": "Gemini Flash FC",
      "code": "GEM",
      "color": "#1e6bea",
+     "goals": 51
+    },
+    {
+     "name": "CR-7000",
+     "team": "real_machina",
+     "team_name": "Real Machina",
+     "code": "RMA",
+     "color": "#e5e5f4",
      "goals": 46
     },
     {
@@ -21684,7 +21893,7 @@
      "goals": 29
     }
    ],
-   "aired_count": 59,
+   "aired_count": 60,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -24451,8 +24660,8 @@
   }
  },
  "totals": {
-  "matches_aired": 96,
-  "goals": 1058,
+  "matches_aired": 97,
+  "goals": 1071,
   "clubs": 11
  }
 }
