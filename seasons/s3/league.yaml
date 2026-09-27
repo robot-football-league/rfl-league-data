@@ -212,3 +212,10 @@ broadcast:
   - '20:00'
   timezone: Europe/London
 honest_latency: true
+# Goal explosion (NOTICES 2026-09-27). Pinned to a first match so nothing
+# already rendered changes; resolve_goal_celebration never looks backwards.
+goal_celebration:
+  enabled: true
+  version: 1
+  season: 3
+  first_match: 70

@@ -5779,6 +5779,113 @@
     ]
    },
    "dir": "runs/league/s3/m60_frontier_fable_synthetic_athletic"
+  },
+  {
+   "fixture": 61,
+   "home": "real_machina",
+   "away": "frontier_muse",
+   "score": [
+    9,
+    3
+   ],
+   "est_cost_usd": 0.232,
+   "goals": [
+    {
+     "t": 107.3,
+     "team": "A",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 174.7,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 231.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 266.5,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 291.1,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 367.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 389.5,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 416.2,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 502.0,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 555.2,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 575.9,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 613.6,
+     "team": "B",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    }
+   ],
+   "players": {
+    "home": [
+     "CR-7000",
+     "Zidroid"
+    ],
+    "away": [
+     "Spark",
+     "Muse"
+    ]
+   },
+   "dir": "runs/league/s3/m61_real_machina_frontier_muse"
   }
  ],
  "skipped_fixtures": [
