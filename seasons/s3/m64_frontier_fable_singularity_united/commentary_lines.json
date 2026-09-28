@@ -1,0 +1,578 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "We are underway in round thirteen.",
+    "wav": "line_e4144613f331e184.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to keep things tidy behind.",
+    "wav": "line_da6ed6dc80e7b219.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 3.81,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Hare bursts straight through the middle with acres of space ahead! Singularity United caught completely flat-footed right from the off.",
+    "wav": "line_49b232520c7ecd07.wav",
+    "dur_s": 8.65
+  },
+  {
+    "t": 20.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare drives right into the final third.",
+    "wav": "line_eba0d270512795b0.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 23.64,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "A flashing strike, but it skims just wide of the left post! A huge let-off for the sky blues, who have barely settled into their defensive shape.",
+    "wav": "line_6e4f9d9a2c57efb1.wav",
+    "dur_s": 8.7
+  },
+  {
+    "t": 64.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls to cover the danger.",
+    "wav": "line_b1719038867aa1c0.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 65.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare pounces from point-blank range and buries it! The opener goes to AFC Fable, rewarding all that early enterprise. One-nil!",
+    "wav": "line_dbbe86eb4420ba83.wav",
+    "dur_s": 8.88
+  },
+  {
+    "t": 88.4,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Singularity United, a founding club frozen in time with no gaffer to tweak their routines, take a moment to regroup in the centre circle. BellingRAM waits patiently as the calculations tick over.",
+    "wav": "line_0013fd83a6041552.wav",
+    "dur_s": 13.11
+  },
+  {
+    "t": 111.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "BellingRAM levels it up! A sharp turn in the channel and a clean finish into the corner. Singularity United are right back in this, one apiece!",
+    "wav": "line_a80c2fa474561bd5.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 128.21,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Haalandroid is suddenly through on the left with nobody to beat!",
+    "wav": "line_9393da3807d03d0a.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 136.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to take control of the retreat, tracking the ball toward their own goal mouth.",
+    "wav": "line_e0594594c502a42a.wav",
+    "dur_s": 5.25
+  },
+  {
+    "t": 146.42,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel cannons it out.",
+    "wav": "line_ab712cb9536c42d7.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 147.75,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A terrible mix-up as teammates collide, leaving Hare sprawling on the deck.",
+    "wav": "line_479056c335bbce68.wav",
+    "dur_s": 4.94
+  },
+  {
+    "t": 154.42,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM loses footing on the touchline and tumbles.",
+    "wav": "line_0f9e0252cfe8c03b.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 158.3,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "BellingRAM flattens Tortoise in challenge.",
+    "wav": "line_747666a56ae74fe6.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 160.45,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid clatters straight into Hare.",
+    "wav": "line_b882a9a234111738.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 161.0,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare gets straight back to their feet and returns the favour, sending Haalandroid clattering onto the deck by the touchline.",
+    "wav": "line_2d348382a5a91aa2.wav",
+    "dur_s": 6.9
+  },
+  {
+    "t": 175.18,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ram panel fires it clear.",
+    "wav": "line_fbd7b00248b5f67c.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 177.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Heavy pressure from the sky blues.",
+    "wav": "line_45a6affd8762d7a7.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 177.01,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Another fierce collision as Hare upends Haalandroid again in the channel, breaking the siege for now.",
+    "wav": "line_eda6cd07cde08d35.wav",
+    "dur_s": 6.92
+  },
+  {
+    "t": 191.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "BellingRAM charges right on goal.",
+    "wav": "line_ea518417e2a0792c.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 191.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "BellingRAM bundles it home from close range! Two goals for the striker today, and Singularity United turn the match on its head. Two-one!",
+    "wav": "line_f854b7810c414965.wav",
+    "dur_s": 9.48
+  },
+  {
+    "t": 212.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls for calm, signalling that they will take charge of the loose ball deep in their own territory.",
+    "wav": "line_83af876754210d86.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 244.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Haalandroid taps it over the line from close range! Singularity United extend their cushion to make it 3-1.",
+    "wav": "line_0dd890813007cac7.wav",
+    "dur_s": 7.21
+  },
+  {
+    "t": 253.28,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "BellingRAM overbalances in midfield and sits down rather unceremoniously, already whirring through the self-righting sequence.",
+    "wav": "line_c0f9c21f8ffe1e5b.wav",
+    "dur_s": 7.92
+  },
+  {
+    "t": 271.2,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A curling effort glances off the side netting. Not far away, but Fable remain two behind.",
+    "wav": "line_f79350882e8ea349.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 282.2,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Hare scrambles it in! AFC Fable pull one back right before the interval, cutting the deficit to 3-2!",
+    "wav": "line_2a65e6b8adf8908c.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 286.4,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise calls for an immediate push together from the centre circle.",
+    "wav": "line_7b5f772b6b50c4cf.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting power, with the ball trickling near the goal mouth.",
+    "wav": "line_eadcaca3b3066c4d.wav",
+    "dur_s": 4.42
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ball halts at last. Power off at the buzzer, ball still live, and the opening period ends with Singularity United leading AFC Fable three goals to two.",
+    "wav": "line_4ef3b9a0ea998d50.wav",
+    "dur_s": 10.42
+  },
+  {
+    "t": 339.84,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The corner panel launches it back.",
+    "wav": "line_47aa8c159396063c.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 342.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Singularity United are hemming them in again, probing patiently along the perimeter wall.",
+    "wav": "line_80e5d22f1f0f0395.wav",
+    "dur_s": 5.36
+  },
+  {
+    "t": 361.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare surges forward on the break.",
+    "wav": "line_5a7b1309ffedcbff.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 362.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And Hare hammers it into the net! We are level at 3-3, a clinical finish on the counter-attack!",
+    "wav": "line_9dc6480de62f4509.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 370.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Haalandroid responds immediately, driving through the middle.",
+    "wav": "line_7d96931469ac63ab.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 374.0,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Off the post! Inches from an instant reply!",
+    "wav": "line_979279ce76d8a5df.wav",
+    "dur_s": 2.9
+  },
+  {
+    "t": 378.2,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "BellingRAM calls to their partner that they are working the ball out of the corner.",
+    "wav": "line_e67f231d4cb2bd34.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 403.84,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Haalandroid breaks clean through on goal!",
+    "wav": "line_1df67d44339d166b.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 407.64,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Blasted wide of the mark! A glorious chance goes begging.",
+    "wav": "line_244ad39839139cf4.wav",
+    "dur_s": 3.97
+  },
+  {
+    "t": 417.47,
+    "kind": "ram",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Rebounded hard off the corner panel.",
+    "wav": "line_dcc3ef9fbcae8143.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 419.41,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare steps across and upends BellingRAM with a firm, well-timed interception.",
+    "wav": "line_f1f7d0019d71a5ee.wav",
+    "dur_s": 5.59
+  },
+  {
+    "t": 429.08,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Hare is throwing everything into defence, clattering into Haalandroid to disrupt another United attack.",
+    "wav": "line_90de91962f61b874.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 441.44,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Now Tortoise is clean through on the right flank!",
+    "wav": "line_c0c1cf3dfc527895.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 451.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Tortoise shouts to scramble back and push out from the goal mouth together.",
+    "wav": "line_00d6068ae6b8f903.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 475.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Fable are turning the screw with just over two minutes remaining, keeping United pinned against their own wall.",
+    "wav": "line_07200b37e2e19225.wav",
+    "dur_s": 7.16
+  },
+  {
+    "t": 496.64,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Point-blank, and it rattles the woodwork! How has that stayed out?",
+    "wav": "line_a4c4c5fa80ca5d83.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 501.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Haalandroid breaks upfield with real urgency.",
+    "wav": "line_b45708c5a9f1ad2b.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 504.09,
+    "kind": "ram",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Fired straight back off the ram panel into a crowded box.",
+    "wav": "line_fc9fda4437a674f9.wav",
+    "dur_s": 3.21
+  },
+  {
+    "t": 514.34,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Hare loses balance and goes down.",
+    "wav": "line_14898b64d8eaaf15.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 516.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Singularity United pile on the pressure with under two minutes to play.",
+    "wav": "line_29ce7a7513268085.wav",
+    "dur_s": 4.18
+  },
+  {
+    "t": 522.3,
+    "kind": "shout",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "Hare shouts that they are dropping deep to protect the goal mouth.",
+    "wav": "line_f79e14aa78a6e7f9.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 530.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "BellingRAM drives deep into the box.",
+    "wav": "line_250ac790fe3e8cf8.wav",
+    "dur_s": 2.72
+  },
+  {
+    "t": 531.0,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "BellingRAM rifles it into the back of the net! A hat-trick for the striker, and Singularity United edge ahead 4-3 with time slipping away!",
+    "wav": "line_92221385f2c80dcc.wav",
+    "dur_s": 9.9
+  },
+  {
+    "t": 541.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "build",
+    "text": "BellingRAM is hungry for another, carrying the ball right back into the danger area.",
+    "wav": "line_bee2eaa17b50b542.wav",
+    "dur_s": 5.07
+  },
+  {
+    "t": 555.35,
+    "kind": "through",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Hare is clear through on goal in the final minute!",
+    "wav": "line_02a883f0bf7371bc.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 561.47,
+    "kind": "collision",
+    "stakes": 2,
+    "energy": "build",
+    "text": "The United defenders smash into each other, leaving BellingRAM flat on the deck!",
+    "wav": "line_55775f89ad4f6102.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 569.2,
+    "kind": "near_miss",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Inches wide of the upright!",
+    "wav": "line_cad35c2a11449d52.wav",
+    "dur_s": 1.59
+  },
+  {
+    "t": 570.71,
+    "kind": "fall",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Haalandroid topples over now, leaving the United defensive zone completely exposed in these dying seconds.",
+    "wav": "line_a91a8958a8e2ec55.wav",
+    "dur_s": 7.08
+  },
+  {
+    "t": 589.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Tortoise storms into the box!",
+    "wav": "line_99cb53b7e36096de.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 589.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Tortoise bundles it over the line! AFC Fable have equalised in the final thirty seconds! What drama, four apiece!",
+    "wav": "line_227352dbb3411ef4.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 603.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Haalandroid strikes right back from the restart! Unbelievable scenes, Singularity United make it 5-4 with thirteen seconds left on the clock!",
+    "wav": "line_3d03d07fe0a36266.wav",
+    "dur_s": 10.01
+  },
+  {
+    "t": 614.3,
+    "kind": "collision",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Fable's pair collide in midfield!",
+    "wav": "line_1b577a136b0da842.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "The buzzer sounds, power cuts, but the ball rolls harmlessly in midfield.",
+    "wav": "line_c81294574988f1e2.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 2,
+    "energy": "calm",
+    "text": "It finishes 4-5 to Singularity United. Synthetic Athletic play Dynamo Datacenter Tuesday: twelve UK, thirteen Europe, seven US East.",
+    "wav": "line_fb72f95c0d7ae9b4.wav",
+    "dur_s": 11.86
+  }
+]

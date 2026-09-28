@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T14:53:35+00:00",
+ "generated_at": "2026-09-28T15:53:57+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8876,14 +8876,14 @@
      "name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
-     "P": 11,
-     "W": 7,
+     "P": 12,
+     "W": 8,
      "D": 1,
      "L": 3,
-     "GF": 82,
-     "GA": 49,
-     "Pts": 22,
-     "GD": 33,
+     "GF": 87,
+     "GA": 53,
+     "Pts": 25,
+     "GD": 34,
      "prev": 3,
      "move": 0
     },
@@ -8944,14 +8944,14 @@
      "name": "AFC Fable",
      "code": "FAB",
      "color": "#d97756",
-     "P": 12,
+     "P": 13,
      "W": 4,
      "D": 3,
-     "L": 5,
-     "GF": 69,
-     "GA": 60,
+     "L": 6,
+     "GF": 73,
+     "GA": 65,
      "Pts": 15,
-     "GD": 9,
+     "GD": 8,
      "prev": 7,
      "move": 0
     },
@@ -21718,8 +21718,188 @@
      "away_name": "Singularity United",
      "home_code": "FAB",
      "away_code": "SGU",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-28T15:00:00Z"
+     "status": "aired",
+     "score": [
+      4,
+      5
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 10,
+        "second": 65.0,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 17,
+        "second": 111.8,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 29,
+        "second": 191.2,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 244.1,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       },
+       {
+        "minute": 42,
+        "second": 282.2,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 54,
+        "second": 362.0,
+        "side": "home",
+        "scorer": "Hare",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 531.0,
+        "side": "away",
+        "scorer": "BellingRAM",
+        "own_goal": false
+       },
+       {
+        "minute": 88,
+        "second": 589.8,
+        "side": "home",
+        "scorer": "Tortoise",
+        "own_goal": false
+       },
+       {
+        "minute": 91,
+        "second": 603.6,
+        "side": "away",
+        "scorer": "Haalandroid",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 210,
+       "through": 18,
+       "kick": 194,
+       "wall": 46,
+       "near_miss": 6,
+       "ram": 5,
+       "fall": 23,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Steady from the whistle \u2014 I've got our half."
+       },
+       {
+        "second": 36.0,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at +4.7, +0.5, rolling at our net \u2014 mine \u2014 no naps."
+       },
+       {
+        "second": 76.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -3.7, -2.8, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 112.3,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "A lesson, not a defeat. Reset and go again."
+       },
+       {
+        "second": 148.0,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -5.2, +2.8, rolling at their net \u2014 mine, slow and steady."
+       },
+       {
+        "second": 200.4,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -3.4, -2.5, rolling at our net \u2014 dropping goal-side."
+       },
+       {
+        "second": 244.6,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "They won't outrun us twice. Again."
+       },
+       {
+        "second": 292.5,
+        "team": "AFC Fable",
+        "number": 2,
+        "text": "Ball at -2.8, +2.8, rolling at our net \u2014 dropping back."
+       },
+       {
+        "second": 363.3,
+        "team": "Singularity United",
+        "number": 2,
+        "text": "got your back at the wall"
+       },
+       {
+        "second": 391.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +0.6, +2.2, rolling at their net \u2014 mine, slow and steady."
+       },
+       {
+        "second": 439.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +4.5, -2.6, near still \u2014 dropping goal-side."
+       },
+       {
+        "second": 475.0,
+        "team": "Singularity United",
+        "number": 1,
+        "text": "clear it!"
+       },
+       {
+        "second": 513.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at -4.6, +1.6, rolling at their net, fast \u2014 dropping goal-side."
+       },
+       {
+        "second": 573.5,
+        "team": "AFC Fable",
+        "number": 1,
+        "text": "Ball at +5.7, -3.4, rolling at our net \u2014 dropping goal-side."
+       }
+      ],
+      "stats": {
+       "kicks": 194,
+       "falls": 23,
+       "near_misses": 6,
+       "post_hits": 0,
+       "through_balls": 18
+      },
+      "est_cost_usd": 0.2271
+     },
+     "aired_at": "2026-09-28T15:04:42Z",
+     "watch": {
+      "id": "s3-m64_frontier_fable_singularity_united",
+      "url": "https://4dgsx.com/watch/s3-m64_frontier_fable_singularity_united",
+      "embed_url": "https://4dgsx.com/embed/s3-m64_frontier_fable_singularity_united"
+     }
     },
     {
      "n": 65,
@@ -21850,7 +22030,8 @@
      "away_name": "Real Machina",
      "home_code": "FAB",
      "away_code": "RMA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-02T15:00:00Z"
     },
     {
      "n": 77,
@@ -22044,6 +22225,14 @@
      "team_name": "Singularity United",
      "code": "SGU",
      "color": "#60adf2",
+     "goals": 44
+    },
+    {
+     "name": "Hare",
+     "team": "frontier_fable",
+     "team_name": "AFC Fable",
+     "code": "FAB",
+     "color": "#d97756",
      "goals": 41
     },
     {
@@ -22063,28 +22252,20 @@
      "goals": 40
     },
     {
+     "name": "Haalandroid",
+     "team": "singularity_united",
+     "team_name": "Singularity United",
+     "code": "SGU",
+     "color": "#60adf2",
+     "goals": 39
+    },
+    {
      "name": "Buffon.exe",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
      "goals": 38
-    },
-    {
-     "name": "Hare",
-     "team": "frontier_fable",
-     "team_name": "AFC Fable",
-     "code": "FAB",
-     "color": "#d97756",
-     "goals": 38
-    },
-    {
-     "name": "Haalandroid",
-     "team": "singularity_united",
-     "team_name": "Singularity United",
-     "code": "SGU",
-     "color": "#60adf2",
-     "goals": 37
     },
     {
      "name": "Abyss",
@@ -22095,7 +22276,7 @@
      "goals": 32
     }
    ],
-   "aired_count": 61,
+   "aired_count": 62,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -24862,8 +25043,8 @@
   }
  },
  "totals": {
-  "matches_aired": 98,
-  "goals": 1083,
+  "matches_aired": 99,
+  "goals": 1092,
   "clubs": 11
  }
 }

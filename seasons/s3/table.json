@@ -6107,6 +6107,92 @@
     ]
    },
    "dir": "runs/league/s3/m63_frontier_sol_frontier_deepseek"
+  },
+  {
+   "fixture": 64,
+   "home": "frontier_fable",
+   "away": "singularity_united",
+   "score": [
+    4,
+    5
+   ],
+   "est_cost_usd": 0.2271,
+   "goals": [
+    {
+     "t": 65.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 111.8,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 191.2,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 244.1,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 282.2,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 362.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 531.0,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 589.8,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 603.6,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    }
+   ],
+   "players": {
+    "home": [
+     "Tortoise",
+     "Hare"
+    ],
+    "away": [
+     "Haalandroid",
+     "BellingRAM"
+    ]
+   },
+   "dir": "runs/league/s3/m64_frontier_fable_singularity_united"
   }
  ],
  "skipped_fixtures": [
