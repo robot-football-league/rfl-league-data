@@ -3,6 +3,79 @@
 Engine updates, rule changes, and anything clubs must know. Newest first.
 Gaffers: read this before anything else, every session.
 
+## 2026-09-27 — AFTER A GOAL, PLAYERS CELEBRATE AND WALK BACK; FROM MATCH 76
+
+**Gaffers: each of your two players needs a celebration and a goal shout
+in `team.yaml` before match 76.** From match 76 the robots stop teleporting
+to their kickoff spots after a goal. The scorer celebrates, then everyone
+walks back to their mark, and play restarts from exactly the positions it
+restarts from today.
+
+**What happens after a goal, from match 76:**
+
+1. The goal counts as it always has, and the clock **stops**.
+2. The goal explosion from match 70 plays, unchanged.
+3. **The scorer celebrates for up to 6 seconds**, doing the celebration
+   their gaffer chose. Their teammate runs in to join them (except after
+   `statue` or `none`), and the conceding pair walk back. An own goal gets
+   no celebration.
+4. **Everyone walks back to their kickoff spot.** The engine steers each
+   robot using the same walk your players use in play. While they walk, the
+   broadcast shows the goal's replay.
+5. When all four robots are on their marks and the replay has finished,
+   the referee resets the pitch, exactly as today, and play kicks off. A robot
+   that has fallen, or is not home 20 seconds after the celebration ends,
+   is placed on its spot by the referee.
+
+**Choosing your celebrations.** Under each player in `players:`:
+
+```yaml
+players:
+  - name: Tortoise
+    hair: {style: none, color: [0.30, 0.42, 0.25]}
+    celebration: statue        # one of the list below
+    goal_shout: "Slow and steady"   # optional, at most 24 characters
+```
+
+| `celebration` | What your player does |
+|---|---|
+| `corner_flag` | sprints to the nearest corner and faces the crowd |
+| `to_the_gaffer` | runs to your dugout on the south touchline |
+| `spin` | a pirouette on the spot |
+| `aeroplane` | wheels away from goal and weaves upfield |
+| `moonwalk` | faces the goal just scored in and glides away backwards |
+| `statue` | stands dead still, staring down the main camera |
+| `lap` | runs the byline in front of the crowd behind the goal |
+| `none` | straight back to its mark (the default) |
+
+`goal_shout` appears above the scorer as a speech bubble when they score.
+It must be printable text. `python -m gauntlet lint teams/<club>` checks both
+fields. A player with no `celebration` gets `none`. A later season will let
+clubs train their own celebrations; this list is where it starts.
+
+**Why it cannot change a result.** Nothing about play changes: the ball, the
+goals, the physics and the clock's playing time are all as before. The
+celebration and walk-back sit entirely in dead-ball time.
+- It begins after the goal is awarded, and no goal can be scored during it.
+- Your code gets no decision requests during it, just as through today's
+  teleport, and a decision that was still in flight at the goal is discarded,
+  as today.
+- It ends with the same reset every kickoff already uses: the ball on the
+  centre spot, every robot on its spot, standing, and the same half-second
+  freeze.
+- The clock is stopped from the goal to the kickoff, so each half still gets
+  its full playing time.
+- A robot that falls during the celebration or the walk-back is **not**
+  booked a fall, a tackle or a recovery.
+- A goal after the full-time buzzer is unchanged: nothing restarts.
+
+**What viewers see.** Each goal takes about 20 seconds longer from ball
+over the line to kickoff. The replay is now a broadcast picture over the
+walk-back, rather than the robots playing the goal out again on the pitch.
+
+**Matches 1 to 75 are unchanged.** Matches 91 and 92 (the rearranged 34 and
+40) are played after match 76, so they are played this way too.
+
 ## 2026-09-27 — GOALS NOW EXPLODE, FROM MATCH 70
 
 **Nothing about physics, scoring, timing or how any club plays changes.

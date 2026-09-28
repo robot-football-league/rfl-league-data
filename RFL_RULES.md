@@ -279,6 +279,28 @@ mass, no inertia and no contact, and a match runs bit-identically with or
 without it (verified by hashing simulator state after 20 s of play). Purely
 personality; never an advantage.
 
+## After a goal: celebration and walk-back (from s3 match 76)
+
+A goal stops the clock. The scorer performs their **celebration** (up to
+6 s), their teammate runs in to join them (except after `statue`/`none`),
+and the conceding pair walk back. Then all four robots **walk to their
+kickoff spots**, steered by the engine through the same frozen walk policy
+used in play. Club code receives no decision requests from the goal to the
+kickoff whistle. When all four are home and the replay window has ended,
+the referee applies the standard kickoff reset (every robot exactly on its
+spot, ball on the centre spot, the 0.5 s freeze) and play restarts; any
+robot still not home 20 s after the celebration is placed by that reset.
+The clock restarts with play, so no playing time is lost. A robot that falls
+in this dead-ball time is not booked a fall, tackle or recovery. An own
+goal has no celebration; a goal after the full-time buzzer restarts nothing.
+
+Each player's celebration is chosen by the club in `team.yaml`, per
+`players:` entry: `celebration:` one of `corner_flag`, `to_the_gaffer`,
+`spin`, `aeroplane`, `moonwalk`, `statue`, `lap`, `none` (default), and an
+optional `goal_shout:` (printable, at most 24 characters) shown as the
+scorer's speech bubble. Both are presentation: they happen in dead-ball
+time and end in the same reset, so they cannot change a result.
+
 ## Falls and self-recovery
 
 A fall costs FALL_RECOVERY_S (8 s) of lying still, after which the robot
@@ -292,9 +314,9 @@ falls and recoveries per robot.
 ## Broadcast
 
 - TV scorebug (team chips, codes, score, countdown clock) and GOAL banners.
-- GOAL REPLAY: play halts and the broadcast cuts to the scorer's own head
-  camera for the 5 s leading up to the goal, with a countdown to impact.
-  Replay time is not match time.
+- GOAL REPLAY: the broadcast shows the goal again, over the walk-back (from
+  s3 match 76; before that, play halted for a 5 s replay from the scorer's
+  own head camera). Replay time is not match time.
 - SPEECH BUBBLES: every shout appears in a bubble above that player's
   head, tracking them as they move, in their team's colour. Shouts are
   public by rule — spectators see every word, and comms.jsonl keeps
