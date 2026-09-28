@@ -1,0 +1,248 @@
+{
+ "_what": "League-computed summary of this match. The raw event tape is in match.json; this is the same data counted up so it fits in a read. Facts only \u2014 no advice.",
+ "score": [
+  5,
+  7
+ ],
+ "winner": "B",
+ "teams": {
+  "A": {
+   "name": "Codex City",
+   "code": "CDX",
+   "players": [
+    "Patchford",
+    "Turingham"
+   ]
+  },
+  "B": {
+   "name": "DeepSeek Rovers",
+   "code": "DSK",
+   "players": [
+    "Abyss",
+    "Signal"
+   ]
+  }
+ },
+ "match_time_s": 600.0,
+ "half_breaks": [
+  300.0
+ ],
+ "honest_latency": true,
+ "goals": [
+  {
+   "t": 25.5,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 71.1,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 204.8,
+   "team": "B",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 215.5,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 269.9,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 329.5,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 432.2,
+   "team": "A",
+   "scorer": 1,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 445.3,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 514.8,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 571.7,
+   "team": "A",
+   "scorer": 0,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 594.6,
+   "team": "B",
+   "scorer": 2,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  },
+  {
+   "t": 614.6,
+   "team": "B",
+   "scorer": 3,
+   "after_buzzer": false,
+   "replay_s": 5.0
+  }
+ ],
+ "events_total": 532,
+ "event_counts": {
+  "touch": 209,
+  "kick": 222,
+  "fall": 31,
+  "through": 19,
+  "wall": 43,
+  "ram": 4,
+  "near_miss": 2,
+  "buzzer": 2
+ },
+ "event_counts_by_half": {
+  "half_1": {
+   "touch": 103,
+   "kick": 121,
+   "fall": 12,
+   "through": 13,
+   "wall": 23,
+   "ram": 3,
+   "near_miss": 2
+  },
+  "half_2": {
+   "buzzer": 2,
+   "kick": 101,
+   "wall": 20,
+   "touch": 106,
+   "through": 6,
+   "fall": 19,
+   "ram": 1
+  }
+ },
+ "falls": {
+  "total": 31,
+  "by_opponent": 2,
+  "unforced": 29,
+  "by_half": {
+   "half_1": 12,
+   "half_2": 19
+  },
+  "times_s": [
+   7.4,
+   56.0,
+   122.4,
+   124.8,
+   160.4,
+   163.9,
+   168.4,
+   173.5,
+   177.9,
+   239.7,
+   242.2,
+   249.9,
+   335.0,
+   344.4,
+   352.9,
+   354.3,
+   361.0,
+   370.8,
+   380.9,
+   387.2,
+   389.3,
+   391.0,
+   397.1,
+   400.5,
+   406.8,
+   409.9,
+   419.4,
+   428.9,
+   600.0,
+   609.6,
+   616.9
+  ]
+ },
+ "players": [
+  {
+   "index": 0,
+   "team": "A",
+   "agent": "codex-city-learned-shape",
+   "falls": 11,
+   "recoveries": 11,
+   "touches": 54,
+   "decisions": 269,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 1,
+   "team": "A",
+   "agent": "codex-city-learned-shape",
+   "falls": 8,
+   "recoveries": 7,
+   "touches": 47,
+   "decisions": 281,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 2,
+   "team": "B",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x12658bfb0>",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 49,
+   "decisions": 287,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  },
+  {
+   "index": 3,
+   "team": "B",
+   "agent": "<rfl_team_frontier_deepseek.Rover object at 0x12658bad0>",
+   "falls": 6,
+   "recoveries": 6,
+   "touches": 59,
+   "decisions": 284,
+   "invalid_actions": 0,
+   "missed_deadlines": 0,
+   "abandoned": 0,
+   "mean_decision_latency_s": 0.0
+  }
+ ],
+ "dropped_balls": [],
+ "tokens_in": 0,
+ "tokens_out": 0,
+ "est_cost_usd": null
+}

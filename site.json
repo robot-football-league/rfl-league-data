@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T10:52:05+00:00",
+ "generated_at": "2026-09-28T11:52:28+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8910,14 +8910,14 @@
      "name": "Codex City",
      "code": "CDX",
      "color": "#0a0d0b",
-     "P": 12,
+     "P": 13,
      "W": 6,
      "D": 1,
-     "L": 5,
-     "GF": 58,
-     "GA": 63,
+     "L": 6,
+     "GF": 63,
+     "GA": 70,
      "Pts": 19,
-     "GD": -5,
+     "GD": -7,
      "prev": 5,
      "move": 0
     },
@@ -8961,14 +8961,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 12,
-     "W": 4,
+     "P": 13,
+     "W": 5,
      "D": 0,
      "L": 8,
-     "GF": 59,
-     "GA": 78,
-     "Pts": 12,
-     "GD": -19,
+     "GF": 66,
+     "GA": 83,
+     "Pts": 15,
+     "GD": -17,
      "prev": 8,
      "move": 0
     },
@@ -9007,7 +9007,7 @@
      "move": 0
     }
    ],
-   "movement_since_round": 11,
+   "movement_since_round": 12,
    "matches": [
     {
      "n": 1,
@@ -21506,8 +21506,209 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "CDX",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-28T11:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      7
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 4,
+        "second": 25.5,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 11,
+        "second": 71.1,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 31,
+        "second": 204.8,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": true
+       },
+       {
+        "minute": 32,
+        "second": 215.5,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 40,
+        "second": 269.9,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 49,
+        "second": 329.5,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 432.2,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 67,
+        "second": 445.3,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 77,
+        "second": 514.8,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 86,
+        "second": 571.7,
+        "side": "home",
+        "scorer": "Patchford",
+        "own_goal": false
+       },
+       {
+        "minute": 89,
+        "second": 594.6,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 92,
+        "second": 614.6,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 209,
+       "kick": 222,
+       "fall": 31,
+       "through": 19,
+       "wall": 43,
+       "ram": 4,
+       "near_miss": 2,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 30.0,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 80.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 116.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 162.8,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 206.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 246.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 287.9,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Danger: both players counterpress; clear through the far goal."
+       },
+       {
+        "second": 351.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 420.8,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 455.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 484.2,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 525.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 576.8,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       }
+      ],
+      "stats": {
+       "kicks": 222,
+       "falls": 31,
+       "near_misses": 2,
+       "post_hits": 0,
+       "through_balls": 19
+      },
+      "est_cost_usd": null
+     },
+     "aired_at": "2026-09-28T11:04:42Z",
+     "watch": {
+      "id": "s3-m63_frontier_sol_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m63_frontier_sol_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m63_frontier_sol_frontier_deepseek"
+     }
     },
     {
      "n": 64,
@@ -21638,7 +21839,8 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "SGU",
      "away_code": "DSK",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-02T11:00:00Z"
     },
     {
      "n": 76,
@@ -21890,10 +22092,10 @@
      "team_name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "goals": 29
+     "goals": 32
     }
    ],
-   "aired_count": 60,
+   "aired_count": 61,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -24660,8 +24862,8 @@
   }
  },
  "totals": {
-  "matches_aired": 97,
-  "goals": 1071,
+  "matches_aired": 98,
+  "goals": 1083,
   "clubs": 11
  }
 }

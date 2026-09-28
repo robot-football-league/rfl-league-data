@@ -1,0 +1,533 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway in this round thirteen clash.",
+    "wav": "line_1c7c21d4bec4f9af.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford shouts across, directing Turingham to stay goal-side of the opening press.",
+    "wav": "line_50cb57594db1f5dd.wav",
+    "dur_s": 5.17
+  },
+  {
+    "t": 7.41,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "Patchford slips and tumbles in the centre.",
+    "wav": "line_d741e687433a2b7c.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 10.87,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Abyss pounces instantly and knocks it straight through on goal, clean through into open turf!",
+    "wav": "line_53469484cda34ae6.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 24.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Rovers keeping Codex pinned deep now.",
+    "wav": "line_c3f945ab5d3f5755.wav",
+    "dur_s": 3.08
+  },
+  {
+    "t": 25.5,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss buries it from close range! An early breakthrough for DeepSeek Rovers, clinical finish right down the middle and it is one-nil!",
+    "wav": "line_a9631e0bbd133cbf.wav",
+    "dur_s": 7.81
+  },
+  {
+    "t": 36.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Signal takes control from deep, driving purposefully through the centre toward the final third.",
+    "wav": "line_aeb174c63ec00295.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 56.63,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Abyss clean through on goal again!",
+    "wav": "line_44dbfc95960423ea.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 59.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Abyss carries it briskly up the right flank into dangerous territory.",
+    "wav": "line_a4e8164e117620f8.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 70.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Turingham calls to recover back immediately.",
+    "wav": "line_eddf0dea11a42cf4.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 71.1,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Abyss tucks it away into the corner! Two for DeepSeek Rovers, making every inch of space count.",
+    "wav": "line_bab08ddf8dde70e4.wav",
+    "dur_s": 6.98
+  },
+  {
+    "t": 98.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham moves it out of midfield. Neither manager touched their squad's setup this week, trusting the work already done.",
+    "wav": "line_178e5b271f645b66.wav",
+    "dur_s": 7.5
+  },
+  {
+    "t": 122.43,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham steps across and Abyss hits the deck under the challenge.",
+    "wav": "line_abdc8dbe9c818603.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 127.42,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The corner panel fires the magenta ball back into open play.",
+    "wav": "line_76240848ea6c325b.wav",
+    "dur_s": 3.45
+  },
+  {
+    "t": 142.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss brings it forward once more.",
+    "wav": "line_ba618731bea989d6.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 144.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham calls to keep the pressure on against the boards and protect the middle.",
+    "wav": "line_64109526f8dcdf77.wav",
+    "dur_s": 4.83
+  },
+  {
+    "t": 163.89,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Abyss leaves a foot in and Patchford goes spilling over.",
+    "wav": "line_7c36680cbd91e980.wav",
+    "dur_s": 3.92
+  },
+  {
+    "t": 168.45,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A messy tangle between teammates, and Turingham ends up flat on the turf.",
+    "wav": "line_baf9177dc9781da9.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 176.81,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal clean through on the right!",
+    "wav": "line_a388da599010063e.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 177.88,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Turingham stumbles over again in back play.",
+    "wav": "line_0d8ae9a77e5308eb.wav",
+    "dur_s": 2.61
+  },
+  {
+    "t": 181.35,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Powered panel kicks it straight back off the perimeter.",
+    "wav": "line_415b76cd078b0ae9.wav",
+    "dur_s": 3.34
+  },
+  {
+    "t": 186.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Rovers have Codex completely hemmed inside their own half here, knocking on the door again.",
+    "wav": "line_b4fee5fd657ca192.wav",
+    "dur_s": 5.54
+  },
+  {
+    "t": 204.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "An unfortunate touch from Patchford ricochets into the net, an own goal makes it three-nil.",
+    "wav": "line_1dbc6c41300add8a.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 206.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Signal calls clearly to take ownership of the loose ball.",
+    "wav": "line_3641d0b1dc68d3cb.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 215.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Signal charges straight through the middle.",
+    "wav": "line_d4a940eb8ed602db.wav",
+    "dur_s": 2.48
+  },
+  {
+    "t": 215.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal slots it home from point-blank range! Four without reply for DeepSeek Rovers, ruthless finishing.",
+    "wav": "line_fb18c58997bc6741.wav",
+    "dur_s": 7.39
+  },
+  {
+    "t": 237.39,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "The ram panel returns the ball along the right.",
+    "wav": "line_7cc56620d5f08235.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 242.15,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Another clumsy collision between the two Codex defenders leaves Turingham down.",
+    "wav": "line_2d48d0abae7d7d9e.wav",
+    "dur_s": 4.65
+  },
+  {
+    "t": 257.47,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Turingham through on goal now!",
+    "wav": "line_6da73487cd6c445d.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 258.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham pushes into the centre circle, looking for an opening.",
+    "wav": "line_bcc73d443dd6d3ff.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 264.72,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A whiskers-wide effort just missing the target.",
+    "wav": "line_39e3011c69ce7ca1.wav",
+    "dur_s": 2.74
+  },
+  {
+    "t": 269.9,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Turingham converts from right in front! Codex City finally get on the board, it is one-four.",
+    "wav": "line_fc27e9b5c3d79dc2.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 273.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Patchford shouts to rotate around and cover the outlet.",
+    "wav": "line_e6a3c8edabee774f.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 281.4,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flashing just past the upright, so close to a second for Codex.",
+    "wav": "line_2e09bdfd85427cbc.wav",
+    "dur_s": 3.76
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cut, the ball slows into the corner.",
+    "wav": "line_32a99b3dacb8c592.wav",
+    "dur_s": 3.81
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Power off at the buzzer, ball still live until it stops. DeepSeek Rovers firmly ahead at four to one.",
+    "wav": "line_5a7357065a7c5b94.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 329.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Signal strikes again early in the half! DeepSeek Rovers extend their lead to five-one.",
+    "wav": "line_af68ff8072f9f726.wav",
+    "dur_s": 5.83
+  },
+  {
+    "t": 334.97,
+    "kind": "collision",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "A heavy collision between DeepSeek teammates and Signal takes the tumble this time.",
+    "wav": "line_d17082079d88780b.wav",
+    "dur_s": 4.52
+  },
+  {
+    "t": 372.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Rovers pressing high, pinning Codex back.",
+    "wav": "line_b6700023dac7d690.wav",
+    "dur_s": 2.85
+  },
+  {
+    "t": 372.9,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham shouts to bypass the press with a direct clearance.",
+    "wav": "line_92307ece8a134678.wav",
+    "dur_s": 3.5
+  },
+  {
+    "t": 384.85,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Ram panel sends it back into",
+    "wav": "line_71fff7d4db51bd4f.wav",
+    "dur_s": 1.88
+  },
+  {
+    "t": 387.22,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Signal loses balance out wide, but the self-righting routine is already kicking in.",
+    "wav": "line_0ce59b3a7782775b.wav",
+    "dur_s": 5.3
+  },
+  {
+    "t": 408.69,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford breaks through the cover!",
+    "wav": "line_83bd3cf76bb700cf.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 409.95,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "flat",
+    "text": "Abyss takes an unassisted spill in the defensive zone.",
+    "wav": "line_e09b07885518040a.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 420.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Patchford gallops all the way up the right flank, right to the mouth of the goal.",
+    "wav": "line_a1e58ff3a999b4fe.wav",
+    "dur_s": 4.89
+  },
+  {
+    "t": 432.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Turingham turns it in! Codex pull another one back, two-five now and they are showing some life.",
+    "wav": "line_1c42c3063e87603c.wav",
+    "dur_s": 5.77
+  },
+  {
+    "t": 445.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "excited",
+    "text": "Patchford scores! Two quick goals for Codex City, suddenly it is three-five!",
+    "wav": "line_c18d38d0a1842e65.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 449.3,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Turingham shouts for immediate pressure in midfield.",
+    "wav": "line_2bfccee86b9b5221.wav",
+    "dur_s": 3.55
+  },
+  {
+    "t": 480.1,
+    "kind": "color",
+    "stakes": 1,
+    "energy": "flat",
+    "text": "A brief pause on the right channel. DeepSeek looking slightly rattled after that quick double strike.",
+    "wav": "line_f330e377b8386990.wav",
+    "dur_s": 6.09
+  },
+  {
+    "t": 511.0,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Patchford calls to hold the line centrally.",
+    "wav": "line_18f073cc474841e0.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 514.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Patchford fires home! Incredible comeback, Codex City are within one at four to five with time running down!",
+    "wav": "line_4425cdc337de1dd4.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 540.0,
+    "kind": "clock",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Just one minute left! Codex need one more to complete the turnaround.",
+    "wav": "line_0857c0430f7e9aa5.wav",
+    "dur_s": 4.34
+  },
+  {
+    "t": 545.0,
+    "kind": "pressure",
+    "stakes": 2,
+    "energy": "build",
+    "text": "Codex City have Rovers utterly pinned down in their own end, relentless pressure here.",
+    "wav": "line_48e5c7d0bc55acf0.wav",
+    "dur_s": 6.01
+  },
+  {
+    "t": 571.7,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Patchford scores! Unbelievable scenes, five-five in the final minute, from four down Codex are level!",
+    "wav": "line_99bada58c003e193.wav",
+    "dur_s": 7.34
+  },
+  {
+    "t": 578.0,
+    "kind": "run",
+    "stakes": 2,
+    "energy": "excited",
+    "text": "Abyss drives forward desperately on the counter!",
+    "wav": "line_7637bb0ce1aed2ac.wav",
+    "dur_s": 3.14
+  },
+  {
+    "t": 594.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Abyss scores! Heartbreak for Codex, DeepSeek snatch the lead back with twenty seconds to play, six-five!",
+    "wav": "line_510ce6638d11c502.wav",
+    "dur_s": 8.05
+  },
+  {
+    "t": 614.6,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Signal wraps it up! Right on the brink, seven-five to DeepSeek Rovers!",
+    "wav": "line_b57f78d65d988c79.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Buzzer sounds, power cut, the ball trickles slowly to a halt in midfield.",
+    "wav": "line_73614ff26a48500b.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "DeepSeek Rovers win it seven-five. Up next, AFC Fable meet Singularity United on Monday at eight in the UK, nine",
+    "wav": "line_3ccd41e532242b58.wav",
+    "dur_s": 10.92
+  }
+]
