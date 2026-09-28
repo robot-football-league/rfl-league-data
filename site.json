@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T18:54:57+00:00",
+ "generated_at": "2026-09-28T21:55:16+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8893,14 +8893,14 @@
      "name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "P": 12,
-     "W": 6,
+     "P": 13,
+     "W": 7,
      "D": 2,
      "L": 4,
-     "GF": 78,
-     "GA": 62,
-     "Pts": 20,
-     "GD": 16,
+     "GF": 86,
+     "GA": 67,
+     "Pts": 23,
+     "GD": 19,
      "prev": 4,
      "move": 0
     },
@@ -8927,14 +8927,14 @@
      "name": "Synthetic Athletic",
      "code": "SYA",
      "color": "#cc1e2d",
-     "P": 12,
+     "P": 13,
      "W": 5,
      "D": 1,
-     "L": 6,
-     "GF": 60,
-     "GA": 62,
+     "L": 7,
+     "GF": 65,
+     "GA": 70,
      "Pts": 16,
-     "GD": -2,
+     "GD": -5,
      "prev": 6,
      "move": 0
     },
@@ -21909,8 +21909,216 @@
      "away_name": "Dynamo Datacenter",
      "home_code": "SYA",
      "away_code": "DYD",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-28T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      8
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 45.8,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 10,
+        "second": 64.9,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 13,
+        "second": 86.6,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 16,
+        "second": 106.8,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 166.8,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 28,
+        "second": 189.0,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 230.4,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 378.6,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       },
+       {
+        "minute": 59,
+        "second": 394.6,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 424.9,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 72,
+        "second": 478.7,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 79,
+        "second": 526.3,
+        "side": "away",
+        "scorer": "Buffon.exe",
+        "own_goal": false
+       },
+       {
+        "minute": 83,
+        "second": 552.4,
+        "side": "away",
+        "scorer": "Mbapp-E",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 200,
+       "kick": 182,
+       "through": 13,
+       "wall": 22,
+       "near_miss": 7,
+       "fall": 17,
+       "buzzer": 2,
+       "ram": 1
+      },
+      "radio": [
+       {
+        "second": 6.1,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "Going for the ball"
+       },
+       {
+        "second": 85.5,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "Clearing!"
+       },
+       {
+        "second": 142.2,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "pushing it off the wall"
+       },
+       {
+        "second": 185.1,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 246.8,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "pushing it free"
+       },
+       {
+        "second": 277.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "prying it loose from the wall"
+       },
+       {
+        "second": 317.0,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "coming to support"
+       },
+       {
+        "second": 345.9,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "ball is stuck by wall"
+       },
+       {
+        "second": 379.6,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "clearing the corner"
+       },
+       {
+        "second": 444.3,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "got it"
+       },
+       {
+        "second": 494.7,
+        "team": "Dynamo Datacenter",
+        "number": 2,
+        "text": "clearing the ball"
+       },
+       {
+        "second": 523.1,
+        "team": "Dynamo Datacenter",
+        "number": 1,
+        "text": "pushing it out"
+       },
+       {
+        "second": 565.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it out"
+       },
+       {
+        "second": 596.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing the ball from the wall"
+       }
+      ],
+      "stats": {
+       "kicks": 182,
+       "falls": 17,
+       "near_misses": 7,
+       "post_hits": 0,
+       "through_balls": 13
+      },
+      "est_cost_usd": 0.4765
+     },
+     "aired_at": "2026-09-28T19:04:42Z",
+     "watch": {
+      "id": "s3-m65_synthetic_athletic_dynamo_datacenter",
+      "url": "https://4dgsx.com/watch/s3-m65_synthetic_athletic_dynamo_datacenter",
+      "embed_url": "https://4dgsx.com/embed/s3-m65_synthetic_athletic_dynamo_datacenter"
+     }
     },
     {
      "n": 66,
@@ -22041,7 +22249,8 @@
      "away_name": "Codex City",
      "home_code": "SYA",
      "away_code": "CDX",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-02T19:00:00Z"
     },
     {
      "n": 78,
@@ -22228,6 +22437,22 @@
      "goals": 44
     },
     {
+     "name": "Buffon.exe",
+     "team": "dynamo_datacenter",
+     "team_name": "Dynamo Datacenter",
+     "code": "DYD",
+     "color": "#f2c119",
+     "goals": 42
+    },
+    {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 42
+    },
+    {
      "name": "Hare",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
@@ -22244,14 +22469,6 @@
      "goals": 40
     },
     {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 40
-    },
-    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -22260,23 +22477,15 @@
      "goals": 39
     },
     {
-     "name": "Buffon.exe",
+     "name": "Mbapp-E",
      "team": "dynamo_datacenter",
      "team_name": "Dynamo Datacenter",
      "code": "DYD",
      "color": "#f2c119",
-     "goals": 38
-    },
-    {
-     "name": "Abyss",
-     "team": "frontier_deepseek",
-     "team_name": "DeepSeek Rovers",
-     "code": "DSK",
-     "color": "#112dbf",
-     "goals": 32
+     "goals": 33
     }
    ],
-   "aired_count": 62,
+   "aired_count": 63,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -25043,8 +25252,8 @@
   }
  },
  "totals": {
-  "matches_aired": 99,
-  "goals": 1092,
+  "matches_aired": 100,
+  "goals": 1105,
   "clubs": 11
  }
 }
