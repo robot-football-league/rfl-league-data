@@ -1,0 +1,140 @@
+{"t": 0.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 0.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 5.9, "from": "r2", "team": "Real Machina", "number": 1, "text": "Going for the ball."}
+{"t": 12.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 12.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 26.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 32.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 40.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "Clearing from our goal!"}
+{"t": 42.3, "from": "r2", "team": "Real Machina", "number": 1, "text": "Got it!"}
+{"t": 44.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 46.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 62.6, "from": "r3", "team": "Real Machina", "number": 2, "text": "Going for goal!"}
+{"t": 64.7, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 72.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 84.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 89.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 98.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 101.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 110.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 117.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "prying it from the wall"}
+{"t": 120.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "prying it free"}
+{"t": 123.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 123.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing it from the wall", "reason": "cooldown"}
+{"t": 124.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 127.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "got it at the wall", "reason": "cooldown"}
+{"t": 135.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 138.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 150.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 151.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 165.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 167.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "Clearing our goal!"}
+{"t": 168.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 177.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 184.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 189.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 190.7, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball is stuck against the wall, pushing it free"}
+{"t": 193.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it free along the wall"}
+{"t": 194.0, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "freeing the ball from the wall", "reason": "cooldown"}
+{"t": 195.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it along the wall", "reason": "cooldown"}
+{"t": 196.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 205.0, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 208.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it from our goal"}
+{"t": 208.0, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 209.8, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it away from our goal"}
+{"t": 211.9, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck against the wall, pushing it free", "reason": "cooldown"}
+{"t": 212.3, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "pushing it free", "reason": "cooldown"}
+{"t": 218.9, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it out"}
+{"t": 220.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 223.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 227.5, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "striking toward goal", "reason": "cooldown"}
+{"t": 232.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 235.2, "from": "r2", "team": "Real Machina", "number": 1, "text": "got it"}
+{"t": 242.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 246.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 258.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 261.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 273.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 276.0, "from": "r2", "team": "Real Machina", "number": 1, "text": "prying it off the wall"}
+{"t": 278.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "prying it free"}
+{"t": 278.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 279.4, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, pushing it out", "reason": "cooldown"}
+{"t": 285.3, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 285.7, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "got it by the wall", "reason": "cooldown"}
+{"t": 287.2, "from": "r2", "team": "Real Machina", "number": 1, "text": "clearing it along the wall"}
+{"t": 289.3, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it along the wall"}
+{"t": 294.5, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 319.5, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 331.4, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 341.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 344.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Challenging defensive loose ball!"}
+{"t": 349.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball is stuck, pushing it free"}
+{"t": 352.5, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "shoving it free from the wall", "reason": "cooldown"}
+{"t": 353.0, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing it free"}
+{"t": 355.5, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the ball from the wall", "reason": "cooldown"}
+{"t": 356.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 357.6, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "clearing the ball", "reason": "cooldown"}
+{"t": 357.9, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 368.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing the ball"}
+{"t": 382.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 394.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "clearing it now"}
+{"t": 398.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 410.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 412.1, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 422.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 428.1, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 436.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 440.1, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 448.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 452.1, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 460.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 465.7, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 472.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 477.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 484.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 489.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 489.8, "from": "r3", "team": "Real Machina", "number": 2, "text": "ball's against the wall, kicking it out"}
+{"t": 500.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 501.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing ball upfield to flank!"}
+{"t": 502.5, "from": "r2", "team": "Real Machina", "number": 1, "text": "ball's against the wall, freeing it"}
+{"t": 505.9, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "ball is stuck, pushing it out", "reason": "cooldown"}
+{"t": 512.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 513.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 521.7, "from": "r3", "team": "Real Machina", "number": 2, "text": "pushing through"}
+{"t": 524.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 525.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 528.2, "from": "r2", "team": "Real Machina", "number": 1, "text": "getting it unstuck"}
+{"t": 536.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 537.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 538.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "got it", "reason": "cooldown"}
+{"t": 542.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "clear the ball"}
+{"t": 544.4, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing it from the wall"}
+{"t": 546.1, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "unsticking it", "reason": "cooldown"}
+{"t": 547.4, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "prying it loose from the wall", "reason": "cooldown"}
+{"t": 547.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing the wall", "reason": "cooldown"}
+{"t": 548.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 549.2, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 549.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Clearing ball upfield to flank!"}
+{"t": 551.2, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "nudging it away from the wall", "reason": "cooldown"}
+{"t": 551.3, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "prying it away from the wall", "reason": "cooldown"}
+{"t": 552.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "pushing it away from the wall", "reason": "cooldown"}
+{"t": 553.2, "from": "r2", "team": "Real Machina", "number": 1, "text": "got the ball near the wall"}
+{"t": 560.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 561.4, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}
+{"t": 566.5, "from": "r3", "team": "Real Machina", "number": 2, "text": "unsticking it from the wall"}
+{"t": 568.1, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "unsticking it", "reason": "cooldown"}
+{"t": 571.6, "from": "r2", "team": "Real Machina", "number": 1, "text": "pushing it off the wall"}
+{"t": 572.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 572.6, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "clearing it along the wall", "reason": "cooldown"}
+{"t": 572.8, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "prying it free", "reason": "cooldown"}
+{"t": 574.7, "from": "r2", "team": "Real Machina", "number": 1, "suppressed": "working it free", "reason": "cooldown"}
+{"t": 581.3, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Scanning pitch \u2014 tracking ball."}
+{"t": 584.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 593.3, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Striking on goal!"}
+{"t": 596.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Striking on goal!"}
+{"t": 600.1, "from": "r3", "team": "Real Machina", "number": 2, "text": "freeing it from the corner"}
+{"t": 603.2, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "breaking it away from the wall", "reason": "cooldown"}
+{"t": 605.3, "from": "r3", "team": "Real Machina", "number": 2, "suppressed": "working it free along the wall", "reason": "cooldown"}
+{"t": 609.3, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Challenging defensive loose ball!"}
+{"t": 614.6, "from": "r0", "team": "Gemini Flash FC", "number": 1, "text": "Pressing attack onto the ball!"}
+{"t": 621.3, "from": "r1", "team": "Gemini Flash FC", "number": 2, "text": "Pressing attack onto the ball!"}

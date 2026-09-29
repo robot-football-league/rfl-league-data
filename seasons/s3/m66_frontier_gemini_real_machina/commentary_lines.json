@@ -1,0 +1,578 @@
+[
+  {
+    "t": 0.0,
+    "kind": "kickoff",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Underway here on matchday fourteen.",
+    "wav": "line_db1e7e94c6bdea25.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 0.5,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash demands an immediate high press.",
+    "wav": "line_897c21c4e124ef80.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 3.19,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "And Flash slips straight through the white shirts, clean through on goal!",
+    "wav": "line_81ed134ecd34a7c5.wav",
+    "dur_s": 4.0
+  },
+  {
+    "t": 9.08,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Inches wide! A golden chance goes begging.",
+    "wav": "line_c782591dbdd13744.wav",
+    "dur_s": 3.03
+  },
+  {
+    "t": 12.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Flash makes no mistake this time, burying it from point-blank range! First blood to the league leaders, one-nil to Gemini Flash!",
+    "wav": "line_6f67e3322865bb79.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 38.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark doubles the lead from two metres out. Real Machina look entirely frozen in these opening exchanges. Two-nil to Gemini Flash.",
+    "wav": "line_578e685ab10d607b.wav",
+    "dur_s": 8.99
+  },
+  {
+    "t": 56.72,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash overbalances in midfield, but the league leaders came in with an unchanged squad and plenty of composure.",
+    "wav": "line_c4e950d4308fc403.wav",
+    "dur_s": 7.03
+  },
+  {
+    "t": 65.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark takes over, driving with purpose down the left channel into the attacking third. Real Machina are struggling to get out.",
+    "wav": "line_4aca5c1e1e7a26f5.wav",
+    "dur_s": 8.6
+  },
+  {
+    "t": 80.1,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram panel spits it back into play.",
+    "wav": "line_772d7d46cd311fe7.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 84.0,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark is lining up the shot.",
+    "wav": "line_ae78336d08274225.wav",
+    "dur_s": 1.78
+  },
+  {
+    "t": 85.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark slots it home point-blank. Real Machina, who still run their original founding setup, simply cannot cope right now. Three-nil.",
+    "wav": "line_b9f5a75ba9061b11.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 100.08,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Off the woodwork by a whisker.",
+    "wav": "line_4055eba1446c2b55.wav",
+    "dur_s": 1.73
+  },
+  {
+    "t": 102.2,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark pounces on the rebound and walks it into the net. That is four already for Gemini Flash, and Real Machina look completely dismantled.",
+    "wav": "line_388d0e68ea14aed6.wav",
+    "dur_s": 9.35
+  },
+  {
+    "t": 126.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "A lifeline for Real Machina. CR-7000 converts from the left channel to pull one back. Four-one on the scoreboard now.",
+    "wav": "line_809515567e6fa284.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 149.3,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "An own goal from Flash. It ricochets off the defender into the net. Real Machina suddenly trail by just two at four-two.",
+    "wav": "line_9c1a620f20f87cf1.wav",
+    "dur_s": 9.2
+  },
+  {
+    "t": 159.62,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash breaks through on the right channel, looking to atone immediately.",
+    "wav": "line_ef27c96f6557b21d.wav",
+    "dur_s": 4.6
+  },
+  {
+    "t": 167.6,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 barks instructions to clear the danger away from the goal mouth.",
+    "wav": "line_4ad1995d9bed8127.wav",
+    "dur_s": 5.12
+  },
+  {
+    "t": 173.4,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Spark snuffs out the revival, turning it in from point-blank range. That restores a three-goal cushion, five-two to the league leaders.",
+    "wav": "line_0c53fac1cd45b266.wav",
+    "dur_s": 8.28
+  },
+  {
+    "t": 209.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark strides down the right flank.",
+    "wav": "line_ae356caaa8ce47d5.wav",
+    "dur_s": 2.06
+  },
+  {
+    "t": 210.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Real Machina are pinned back deep.",
+    "wav": "line_7deeb6d5daec60bd.wav",
+    "dur_s": 2.33
+  },
+  {
+    "t": 210.4,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 crunches in to halt Spark.",
+    "wav": "line_2016db7bd5155067.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 213.52,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid follows up with another robust challenge right on the goal mouth, leaving Flash flat on the deck.",
+    "wav": "line_4c99567a9fac2d43.wav",
+    "dur_s": 6.69
+  },
+  {
+    "t": 223.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash picks themselves back up and signals intent to strike at the unguarded net.",
+    "wav": "line_e8ee0ae0f55efb6c.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 234.6,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flash loses footing in midfield and tumbles to the turf unaided. It will take a few seconds to right the gyros.",
+    "wav": "line_a4c22288cf399dec.wav",
+    "dur_s": 7.63
+  },
+  {
+    "t": 250.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zidroid takes full advantage, rolling it home from two metres out on the right. Real Machina claw another one back, making it five-three.",
+    "wav": "line_d60f36ff1006c14c.wav",
+    "dur_s": 8.36
+  },
+  {
+    "t": 264.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark surges through the centre.",
+    "wav": "line_38e8e9664703cb82.wav",
+    "dur_s": 2.3
+  },
+  {
+    "t": 265.12,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Flashed across the face and wide of the mark. A huge let-off for the trailing side.",
+    "wav": "line_9f5c0793961f5354.wav",
+    "dur_s": 5.43
+  },
+  {
+    "t": 278.0,
+    "kind": "pressure",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash maintaining heavy pressure high up the pitch.",
+    "wav": "line_0e664f5df1ece52b.wav",
+    "dur_s": 3.32
+  },
+  {
+    "t": 282.88,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Zidroid breaks clean through on the counter!",
+    "wav": "line_5faae337a089b8cd.wav",
+    "dur_s": 2.38
+  },
+  {
+    "t": 286.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid powers down the left touchline, looking to squeeze the margin right before the interval.",
+    "wav": "line_ff3fa39400028a7e.wav",
+    "dur_s": 5.67
+  },
+  {
+    "t": 294.13,
+    "kind": "fall",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid slips at the vital moment.",
+    "wav": "line_8e4609aea4404f9a.wav",
+    "dur_s": 2.43
+  },
+  {
+    "t": 294.5,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls to secure the ball.",
+    "wav": "line_c6873230f5003ac5.wav",
+    "dur_s": 1.96
+  },
+  {
+    "t": 296.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Zidroid scrambles right back in.",
+    "wav": "line_a85c088be2ff3ba5.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 296.9,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Zidroid scrambles it over the line! It is five-four, game on!",
+    "wav": "line_428b729f04e7d452.wav",
+    "dur_s": 4.1
+  },
+  {
+    "t": 297.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Machina pile forward in the dying seconds.",
+    "wav": "line_041afb394692fe95.wav",
+    "dur_s": 2.67
+  },
+  {
+    "t": 300.0,
+    "kind": "buzzer",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The buzzer sounds, cutting power, and the ball slowly rolls through midfield.",
+    "wav": "line_e99a79cb77e030ff.wav",
+    "dur_s": 5.02
+  },
+  {
+    "t": 305.0,
+    "kind": "half_time",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "The ball comes to rest in the circle. Power off, ball still live, and at the interval it is Gemini Flash five, Real Machina four. A breathless first period between the top two.",
+    "wav": "line_5780dcdbadc0c2ba.wav",
+    "dur_s": 12.1
+  },
+  {
+    "t": 327.87,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Teammates collide, and Spark goes down.",
+    "wav": "line_2f788400f38efac6.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 328.94,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark rebounds to knock Zidroid over.",
+    "wav": "line_a247250e69ab0a3c.wav",
+    "dur_s": 2.25
+  },
+  {
+    "t": 332.57,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 wades into Flash in the defensive third. Heavy contact, but both will reset their servos and get back to business.",
+    "wav": "line_c87d420d1c0be7f6.wav",
+    "dur_s": 8.41
+  },
+  {
+    "t": 344.35,
+    "kind": "through",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "CR-7000 breaks into the left channel with nobody in front! A massive chance to level the match here for the white shirts!",
+    "wav": "line_7ec60be2eec0d288.wav",
+    "dur_s": 8.18
+  },
+  {
+    "t": 361.0,
+    "kind": "pressure",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Real Machina are relentless here, swarming the attacking third and keeping the leaders firmly trapped in their own half.",
+    "wav": "line_7114bf0b072df339.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 370.03,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "A clumsy tangle fells Zidroid.",
+    "wav": "line_6e9f68b96959568d.wav",
+    "dur_s": 2.01
+  },
+  {
+    "t": 371.74,
+    "kind": "collision",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Now CR-7000 trips over Zidroid. Total self-inflicted chaos for Machina.",
+    "wav": "line_d4e00c90349beb29.wav",
+    "dur_s": 5.85
+  },
+  {
+    "t": 376.13,
+    "kind": "tackle",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "CR-7000 recovers just in time to stop Spark on the right touchline with a hefty thud.",
+    "wav": "line_f54152ba39a7af14.wav",
+    "dur_s": 4.76
+  },
+  {
+    "t": 390.0,
+    "kind": "run",
+    "stakes": 1,
+    "energy": "build",
+    "text": "Flash bursts up the right channel.",
+    "wav": "line_c789917e00e5c653.wav",
+    "dur_s": 2.14
+  },
+  {
+    "t": 392.68,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Smashed against the upright! So close to six.",
+    "wav": "line_f21edade0f00033c.wav",
+    "dur_s": 2.98
+  },
+  {
+    "t": 396.8,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash pounces on the rebound and finishes into the empty net. A vital breathing space for Gemini Flash, who edge ahead six-four.",
+    "wav": "line_00e10d6cc9f3c40e.wav",
+    "dur_s": 8.83
+  },
+  {
+    "t": 412.1,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark is already demanding another attempt on goal from out wide on the left channel.",
+    "wav": "line_636aecec66d1fb7a.wav",
+    "dur_s": 4.57
+  },
+  {
+    "t": 432.33,
+    "kind": "through",
+    "stakes": 0,
+    "energy": "build",
+    "text": "CR-7000 breaks out from the back!",
+    "wav": "line_576bada244f602ea.wav",
+    "dur_s": 2.56
+  },
+  {
+    "t": 436.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "A steady, robotic drive straight through the centre circle from CR-7000, bringing Real Machina back on the front foot.",
+    "wav": "line_d5b568708af3f2c1.wav",
+    "dur_s": 7.86
+  },
+  {
+    "t": 450.0,
+    "kind": "run",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 drives right to goal.",
+    "wav": "line_f09ce863dc233170.wav",
+    "dur_s": 2.51
+  },
+  {
+    "t": 450.4,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "And CR-7000 tucks it in! Real Machina will not go away, it is six-five!",
+    "wav": "line_6930318b7192345a.wav",
+    "dur_s": 5.96
+  },
+  {
+    "t": 457.69,
+    "kind": "fall",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Spark collapses in the centre circle without a touch. Tensions are mounting as the clock winds down towards the final two minutes.",
+    "wav": "line_4bbd7a9d8d0ccf4c.wav",
+    "dur_s": 8.46
+  },
+  {
+    "t": 490.8,
+    "kind": "goal",
+    "stakes": 2,
+    "energy": "roar",
+    "text": "Spark delivers under pressure! A massive strike from two metres out to restore the two-goal cushion, seven-five to Gemini Flash!",
+    "wav": "line_ce0588328cd76139.wav",
+    "dur_s": 8.78
+  },
+  {
+    "t": 500.6,
+    "kind": "shout",
+    "stakes": 1,
+    "energy": "calm",
+    "text": "Flash is calling for another quick shot from the right touchline. With under two minutes left, they smell blood.",
+    "wav": "line_cc031e7c4fbc25c4.wav",
+    "dur_s": 6.32
+  },
+  {
+    "t": 525.12,
+    "kind": "near_miss",
+    "stakes": 1,
+    "energy": "excited",
+    "text": "Whistles just past the post!",
+    "wav": "line_452961fe53956270.wav",
+    "dur_s": 1.83
+  },
+  {
+    "t": 526.5,
+    "kind": "goal",
+    "stakes": 0,
+    "energy": "build",
+    "text": "Flash turns it home from close range, and that surely wraps it up. Eight-five to the league leaders with ninety seconds remaining.",
+    "wav": "line_958b2a5d7180d90a.wav",
+    "dur_s": 8.57
+  },
+  {
+    "t": 549.4,
+    "kind": "shout",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Spark calls to push the magenta ball up into the corners and run down these final sixty seconds. Pure game management.",
+    "wav": "line_e778257fac092f8c.wav",
+    "dur_s": 8.15
+  },
+  {
+    "t": 573.3,
+    "kind": "tackle",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "CR-7000 clatters Spark into the touchline wall, but the clock is the real enemy for Real Machina now.",
+    "wav": "line_30da9472560ff63b.wav",
+    "dur_s": 7.73
+  },
+  {
+    "t": 598.04,
+    "kind": "near_miss",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Real Machina lash one wide of the upright. The seconds are ticking away fast.",
+    "wav": "line_616548c8aae87290.wav",
+    "dur_s": 6.06
+  },
+  {
+    "t": 605.43,
+    "kind": "ram",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The corner ram panel rattles the ball back into the channel as time expires.",
+    "wav": "line_0209cf5a41cbbdef.wav",
+    "dur_s": 4.47
+  },
+  {
+    "t": 617.0,
+    "kind": "buzzer",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "The buzzer sounds, the robots drop, and the ball trickles slowly through midfield.",
+    "wav": "line_65e7dca67dad8c58.wav",
+    "dur_s": 5.41
+  },
+  {
+    "t": 622.0,
+    "kind": "full_time",
+    "stakes": 0,
+    "energy": "calm",
+    "text": "Gemini Flash eight, Real Machina five. Codex City meet Muse Spark Tuesday: four UK, five Europe, eleven US East.",
+    "wav": "line_2fe9f97b2bcf8aa4.wav",
+    "dur_s": 8.65
+  }
+]

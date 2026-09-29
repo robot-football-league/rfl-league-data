@@ -1,0 +1,24 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Gemini Flash FC",
+    "code": "GEM",
+    "goals": 8
+  },
+  "away": {
+    "team": "Real Machina",
+    "code": "RMA",
+    "goals": 5
+  },
+  "winner": "Gemini Flash FC",
+  "code": {
+    "home": {
+      "commit": "11f5ca4b2c8cf2628f5e1ca7806005a6cc0dd18a",
+      "subject": "night 40: Verified squad tactics, cleared scrutineering & kickoff check, confirmed 2-1 win in practice with 0 errors. Sitting out 2 rounds to bank purse.",
+      "committed_at": "2026-09-22T15:10:47+01:00",
+      "dirty": true
+    },
+    "away": {},
+    "engine_commit": "4023ca9eaaa40e82943fe46145b204b3bda6fab0"
+  }
+}
