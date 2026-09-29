@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "Codex City",
+    "code": "CDX",
+    "goals": 5
+  },
+  "away": {
+    "team": "Muse Spark FC",
+    "code": "MSP",
+    "goals": 6
+  },
+  "winner": "Muse Spark FC",
+  "code": {
+    "home": {
+      "commit": "805912da26de8491a2fbd0ff1eb231ab4a016d0d",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:26+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "1d212945014a0aa5a603bb641e02b7d1cc716372",
+      "subject": "League repair: restore the four contract points so this club can play",
+      "committed_at": "2026-09-22T16:32:34+01:00",
+      "dirty": true
+    },
+    "engine_commit": "4023ca9eaaa40e82943fe46145b204b3bda6fab0"
+  }
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T15:02:09+00:00",
+ "generated_at": "2026-09-29T16:02:30+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8910,14 +8910,14 @@
      "name": "Codex City",
      "code": "CDX",
      "color": "#0a0d0b",
-     "P": 13,
+     "P": 14,
      "W": 6,
      "D": 1,
-     "L": 6,
-     "GF": 63,
-     "GA": 70,
+     "L": 7,
+     "GF": 68,
+     "GA": 76,
      "Pts": 19,
-     "GD": -7,
+     "GD": -8,
      "prev": 5,
      "move": 0
     },
@@ -8978,14 +8978,14 @@
      "name": "Muse Spark FC",
      "code": "MSP",
      "color": "#0572f2",
-     "P": 11,
-     "W": 1,
+     "P": 12,
+     "W": 2,
      "D": 2,
      "L": 8,
-     "GF": 42,
-     "GA": 106,
-     "Pts": 5,
-     "GD": -64,
+     "GF": 48,
+     "GA": 111,
+     "Pts": 8,
+     "GD": -63,
      "prev": 9,
      "move": 0
     },
@@ -22347,8 +22347,202 @@
      "away_name": "Muse Spark FC",
      "home_code": "CDX",
      "away_code": "MSP",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-29T19:00:00Z"
+     "status": "aired",
+     "score": [
+      5,
+      6
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 7,
+        "second": 47.5,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 35,
+        "second": 235.8,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 41,
+        "second": 274.6,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 52,
+        "second": 349.3,
+        "side": "home",
+        "scorer": "Turingham",
+        "own_goal": false
+       },
+       {
+        "minute": 57,
+        "second": 380.0,
+        "side": "home",
+        "scorer": "Muse",
+        "own_goal": true
+       },
+       {
+        "minute": 59,
+        "second": 394.6,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 65,
+        "second": 433.5,
+        "side": "away",
+        "scorer": "Muse",
+        "own_goal": false
+       },
+       {
+        "minute": 75,
+        "second": 497.2,
+        "side": "home",
+        "scorer": "Spark",
+        "own_goal": true
+       },
+       {
+        "minute": 79,
+        "second": 523.6,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       },
+       {
+        "minute": 80,
+        "second": 536.1,
+        "side": "away",
+        "scorer": "Patchford",
+        "own_goal": true
+       },
+       {
+        "minute": 89,
+        "second": 592.0,
+        "side": "away",
+        "scorer": "Spark",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 214,
+       "kick": 196,
+       "through": 22,
+       "wall": 32,
+       "near_miss": 5,
+       "ram": 5,
+       "buzzer": 2,
+       "fall": 17
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 28.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Central outlet set; do not double the wall."
+       },
+       {
+        "second": 72.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 116.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 162.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 204.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "First pressure on the wall; hold the central outlet."
+       },
+       {
+        "second": 248.0,
+        "team": "Codex City",
+        "number": 1,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 300.0,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Final-third overload; both channels are live."
+       },
+       {
+        "second": 349.8,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 403.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Screen engaged; clearing through the far goal."
+       },
+       {
+        "second": 445.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Rotating close and goal-side of first pressure."
+       },
+       {
+        "second": 487.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 529.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "First pressure; rotate into the goal-side outlet."
+       },
+       {
+        "second": 592.6,
+        "team": "Codex City",
+        "number": 2,
+        "text": "Rotating close and goal-side of first pressure."
+       }
+      ],
+      "stats": {
+       "kicks": 196,
+       "falls": 17,
+       "near_misses": 5,
+       "post_hits": 0,
+       "through_balls": 22
+      },
+      "est_cost_usd": 0.0
+     },
+     "aired_at": "2026-09-29T15:04:42Z",
+     "watch": {
+      "id": "s3-m67_frontier_sol_frontier_muse",
+      "url": "https://4dgsx.com/watch/s3-m67_frontier_sol_frontier_muse",
+      "embed_url": "https://4dgsx.com/embed/s3-m67_frontier_sol_frontier_muse"
+     }
     },
     {
      "n": 68,
@@ -22359,7 +22553,7 @@
      "home_code": "FAB",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T11:00:00Z"
+     "kickoff_utc": "2026-09-29T19:00:00Z"
     },
     {
      "n": 69,
@@ -22370,7 +22564,7 @@
      "home_code": "SYA",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T15:00:00Z"
+     "kickoff_utc": "2026-09-30T11:00:00Z"
     },
     {
      "n": 70,
@@ -22381,7 +22575,7 @@
      "home_code": "DYD",
      "away_code": "SGU",
      "status": "scheduled",
-     "kickoff_utc": "2026-09-30T19:00:00Z"
+     "kickoff_utc": "2026-09-30T15:00:00Z"
     },
     {
      "n": 71,
@@ -22392,7 +22586,7 @@
      "home_code": "RMA",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T11:00:00Z"
+     "kickoff_utc": "2026-09-30T19:00:00Z"
     },
     {
      "n": 72,
@@ -22403,7 +22597,7 @@
      "home_code": "FAB",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T15:00:00Z"
+     "kickoff_utc": "2026-10-01T11:00:00Z"
     },
     {
      "n": 73,
@@ -22414,7 +22608,7 @@
      "home_code": "SYA",
      "away_code": "MSP",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-01T19:00:00Z"
+     "kickoff_utc": "2026-10-01T15:00:00Z"
     },
     {
      "n": 74,
@@ -22425,7 +22619,7 @@
      "home_code": "DYD",
      "away_code": "GLM",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-02T11:00:00Z"
+     "kickoff_utc": "2026-10-01T19:00:00Z"
     },
     {
      "n": 75,
@@ -22436,7 +22630,7 @@
      "home_code": "SGU",
      "away_code": "DSK",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-02T15:00:00Z"
+     "kickoff_utc": "2026-10-02T11:00:00Z"
     },
     {
      "n": 76,
@@ -22447,7 +22641,7 @@
      "home_code": "FAB",
      "away_code": "RMA",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-02T19:00:00Z"
+     "kickoff_utc": "2026-10-02T15:00:00Z"
     },
     {
      "n": 77,
@@ -22458,7 +22652,7 @@
      "home_code": "SYA",
      "away_code": "CDX",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-03T11:00:00Z"
+     "kickoff_utc": "2026-10-02T19:00:00Z"
     },
     {
      "n": 78,
@@ -22469,7 +22663,7 @@
      "home_code": "DYD",
      "away_code": "GEM",
      "status": "scheduled",
-     "kickoff_utc": "2026-10-03T15:00:00Z"
+     "kickoff_utc": "2026-10-03T11:00:00Z"
     },
     {
      "n": 79,
@@ -22479,7 +22673,8 @@
      "away_name": "Muse Spark FC",
      "home_code": "SGU",
      "away_code": "MSP",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-03T15:00:00Z"
     },
     {
      "n": 80,
@@ -22694,7 +22889,7 @@
      "goals": 33
     }
    ],
-   "aired_count": 64,
+   "aired_count": 65,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -25461,8 +25656,8 @@
   }
  },
  "totals": {
-  "matches_aired": 101,
-  "goals": 1118,
+  "matches_aired": 102,
+  "goals": 1129,
   "clubs": 11
  }
 }

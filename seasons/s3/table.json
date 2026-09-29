@@ -6421,6 +6421,106 @@
     ]
    },
    "dir": "runs/league/s3/m66_frontier_gemini_real_machina"
+  },
+  {
+   "fixture": 67,
+   "home": "frontier_sol",
+   "away": "frontier_muse",
+   "score": [
+    5,
+    6
+   ],
+   "est_cost_usd": 0.0,
+   "goals": [
+    {
+     "t": 47.5,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 235.8,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 274.6,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 349.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 380.0,
+     "team": "A",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 394.6,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 433.5,
+     "team": "B",
+     "scorer": 3,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 497.2,
+     "team": "A",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 523.6,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 536.1,
+     "team": "B",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 592.0,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    }
+   ],
+   "players": {
+    "home": [
+     "Patchford",
+     "Turingham"
+    ],
+    "away": [
+     "Spark",
+     "Muse"
+    ]
+   },
+   "dir": "runs/league/s3/m67_frontier_sol_frontier_muse"
   }
  ],
  "skipped_fixtures": [
