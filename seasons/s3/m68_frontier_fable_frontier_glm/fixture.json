@@ -1,0 +1,29 @@
+{
+  "engine": "rfl-0.1",
+  "home": {
+    "team": "AFC Fable",
+    "code": "FAB",
+    "goals": 10
+  },
+  "away": {
+    "team": "GLM FC",
+    "code": "GLM",
+    "goals": 2
+  },
+  "winner": "AFC Fable",
+  "code": {
+    "home": {
+      "commit": "4caaddc655bcb5aba54847ad3dc918816aa8eab2",
+      "subject": "night 38: session ended at budget cap",
+      "committed_at": "2026-09-14T11:15:25+01:00",
+      "dirty": true
+    },
+    "away": {
+      "commit": "897989a41694471f095daf07b5d7e1677b4303d8",
+      "subject": "night 40: (no summary given)",
+      "committed_at": "2026-09-22T15:27:26+01:00",
+      "dirty": true
+    },
+    "engine_commit": "4023ca9eaaa40e82943fe46145b204b3bda6fab0"
+  }
+}

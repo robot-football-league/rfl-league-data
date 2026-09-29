@@ -6521,6 +6521,113 @@
     ]
    },
    "dir": "runs/league/s3/m67_frontier_sol_frontier_muse"
+  },
+  {
+   "fixture": 68,
+   "home": "frontier_fable",
+   "away": "frontier_glm",
+   "score": [
+    10,
+    2
+   ],
+   "est_cost_usd": 0.119,
+   "goals": [
+    {
+     "t": 22.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 95.0,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 239.1,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 285.3,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 363.5,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 397.9,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 419.6,
+     "team": "A",
+     "scorer": 0,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 451.5,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 490.7,
+     "team": "A",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 563.9,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 583.7,
+     "team": "A",
+     "scorer": 1,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    },
+    {
+     "t": 615.8,
+     "team": "B",
+     "scorer": 2,
+     "replay_s": 5.0,
+     "after_buzzer": false
+    }
+   ],
+   "players": {
+    "home": [
+     "Tortoise",
+     "Hare"
+    ],
+    "away": [
+     "Zhi",
+     "Pu"
+    ]
+   },
+   "dir": "runs/league/s3/m68_frontier_fable_frontier_glm"
   }
  ],
  "skipped_fixtures": [
