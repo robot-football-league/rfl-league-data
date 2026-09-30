@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T10:28:06+00:00",
+ "generated_at": "2026-09-30T11:28:26+00:00",
  "current_season": 3,
  "seasons": [
   {
@@ -8906,6 +8906,23 @@
     },
     {
      "pos": 5,
+     "slug": "synthetic_athletic",
+     "name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "P": 14,
+     "W": 6,
+     "D": 1,
+     "L": 7,
+     "GF": 75,
+     "GA": 73,
+     "Pts": 19,
+     "GD": 2,
+     "prev": 6,
+     "move": 1
+    },
+    {
+     "pos": 6,
      "slug": "frontier_sol",
      "name": "Codex City",
      "code": "CDX",
@@ -8919,10 +8936,10 @@
      "Pts": 19,
      "GD": -8,
      "prev": 5,
-     "move": 0
+     "move": -1
     },
     {
-     "pos": 6,
+     "pos": 7,
      "slug": "frontier_fable",
      "name": "AFC Fable",
      "code": "FAB",
@@ -8936,24 +8953,7 @@
      "Pts": 18,
      "GD": 16,
      "prev": 7,
-     "move": 1
-    },
-    {
-     "pos": 7,
-     "slug": "synthetic_athletic",
-     "name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "P": 13,
-     "W": 5,
-     "D": 1,
-     "L": 7,
-     "GF": 65,
-     "GA": 70,
-     "Pts": 16,
-     "GD": -5,
-     "prev": 6,
-     "move": -1
+     "move": 0
     },
     {
      "pos": 8,
@@ -8961,14 +8961,14 @@
      "name": "DeepSeek Rovers",
      "code": "DSK",
      "color": "#112dbf",
-     "P": 13,
+     "P": 14,
      "W": 5,
      "D": 0,
-     "L": 8,
-     "GF": 66,
-     "GA": 83,
+     "L": 9,
+     "GF": 69,
+     "GA": 93,
      "Pts": 15,
-     "GD": -17,
+     "GD": -24,
      "prev": 8,
      "move": 0
     },
@@ -22764,8 +22764,216 @@
      "away_name": "DeepSeek Rovers",
      "home_code": "SYA",
      "away_code": "DSK",
-     "status": "scheduled",
-     "kickoff_utc": "2026-09-30T11:00:00Z"
+     "status": "aired",
+     "score": [
+      10,
+      3
+     ],
+     "report": {
+      "goals": [
+       {
+        "minute": 3,
+        "second": 20.1,
+        "side": "away",
+        "scorer": "Abyss",
+        "own_goal": false
+       },
+       {
+        "minute": 8,
+        "second": 50.4,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 9,
+        "second": 62.9,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 15,
+        "second": 100.3,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 23,
+        "second": 153.9,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 25,
+        "second": 166.7,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 27,
+        "second": 179.5,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 37,
+        "second": 244.3,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 39,
+        "second": 259.2,
+        "side": "home",
+        "scorer": "Signal",
+        "own_goal": true
+       },
+       {
+        "minute": 43,
+        "second": 287.4,
+        "side": "away",
+        "scorer": "Signal",
+        "own_goal": false
+       },
+       {
+        "minute": 64,
+        "second": 425.0,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       },
+       {
+        "minute": 66,
+        "second": 439.3,
+        "side": "home",
+        "scorer": "Griezmatronn",
+        "own_goal": false
+       },
+       {
+        "minute": 74,
+        "second": 494.0,
+        "side": "home",
+        "scorer": "Robodinho",
+        "own_goal": false
+       }
+      ],
+      "event_counts": {
+       "touch": 223,
+       "through": 20,
+       "kick": 209,
+       "wall": 34,
+       "near_miss": 8,
+       "fall": 12,
+       "ram": 5,
+       "buzzer": 2
+      },
+      "radio": [
+       {
+        "second": 0.5,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "I've got it"
+       },
+       {
+        "second": 52.0,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 106.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 144.4,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 196.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball is stuck, freeing it"
+       },
+       {
+        "second": 231.5,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing from corner"
+       },
+       {
+        "second": 282.7,
+        "team": "DeepSeek Rovers",
+        "number": 1,
+        "text": "covering"
+       },
+       {
+        "second": 339.0,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "ball's against the wall, pushing it out"
+       },
+       {
+        "second": 376.7,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "clearing it from the wall"
+       },
+       {
+        "second": 409.8,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "pushing it away from the corner"
+       },
+       {
+        "second": 447.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "I've got it"
+       },
+       {
+        "second": 494.7,
+        "team": "Synthetic Athletic",
+        "number": 2,
+        "text": "pushing past the wall"
+       },
+       {
+        "second": 549.5,
+        "team": "DeepSeek Rovers",
+        "number": 2,
+        "text": "covering"
+       },
+       {
+        "second": 581.6,
+        "team": "Synthetic Athletic",
+        "number": 1,
+        "text": "freeing the ball from the corner"
+       }
+      ],
+      "stats": {
+       "kicks": 209,
+       "falls": 12,
+       "near_misses": 8,
+       "post_hits": 0,
+       "through_balls": 20
+      },
+      "est_cost_usd": 0.2379
+     },
+     "aired_at": "2026-09-30T11:04:42Z",
+     "watch": {
+      "id": "s3-m69_synthetic_athletic_frontier_deepseek",
+      "url": "https://4dgsx.com/watch/s3-m69_synthetic_athletic_frontier_deepseek",
+      "embed_url": "https://4dgsx.com/embed/s3-m69_synthetic_athletic_frontier_deepseek"
+     }
     },
     {
      "n": 70,
@@ -22896,7 +23104,8 @@
      "away_name": "Synthetic Athletic",
      "home_code": "RMA",
      "away_code": "SYA",
-     "status": "scheduled"
+     "status": "scheduled",
+     "kickoff_utc": "2026-10-04T11:00:00Z"
     },
     {
      "n": 82,
@@ -23035,6 +23244,14 @@
      "goals": 48
     },
     {
+     "name": "Robodinho",
+     "team": "synthetic_athletic",
+     "team_name": "Synthetic Athletic",
+     "code": "SYA",
+     "color": "#cc1e2d",
+     "goals": 48
+    },
+    {
      "name": "Hare",
      "team": "frontier_fable",
      "team_name": "AFC Fable",
@@ -23067,14 +23284,6 @@
      "goals": 42
     },
     {
-     "name": "Robodinho",
-     "team": "synthetic_athletic",
-     "team_name": "Synthetic Athletic",
-     "code": "SYA",
-     "color": "#cc1e2d",
-     "goals": 42
-    },
-    {
      "name": "Haalandroid",
      "team": "singularity_united",
      "team_name": "Singularity United",
@@ -23083,15 +23292,15 @@
      "goals": 39
     },
     {
-     "name": "Mbapp-E",
-     "team": "dynamo_datacenter",
-     "team_name": "Dynamo Datacenter",
-     "code": "DYD",
-     "color": "#f2c119",
+     "name": "Abyss",
+     "team": "frontier_deepseek",
+     "team_name": "DeepSeek Rovers",
+     "code": "DSK",
+     "color": "#112dbf",
      "goals": 33
     }
    ],
-   "aired_count": 66,
+   "aired_count": 67,
    "skipped_count": 2,
    "total_matches": 92,
    "complete": false,
@@ -25858,8 +26067,8 @@
   }
  },
  "totals": {
-  "matches_aired": 103,
-  "goals": 1141,
+  "matches_aired": 104,
+  "goals": 1154,
   "clubs": 11
  }
 }
